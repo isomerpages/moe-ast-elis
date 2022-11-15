@@ -2,4 +2,5 @@ collections:
   singapore-writing-institute:
     output: true
     order:
+      - SWI Experience.md
       - The Singapore Writing Institute (SWI).md
