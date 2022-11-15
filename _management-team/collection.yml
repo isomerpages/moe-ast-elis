@@ -1,0 +1,4 @@
+collections:
+  management-team:
+    output: true
+    order: []
