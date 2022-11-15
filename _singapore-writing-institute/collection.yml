@@ -1,4 +1,5 @@
 collections:
   singapore-writing-institute:
     output: true
-    order: []
+    order:
+      - The Singapore Writing Institute (SWI).md
