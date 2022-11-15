@@ -1,4 +1,5 @@
 collections:
   management-team:
     output: true
-    order: []
+    order:
+      - Management Team.md
