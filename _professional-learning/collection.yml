@@ -2,5 +2,5 @@ collections:
   professional-learning:
     output: true
     order:
-      - Professional Learning Opportunities.md
       - Professional Learning.md
+      - Professional Learning Opportunities.md
