@@ -2,6 +2,7 @@ collections:
   management-team:
     output: true
     order:
+      - Dr Tay May Yin.md
       - Mr Daniel Yip.md
       - Dr Paul Grahame Doyle.md
       - Ms May Tan.md
