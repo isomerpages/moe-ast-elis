@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Management Team/.keep
-      - Management Team.md
       - Ms May Tan.md
       - Dr Paul Grahame Doyle.md
       - Mr Daniel Yip.md
