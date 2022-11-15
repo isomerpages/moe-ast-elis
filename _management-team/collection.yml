@@ -2,5 +2,6 @@ collections:
   management-team:
     output: true
     order:
+      - Dr Paul Grahame Doyle.md
       - Ms May Tan.md
       - Management Team.md
