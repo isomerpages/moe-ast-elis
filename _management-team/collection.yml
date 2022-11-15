@@ -2,4 +2,5 @@ collections:
   management-team:
     output: true
     order:
+      - Ms May Tan.md
       - Management Team.md
