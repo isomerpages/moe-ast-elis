@@ -2,6 +2,7 @@ collections:
   singapore-writing-institute:
     output: true
     order:
+      - SWI Alumni/SWI 2014.md
       - SWI Alumni/.keep
       - SWI Experience.md
       - The Singapore Writing Institute (SWI).md
