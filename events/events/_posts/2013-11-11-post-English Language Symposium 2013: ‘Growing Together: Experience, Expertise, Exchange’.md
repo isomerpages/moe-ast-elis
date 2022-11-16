@@ -16,4 +16,3 @@ In addition to Dr McGrath’s two sessions, there was also a plenary session on 
 The symposium also offered the participants the opportunity to learn from one another’s practice. There were in total 30 concurrent session presentations focusing on a broad and diverse range of topics relevant in ELT, presented by school teachers as well as our very own colleagues from ELIS.
 
 **You can now download the presentation slides from the Symposium [here](https://academyofsingaporeteachers.moe.edu.sg/elis/events/english-language-symposium-2013)!**
-
