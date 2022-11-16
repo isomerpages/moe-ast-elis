@@ -2,6 +2,7 @@ collections:
   singapore-writing-institute:
     output: true
     order:
+      - SWI Continuity Activities/2021 — Forest Bathing.md
       - SWI Continuity Activities/.keep
       - SWI Alumni/SWI 2021.md
       - SWI Alumni/SWI 2019.md
