@@ -6,6 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+
 Schools on the WSA-EC programme attended the 3rd Annual WSA-EC Forum at the Academy of Singapore Teachers on 6 November 2014. Professor Neil Mercer, Professor of Education at the University of Cambridge, delivered the keynote address. A renowned expert in the field of academic talk and its relation to thinking, Professor Mercer shared his research on how language use is related to the development of reasoning and cognitive development as well as highlighting its practical implications for education. The participants then had the privilege of learning from sharing sessions conducted by WSA-EC schools and ELIS’s partners from the National Institute of Singapore (NIE), the Academy of Singapore Teachers (AST) and The British Council in various concurrent sessions.
 
 ### WSA-EC FORUM 2014
@@ -95,4 +96,61 @@ Click on the links below to download the slides made available by presenters fro
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-vjg6{background-color:#d30e0e;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-vjg6"><span style="font-weight:600;color:#FFF">Concurrent Sessions (Primary)</span></th>
+    <th class="tg-vjg6"></th>
+    <th class="tg-vjg6"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2.1a:</td>
+    <td class="tg-ag2m">WSA-EC Initiatives in Coral Primary School</td>
+    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa_ec-forum-2014/2-1a-wsa-ec-initiatives-in-coral-primary.pdf?sfvrsn=42217621_2"><span style="color:#CA2126;background-color:transparent">2.1a WSA-EC Initiatives in Coral Primary(.pdf, 6.69 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2.1b:</td>
+    <td class="tg-rfng">WSA-EC Initiatives in West Grove Primary School</td>
+    <td class="tg-rhd3"><a href="/files/2-1b-wsa-ec-@-wgps_west-grove-(wsa-ec-forum).pdf"><span style="color:#CA2126;background-color:transparent">2.1b WSA-EC @ WGPS_West Grove (WSA-EC Forum)(.pdf, 3.37 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2.2a: </td>
+    <td class="tg-ag2m">Let’s Talk Card Game: Developing an Educational Resource for Productive Academic Discussions in Subject Classrooms CHIJ (Our Lady Queen of Peace)</td>
+    <td class="tg-dewj"><a href="/files/2-2a-let's-talk-card-game.pdf"><span style="color:#CA2126;background-color:transparent">2.2a: Let's Talk Card Game(.pdf, 327.47 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2.2b: </td>
+    <td class="tg-rfng">Classroom Interaction Teacher Reflection Tool (CITReT) for Subject Teachers’ Professional development (St. Andrew’s Junior School)</td>
+    <td class="tg-rhd3"><a href="/files/2-2b-citret-for-teacher-professional-development.pdf"><span style="color:#CA2126;background-color:transparent">2.2b CITReT for Teacher Professional Development(.pdf, 748.76 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2.4:</td>
+    <td class="tg-ag2m">A Topic-Based Approach to Addressing the Language Demands of Science (NIE)</td>
+    <td class="tg-ag2m">Download 1<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_1.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to addressing the language demands of science _1(.pdf, 457.79 KB)</span></a><br>Download 2<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_2.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to addressing the language demands of science _2(.pdf, 495.85 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2.5:</td>
+    <td class="tg-rfng">Generating Math Talk that Supports Mathematical Thinking and Learning (AST)</td>
+    <td class="tg-rhd3"><a href="/files/2-5-generating-math-talk-that-supports-mathematical-thinking-and-learning.pdf"><span style="color:#CA2126;background-color:transparent">2.5 Generating Math Talk that Supports Mathematical Thinking and Learning(.pdf, 573.74 KB)</span></a></td>
+  </tr>
+</tbody>
+</table>
+
+
+
 
