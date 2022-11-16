@@ -2,6 +2,8 @@ collections:
   singapore-writing-institute:
     output: true
     order:
+      - "SWI Continuity Activities/2020 (I) — Simple Pleasures: Anywhere and
+        Everywhere.md"
       - "SWI Continuity Activities/2020 (II) — Breathing In & Breathing Out:
         Reading and Writing.md"
       - SWI Continuity Activities/2021 — Forest Bathing.md
