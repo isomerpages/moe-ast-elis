@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Watch/Quality Questions & Question Sequences.md
       - Watch/Text Selection and Adaptation.md
       - Watch/CLLIPS and ACoLADE.md
       - Watch/Differentiating Instruction in Response to Student Readiness for a
