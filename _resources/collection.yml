@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - Watch/Selecting and Designing English Language Lessons for
+        Differentiated Instruction.md
       - Watch/Differentiated Instruction.md
       - "Watch/Supporting Inquiry—Based Learning in the English Language
         Classroom: What, Why and How.md"
