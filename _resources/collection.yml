@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Read/ELIS e—Digest.md
       - Read/.keep
       - Play.md
       - Teach.md
