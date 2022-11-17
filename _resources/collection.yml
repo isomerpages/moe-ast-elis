@@ -2,6 +2,8 @@ collections:
   resources:
     output: true
     order:
+      - Watch/How does Differentiated Instruction Work in a Large English
+        Language Class?.md
       - Watch/Selecting and Designing English Language Lessons for
         Differentiated Instruction.md
       - Watch/Differentiated Instruction.md
