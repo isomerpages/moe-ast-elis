@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Watch/Differentiating by Process through Flexible Grouping.md
       - Watch/How does Differentiated Instruction Work in a Large English
         Language Class?.md
       - Watch/Selecting and Designing English Language Lessons for
