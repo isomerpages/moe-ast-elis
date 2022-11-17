@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Watch/What is Co—Teaching?.md
       - "Watch/Inquiry into Classroom Practice: Action Research.md"
       - "Watch/Inquiry into Classroom Practice: Lesson Study.md"
       - Watch/Extended Support for EL Teachers.md
