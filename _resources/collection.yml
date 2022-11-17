@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Read/.keep
       - Play.md
       - Teach.md
       - Watch/.keep
