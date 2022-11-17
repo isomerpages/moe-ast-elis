@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Watch/Differentiated Instruction.md
       - "Watch/Supporting Inquiry—Based Learning in the English Language
         Classroom: What, Why and How.md"
       - Watch/.keep
