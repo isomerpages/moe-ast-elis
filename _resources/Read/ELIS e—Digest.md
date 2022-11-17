@@ -31,3 +31,9 @@ In this issue, ‘Let’s Talk about Talk’, you will learn about the what, why
   
 You can listen to the views of Mr Wong Siew Hoong, Director-General of Education, on the value of talk. You can also find out about the classroom practices which encourage students to participate in exploratory talk.
 
+<img src="/images/elis-e-digest-social-media-posters.png" 
+     style="width:75%">
+		 
+Your feedback is valuable to us.
+
+Please click [here](https://go.gov.sg/elisedigestfeedback) to provide your feedback on the ELIS e-Digest.
