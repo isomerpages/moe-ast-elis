@@ -100,27 +100,27 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
   <tr>
     <td class="tg-rfng">2018</td>
     <td class="tg-rfng">Ravinder Mohan Sharma</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/2018-erf--bendemeer-sec.pdf?sfvrsn=2ff3aa07_2"><span style="color:#CA2126;background-color:transparent">Secondary school teachers’ perspectives on the teaching of critical thinking in the English Language Classroom (.pdf, 683.54 KB)</span></a><br></td>
+    <td class="tg-rhd3"><a href="/files/2018-erf--bendemeer-sec.pdf"><span style="color:#CA2126;background-color:transparent">Secondary school teachers’ perspectives on the teaching of critical thinking in the English Language Classroom (.pdf, 683.54 KB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2018</td>
     <td class="tg-ag2m">Ali Haikal Khalid</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/2018-ali-haikal.pdf?sfvrsn=63642be8_2"><span style="color:#CA2126;background-color:transparent">The use of space in a TLaC low-ability language learning classroom (.pdf, 970.65 KB)</span></a><br></td>
+    <td class="tg-dewj"><a href="/files/2018-ali-haikal.pdf"><span style="color:#CA2126;background-color:transparent">The use of space in a TLaC low-ability language learning classroom (.pdf, 970.65 KB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rfng">2018</td>
     <td class="tg-rfng">Teo Chew Bee, Joyce Lin Wen Jie, Ong Kian Eng, Phua Zhi Ming Glendon and Ho Lian Ya</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/2018-yaq-temasek-jc.pdf?sfvrsn=e3e1cc1f_2"><span style="color:#CA2126;background-color:transparent">Use of conceptual scaffolding to enhance students’ understanding of Biology (.pdf, 1.34 MB)</span></a><br></td>
+    <td class="tg-rhd3"><a href="/files/2018-yaq-temasek-jc.pdf"><span style="color:#CA2126;background-color:transparent">Use of conceptual scaffolding to enhance students’ understanding of Biology (.pdf, 1.34 MB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2018</td>
     <td class="tg-ag2m">Lin Pei, Zeng Wenjie and Lim Wan Yang</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/2018-temasek-jc.pdf?sfvrsn=e549506d_2"><span style="color:#CA2126;background-color:transparent">Use of Visible Thinking tools in teacher-led discussions to develop critical writing skills in Economics (.pdf, 707.3 KB)</span></a><br></td>
+    <td class="tg-dewj"><a href="/files/2018-temasek-jc.pdf"><span style="color:#CA2126;background-color:transparent">Use of Visible Thinking tools in teacher-led discussions to develop critical writing skills in Economics (.pdf, 707.3 KB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rfng">2018</td>
     <td class="tg-rfng">Eadelin Marzinek, Rehana Shaik and Wendy Lim</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/2018-elias-park-final-report73420eebab894ef5829f36a3c0edc791.pdf?sfvrsn=7813d7aa_2"><span style="color:#CA2126;background-color:transparent">Enhancing the learning of vocabulary of Primary 3 students through the use of the game, Taboo (.pdf, 604.53 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/2018-elias-park-final-report73420eebab894ef5829f36a3c0edc791.pdf"><span style="color:#CA2126;background-color:transparent">Enhancing the learning of vocabulary of Primary 3 students through the use of the game, Taboo (.pdf, 604.53 KB)</span></a></td>
   </tr>
 </tbody>
 </table></p>
