@@ -6,11 +6,6 @@ third_nav_title: Read
 ---
 Here is a compilation of reports written by ELIS Research Fund awardees, with the support of ELIS, on the findings from their research projects. The reports are evidence of what these teacher-researchers have achieved by expanding their understanding of student learning and developing their own skills in classroom research. The reports have been collated and sorted according to the print editions of the research reports. From April 2020, reports will only be published online.
 
-[](/files/research-report-erf-2018-03-nml-final%20(1).pdf)
-[]()
-[]()
-
-
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -60,47 +55,47 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
   <tr>
     <td class="tg-ag2m">2021</td>
     <td class="tg-ag2m">Grace Foo, Chia Soo Yin, Wang Kaifen, Irene Lai, Chong Yuan Ping, Lydia Yacob and Rose Iliyana<br></td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2015-09-fet-research-report_final.pdf?sfvrsn=fe78db92_2"><span style="color:#CA2126;background-color:transparent">Instructional Practices of Teachers Carrying Out Explicit Comprehension Instruction in the Primary Classroom(.pdf, 232.83 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/erf-2015-09-fet-research-report_final.pdf"><span style="color:#CA2126;background-color:transparent">Instructional Practices of Teachers Carrying Out Explicit Comprehension Instruction in the Primary Classroom(.pdf, 232.83 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2021</td>
     <td class="tg-rfng">Genevieve Chow and Chong Fei Ming</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-11-gec-research-report-2021.pdf?sfvrsn=258df683_0"><span style="color:#CA2126;background-color:transparent">The Effects of Writing to a Real Audience in Situational Writing(.pdf, 306.95 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/erf-2017-11-gec-research-report-2021.pdf"><span style="color:#CA2126;background-color:transparent">The Effects of Writing to a Real Audience in Situational Writing(.pdf, 306.95 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2021</td>
     <td class="tg-ag2m">Zarinah Binte Ali, Pushpalalitha Nathan, Lek Su San and Jeyalaxmy Ayaduray</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2018-03-zba-research-report.pdf?sfvrsn=7abebfb3_2"><span style="color:#CA2126;background-color:transparent">Developing Primary 5 students’ use of metacognitive strategies in listening(.pdf, 339.85 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/erf-2018-03-zba-research-report.pdf"><span style="color:#CA2126;background-color:transparent">Developing Primary 5 students’ use of metacognitive strategies in listening(.pdf, 339.85 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2021</td>
     <td class="tg-rfng">Muhammad Ali Haikal bin Khalid and Joy Foo Ying Ying</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-03-yyf-research-report-2021-09-28.pdf?sfvrsn=67f54107_2"><span style="color:#CA2126;background-color:transparent">Thinking Routines and their impact on Classroom Dialogue(.pdf, 857.14 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/erf-2017-03-yyf-research-report-2021-09-28.pdf"><span style="color:#CA2126;background-color:transparent">Thinking Routines and their impact on Classroom Dialogue(.pdf, 857.14 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2021</td>
     <td class="tg-ag2m">Joji Mendoza-Chan and Royston Low</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-11-jjm-research_report_publish.pdf?sfvrsn=361f67d7_0"><span style="color:#CA2126;background-color:transparent">Effects of giving writing feedback online on feedback quality and students’ perception of feedback(.pdf, 332.43 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/erf-2017-11-jjm-research_report_publish.pdf"><span style="color:#CA2126;background-color:transparent">Effects of giving writing feedback online on feedback quality and students’ perception of feedback(.pdf, 332.43 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2020</td>
     <td class="tg-rfng">Shariffa Bee Bte Syed Ahamad, Lau Hui Miang and Emelyn Kuan</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-11-sba-bukit-panjang-pri-sch.pdf?sfvrsn=b561e1e4_0"><span style="color:#CA2126;background-color:transparent">Developing primary students’ ability to elaborate during stimulus-based conversation(.pdf, 234.19 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/erf-2017-11-sba-bukit-panjang-pri-sch.pdf"><span style="color:#CA2126;background-color:transparent">Developing primary students’ ability to elaborate during stimulus-based conversation(.pdf, 234.19 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2020</td>
     <td class="tg-ag2m">Timothy Joshua Chia Wei Cong and Andrew Mathias Lim You Shun<br></td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-03-tjc-unity-research-report_final.pdf?sfvrsn=64195c16_4"><span style="color:#CA2126;background-color:transparent">The Effects of Authentic Learning Experiences on Student Confidence in Process Writing (.pdf, 289 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/erf-2017-03-tjc-unity-research-report_final.pdf"><span style="color:#CA2126;background-color:transparent">The Effects of Authentic Learning Experiences on Student Confidence in Process Writing (.pdf, 289 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2020</td>
     <td class="tg-rfng">Francesca Phoebe Wah Li Ting, Ler Lay Ching, Pierre E and Hazlyna Bte Usope</td>
-    <td class="tg-rhd3"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-03-ltw.pdf?sfvrsn=906daf0e_2"><span style="color:#CA2126;background-color:transparent">The effects of sustained silent writing on pupils’ writing scores and perception of writing attitudes(.pdf, 728.92 KB)</span></a><br></td>
+    <td class="tg-rhd3"><a href="/files/erf-2017-03-ltw.pdf"><span style="color:#CA2126;background-color:transparent">The effects of sustained silent writing on pupils’ writing scores and perception of writing attitudes(.pdf, 728.92 KB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2019</td>
     <td class="tg-ag2m">Mary Ang, Kenneth Wong Chee Kian and Sharon Sim Xiang Yun</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/elis-research-fund-reports/erf-2017-11-maa-dazhong-primarycab7b0bc860941d48a113ed1a33bc52f.pdf?sfvrsn=c5d3eef3_0"><span style="color:#CA2126;background-color:transparent">Use of dialogic teaching to enhance inferential skills in reading (.pdf, 269.65 KB)</span></a><br></td>
+    <td class="tg-dewj"><a href="/files/erf-2017-11-maa-dazhong-primarycab7b0bc860941d48a113ed1a33bc52f.pdf"><span style="color:#CA2126;background-color:transparent">Use of dialogic teaching to enhance inferential skills in reading (.pdf, 269.65 KB)</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-rfng">2018</td>
