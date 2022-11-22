@@ -34,3 +34,10 @@ third_nav_title: Read
 [3. Enhancing the Subject Literacy Competencies and Pedagogic Practices of English Subject Teachers](/files/elis-research-digest-vol-4-issue-3.pdf)
 
 [4. 21st Century Competencies - What are they and are we teaching them ?](/files/elis-research-digest-vol-4-issue-4.pdf)
+
+### Volume 3, 2016
+
+<img src="/images/res-digest_s-removebg-preview.png" 
+     style="width:60%">
+		 
+[1. Towards a Future-oriented English Language Education](/files/elis-research-digest-vol-3-issue-1.pdf)
