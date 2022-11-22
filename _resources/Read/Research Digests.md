@@ -41,3 +41,18 @@ third_nav_title: Read
      style="width:60%">
 		 
 [1. Towards a Future-oriented English Language Education](/files/elis-research-digest-vol-3-issue-1.pdf)
+
+[2. Glocalization : A Global Language of Local Importance](/files/elis-research-digest-vol-3-issue-2.pdf)
+
+[3. Preparing students to communicate in Workplace](/files/elis-research-digest-vol-3-issue-3.pdf)
+
+[4. Approaches to Preparing Students for the Future](/files/elis-research-digest-vol-3-issue-4.pdf)
+
+### Volume 2, 2015
+
+<img src="/images/res-digest_s-removebg-preview.png" 
+     style="width:60%">
+		 
+[1. Student Motivation and English Language Learning in Schools](/files/elis-research-digest-vol-2-issue-1.pdf)
+
+[2. Influence of In-school and Out-of-school factors on Language Development](/files/elis-research-digest-vol-2-issue-2.pdf)
