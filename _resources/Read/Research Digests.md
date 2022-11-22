@@ -22,3 +22,15 @@ third_nav_title: Read
 
 [2. Differentiating Teaching and Learning: The Benefits and the Challenges](/files/elis-research-digest-vol-5-issue-2.pdf)
 
+### Volume 4, 2017
+
+<img src="/images/res-digest_s-removebg-preview.png" 
+     style="width:60%">
+		 
+[1. The Measures of Quality Teaching and Quality Teachers](/files/elis-research-digest-vol-4-issue1.pdf)
+
+[2. Developing the Qualities of a Good English Language Teacher](/files/elis-research-digest-vol-4-issue-2.pdf)
+
+[3. Enhancing the Subject Literacy Competencies and Pedagogic Practices of English Subject Teachers](/files/elis-research-digest-vol-4-issue-3.pdf)
+
+[4. 21st Century Competencies - What are they and are we teaching them ?](/files/elis-research-digest-vol-4-issue-4.pdf)
