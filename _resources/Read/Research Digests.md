@@ -56,3 +56,24 @@ third_nav_title: Read
 [1. Student Motivation and English Language Learning in Schools](/files/elis-research-digest-vol-2-issue-1.pdf)
 
 [2. Influence of In-school and Out-of-school factors on Language Development](/files/elis-research-digest-vol-2-issue-2.pdf)
+
+[3. Role of Teacher-student interactions in developing student motivation in language learning](/files/elis-research-digest-vol-2-issue-3.pdf)
+
+[4. Attributes of a Good Language Learner](/files/elis-research-digest-vol-2-issue-4_rev2.pdf)
+
+### Volume 1, 2013/2014
+
+<img src="/images/res-digest_s-removebg-preview.png" 
+     style="width:60%">
+		 
+[1. Disciplinary Literacy :  A study of Literature ](/files/elis-research-digest-vol-1-issue-1.pdf)
+
+[2. Towards Disciplinary Reading](/files/elis-research-digest-vol-1-issue-2.pdf)
+
+[3. Talk in the Classroom](/files/elis-research-digest-vol-1-issue-3.pdf)
+
+[4. Assessment of Disciplinary Literacy](/files/elis-research-digest-vol-1-issue-4.pdf)
+
+[5. Writing in the Different Disciplines](/files/elis-research-digest-vol-1-issue-5.pdf)
+
+[6. Frameworks for Disciplinary Literacy](/files/elis-research-digest-vol-1-issue-6.pdf)
