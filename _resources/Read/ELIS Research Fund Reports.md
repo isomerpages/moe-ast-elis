@@ -186,5 +186,62 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 </table></p>
     </div>
 	</li>
+	 <li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Research Reports 2019: Reading and Writing Skills</label>
+    <div>
+			<p><b>Reading Skills</b></p>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-mgda{background-color:#ca2126;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Michelle Tan Ni Ling</td>
+    <td class="tg-dewj"><a href="/files/2018-erf-lnt.pdf"><span style="color:#CA2126;background-color:transparent">The effects of the explicit teaching of the inference skill on answering inferential questions in narrative texts (.pdf, 1.21 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Marlina Zainal and Nurdianna Malik</td>
+    <td class="tg-rhd3"><a href="/files/2018-rivevale-ps.pdf"><span style="color:#CA2126;background-color:transparent">To what extent does computer-based immediate feedback have an effect on the Reading Aloud of Primary 3 students? (.pdf, 438.75 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Crescendra Chong-Tan Xiu Mei, Shanni Gurcharan Kaur and Teo Li Yen Lydia</td>
+    <td class="tg-dewj"><a href="/files/2018-nanyang-girls.pdf2"><span style="color:#CA2126;background-color:transparent">An investigation of the reading strategies employed by high-ability learners when reading expository texts (.pdf, 582.15 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Norita Ali, Moon Jia Yuan and Tan Guan Hui Vanessa</td>
+    <td class="tg-rhd3"><a href="/files/2018-meridian-sec.pdf"><span style="color:#CA2126;background-color:transparent">The impact of Extensive Reading (ER) on student reading interest (.pdf, 934.89 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Tan Pin Ru, Wendy Yeo Liew Ee and Teo Hui Min</td>
+    <td class="tg-dewj"><a href="/files/2018-northlight.pdf"><span style="color:#CA2126;background-color:transparent">Developing letter-name knowledge in low-achieving adolescents – the effect of alphabet-only intervention (.pdf, 897.26 KB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+</li>
 </ul>
+
+
 
