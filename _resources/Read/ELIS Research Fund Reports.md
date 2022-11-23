@@ -295,4 +295,208 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 </table></p>
     </div>
 </li>
+<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4">Research Reports 2018</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-y2he{background-color:#d12626;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Georgina Michelle, George Reena Rai and Banun Bte Mohamed</td>
+    <td class="tg-dewj"><a href="/files/greenwood-primary-report.pdf"><span style="color:#CA2126;background-color:transparent">The impact of STAD (Student Teams-Achievement Division) strategy on Primary 6 pupils’ continuous writing (.pdf, 353.58 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2017</td>
+    <td class="tg-rfng">Susan Gwee and Toh-Heng Hwee Leng</td>
+    <td class="tg-rhd3"><a href="/files/2017-erf-report-gwee-susan.pdf"><span style="color:#CA2126;background-color:transparent">English language teachers' experience of engagement in educational research (.pdf, 228.12 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2017</td>
+    <td class="tg-ag2m">Dheelip Kumar, Regina Chan, Avneet Kaur and Jane Lee</td>
+    <td class="tg-dewj"><a href="/files/woodgrove-ps-final-report.pdf"><span style="color:#CA2126;background-color:transparent">The effects of dramatization on the acquisition of saying verbs (.pdf, 454.43 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2017</td>
+    <td class="tg-rfng">Yeo Chiu Jin, Joanne Tay Chiew Hsia, Wong Chiu Min, Kevin Ng Yon Tek, Lim Chuan Li and Gan Chin Koon<br></td>
+    <td class="tg-rhd3"><a href="/files/erf-2015-03-ycj-final.pdf"><span style="color:#CA2126;background-color:transparent">Use of visual representations mediated by talk to support students’ learning in Mathematics (.pdf, 1.4 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2017</td>
+    <td class="tg-ag2m">Stella Fernandez and Shiamala Gopal</td>
+    <td class="tg-dewj"><a href="/files/chij-lady-of-good-counsel.pdf"><span style="color:#CA2126;background-color:transparent">Using visible thinking in drama strategies for skilful writing (.pdf, 1.8 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Azlina Mohd Nor, Regina Arulanandan and Kerstin Wong</td>
+    <td class="tg-rhd3"><a href="/files/ark-report-finala1614ff5766145a6a6b263a43ca47440.pdf"><span style="color:#CA2126;background-color:transparent">Dialogic conversations: promoting critical thinking(.pdf, 938.84 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Yap Fui Choon Joy and Sim Chin Beng Wilson</td>
+    <td class="tg-dewj"><a href="/files/2018-joy-and-wilson.pdf"><span style="color:#CA2126;background-color:transparent">Blended learning in ELIS’s professional learning programmes: does it work? (.pdf, 1.27 MB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+</li>
+<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5">Research Reports 2017</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-7m1z{background-color:#E9E9E9;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7m1z"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-7m1z"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-7m1z"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Tan Gek Hong Angela, Das Ruth Hannah and Fwah Zhengwei Benjamin</td>
+    <td class="tg-dewj"><a href="/files/2016-speaking-writing-flipped-reading-programme.pdf"><span style="color:#CA2126;background-color:transparent">Speaking and writing with a flipped reading programme (.pdf, 639.22 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2016</td>
+    <td class="tg-rfng">Cecilia M. Peralta</td>
+    <td class="tg-rhd3"><a href="/files/2016-enhance-oracy-pri-sch-students.pdf"><span style="color:#CA2126;background-color:transparent">Use of thinking routines to enhance oracy among primary school students (.pdf, 774.82 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Fadillah Binte Mohamed and Juliana Binte A Jamil</td>
+    <td class="tg-dewj"><a href="/files/2016-strategies-used-by-pri-sch-to-complete-cloze-passages.pdf"><span style="color:#CA2126;background-color:transparent">Strategies used by primary school students to complete cloze passages (.pdf, 772.1 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2016</td>
+    <td class="tg-rfng">Jaisree Appoo, Shakila Vasu and Peter Chutatape</td>
+    <td class="tg-rhd3"><a href="/files/2016-effects-of-freewriting.pdf"><span style="color:#CA2126;background-color:transparent">The effects of freewriting on students’ attitudes towards writing and the use of ideas in their compositions (.pdf, 611.45 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Siti Shirin Bte Omar, Norhariaty Bte Md Ismail, Samsia Bte Sulaiman, Saleha Raj and Yusnita Bte Md Taib<br> </td>
+    <td class="tg-dewj"><a href="/files/2016-reading-comprehension-difficulties-faced-by-pri.pdf"><span style="color:#CA2126;background-color:transparent">Reading comprehension difficulties Faced by primary school children(.pdf, 448.83 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2016</td>
+    <td class="tg-rfng">Aziana Aziz, Lim Ya Qi, Audrey Geetha Ramadass, Justina A Surash and Seah Meng Hui Joanna</td>
+    <td class="tg-rhd3"><a href="/files/2016-the-impact-of-think-talk-write-practice.pdf"><span style="color:#CA2126;background-color:transparent">The impact of ‘Think-Talk-Write-Practise’ Strategy on Primary Four pupils’ performance in stimulus-based conversation (.pdf, 738.26 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Beatrice Leong and Cheryl Wong</td>
+    <td class="tg-dewj"><a href="/files/mgs-final-report.pdf"><span style="color:#CA2126;background-color:transparent">The use of Lesson Study to prepare students to ask purposeful questions in a poetry Socratic Seminar (.pdf, 687.48 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2016</td>
+    <td class="tg-rfng">Adeline Lynn Teo, Irene Leong and Koh Ting Ting</td>
+    <td class="tg-rhd3"><a href="/files/de-la-salle-primary-school-final-report.pdf"><span style="color:#CA2126;background-color:transparent">Developing motivation to write through journaling (.pdf, 512.51 KB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+</li>
+ <li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6">Research Reports 2016</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-y2he{background-color:#d12626;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-y2he"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2014</td>
+    <td class="tg-ag2m">Tan Xing Long Ian</td>
+    <td class="tg-dewj"><a href="/files/tan-xing-long-ian.pdf"><span style="color:#CA2126;background-color:transparent">Using rich literary texts in the English language classroom to improve students’ understanding of the effects of language in comprehension (.pdf, 345.3 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2015</td>
+    <td class="tg-rfng">Tay Pei Lyn Grace and Lim Sok Hui</td>
+    <td class="tg-rhd3"><a href="/files/tay_lim-2015-01-0529ac4dc4031d4d3195a074c8fa5c068c.pdf"><span style="color:#CA2126;background-color:transparent">Effects of modelling on group discussion during collaborative writing among Primary 2 students (.pdf, 650.77 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2015</td>
+    <td class="tg-ag2m">Choo Li Lin and Stella Picca Hong Sin</td>
+    <td class="tg-dewj"><a href="/files/choo_picca-2015.pdf"><span style="color:#CA2126;background-color:transparent">The value of class participation as an assessment tool in the English Language classroom (.pdf, 594.38 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2015</td>
+    <td class="tg-rfng">Loh Chee Hui Faith, Ang Kim Heok and Judith Goh Xue Ni</td>
+    <td class="tg-rhd3"><a href="/files/2015-erf-effects-planning-instruction-self-regulation-training.pdf"><span style="color:#CA2126;background-color:transparent">The effects of planning instruction and self-regulation training on the achievement and motivation of Primary 3 and 4 pupils in composition writing (.pdf, 440.38 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2015</td>
+    <td class="tg-ag2m">Tan Ek Ming and Gavin Lee<br></td>
+    <td class="tg-dewj"><a href="/files/2015-erf-teacher-reflective-practicee7c3104691094a129efba91792699c7a.pdf"><span style="color:#CA2126;background-color:transparent">Teacher reflective practice to promote productive student talk in the subject classroom (.pdf, 466.37 KB)</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2015</td>
+    <td class="tg-rfng">Neeraja Vijayakumar, Wong Khai Yu, Jonathon Adams and Gavin Lee</td>
+    <td class="tg-rhd3"><a href="/files/2015-erf-deepening-students-reasoning-summarising.pdf"><span style="color:#CA2126;background-color:transparent">Deepening individual students’ reasoning and summarising in Geography and Mathematics through teacher questioning and talk (.pdf, 461.98 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2016</td>
+    <td class="tg-ag2m">Joanne Khaw and Susan Gwee</td>
+    <td class="tg-dewj"><a href="/files/2016-erf-using-formative-assessment.pdf"><span style="color:#CA2126;background-color:transparent">Using formative assessment to improve writing skills (.pdf, 261.93 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2016</td>
+    <td class="tg-rfng">Shalini Damodaran and Susan Gwee</td>
+    <td class="tg-rhd3"><a href="/files/2016-web-technology.pdf"><span style="color:#CA2126;background-color:transparent">The impact of Web 2.0 technology on students’ argumentative writing skills (.pdf, 281.45 KB)</span></a> <br> </td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+</li>
 </ul>
+
+
