@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - Read/Research Summaries.md
       - Read/ELIS Research Fund Reports.md
       - Read/Research Digests.md
       - Read/Classroom Inquiry Digests.md
