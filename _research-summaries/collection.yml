@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/School Discourse.md
       - Grammar/Perspectives on spoken grammar.md
       - Grammar/Learning study as an approach to teacher development.md
       - Grammar/Learning from a Learning Study.md
