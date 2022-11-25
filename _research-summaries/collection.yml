@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/Disciplinary Literacies & Functional Language Analysis.md
       - Grammar/Building Literacy Communities of practice across Subject
         Disciplines.md
       - Grammar/Benefits & Concerns of Lesson Study.md
