@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Putting rubrics to the test.md
       - Assessment/Praise and criticism in written feedback.md
       - Assessment/Peer and teacher feedback on student writing.md
       - Assessment/Instructional rubrics.md
