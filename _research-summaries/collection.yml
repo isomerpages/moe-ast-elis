@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Developing pupils’ success criteria in reading.md
       - Assessment/Creating a context for growth focussed assessment.md
       - Assessment/Communicative competence in oral language assessment.md
       - Assessment/Classroom monitoring in English Language Learning.md
