@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Innovating the Singapore English language curriculum through
+        lesson study.md
       - Assessment/Improving the effectiveness of peer feedback for learning.md
       - Assessment/Feedback to writing, assessment for teaching and learning and
         student progress.md
