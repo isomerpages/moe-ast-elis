@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/Beliefs, Knowledge & Practices of Grammar Pedagogy.md
       - Grammar/Academic Conversations.md
       - Grammar/Gendered Differences in Language.md
       - Grammar/.keep
