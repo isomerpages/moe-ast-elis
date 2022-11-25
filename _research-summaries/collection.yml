@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Peer and teacher feedback on student writing.md
       - Assessment/Instructional rubrics.md
       - Assessment/Innovating the Singapore English language curriculum through
         lesson study.md
