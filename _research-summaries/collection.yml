@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Developing writing pedagogy in a teacher professional
+        learning community.md
       - Assessment/Developing school practice in preparing students for high
         stake examinations.md
       - Assessment/Developing pupils’ success criteria in reading.md
