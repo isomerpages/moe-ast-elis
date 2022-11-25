@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/Teaching grammar and testing grammar in the English primary
+        school.md
       - Grammar/School Discourse.md
       - Grammar/Perspectives on spoken grammar.md
       - Grammar/Learning study as an approach to teacher development.md
