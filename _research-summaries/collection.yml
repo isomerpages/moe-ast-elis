@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Students’ and teachers’ perceptions of students’ self
+        assessment ability.md
       - Assessment/Standardized achievement tests and English language
         learners.md
       - Assessment/Reflexive writers.md
