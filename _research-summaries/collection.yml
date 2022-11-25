@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/Building Literacy Communities of practice across Subject
+        Disciplines.md
       - Grammar/Benefits & Concerns of Lesson Study.md
       - Grammar/Beliefs, Knowledge & Practices of Grammar Pedagogy.md
       - Grammar/Academic Conversations.md
