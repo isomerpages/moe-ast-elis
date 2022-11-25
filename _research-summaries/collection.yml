@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Feedback to writing, assessment for teaching and learning and
+        student progress.md
       - Assessment/Developing writing pedagogy in a teacher professional
         learning community.md
       - Assessment/Developing school practice in preparing students for high
