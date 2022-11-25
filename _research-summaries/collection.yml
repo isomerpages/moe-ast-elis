@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Assessment/Teachers’ expectations and classroom interactions.md
       - Assessment/Teacher feedback and student revisions.md
       - Assessment/Teacher expectations and academic outcomes.md
       - "Assessment/Talking the talk : Oracy demands in first year university
