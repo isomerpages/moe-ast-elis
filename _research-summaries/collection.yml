@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/English language teachers’ beliefs about the teaching of
+        grammar.md
       - Grammar/Disciplinary Literacies & Functional Language Analysis.md
       - Grammar/Building Literacy Communities of practice across Subject
         Disciplines.md
