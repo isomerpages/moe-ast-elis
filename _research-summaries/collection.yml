@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Grammar/The role of dialogic pedagogy in teaching grammar.md
       - Grammar/The impact of embedded grammar teaching on students’ writing &
         metalinguistic understanding.md
       - Grammar/Teaching grammar and testing grammar in the English primary
