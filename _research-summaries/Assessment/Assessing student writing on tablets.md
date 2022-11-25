@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/assessment/assessing-student-
 description: ""
 third_nav_title: Assessment
 ---
-
 Davis, L. L., Orr, A., Kong, X., & Lin, C.-H. (2015). Assessing student writing on tablets. Educational Assessment, 20(3), 180-198.
 
 
@@ -40,4 +39,5 @@ The authors suggested that in deciding what devices to use when assessing studen
 
 
 _**Original article retrieved from Taylor & Francis.**_  
+
 **_Please consult our online guide_** [**_Accessing e-Resources(.pdf, 2.2 MB)_**](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/assessment/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") **_to find out how to access library resources._**
