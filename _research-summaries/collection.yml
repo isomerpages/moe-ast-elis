@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Talking about visual texts with students.md
       - ICT/Students' multimodal construction of the work energy concept.md
       - ICT/Multimodal Construction.md
       - ICT/New literacies in two Singapore classrooms.md
