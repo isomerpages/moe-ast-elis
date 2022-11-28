@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/Community Inquiry and Understanding Maths.md
       - Listening and Viewing/Cooperative Learning & Listening Comprehension.md
       - Listening and Viewing/Toward a more dialogic discussion in the English
         Language Classroom.md
