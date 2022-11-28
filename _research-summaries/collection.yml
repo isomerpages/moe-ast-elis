@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Young children’s engagement with digital texts and literacies in the
+        home.md
       - ICT/When reading meets blogging.md
       - ICT/Multimedia & Author Motivation in Storytelling.md
       - ICT/Using digital texts in classrooms.md
