@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/Identifying 'quality' in classroom talk.md
       - Listening and Viewing/From oracy to literacy.md
       - Listening and Viewing/Discovery listening—improving perceptual
         processing.md
