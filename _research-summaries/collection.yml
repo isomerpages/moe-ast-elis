@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/The Pedagogical practices of a 'Document Based
+        Lesson'.md
       - Listening and Viewing/Singaporean students’ awareness of listening and
         speaking strategies.md
       - Listening and Viewing/Reading like a historian.md
