@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/Reading like a historian.md
       - Listening and Viewing/The Impact of Classroom practices on students'
         learning of English.md
       - "Listening and Viewing/Oracy: Social facets of language learning.md"
