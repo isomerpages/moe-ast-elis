@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/CD Roms in English Language Teaching.md
       - ICT/Information literacy skills of secondary school students in
         Singapore.md
       - ICT/Impact of ICT enriched learning environment on students language
