@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Digital Storytelling as a power technological tool for teacher &
+        student engagement.md
       - ICT/Studying the Impact of implementing Multimodal Literacy.md
       - ICT/Creative tensions in teaching new texts and new literacies.md
       - "ICT/Charting a Pathway: Embedding ICT and New Literacies into the
