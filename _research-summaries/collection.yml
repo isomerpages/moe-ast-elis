@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Multimedia & Author Motivation in Storytelling.md
       - ICT/Using digital texts in classrooms.md
       - ICT/The use of blogs for writing of online journals.md
       - ICT/The role of Exploratory Talk in Classroom Search Engine Tasks.md
