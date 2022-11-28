@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "ICT/Charting a Pathway: Embedding ICT and New Literacies into the
+        Curriculum.md"
       - ICT/Assessing student writing on tablets.md
       - ICT/A regression analysis of elementary students ICT usage vis à vis
         access to technology in Singapore.md
