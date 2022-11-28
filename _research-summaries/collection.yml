@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Listening and Viewing/Oracy: Social facets of language learning.md"
       - Listening and Viewing/Motivation requires a meaningful task.md
       - Listening and Viewing/Metacognitive instruction in listening.md
       - Listening and Viewing/Literacy for the future.md
