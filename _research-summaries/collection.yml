@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Assessing student writing on tablets.md
       - ICT/A regression analysis of elementary students ICT usage vis à vis
         access to technology in Singapore.md
       - ICT/A case study of designing technology enhanced learning in an
