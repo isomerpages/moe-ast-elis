@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/The role of Exploratory Talk in Classroom Search Engine Tasks.md
       - ICT/ICT in Learning Task Design & Implementation ICT.md
       - ICT/Teaching visual texts with multimodal analysis software.md
       - ICT/Talking about visual texts with students.md
