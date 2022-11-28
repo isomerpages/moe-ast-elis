@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/Multimodal Construction.md
       - ICT/New literacies in two Singapore classrooms.md
       - ICT/Moblogging in Science Classrooms.md
       - ICT/CD Roms in English Language Teaching.md
