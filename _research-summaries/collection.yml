@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/Metacognitive instruction in listening.md
       - Listening and Viewing/Literacy for the future.md
       - Listening and Viewing/Learners' perceptions of listening comprehension
         problems and language.md
