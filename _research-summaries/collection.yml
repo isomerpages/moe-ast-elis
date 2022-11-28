@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - ICT/ICT integration into primary school English and mathematics.md
       - ICT/Growing in digital technology.md
       - ICT/Integrating Out of School Literacy and School Literacy Practices.md
       - ICT/Digital Storytelling as a power technological tool for teacher &
