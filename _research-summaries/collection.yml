@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Listening and Viewing/Toward a more dialogic discussion in the English
+        Language Classroom.md
       - Listening and Viewing/Listening Processes of Second Language Learners.md
       - Listening and Viewing/.keep
       - ICT/Young children’s engagement with digital texts and literacies in the
