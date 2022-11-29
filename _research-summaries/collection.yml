@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Challenges faced by teachers of English language
+        learners and limited English proficiency students.md
       - Reading and Viewing/Building a reading culture in Singapore School.md
       - Reading and Viewing/An Evaluation of the Kidsread Programme in
         Singapore.md
