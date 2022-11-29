@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Reading and Viewing/Disciplinary literacy: Redefining deep
+        understanding and leadership for 21st century demands.md"
       - Reading and Viewing/Disciplinary Literacy in Elementary School.md
       - Reading and Viewing/Supporting secondary reading through functional
         language analysis.md
