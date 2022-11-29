@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/A project for teaching critical reading and
+        writing.md
       - Reading and Viewing/Reading Strategies of High & Low Proficiency
         Learners of English.md
       - Reading and Viewing/Disciplinary Literacy and Struggling Learners.md
