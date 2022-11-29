@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Reading and Viewing/Current Practice of Extensive Reading in Asia:
+        Teachers' Perceptions.md"
       - Reading and Viewing/Impact of Poverty on Literacy Opportunities.md
       - Reading and Viewing/Effective Feedback for Student Revision.md
       - Reading and Viewing/Challenges faced by teachers of English language
