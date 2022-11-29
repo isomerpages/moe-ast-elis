@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Literacy in Content Areas.md
       - Reading and Viewing/Professional Development of Teachers.md
       - Reading and Viewing/A project for teaching critical reading and
         writing.md
