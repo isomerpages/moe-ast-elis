@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Impact of Poverty on Literacy Opportunities.md
       - Reading and Viewing/Effective Feedback for Student Revision.md
       - Reading and Viewing/Challenges faced by teachers of English language
         learners and limited English proficiency students.md
