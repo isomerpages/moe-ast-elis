@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Supporting secondary reading through functional
+        language analysis.md
       - Reading and Viewing/Digital storytelling as a powerful technological
         tool for teacher and student engagement.md
       - Reading and Viewing/Developing pupils’ success criteria in reading.md
