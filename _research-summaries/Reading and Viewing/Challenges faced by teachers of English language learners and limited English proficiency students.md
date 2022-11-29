@@ -5,3 +5,32 @@ permalink: /elis/resources/read/research-summaries/reading-viewing/challenge-fac
 description: ""
 third_nav_title: Reading and Viewing
 ---
+Khong, T. D. H., & Saito, E. (2014). Challenges confronting teachers of English language learners. Educational Review, 66(2), 210-225.
+
+### Background
+
+In recent decades, many mainstream classrooms in the United States have seen a growing number of English language learners (ELLs) from non-English speaking families. As noted by the authors, many teachers in the United States remain unsure about how this growing group of ELLs should be educated in the regular language arts and content-area classroom.
+
+### Aims
+
+This paper reviewed the types of challenges teachers faced when teaching students with limited English proficiency in the US context.
+
+### Sample
+
+Sixty research articles were selected based on their focus on teacher problems.
+
+### Method
+
+The chosen articles were read and coded by the two authors.
+
+### Findings
+
+The challenges that teachers faced were found to be social, institutional, and personal in nature. As noted by the authors, teachers not only found it difficult to cope with the diverse cultural and linguistic backgrounds of the ELLs, but were also sometimes influenced by the negative societal attitudes towards this group of learners. Due to inadequate professional in-service and pre-service training, many of the ELL teachers were found to possess limited knowledge on how to teach and assess these learners. Other institutional problems included time and resource constraints as well as poor communication between teachers, students, and their families. According to the authors,ELL teachers’ misconceptions and personal beliefsabout these language-minority students (e.g., ELLs should be able to acquire English quickly, ELLs should avoid using their native language in order to acquire English) also presented obstacles to their ability to support learning.
+
+### Implications
+
+Although some researchers have proposed professional in-service and pre-servicetraining for ELL teachers, the authors argued that the inclusion of short-term teacher education programmes (i.e., workshops lasting only a few days) was not a solution to all the problems related to the teaching and learning of these students. Taking into account that the challenges teachers faced were not exclusively institutional, the authors urged for a concerted effort by all stakeholders (i.e., teachers, schools, local and central administrators, academics, local communities, government officials) to help improve the social, economic, political, and cultural issues surrounding the teaching and learning of ELLs.
+
+_**Original article retrieved from Taylor & Francis**_   
+
+**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
