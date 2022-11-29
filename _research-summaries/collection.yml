@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Developing pupils’ success criteria in reading.md
       - Reading and Viewing/Developing and sustaining a reading habit among
         teenagers.md
       - "Reading and Viewing/Current Practice of Extensive Reading in Asia:
