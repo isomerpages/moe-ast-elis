@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Teachers' beliefs about reading instruction.md
       - Reading and Viewing/Literacy learning of young Chinese Children.md
       - Reading and Viewing/Predictors of reading ability for bilingual
         children.md
