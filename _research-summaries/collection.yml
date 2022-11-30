@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/nfluencing children’s self efficacy and self
+        regulation of reading and writing.md
       - Reading and Viewing/Increasing text comprehension of elementary students
         with learning disabilities.md
       - Reading and Viewing/Improving reading comprehension through the use of
