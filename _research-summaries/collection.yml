@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Pragmatic awareness of implicatures.md
       - Reading and Viewing/Oracy and Language Learning.md
       - Reading and Viewing/Critiquing newspaper commentary articles.md
       - Reading and Viewing/New literacies in two Singapore classrooms.md
