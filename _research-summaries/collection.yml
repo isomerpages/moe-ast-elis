@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Explicit reading comprehension instruction in
+        elementary classrooms.md
       - Reading and Viewing/Effective Reading Role Models.md
       - Reading and Viewing/Examining booktalks on authentic classroom
         discussion.md
