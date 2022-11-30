@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Home biliteracy practices and biliteracy
+        acquisition.md
       - Reading and Viewing/Gendered differences and school literacy.md
       - Reading and Viewing/Adults moving from Oracy to Literacy.md
       - Reading and Viewing/Disciplines in Secondary Literacy Teaching.md
