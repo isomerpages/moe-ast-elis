@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Reading and Viewing/Lesson study: Teacher led professional development
+        in literacy instruction.md"
       - Reading and Viewing/Learning study as an approach to teacher
         development.md
       - Reading and Viewing/Joint book reading strategies with young children
