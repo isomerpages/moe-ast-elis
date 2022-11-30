@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Effects of Running Records Assessment on Early
+        Literacy Achievement.md
       - Reading and Viewing/Effects of morphological instruction on vocabulary
         acquisition.md
       - Reading and Viewing/Effects of a school wide reading culture on student
