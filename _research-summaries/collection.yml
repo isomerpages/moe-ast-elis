@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Reading motivation.md
       - Reading and Viewing/Reading like a historian.md
       - Reading and Viewing/Reading for pleasure.md
       - Reading and Viewing/Reading and reading instruction for children.md
