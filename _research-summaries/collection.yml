@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Levelling the reading gap.md
       - "Reading and Viewing/Lesson study: Teacher led professional development
         in literacy instruction.md"
       - Reading and Viewing/Learning study as an approach to teacher
