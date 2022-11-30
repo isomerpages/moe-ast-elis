@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Effects of a school wide reading culture on student
+        engagement.md
       - Reading and Viewing/Effective Reading Instruction in the Early Years of
         School.md
       - Reading and Viewing/Early literacy programme for struggling readers.md
