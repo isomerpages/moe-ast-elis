@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Literacy for the future.md
       - Reading and Viewing/Literacy and Language in subject areas.md
       - Reading and Viewing/Levelling the reading gap.md
       - "Reading and Viewing/Lesson study: Teacher led professional development
