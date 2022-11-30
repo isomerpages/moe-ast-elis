@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Explicit teaching of argumentative writing in upper
+        primary social studies lessons.md
       - Reading and Viewing/Explicit reading comprehension instruction in
         elementary classrooms.md
       - Reading and Viewing/Effective Reading Role Models.md
