@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Joint book reading strategies with young children
+        and caregivers.md
       - Reading and Viewing/Investigating language learner strategies.md
       - Reading and Viewing/Intrinsic and extrinsic reading motivation among
         good and poor readers.md
