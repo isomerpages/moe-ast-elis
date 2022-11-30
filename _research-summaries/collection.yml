@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Improving reading comprehension through the use of
+        annotation.md
       - Reading and Viewing/Improving English language teaching through lesson
         study.md
       - Reading and Viewing/Vocabulary Acquisition among second language
