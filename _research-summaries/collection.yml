@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Nurturing Adolescent Literacy.md
       - Reading and Viewing/Recontextualising reading, rethinking teaching.md
       - Reading and Viewing/Reading in the Disciplines.md
       - Reading and Viewing/Reading motivation.md
