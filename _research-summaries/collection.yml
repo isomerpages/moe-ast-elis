@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Learning study as an approach to teacher
+        development.md
       - Reading and Viewing/Joint book reading strategies with young children
         and caregivers.md
       - Reading and Viewing/Investigating language learner strategies.md
