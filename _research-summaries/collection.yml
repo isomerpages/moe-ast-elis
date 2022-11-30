@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Intrinsic and extrinsic reading motivation among
+        good and poor readers.md
       - Reading and Viewing/Innovating the Singapore English language curriculum
         through lesson study.md
       - Reading and Viewing/Information literacy skills of secondary school
