@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Critiquing newspaper commentary articles.md
       - Reading and Viewing/New literacies in two Singapore classrooms.md
       - Reading and Viewing/Motivating struggling readers and writers.md
       - Reading and Viewing/Metacognitive scaffolding and monitoring on reading
