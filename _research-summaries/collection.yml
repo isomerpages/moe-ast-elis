@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Examining booktalks on authentic classroom
+        discussion.md
       - Reading and Viewing/Evaluation of the Buddy Reading programme.md
       - Reading and Viewing/Effects of Running Records Assessment on Early
         Literacy Achievement.md
