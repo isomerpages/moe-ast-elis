@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Reading and Viewing/Teacher modelling: Its impact on an extensive
+        reading programme.md"
       - Reading and Viewing/Teacher expectations and academic outcomes.md
       - Reading and Viewing/Classroom talk in Secondary Social Studies.md
       - Reading and Viewing/Students’ perception of reading comprehension
