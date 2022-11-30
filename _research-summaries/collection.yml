@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Effective Reading Instruction in the Early Years of
+        School.md
       - Reading and Viewing/Early literacy programme for struggling readers.md
       - Reading and Viewing/All About Disciplinary Literacy.md
       - "Reading and Viewing/Disciplinary literacy: Redefining deep
