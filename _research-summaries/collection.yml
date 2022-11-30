@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Making extensive reading even more student centred.md
       - Reading and Viewing/Love of reading.md
       - Reading and Viewing/Literacy for the future.md
       - Reading and Viewing/Literacy and Language in subject areas.md
