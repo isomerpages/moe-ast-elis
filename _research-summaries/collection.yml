@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Adults moving from Oracy to Literacy.md
       - Reading and Viewing/Disciplines in Secondary Literacy Teaching.md
       - Reading and Viewing/Factors that affect emergent literacy development
         when engaging with electronic books.md
