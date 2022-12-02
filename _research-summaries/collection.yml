@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Taking the initiative in teacher fronted
+        classroom interaction.md
       - Speaking and Representing/Supporting middle school students with content
         area academic language.md
       - Speaking and Representing/Classroom talks in Secondary Social Studies.md
