@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/The Pedagogical Practices of a 'Document Based
+        Lesson'.md
       - Reading and Viewing/Text processing differences.md
       - Reading and Viewing/Teaching visual texts with multimodal analysis
         software.md
