@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Incorporating reasoning and communications
+        into Mathematics.md
       - Speaking and Representing/Literacy for the future.md
       - Speaking and Representing/Lesson transitions to group work in primary
         English classrooms.md
