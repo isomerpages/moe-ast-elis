@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Literacy learning of young Chinese children.md
       - Speaking and Representing/Impact of classroom practices on student's
         learning of English.md
       - Speaking and Representing/Perspectives on spoken grammar.md
