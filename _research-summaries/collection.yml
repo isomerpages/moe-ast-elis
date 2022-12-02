@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Understanding Text Genre Preferences.md
       - Reading and Viewing/Evaluating the efficacy of Matrix Ideational
         Frameworks.md
       - Reading and Viewing/Using contextual clues effectively in CLOZE
