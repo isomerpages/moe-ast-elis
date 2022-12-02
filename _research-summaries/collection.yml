@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Science, language and young learners.md
       - "Speaking and Representing/Research into practice: Scaffolding learning
         processes to improve speaking performance.md"
       - Speaking and Representing/Relations between teacher questioning and
