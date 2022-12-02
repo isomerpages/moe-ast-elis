@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Motivation requires a meaningful task.md
       - Speaking and Representing/Motivation for learning standard spoken
         English.md
       - Speaking and Representing/Incorporating reasoning and communications
