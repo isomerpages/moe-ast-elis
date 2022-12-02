@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/The effects of incentives on students’ reading
+        motivation.md
       - Reading and Viewing/The Effect of Font Size on Reading Comprehension.md
       - Reading and Viewing/The Pedagogical Practices of a 'Document Based
         Lesson'.md
