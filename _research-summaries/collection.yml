@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Text processing differences.md
       - Reading and Viewing/Teaching visual texts with multimodal analysis
         software.md
       - Reading and Viewing/Teaching narrative comprehension strategies to first
