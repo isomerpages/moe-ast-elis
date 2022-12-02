@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Classroom interaction in Science.md
       - Speaking and Representing/Classroom dialogue.md
       - Speaking and Representing/Children's talk and reasoning.md
       - Speaking and Representing/Building literacy communities of practice
