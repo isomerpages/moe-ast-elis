@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Singaporean students’ awareness of listening
+        and speaking strategies.md
       - Speaking and Representing/Science, language and young learners.md
       - "Speaking and Representing/Research into practice: Scaffolding learning
         processes to improve speaking performance.md"
