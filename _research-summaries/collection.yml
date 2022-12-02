@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Adults moving from Oracy to Literacy.md
       - Speaking and Representing/Classroom Talk.md
       - Speaking and Representing/Effects of Metacognitive Strategy Instruction
         on Oral Language Task Performance and Strategy Use.md
