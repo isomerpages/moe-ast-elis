@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/The role of vocabulary in reading comprehension.md
       - Reading and Viewing/Student Motivation and Learning in Singapore.md
       - Reading and Viewing/The role of Out of School factors in the literacy
         problem.md
