@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Building literacy communities of practice
+        across subject disciplines in secondary schools.md
       - Speaking and Representing/Teacher and Student questioning in Maths.md
       - Speaking and Representing/Acquiring English fluency for pupils taking
         English as an additional language.md
