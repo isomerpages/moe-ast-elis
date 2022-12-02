@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Lesson transitions to group work in primary
+        English classrooms.md
       - Speaking and Representing/Code Switching in Singaporeans.md
       - Speaking and Representing/Role of teacher questioning in promoting
         student engagement.md
