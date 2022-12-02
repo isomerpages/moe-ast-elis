@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Using Question Answer Relationships (QAR) in lower
+        primary grades.md
       - Reading and Viewing/Using digital think alouds to develop reading
         comprehension of online informational texts.md
       - Reading and Viewing/Corpus based material as a teaching resource.md
