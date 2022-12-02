@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Oracy in Mathematics.md
       - Speaking and Representing/Oracy and literacy practices in a Japanese
         kindergarten.md
       - Speaking and Representing/Motivation requires a meaningful task.md
