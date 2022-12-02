@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Acquiring English fluency for pupils taking
+        English as an additional language.md
       - Speaking and Representing/Academic conversations.md
       - Speaking and Representing/IRF exchanges in NT and SPE classes.md
       - Speaking and Representing/Using drama in English Language classrooms.md
