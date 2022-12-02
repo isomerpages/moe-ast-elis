@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Multimodal construction.md
       - Speaking and Representing/Storytelling for children in primary schools.md
       - Speaking and Representing/Advancing reasoning and communication in
         Mathematics.md
