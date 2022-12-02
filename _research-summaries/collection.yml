@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Evaluating the efficacy of Matrix Ideational
+        Frameworks.md
       - Reading and Viewing/Using contextual clues effectively in CLOZE
         procedures.md
       - Reading and Viewing/The role of vocabulary in reading comprehension.md
