@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Speaking and Representing/Research into practice: Scaffolding learning
+        processes to improve speaking performance.md"
       - Speaking and Representing/Relations between teacher questioning and
         student talk in one elementary ELL classroom.md
       - Speaking and Representing/Relation between exposure to sophisticated and
