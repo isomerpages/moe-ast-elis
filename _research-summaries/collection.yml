@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Toward a more Dialogic Discussion in the
+        English Language Classroom.md
       - Speaking and Representing/Classroom interaction in Science.md
       - Speaking and Representing/Classroom dialogue.md
       - Speaking and Representing/Children's talk and reasoning.md
