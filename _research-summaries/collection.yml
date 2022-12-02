@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Assessing Communicative Competence.md
       - Speaking and Representing/Toward a more Dialogic Discussion in the
         English Language Classroom.md
       - Speaking and Representing/Classroom interaction in Science.md
