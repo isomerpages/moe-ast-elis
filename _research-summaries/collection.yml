@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Spoken skills as empowerment.md
       - Speaking and Representing/Oral presentations in Maths.md
       - Speaking and Representing/Oracy and Language Learning.md
       - Speaking and Representing/Oracy in Mathematics.md
