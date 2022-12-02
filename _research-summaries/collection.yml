@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/The Relationships among Reported Strategy Use,
+        Metacognitive Awareness, and Reading Achievement.md
       - Reading and Viewing/The possible cultural consequences for children as
         they learn to read in English.md
       - Reading and Viewing/The impact of Teacher's pedagogies on English
