@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Teaching narrative comprehension strategies to first
+        graders.md
       - Reading and Viewing/Reading multiple Historical Texts.md
       - Reading and Viewing/Teaching and learning argumentative reading and
         writing.md
