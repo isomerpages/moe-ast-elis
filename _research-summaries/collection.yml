@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/The role of Out of School factors in the literacy
+        problem.md
       - Reading and Viewing/The Relationships among Reported Strategy Use,
         Metacognitive Awareness, and Reading Achievement.md
       - Reading and Viewing/The possible cultural consequences for children as
