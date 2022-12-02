@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Literacy for the future.md
       - Speaking and Representing/Lesson transitions to group work in primary
         English classrooms.md
       - Speaking and Representing/Code Switching in Singaporeans.md
