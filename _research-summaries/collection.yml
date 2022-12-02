@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Motivation for learning standard spoken
+        English.md
       - Speaking and Representing/Incorporating reasoning and communications
         into Mathematics.md
       - Speaking and Representing/Literacy for the future.md
