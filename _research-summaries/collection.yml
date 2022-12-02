@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Reading and Viewing/Young children’s engagement with digital texts and
+        literacies in the home.md
       - Reading and Viewing/Learning Academic Vocabulary.md
       - Reading and Viewing/Word Knowledge in a Theory of Reading
         Comprehension.md
