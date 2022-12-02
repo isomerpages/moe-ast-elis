@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Implementing dialogic teaching in a Singapore
+        English language classroom.md
       - Speaking and Representing/Identifying quality in classroom talk.md
       - Speaking and Representing/Adults moving from Oracy to Literacy.md
       - Speaking and Representing/Classroom Talk.md
