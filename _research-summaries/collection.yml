@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Development and validation of learner
+        attitudes and motivations for pronunciation.md
       - Speaking and Representing/Community Inquiry and Understanding Maths.md
       - Speaking and Representing/Creative tensions in teaching new texts and
         new literacies.md
