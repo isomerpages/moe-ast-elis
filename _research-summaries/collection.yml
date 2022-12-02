@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/.keep
       - Reading and Viewing/Young children’s engagement with digital texts and
         literacies in the home.md
       - Reading and Viewing/Learning Academic Vocabulary.md
