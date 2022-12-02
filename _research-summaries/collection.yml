@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Relation between exposure to sophisticated and
+        complex language and learners’ vocabulary.md
       - Speaking and Representing/Reading like a historian.md
       - Speaking and Representing/Questioning and oracy.md
       - Speaking and Representing/Literacy learning of young Chinese children.md
