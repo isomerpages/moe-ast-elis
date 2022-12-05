@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/The role of exploratory talk in classroom search engine
+        tasks.md
       - Subject Literacy/Construction of Scientific knowledge through writing.md
       - Subject Literacy/The language of different types of explanations in
         junior high school Science texts.md
