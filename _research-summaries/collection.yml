@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Disciplinary Literacy and Struggling Learners.md
       - Subject Literacy/.keep
       - Speaking and Representing/Writing voiced arguments about science
         topics.md
