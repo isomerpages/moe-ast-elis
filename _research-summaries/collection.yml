@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Teachers' use of questioning and modelling
+        comprehension skills in primary classrooms.md
       - Speaking and Representing/Teacher Questioning in Science Classrooms.md
       - Speaking and Representing/Oracy in University assessment task.md
       - Speaking and Representing/Talk for promoting enjoyment and developing
