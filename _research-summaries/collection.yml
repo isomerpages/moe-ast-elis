@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Community inquiry and understanding Maths.md
       - Subject Literacy/Creative tensions in teaching new texts and new
         literacies.md
       - Subject Literacy/Competencies for teachers of English learners.md
