@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Dialogic and Authoritative discourse in
+        Science teaching.md
       - Speaking and Representing/The study of talk between teachers and
         students.md
       - Speaking and Representing/Student Motivation and Learning in Singapore.md
