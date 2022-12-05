@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/The role of exploratory talk in classroom
+        search engine tasks.md
       - Speaking and Representing/The role of code switching in a communications
         skills classroom.md
       - Speaking and Representing/Mathematics and Language.md
