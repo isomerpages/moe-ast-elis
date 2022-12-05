@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Literacy in content areas.md
       - Subject Literacy/A project for teaching critical reading and writing.md
       - Subject Literacy/A case study of designing technology enhanced learning
         in an elementary school in Singapore.md
