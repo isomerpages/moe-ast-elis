@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/The pedagogical practices of a 'Document based
+        Lesson'.md
       - Speaking and Representing/Teachers' use of questioning and modelling
         comprehension skills in primary classrooms.md
       - Speaking and Representing/Teacher Questioning in Science Classrooms.md
