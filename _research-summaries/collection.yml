@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Multimedia and author motivation in
+        storytelling.md
       - Speaking and Representing/Using alternative assessment strategies in
         Mathematics instruction.md
       - Speaking and Representing/Using argument as tool for science literacy.md
