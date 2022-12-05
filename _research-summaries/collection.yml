@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Using argument as tool for science literacy.md
       - Speaking and Representing/Talk in Mathematics classes in Singapore.md
       - Speaking and Representing/The challenge of changing classroom discourse
         patterns.md
