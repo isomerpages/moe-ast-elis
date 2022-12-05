@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Talk for promoting enjoyment and developing
+        understanding in Science.md
       - Speaking and Representing/Taking the initiative in teacher fronted
         classroom interaction.md
       - Speaking and Representing/Supporting middle school students with content
