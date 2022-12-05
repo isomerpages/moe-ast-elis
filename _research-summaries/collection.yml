@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Creative tensions in teaching new texts and new
+        literacies.md
       - Subject Literacy/Competencies for teachers of English learners.md
       - Subject Literacy/Assessing communicative competence.md
       - Subject Literacy/Classroom interaction in science.md
