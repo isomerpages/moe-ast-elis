@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Changing classroom discourse patterns through the
+        scaffolding approach.md
       - Subject Literacy/Dialogic and authoritative discourse in Science
         teaching.md
       - Subject Literacy/The use of classroom talk and multiple representations
