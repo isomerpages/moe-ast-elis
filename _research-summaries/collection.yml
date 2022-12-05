@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Why talk is important.md
       - Speaking and Representing/Multimedia and author motivation in
         storytelling.md
       - Speaking and Representing/Using alternative assessment strategies in
