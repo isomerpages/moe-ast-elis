@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Literacy and Multimodal Texts.md
       - Subject Literacy/Challenges faced by teachers of English language
         learners and limited English proficiency students.md
       - Subject Literacy/Building literacy communities of practice across
