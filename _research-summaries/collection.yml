@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Mathematics and Language.md
       - Speaking and Representing/The enactment of literacy policy in
         Singapore.md
       - Speaking and Representing/Drama and Oracy.md
