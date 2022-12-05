@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Disciplinary Literacy in Elementary School.md
       - Subject Literacy/Disciplinary literacies and Functional language
         analysis.md
       - Subject Literacy/Dialogic teaching in the primary Science classroom.md
