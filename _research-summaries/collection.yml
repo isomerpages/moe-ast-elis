@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Supporting middle school students with content area
+        academic language.md
       - Subject Literacy/Classroom talk in secondary social studies.md
       - Subject Literacy/Subject specific Literacy and School Learning.md
       - Subject Literacy/Students’ and teachers’ perceptions of students’ self
