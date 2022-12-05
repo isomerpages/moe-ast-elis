@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Writing voiced arguments about science
+        topics.md
       - Speaking and Representing/Why talk is important.md
       - Speaking and Representing/Multimedia and author motivation in
         storytelling.md
