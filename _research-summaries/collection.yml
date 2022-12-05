@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/The use of classroom talk and multiple representations
+        in teaching Science.md
       - Subject Literacy/The role of exploratory talk in classroom search engine
         tasks.md
       - Subject Literacy/Construction of Scientific knowledge through writing.md
