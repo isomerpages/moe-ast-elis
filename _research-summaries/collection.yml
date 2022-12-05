@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Oracy in Mathematics.md
       - Subject Literacy/Multiliteracies, pedagogy and identities.md
       - Subject Literacy/Incorporating reasoning and communication into
         Mathematics.md
