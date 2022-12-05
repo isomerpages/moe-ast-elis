@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/The analysis and reconciliation of students’ rebuttals
+        in argumentation activities.md
       - Subject Literacy/The pedagogical practices of a 'Document based
         lesson'.md
       - Subject Literacy/Reading multiple historical texts.md
