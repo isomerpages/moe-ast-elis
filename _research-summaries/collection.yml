@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Subject specific Literacy and School Learning.md
       - Subject Literacy/Students’ and teachers’ perceptions of students’ self
         assessment ability.md
       - Subject Literacy/Multimodal construction.md
