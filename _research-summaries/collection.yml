@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/The language of different types of explanations in
+        junior high school Science texts.md
       - Subject Literacy/Mathematics and Language.md
       - Subject Literacy/ICT in learning task design and implementation.md
       - Subject Literacy/The analysis and reconciliation of students’ rebuttals
