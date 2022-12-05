@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Building literacy communities of practice across
+        subject disciplines in secondary schools.md
       - Subject Literacy/Writing in Archaeology.md
       - Subject Literacy/Teacher and student questioning in Maths.md
       - Subject Literacy/Academic conversations.md
