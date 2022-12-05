@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Investigating language learner strategies.md
       - Subject Literacy/Investigating a disciplinary approach to literacy
         learning in a secondary school.md
       - Subject Literacy/Role of teacher questioning in promoting student
