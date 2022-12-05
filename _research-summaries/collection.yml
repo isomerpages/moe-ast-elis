@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Dialogic teaching in the primary Science classroom.md
       - Subject Literacy/Dialogic space interactions.md
       - Subject Literacy/Dialogic Interactions and Feedback.md
       - Subject Literacy/Community inquiry and understanding Maths.md
