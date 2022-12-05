@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Talk for promoting enjoyment and developing
+        understanding in Science.md
       - Subject Literacy/Supporting middle school students with content area
         academic language.md
       - Subject Literacy/Classroom talk in secondary social studies.md
