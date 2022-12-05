@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Literacy pedagogical content knowledge.md
       - Subject Literacy/The role of language in learning history.md
       - Subject Literacy/Investigating language learner strategies.md
       - Subject Literacy/Investigating a disciplinary approach to literacy
