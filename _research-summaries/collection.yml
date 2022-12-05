@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Classroom interaction in science.md
       - Subject Literacy/Classroom dialogue.md
       - Subject Literacy/Children's talk and reasoning.md
       - Subject Literacy/Literacy and Multimodal Texts.md
