@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Disciplinary literacy in Engineering.md
       - Subject Literacy/Talk in Mathematics classes in Singapore.md
       - Subject Literacy/Changing classroom discourse patterns through the
         scaffolding approach.md
