@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Talk in Mathematics classes in Singapore.md
       - Speaking and Representing/The challenge of changing classroom discourse
         patterns.md
       - Speaking and Representing/The use of the 3,2,1 technique to foster
