@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Advanced reasoning and communication in Maths.md
       - Subject Literacy/Science, language and young learners.md
       - Subject Literacy/School Discourse.md
       - Subject Literacy/Scaffolding 4th Grade Students’ Scientific Explanation
