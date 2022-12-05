@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Improving Teacher Questioning in Science.md
       - Subject Literacy/Implementation of Differentiated Instruction.md
       - Subject Literacy/Disciplines in Secondary literacy teaching.md
       - Subject Literacy/Educating the next generation of literacy teachers.md
