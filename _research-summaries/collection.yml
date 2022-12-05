@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/A case study of designing technology enhanced learning
+        in an elementary school in Singapore.md
       - Subject Literacy/Disciplinary Literacy and Struggling Learners.md
       - Subject Literacy/.keep
       - Speaking and Representing/Writing voiced arguments about science
