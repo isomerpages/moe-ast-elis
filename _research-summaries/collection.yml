@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Writing in Archaeology.md
       - Subject Literacy/Teacher and student questioning in Maths.md
       - Subject Literacy/Academic conversations.md
       - Subject Literacy/Literacy in content areas.md
