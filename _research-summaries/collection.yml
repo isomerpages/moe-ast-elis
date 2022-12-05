@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/School Discourse.md
       - Subject Literacy/Scaffolding 4th Grade Students’ Scientific Explanation
         Writing.md
       - Subject Literacy/Recontextualising reading, rethinking teaching.md
