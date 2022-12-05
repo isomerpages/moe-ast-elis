@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Construction of Scientific knowledge through writing.md
       - Subject Literacy/The language of different types of explanations in
         junior high school Science texts.md
       - Subject Literacy/Mathematics and Language.md
