@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/The pedagogical practices of a 'Document based
+        lesson'.md
       - Subject Literacy/Reading multiple historical texts.md
       - Subject Literacy/Teachers’ concerns about vocabulary in content literacy
         methodology textbooks.md
