@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Using student's Out of Classroom experiences for
+        learning.md
       - Subject Literacy/Oral presentation in mathematics.md
       - Subject Literacy/Oracy in Mathematics.md
       - Subject Literacy/Multiliteracies, pedagogy and identities.md
