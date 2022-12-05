@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Incorporating reasoning and communication into
+        Mathematics.md
       - Subject Literacy/Mapping subject specific literacies.md
       - Subject Literacy/Integrating writing into Macroeconomics.md
       - Subject Literacy/Literacy pedagogical content knowledge.md
