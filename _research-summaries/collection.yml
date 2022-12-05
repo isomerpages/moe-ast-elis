@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Reading multiple historical texts.md
       - Subject Literacy/Teachers’ concerns about vocabulary in content literacy
         methodology textbooks.md
       - Subject Literacy/Teachers' use of questioning and modelling
