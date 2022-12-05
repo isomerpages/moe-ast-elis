@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Competencies for teachers of English learners.md
       - Subject Literacy/Assessing communicative competence.md
       - Subject Literacy/Classroom interaction in science.md
       - Subject Literacy/Classroom dialogue.md
