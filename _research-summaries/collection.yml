@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Teachers' use of questioning and modelling
+        comprehension skills in primary classrooms.md
       - Subject Literacy/Teacher Questioning in Science Classrooms.md
       - Subject Literacy/Talk for promoting enjoyment and developing
         understanding in Science.md
