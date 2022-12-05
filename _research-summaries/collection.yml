@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Subject Literacy/Scaffolding 4th Grade Students’ Scientific Explanation
+        Writing.md
       - Subject Literacy/Recontextualising reading, rethinking teaching.md
       - Subject Literacy/Reading in the disciplines.md
       - Subject Literacy/Reading like a Historian.md
