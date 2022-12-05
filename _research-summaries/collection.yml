@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Speaking and Representing/Drama and Oracy.md
       - Speaking and Representing/The analysis and reconciliation of students’
         rebuttals in argumentation activities.md
       - Speaking and Representing/The pedagogical practices of a 'Document based
