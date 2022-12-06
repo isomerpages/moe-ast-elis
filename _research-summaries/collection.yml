@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Growth of Metacognitive Awareness in
+        Kindergarten Children through Writing.md
       - Writing and Representing/Feedback to writing, assessment for teaching
         and learning and student progress.md
       - Writing and Representing/Argumentative writing across the curriculum.md
