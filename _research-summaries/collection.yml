@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/A functional approach to the teaching of
+        coherence in argumentative writing.md
       - Writing and Representing/Using drama in English language classrooms.md
       - Writing and Representing/Disciplinary literacy and struggling learners.md
       - Writing and Representing/.keep
