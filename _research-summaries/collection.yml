@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Critical language awareness among business
+        english students.md
       - Writing and Representing/Investigating language learner strategies.md
       - Writing and Representing/Investigating a Disciplinary Approach to
         Literacy Learning in a Secondary School.md
