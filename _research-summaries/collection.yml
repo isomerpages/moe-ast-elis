@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Implementing self regulated strategy
+        development.md
       - Writing and Representing/Biliteracy differences between Singapore and
         immigrant Chinese families.md
       - Writing and Representing/Growth of Metacognitive Awareness in
