@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Vocabulary/Relation between exposure to sophisticated and complex
+        language and learners’ vocabulary.md
       - Vocabulary/Predictors of reading ability for bilingual children.md
       - Vocabulary/Learners' use of strategies for effective vocabulary
         learning.md
