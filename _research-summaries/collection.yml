@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Vocabulary/Effects of morphological instruction on vocabulary
+        acquisition.md
       - Vocabulary/Academic conversations.md
       - Vocabulary/Gendered differences in language.md
       - Vocabulary/Using drama in English language classrooms.md
