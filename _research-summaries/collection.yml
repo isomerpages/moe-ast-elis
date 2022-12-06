@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Writing in archaeology.md
       - Writing and Representing/Argumentation in students’ online forum
         discussion.md
       - Writing and Representing/Argumentation as core curriculum.md
