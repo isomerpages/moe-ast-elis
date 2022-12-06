@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Investigating language learner strategies.md
       - Writing and Representing/Investigating a Disciplinary Approach to
         Literacy Learning in a Secondary School.md
       - Writing and Representing/Instructional rubrics.md
