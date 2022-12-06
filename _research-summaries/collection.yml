@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Vocabulary/Learners' use of strategies for effective vocabulary
+        learning.md
       - Vocabulary/Vocabulary acquisition among second language leaners.md
       - Vocabulary/Effects of morphological instruction on vocabulary
         acquisition.md
