@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Efficacy of explicating teaching of writing.md
       - Writing and Representing/Effect of explicit instruction in expository
         paragraph writing.md
       - Writing and Representing/All about disciplinary literacy.md
