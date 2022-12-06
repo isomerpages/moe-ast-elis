@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/School Discourse.md
       - Writing and Representing/Reflexive writers.md
       - Writing and Representing/Putting rubrics to the test.md
       - Writing and Representing/The impact of classroom practices on student's
