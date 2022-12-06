@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Building literacy communities of practice
+        across subject disciplines.md
       - Writing and Representing/Evaluation of explicit teaching of text
         structure, and planning and revision strategies.md
       - Writing and Representing/Assessing student writing on tablets.md
