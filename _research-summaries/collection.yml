@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Vocabulary/Gendered differences in language.md
       - Vocabulary/Using drama in English language classrooms.md
       - Vocabulary/.keep
       - Subject Literacy/Writing with 'Voiced' in Science.md
