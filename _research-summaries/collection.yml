@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Improving English language teaching through
+        lesson study.md
       - Writing and Representing/Implementing self regulated strategy
         development.md
       - Writing and Representing/Biliteracy differences between Singapore and
