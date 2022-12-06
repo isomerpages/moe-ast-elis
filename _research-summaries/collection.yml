@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Developing motivation to write.md
       - Writing and Representing/Studying the impact of implementing multimodal
         literacy.md
       - Writing and Representing/Impact of poverty on literacy opportunities.md
