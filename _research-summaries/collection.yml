@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Argumentation in students’ online forum
+        discussion.md
       - Writing and Representing/Argumentation as core curriculum.md
       - Writing and Representing/Gendered differences in language.md
       - Writing and Representing/Literacy in content areas.md
