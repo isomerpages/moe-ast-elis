@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Argumentative writing across the curriculum.md
       - Writing and Representing/Evaluative expressions in analytical
         arguments.md
       - Writing and Representing/Efficacy of explicating teaching of writing.md
