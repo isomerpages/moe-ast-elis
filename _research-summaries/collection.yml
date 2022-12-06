@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Praise and criticism in written feedback.md
       - Writing and Representing/Picture Books as Mentor Texts for 10th Grade
         Struggling Writers.md
       - Writing and Representing/Peer and teacher feedback on student writing.md
