@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Putting rubrics to the test.md
       - Writing and Representing/The impact of classroom practices on student's
         learning of English.md
       - Writing and Representing/Praise and criticism in written feedback.md
