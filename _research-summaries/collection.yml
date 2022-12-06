@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Self efficacy beliefs, motivation, and
+        achievement.md
       - Writing and Representing/Using online discussion stance support
         strategies for writing compositions.md
       - Writing and Representing/Science, language and young learners.md
