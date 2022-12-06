@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Critiquing newspaper commentary articles.md
       - Writing and Representing/Motivating struggling readers and writers.md
       - Writing and Representing/Moblogging in Science Classrooms.md
       - Writing and Representing/Integrating writing into Macroeconomics.md
