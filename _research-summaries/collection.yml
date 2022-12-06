@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/The role of language in learning history.md
       - Writing and Representing/Learning study as an approach to teacher
         development.md
       - Writing and Representing/Critical language awareness among business
