@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Developing writing pedagogy in a teacher
+        professional learning community.md
       - Writing and Representing/Developing motivation to write.md
       - Writing and Representing/Studying the impact of implementing multimodal
         literacy.md
