@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Moblogging in Science Classrooms.md
       - Writing and Representing/Integrating writing into Macroeconomics.md
       - Writing and Representing/Literacy for the future.md
       - Writing and Representing/The role of language in learning history.md
