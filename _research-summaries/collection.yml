@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/All about disciplinary literacy.md
       - Writing and Representing/Digital storytelling as a powerful
         technological tool for teacher and student engagement.md
       - Writing and Representing/Dialogic Interactions and Feedback.md
