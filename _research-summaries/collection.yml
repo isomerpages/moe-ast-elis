@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Impact of poverty on literacy opportunities.md
       - Writing and Representing/Effective feedback for student revision.md
       - Writing and Representing/Building literacy communities of practice
         across subject disciplines.md
