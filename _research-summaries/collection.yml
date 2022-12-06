@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Vocabulary/The Role of Vocabulary in Reading.md
       - Vocabulary/Reading comprehension strategies.md
       - Vocabulary/School Discourse.md
       - Vocabulary/Relation between exposure to sophisticated and complex
