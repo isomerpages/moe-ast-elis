@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Influencing children’s self efficacy and self
+        regulation of reading and writing.md
       - Writing and Representing/Improving the writing and knowledge of emergent
         writers.md
       - Writing and Representing/Improving the effectiveness of peer feedback
