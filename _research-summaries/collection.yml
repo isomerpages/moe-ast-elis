@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/A project for teaching critical reading and
+        writing.md
       - Writing and Representing/Improve writing skills in an integrated English
         language and Literature curriculum.md
       - Writing and Representing/A functional approach to the teaching of
