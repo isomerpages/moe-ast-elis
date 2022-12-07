@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/The relationship between use of writing
+        strategies and English proficiency.md
       - Writing and Representing/Construction of scientific knowledge through
         writing.md
       - Writing and Representing/The development of young writer in an English
