@@ -2,11 +2,11 @@ collections:
   team-members:
     output: true
     order:
-      - Research & Communication Team/Dr Rachel Goh.md
-      - Research & Communication Team/Dr Alison Tan.md
-      - Research & Communication Team/Dr Caroline Ho.md
-      - Research & Communication Team/Dr Paul Grahame Doyle.md
       - Research & Communication Team/.keep
+      - Research & Communication Team/Dr Paul Grahame Doyle.md
+      - Research & Communication Team/Dr Caroline Ho.md
+      - Research & Communication Team/Dr Alison Tan.md
+      - Research & Communication Team/Dr Rachel Goh.md
       - Staff Publications/.keep
       - Staff Publications/Tay May Yin.md
       - Staff Publications/Joy Lee.md
