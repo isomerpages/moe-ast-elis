@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Construction of scientific knowledge through
+        writing.md
       - Writing and Representing/The development of young writer in an English
         classroom.md
       - Writing and Representing/The pedagogical practices of a 'Document based
