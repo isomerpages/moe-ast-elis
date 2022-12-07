@@ -4,6 +4,8 @@ permalink: /elis/about-us/team-members/staff-publications/tay-may-yin/
 description: ""
 third_nav_title: Staff Publications
 ---
+### PUBLICATIONS AUTHORED BY DR TAY MAY YIN
+
 1.  Ang-Tay, M. Y. (2000). Developments in the English Language curriculum in Singapore. _Teaching of English Language & Literature Journal_, _16_(2), 3-8.
 2.  Goh, C. C. M., & Tay, M. Y. (2008). Implementing the English Language Syllabus 2001 in Singapore schools: interpretations and re-interpretations. In D. E. Murray (Ed.), _Planning change, changing plans_ (pp. 85 -107). USA: University of Michigan.
 3.  Ho, C., Teo, P. & Tay, M. Y. (Eds.). (2006). _Teaching the General Paper._ Singapore: Prentice Hall Pearson Education South Asia Pte Ltd.
