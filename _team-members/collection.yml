@@ -2,17 +2,6 @@ collections:
   team-members:
     output: true
     order:
-      - Research & Communication Team/.keep
-      - Research & Communication Team/Dr Paul Grahame Doyle.md
-      - Research & Communication Team/Dr Caroline Ho.md
-      - Research & Communication Team/Dr Alison Tan.md
-      - Research & Communication Team/Dr Rachel Goh.md
-      - Staff Publications/.keep
-      - Staff Publications/Tay May Yin.md
-      - Staff Publications/Joy Lee.md
-      - Staff Publications/Caroline Ho.md
-      - Staff Publications/Jeyalaxmy Ayaduray.md
-      - Staff Publications/Rachel Goh.md
       - Management Team/.keep
       - Management Team/Management Team.md
       - Management Team/Ms May Tan.md
@@ -44,3 +33,14 @@ collections:
       - EL Pedagogy Team/Ms Cara Mok.md
       - EL Pedagogy Team/Mdm Eunice Lim.md
       - EL Pedagogy Team/Mdm Selene Tan.md
+      - Research & Communication Team/.keep
+      - Research & Communication Team/Dr Paul Grahame Doyle.md
+      - Research & Communication Team/Dr Caroline Ho.md
+      - Research & Communication Team/Dr Alison Tan.md
+      - Research & Communication Team/Dr Rachel Goh.md
+      - Staff Publications/.keep
+      - Staff Publications/Tay May Yin.md
+      - Staff Publications/Joy Lee.md
+      - Staff Publications/Caroline Ho.md
+      - Staff Publications/Jeyalaxmy Ayaduray.md
+      - Staff Publications/Rachel Goh.md
