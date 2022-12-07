@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Conflicting language ideologies & contradictory practices in
+        Singaporean multilingual families.md
       - Others/Challenges confronting teachers of English language learners.md
       - Others/Building teachers' creative capabilities in Singapore's English
         classrooms.md
