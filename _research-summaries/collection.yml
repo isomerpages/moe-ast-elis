@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Writing Strategies, Skills, and Knowledge.md
       - Writing and Representing/Writing as literacy development for low
         achievers.md
       - Writing and Representing/Writer’s workshop vs writing prompts.md
