@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Improving English language teaching through lesson study.md
       - Others/Implementing dialogic teaching in a Singapore English language
         classroom.md
       - Others/Implementation of Differentiated Instruction.md
