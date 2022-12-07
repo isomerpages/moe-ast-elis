@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Supporting middle school students with content
+        area academic language.md
       - Writing and Representing/Classroom talk in Secondary Social Studies.md
       - Writing and Representing/Students' perceptions of integrating Wiki
         technology and peer feedback into English writing.md
