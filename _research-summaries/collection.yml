@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Benefits and concerns of lesson study.md
       - Others/An integrated approach to teaching literature in an EFL
         classroom.md
       - Others/Secondary students' language anxiety.md
