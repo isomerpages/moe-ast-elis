@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - EL Pedagogy Team/Dr Florence Lee.md
       - EL Pedagogy Team/Ms Solastri Suyot.md
       - EL Pedagogy Team/Ms Serene Lai.md
       - EL Pedagogy Team/Ms Rita Pillai.md
