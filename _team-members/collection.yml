@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - Staff Publications/Jeyalaxmy Ayaduray.md
       - Staff Publications/Caroline Ho.md
       - Staff Publications/Joy Lee.md
       - Staff Publications/Tay May Yin.md
