@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Building teachers' creative capabilities in Singapore's English
+        classrooms.md
       - Others/Benefits and concerns of lesson study.md
       - Others/An integrated approach to teaching literature in an EFL
         classroom.md
