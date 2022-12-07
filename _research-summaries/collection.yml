@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Implementation of Differentiated Instruction.md
       - Others/Factors that affect emergent literacy development when engaging
         with electronic books.md
       - Others/English language teachers’ beliefs about the teaching of
