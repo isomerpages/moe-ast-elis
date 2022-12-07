@@ -24,3 +24,18 @@ third_nav_title: Management Team
 </a></p>
 	<figcaption><b>Mr Daniel Yip</b><br>Deputy Director, Pedagogy</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
+<img src="/images/may-yin_2016.jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Tay May Yin</b><br>Principal Master Teacher</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
+<img src="/images/cedric_2015.jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
+</figure>
+
