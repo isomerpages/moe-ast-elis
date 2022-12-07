@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Corpus based material as a teaching resource.md
       - Writing and Representing/Using argument as tool for Science literacy.md
       - Writing and Representing/Use of scoring rubrics for formative assessment
         purposes.md
