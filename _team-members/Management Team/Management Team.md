@@ -10,5 +10,3 @@ third_nav_title: Management Team
 </a></p>
 <figcaption>Ms May Tan<br>Academy Principal, ELIS</figcaption>
 </figure>
-
-
