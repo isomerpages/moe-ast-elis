@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Using alternative assessment strategies in
+        Mathematics instruction.md
       - Writing and Representing/Disciplinary literacy in Engineering.md
       - Writing and Representing/Corpus based material as a teaching resource.md
       - Writing and Representing/Using argument as tool for Science literacy.md
