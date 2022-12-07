@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - "Others/Lesson study: Teacher led professional development in literacy
+        instruction.md"
       - Others/Lesson study for teacher development in Singapore.md
       - Others/Learning from a Learning Study.md
       - Others/Learners' use of strategies for effective vocabulary learning.md
