@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Innovating the Singapore English Language curriculum through
+        lesson study.md
       - Others/Improving the effectiveness of peer feedback for learning.md
       - Others/Improving English language teaching through lesson study.md
       - Others/Implementing dialogic teaching in a Singapore English language
