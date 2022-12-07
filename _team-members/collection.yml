@@ -2,12 +2,12 @@ collections:
   team-members:
     output: true
     order:
-      - Staff Publications/Rachel Goh.md
-      - Staff Publications/Jeyalaxmy Ayaduray.md
-      - Staff Publications/Caroline Ho.md
-      - Staff Publications/Joy Lee.md
-      - Staff Publications/Tay May Yin.md
       - Staff Publications/.keep
+      - Staff Publications/Tay May Yin.md
+      - Staff Publications/Joy Lee.md
+      - Staff Publications/Caroline Ho.md
+      - Staff Publications/Jeyalaxmy Ayaduray.md
+      - Staff Publications/Rachel Goh.md
       - Management Team/.keep
       - Management Team/Management Team.md
       - Management Team/Ms May Tan.md
