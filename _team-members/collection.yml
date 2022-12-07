@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - EL Pedagogy Team/Mdm Eunice Lim.md
       - EL Pedagogy Team/Ms Cara Mok.md
       - EL Pedagogy Team/Ms Charmaine Tan.md
       - EL Pedagogy Team/Dr Darren Nonis.md
