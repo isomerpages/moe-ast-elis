@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Lesson transitions to group work in primary English classrooms.md
       - "Others/Lesson study: Teacher led professional development in literacy
         instruction.md"
       - Others/Lesson study for teacher development in Singapore.md
