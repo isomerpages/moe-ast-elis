@@ -2,6 +2,13 @@ collections:
   team-members:
     output: true
     order:
+      - Management Team/.keep
+      - Management Team/Management Team.md
+      - Management Team/Ms May Tan.md
+      - Management Team/Dr Paul Grahame Doyle.md
+      - Management Team/Mr Daniel Yip.md
+      - Management Team/Dr Tay May Yin.md
+      - Management Team/Mr Cedric Leong.md
       - EL Pedagogy Team/.keep
       - EL Pedagogy Team/Dr Tay May Yin.md
       - EL Pedagogy Team/Mr Cedric Leong.md
@@ -26,10 +33,3 @@ collections:
       - EL Pedagogy Team/Ms Cara Mok.md
       - EL Pedagogy Team/Mdm Eunice Lim.md
       - EL Pedagogy Team/Mdm Selene Tan.md
-      - Management Team/.keep
-      - Management Team/Management Team.md
-      - Management Team/Ms May Tan.md
-      - Management Team/Dr Paul Grahame Doyle.md
-      - Management Team/Mr Daniel Yip.md
-      - Management Team/Dr Tay May Yin.md
-      - Management Team/Mr Cedric Leong.md
