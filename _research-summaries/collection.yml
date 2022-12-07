@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Use of scoring rubrics for formative assessment
+        purposes.md
       - Writing and Representing/Evaluating the efficacy of matrix ideational
         frameworks.md
       - Writing and Representing/The use of blogs for writing of online
