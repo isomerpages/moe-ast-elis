@@ -1,5 +1,5 @@
 collections:
-  management-team:
+  team-members:
     output: true
     order:
       - Management Team/.keep
