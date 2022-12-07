@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Lesson study for teacher development in Singapore.md
       - Others/Learning from a Learning Study.md
       - Others/Learners' use of strategies for effective vocabulary learning.md
       - Others/Innovating the Singapore English Language curriculum through
