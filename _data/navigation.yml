@@ -1,8 +1,8 @@
 logo: /images/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Menu Title
-    collection: resources
+  - title: About Us
+    collection: about-us
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Learning Communities
+    collection: learning-communities
