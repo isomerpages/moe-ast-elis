@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/Educating the next generation of literacy teachers.md
       - Others/Early childhood teachers' beliefs about literacy development.md
       - Others/Creative tensions in teaching new texts and new literacies.md
       - Others/Conflicting language ideologies & contradictory practices in
