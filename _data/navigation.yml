@@ -1,8 +1,13 @@
 logo: /images/logo.svg
 links:
-  - title: About Us
-    collection: about-us
   - title: Professional Learning
     collection: professional-learning
   - title: Learning Communities
     collection: learning-communities
+  - title: About Us
+    url: /elis/about-us/
+    sublinks:
+      - title: About Us
+        url: /elis/about-us/
+      - title: Vision and Mission
+        url: /elis/about-us/vision-mission/
