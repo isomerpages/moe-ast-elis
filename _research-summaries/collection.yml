@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/The pedagogical practices of a 'Document based
+        lesson'.md
       - Writing and Representing/Teaching argumentative writing at the primary
         level.md
       - Writing and Representing/Teaching and learning argumentative reading and
