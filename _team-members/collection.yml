@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - EL Pedagogy Team/Ms Rita Pillai.md
       - EL Pedagogy Team/Dr Prisca Chong.md
       - EL Pedagogy Team/Mrs Kalpana Balasubramaniam.md
       - EL Pedagogy Team/Ms Shakila Vasu.md
