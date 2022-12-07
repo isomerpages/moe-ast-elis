@@ -2,6 +2,7 @@ collections:
   research-summaries:
     output: true
     order:
+      - Writing and Representing/Writer’s workshop vs writing prompts.md
       - Writing and Representing/Using alternative assessment strategies in
         Mathematics instruction.md
       - Writing and Representing/Disciplinary literacy in Engineering.md
