@@ -2,6 +2,8 @@ collections:
   research-summaries:
     output: true
     order:
+      - Others/The impact of embedded grammar teaching on students writing &
+        students’ metalinguistic understanding.md
       - Others/Teachers’ work in culturally and linguistically diverse schools.md
       - Others/Teachers' use of questioning and modelling comprehension skills
         in primary classrooms.md
