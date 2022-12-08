@@ -101,3 +101,18 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Ms Rita Pillai</b><br>Master Teacher</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-serene-lai/">
+<img src="/images/serene_2.gif" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Serene Lai</b><br>Master Teacher</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-shakila-vasu/">
+<img src="/images/shakila_2018(2si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Shakila Vasu</b><br>Master Teacher</figcaption>
+</figure>
+
