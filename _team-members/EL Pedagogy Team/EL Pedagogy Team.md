@@ -52,3 +52,11 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Mrs Emelyn Kuan</b><br>Master Teacher</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/">
+<img src="/images/jennifer-l603a2c899d57b4171962f04b6a1547bd8-1.png" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Jennifer Lim</b><br>Master Teacher</figcaption>
+</figure>
+
