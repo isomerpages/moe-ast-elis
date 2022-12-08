@@ -9,4 +9,3 @@ Teachers can look forward to growing professionally through observing and being 
 
 <img src="/images/twa_s.jpg" 
      style="width:60%">
-		 
