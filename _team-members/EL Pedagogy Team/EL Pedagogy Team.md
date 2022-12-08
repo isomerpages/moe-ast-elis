@@ -67,3 +67,17 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mrs Jennifer Lui</b><br>Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-jeyalaxmy-ayaduray/">
+<img src="/images/jeya_2018(1si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Jeyalaxmy Ayaduray</b><br>Master Teacher</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
+<img src="/images/kalpana_2018-(2si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Mrs Kalpana Balasubramaniam</b><br>Master Teacher</figcaption>
+</figure>
+
