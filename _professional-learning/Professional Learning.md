@@ -15,6 +15,6 @@ Our professional learning programmes for teachers focus on:
 To deepen teachers’ professional learning, ELIS provides four areas of support:
 
 <img src="/images/elis-pl-(5-jan-2022).png" 
-     style="width:80%">
+     style="width:70%">
 
 ![](/images/approach-to-pl_2022.png)
