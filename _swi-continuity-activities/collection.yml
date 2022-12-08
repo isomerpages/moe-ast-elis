@@ -1,0 +1,4 @@
+collections:
+  swi-continuity-activities:
+    output: true
+    order: []
