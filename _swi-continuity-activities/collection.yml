@@ -2,4 +2,5 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - "2020 (II) — Breathing In & Breathing Out: Reading and Writing.md"
       - 2021 — Forest Bathing.md
