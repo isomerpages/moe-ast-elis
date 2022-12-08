@@ -1,4 +1,5 @@
 collections:
   swi-continuity-activities:
     output: true
-    order: []
+    order:
+      - 2021 — Forest Bathing.md
