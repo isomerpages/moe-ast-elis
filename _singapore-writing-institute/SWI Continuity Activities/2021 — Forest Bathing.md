@@ -4,9 +4,8 @@ permalink: /elis/learning-communities/swi-continuity-activities/writing-marathon
 description: ""
 third_nav_title: SWI Continuity Activities
 ---
-
 <img src="/images/2021-marathon-flyer.jpeg" 
-     style="width:70%">
+     style="width:50%">
 		 
 		 
 SWI alumni from 2014 to 2019 reconnected on 11 June through a time of writing and reading aloud of personal works inspired by the sounds and sights of Clementi Forest. The immersive experience of virtual forest bathing was organised and facilitated by Lynn Loy of SWI 2017 with the support of SWI Team, ELIS.
