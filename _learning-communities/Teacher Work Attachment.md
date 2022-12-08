@@ -7,4 +7,6 @@ ELlS provides Teacher Work Attachment opportunities where teachers can deepen th
 
 Teachers can look forward to growing professionally through observing and being involved in a range of work ELlS does. They will be able to transfer their learning to the work in their schools to impact student learning.
 
-![](/images/twa_s.jpg)
+<img src="/images/twa_s.jpg" 
+     style="width:60%">
+		 
