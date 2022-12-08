@@ -116,3 +116,24 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Ms Shakila Vasu</b><br>Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-solastri-suyot/">
+<img src="/images/solastri_2018(2si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Solastri Suyot</b><br>Master Teacher</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-cara-mok/">
+<img src="/images/cara-mok-69c6b0ba917d443f3b629e87a4015fb03.png" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Cara Mok</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+<img src="/images/charmaine-tan-60906587f0af043a0a79c54409b5adfcd.png" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
