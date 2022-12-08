@@ -158,5 +158,16 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mdm Intan Salwah Badiuzzaman</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
-![]()
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
+<img src="/images/selene-tan-poh-hong.jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
+<img src="/images/eunice-6-(1).png" style="width:25%">
+</a></p>
+	<figcaption><b>Mdm Eunice Lim</b><br>Academy Officer, Pedagogy</figcaption>
+</figure>
