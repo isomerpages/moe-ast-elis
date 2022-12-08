@@ -41,3 +41,24 @@ Read the reflections of SWI participants by clicking on the respective photograp
 	<figcaption><b>SWI 2017</b></figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2016/">
+<img src="/images/2016-swi.gif" style="width:40%">
+</a></p>
+	<figcaption><b>SWI 2016</b></figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2015/">
+<img src="/images/2015-swi.gif" style="width:40%">
+</a></p>
+	<figcaption><b>SWI 2015</b></figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2014/">
+<img src="/images/2014-swi.gif" style="width:40%">
+</a></p>
+	<figcaption><b>SWI 2014</b></figcaption>
+</figure>
+
