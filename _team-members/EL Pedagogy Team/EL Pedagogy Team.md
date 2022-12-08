@@ -81,3 +81,11 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mrs Kalpana Balasubramaniam</b><br>Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
+<img src="/images/lucy-fernandez-4.png" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Lucy Fernandez</b><br>Master Teacher</figcaption>
+</figure>
+
+
