@@ -38,4 +38,3 @@ third_nav_title: Management Team
 </a></p>
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
-
