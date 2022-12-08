@@ -31,3 +31,18 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Mr Colin Sim</b><br>Assistant Director (Pedagogy)</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-audrey-lee/">
+<img src="/images/audrey_2.gif" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Audrey Lee</b><br>Master Teacher</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
+<img src="/images/charles-peter-4-jpg.png" style="width:25%">
+</a></p>
+	<figcaption><b>Mr Charles Peter</b><br>Master Teacher</figcaption>
+</figure>
+
