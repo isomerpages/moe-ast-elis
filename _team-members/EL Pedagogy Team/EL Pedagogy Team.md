@@ -88,4 +88,16 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Dr Lucy Fernandez</b><br>Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
+<img src="/images/prisca_2018(2si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Prisca Chong</b><br>Master Teacher</figcaption>
+</figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
+<img src="/images/prisca_2018(2si).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Prisca Chong</b><br>Master Teacher</figcaption>
+</figure>
