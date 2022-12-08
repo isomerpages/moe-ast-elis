@@ -17,4 +17,4 @@ Click [here](https://padlet.com/Lynn_Loy/zp8l463715ek6gnk) to read the writing
      style="width:70%">
 
 <img src="/images/swi-2021-a.png" 
-     style="width:70%">
+     style="width:60%">
