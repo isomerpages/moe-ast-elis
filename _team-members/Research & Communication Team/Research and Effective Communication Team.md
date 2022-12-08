@@ -11,3 +11,9 @@ third_nav_title: Research & Communication Team
 	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, Research and Effective Communication</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/research-team/dr-caroline-ho/">
+<img src="/images/carol.gif" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Caroline Ho</b><br>Lead Specialist, English Language</figcaption>
+</figure>
