@@ -17,3 +17,19 @@ third_nav_title: Research & Communication Team
 </a></p>
 	<figcaption><b>Dr Caroline Ho</b><br>Lead Specialist, English Language</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/research-team/dr-alison-tan/">
+<img src="/images/alison.gif" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Alison Tan</b><br>Lead Specialist, English Language</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/research-team/dr-rachel-goh/">
+<img src="/images/elis-rachel-goh.jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Rachel Goh</b><br>Senior Specialist, English Language</figcaption>
+</figure>
+
+
