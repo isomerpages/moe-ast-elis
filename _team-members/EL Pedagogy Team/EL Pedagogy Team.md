@@ -46,3 +46,9 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mr Charles Peter</b><br>Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-emelyn-kuan/">
+<img src="/images/emelyn-kuan-(elis)5d7bb2b9c296e4ad6bd131f00be54d80f.png" style="width:25%">
+</a></p>
+	<figcaption><b>Mrs Emelyn Kuan</b><br>Master Teacher</figcaption>
+</figure>
