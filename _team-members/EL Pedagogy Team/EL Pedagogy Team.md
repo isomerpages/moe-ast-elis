@@ -137,3 +137,26 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/darrennonis/">
+<img src="/images/darren-nonis-3.png" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Darren Nonis</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
+<img src="/images/florence-6.png" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Florence Lee</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
+<img src="/images/intan-salwah-4.png" style="width:25%">
+</a></p>
+	<figcaption><b>Mdm Intan Salwah Badiuzzaman</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
+![]()
+
