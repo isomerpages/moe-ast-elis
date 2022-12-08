@@ -4,6 +4,7 @@ permalink: /elis/learning-communities/swi-alumni/swi-continuity-activities/re-in
 description: ""
 third_nav_title: 2019   Re Inventing Spaces
 ---
+### Reflections
 by Amir Wahab
 
 <img src="/images/refle.jpg" 
