@@ -2,5 +2,6 @@ collections:
   learning-communities:
     output: true
     order:
+      - Teacher Work Attachment.md
       - Special Interest Group (SIG).md
       - Learning Communities.md
