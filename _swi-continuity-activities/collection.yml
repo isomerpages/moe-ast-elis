@@ -2,6 +2,7 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - 2019   Re Inventing Spaces/To Invent To Preserve.md
       - 2019   Re Inventing Spaces/The Same Reinvented.md
       - 2019   Re Inventing Spaces/Dear Majie.md
       - 2019   Re Inventing Spaces/The Clean–Up.md
