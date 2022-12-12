@@ -2,11 +2,11 @@ collections:
   swi-continuity-activities:
     output: true
     order:
-      - 2016   Going Green/Leaf Litter.md
-      - 2016   Going Green/The Crossing.md
-      - 2016   Going Green/A Quiet Reflection.md
-      - 2016   Going Green/2016 – Going Green.md
       - 2016   Going Green/.keep
+      - 2016   Going Green/2016 – Going Green.md
+      - 2016   Going Green/A Quiet Reflection.md
+      - 2016   Going Green/The Crossing.md
+      - 2016   Going Green/Leaf Litter.md
       - 2017 Trainspotting/.keep
       - 2017 Trainspotting/2017 – Trainspotting.md
       - 2017 Trainspotting/Choices.md
