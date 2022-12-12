@@ -2,6 +2,7 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - 2017 Trainspotting/MRT Trainspotting Trails.md
       - 2017 Trainspotting/Experience the Joy of Learning.md
       - 2017 Trainspotting/Connection.md
       - 2017 Trainspotting/We Live in the Future.md
