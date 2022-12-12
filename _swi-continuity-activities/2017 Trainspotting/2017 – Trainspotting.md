@@ -11,3 +11,9 @@ The Singapore Writing Marathon was held on 13 April 2017, organised as part of t
 <b><center>by Adeline Ang for The Singapore Writing Project</b></center>
 
 Although not comedic like its Hollywood namesake, Trainspotting: Singapore Writing Marathon 2017 stayed true to its underlying themes of exploration of the hidden and unexpected. Of nature, of journeying, of the world around us. It drew three generations of alumni of the Singapore Writing Institute united by a passion to write.
+
+<img src="/images/tn-groupphoto-jpg-mid.jpg" 
+     style="width:50%">
+		 
+Armed with our writing journals, programmes and poems on train journeys past and present, near and far we were excited to take off from the Labrador Park Station.
+
