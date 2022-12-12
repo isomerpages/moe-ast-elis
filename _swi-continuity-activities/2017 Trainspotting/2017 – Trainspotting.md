@@ -36,3 +36,24 @@ From the idyllic Labrador Park to the iconic UNESCO WORLD Heritage Site, Singapo
 We jotted down impressions along the way, with commuters staring at us, puzzled by the rare sight of ‘train geeks’ scribbling away in their notebooks. At the end of the first leg, some took the time to slow down their pace to smell the flowers and write while others hastened to the nearest cafe for a quick sugar fix, and write.
 
 Reading aloud our first draft after our first ‘trainspotting’ experience on the train ride from Labrador Park Station to Botanic Gardens Station.
+
+<img src="/images/tn-3persons_800-jpg-mid.jpg" 
+     style="width:50%">
+		 
+Saturation Writing and reflecting in the train: How is this journey different from other journeys? Do they free or trap us?
+
+The second and final leg of the journey was almost like the first. Except that the train ride was five minutes shorter and the destination was the Haw Par Villa theme park where Chinese folklore and mythology either fascinated or scared the wits out of patrons with its graphic depiction of the Ten Courts of Hell. After this final pit stop to consolidate their inspirations, the crew of trainspotters shared excerpts of their writing with one another and bade one another adieu. Till the next Writing Marathon!
+
+<img src="/images/tn-haw-par-villa_800-jpg-mid.jpg" 
+     style="width:50%">
+
+3 generations of alumni from the Singapore Writing Institute (2014, 2015, 2016) coming together to share their writing and experience: ‘trainspotting’
+
+Through it all, it was a breath of fresh air to pause in the midst of a hectic work term and allow the surroundings to speak words of serenity and assurance to quieten the frazzled heart. I was thankful for the opportunity to forge a shared experience and bond with fellow teacher writers. I gained invaluable insights into what inspired them that afternoon to write, reflect, ponder and write again. Whatever transpired in those brief moments of sharing validated some of what I sensed and felt as a teacher writer. It broadened my perspectives and deepened my understanding of the world around me. Indeed, it is the hope of discovering the hidden and unexpected in our daily lives that anchors the soul.
+
+<img src="/images/tn-haw-par-villa_gate_538-jpg-mid.jpg" 
+     style="width:50%">
+
+Our last stop at Haw Par Villa before parting company.
+
+It was such sweet sorrow…adieu!
