@@ -17,3 +17,18 @@ Although not comedic like its Hollywood namesake, Trainspotting: Singapore Writi
 		 
 Armed with our writing journals, programmes and poems on train journeys past and present, near and far we were excited to take off from the Labrador Park Station.
 
+<img src="/images/tn-botanic_garden-jpg-2.jpg" 
+     style="width:50%">
+
+At the Botanic Gardens – a minute’s walk from the station
+
+<img src="/images/train_map_498.jpg" 
+     style="width:50%">
+		 
+<b>The Circle Line</b> 
+  
+From the idyllic Labrador Park to the iconic UNESCO WORLD Heritage Site, Singapore Botanic Gardens, the trainspotters hopped onto the Circle Line for the 18-minute train ride on the afternoon of 13 April 2017. The first leg of the journey!   
+  
+  
+  
+We jotted down impressions along the way, with commuters staring at us, puzzled by the rare sight of ‘train geeks’ scribbling away in their notebooks. At the end of the first leg, some took the time to slow down their pace to smell the flowers and write while others hastened to the nearest cafe for a quick sugar fix, and write.
