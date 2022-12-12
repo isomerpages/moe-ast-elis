@@ -2,11 +2,11 @@ collections:
   swi-continuity-activities:
     output: true
     order:
-      - 2015   In the Civic District/The Friday Before.md
-      - 2015   In the Civic District/The Past, The Present and The Future.md
-      - 2015   In the Civic District/Open Our Minds.md
-      - 2015   In the Civic District/2015 – In the Civic District.md
       - 2015   In the Civic District/.keep
+      - 2015   In the Civic District/2015 – In the Civic District.md
+      - 2015   In the Civic District/Open Our Minds.md
+      - 2015   In the Civic District/The Past, The Present and The Future.md
+      - 2015   In the Civic District/The Friday Before.md
       - 2016   Going Green/.keep
       - 2016   Going Green/2016 – Going Green.md
       - 2016   Going Green/A Quiet Reflection.md
