@@ -2,6 +2,7 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - Writing STARters.md
       - 2021 — Forest Bathing.md
       - "2020 (II) — Breathing In & Breathing Out: Reading and Writing.md"
       - "2020 (I) — Simple Pleasures: Anywhere and Everywhere.md"
