@@ -2,27 +2,9 @@ collections:
   swi-continuity-activities:
     output: true
     order:
-      - 2015   In the Civic District/.keep
-      - 2015   In the Civic District/2015 – In the Civic District.md
-      - 2015   In the Civic District/Open Our Minds.md
-      - 2015   In the Civic District/The Past, The Present and The Future.md
-      - 2015   In the Civic District/The Friday Before.md
-      - 2016   Going Green/.keep
-      - 2016   Going Green/2016 – Going Green.md
-      - 2016   Going Green/A Quiet Reflection.md
-      - 2016   Going Green/The Crossing.md
-      - 2016   Going Green/Leaf Litter.md
-      - 2017 Trainspotting/.keep
-      - 2017 Trainspotting/2017 – Trainspotting.md
-      - 2017 Trainspotting/Choices.md
-      - 2017 Trainspotting/We Live in the Future.md
-      - 2017 Trainspotting/Connection.md
-      - 2017 Trainspotting/Experience the Joy of Learning.md
-      - 2017 Trainspotting/MRT Trainspotting Trails.md
-      - 2017 Trainspotting/Musings of an MRT Commuter.md
-      - 2017 Trainspotting/Never a Day Without A Line.md
-      - 2017 Trainspotting/Small Stuff.md
-      - 2017 Trainspotting/Dream Train.md
+      - 2021 — Forest Bathing.md
+      - "2020 (II) — Breathing In & Breathing Out: Reading and Writing.md"
+      - "2020 (I) — Simple Pleasures: Anywhere and Everywhere.md"
       - 2019   Re–Inventing Spaces/.keep
       - 2019   Re–Inventing Spaces/2019 — Reinventing Spaces.md
       - 2019   Re–Inventing Spaces/(UNTITLED).md
@@ -47,6 +29,24 @@ collections:
       - 2019   Re–Inventing Spaces/Dear Majie.md
       - 2019   Re–Inventing Spaces/The Same Reinvented.md
       - 2019   Re–Inventing Spaces/To Invent To Preserve.md
-      - 2021 — Forest Bathing.md
-      - "2020 (II) — Breathing In & Breathing Out: Reading and Writing.md"
-      - "2020 (I) — Simple Pleasures: Anywhere and Everywhere.md"
+      - 2017 Trainspotting/.keep
+      - 2017 Trainspotting/2017 – Trainspotting.md
+      - 2017 Trainspotting/Choices.md
+      - 2017 Trainspotting/We Live in the Future.md
+      - 2017 Trainspotting/Connection.md
+      - 2017 Trainspotting/Experience the Joy of Learning.md
+      - 2017 Trainspotting/MRT Trainspotting Trails.md
+      - 2017 Trainspotting/Musings of an MRT Commuter.md
+      - 2017 Trainspotting/Never a Day Without A Line.md
+      - 2017 Trainspotting/Small Stuff.md
+      - 2017 Trainspotting/Dream Train.md
+      - 2016   Going Green/.keep
+      - 2016   Going Green/2016 – Going Green.md
+      - 2016   Going Green/A Quiet Reflection.md
+      - 2016   Going Green/The Crossing.md
+      - 2016   Going Green/Leaf Litter.md
+      - 2015   In the Civic District/.keep
+      - 2015   In the Civic District/2015 – In the Civic District.md
+      - 2015   In the Civic District/Open Our Minds.md
+      - 2015   In the Civic District/The Past, The Present and The Future.md
+      - 2015   In the Civic District/The Friday Before.md
