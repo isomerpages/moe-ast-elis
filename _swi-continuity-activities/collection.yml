@@ -2,6 +2,7 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - 2017 Trainspotting/Never a Day Without A Line.md
       - 2017 Trainspotting/Musings of an MRT Commuter.md
       - 2017 Trainspotting/MRT Trainspotting Trails.md
       - 2017 Trainspotting/Experience the Joy of Learning.md
