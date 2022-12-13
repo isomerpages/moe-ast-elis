@@ -4,7 +4,6 @@ permalink: /elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacog
 description: ""
 third_nav_title: Teaching Learning & Assessment
 ---
-
 <img src="/images/Metacognition%20in%20Teaching%20Oracy.png" 
      style="width:50%">
 		 
@@ -52,6 +51,3 @@ In this episode, Master Teacher Emelyn Kuan talks about how English Language tea
 </table>
 
 <em>Episode published 25 Mar 2021.</em>
-				 
-				 
-		 
