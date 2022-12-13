@@ -22,3 +22,8 @@ Throughout the year, SWI team members and alumni organise professional continuit
 <center><b>SWI Writing Marathon I 2020</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/learning-communities/swi-continuity-activities/writing-marathon-re-inventing-spaces/">
+<img src="/images/reinventing-spaces-c.jpg"  style="width:50%">
+<center><b>SWI Writing Marathon I 2020</b></center>
+</a></p>
+
