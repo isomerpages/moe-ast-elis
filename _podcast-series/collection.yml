@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Classroom Inquiry/Classroom Inquiry: Developing motivation to write
+        through journaling (Part 4).md"
       - "Classroom Inquiry/Classroom Inquiry — Inquiring into Reading
         Strategies: Our Learning Experience.md"
       - Classroom Inquiry/Exploring Fluency in Oral Communication (Part 1).md
