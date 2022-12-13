@@ -1,0 +1,4 @@
+collections:
+  podcast-series:
+    output: true
+    order: []
