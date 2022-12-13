@@ -16,6 +16,6 @@ Luo, W., Hogan, D., & Paris, S. G. (2011). Predicting Singapore students' achiev
   
 [Link to Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/impact-of-classroom-practices-on-students) 
 
-[Link to All Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/vocabulary/academic-conversations)
+[Link to all Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/vocabulary/academic-conversations)
    
 <em>Episode published 28 Jul 2021.</em>
