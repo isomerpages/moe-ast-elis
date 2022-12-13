@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Teaching Learning & Assessment/Inquiry Through Dialogue – Motivating
+        Students to Write.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue – Facilitating
         Productive Interaction in Groups.md
       - Teaching Learning & Assessment/Metacognition in English Language
