@@ -26,14 +26,17 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 <center><b>Inquiry Through Dialogue – Using Questioning Techniques</b></center>
 </a></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/student-groupings-for-productive-interaction/">
-<img src="/images/4dd0161613d254859a5821aced6fb0598.jpg" style="width:30%">
-<center><b>Inquiry Through Dialogue – Motivating Students to Write
-</b></center>
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-rita-pillai-talks-about-motivating-students-to-write/">
+<img src="/images/3b56bb985f6804d2e8930d023ac19d798.jpg" style="width:30%">
+<center><b>Inquiry Through Dialogue – Using Questioning Techniques</b></center>
 </a></p>
 
 
-
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/student-groupings-for-productive-interaction/">
+<img src="/images/4dd0161613d254859a5821aced6fb0598.jpg" style="width:30%">
+<center><b>Inquiry Through Dialogue – Facilitating Productive Interaction in Groups
+</b></center>
+</a></p>
 
 
 ### Multiliteracies 
