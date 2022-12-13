@@ -7,7 +7,7 @@ third_nav_title: Teaching Learning & Assessment
 <img src="/images/Multiliteracies%20in%20Teaching%20Oracy.jpg" style="width:50%">
 
 
-<a href="https://open.spotify.com/episode/5Zyga3boZvEdqP0We2QkPT">Click Here To Listen</a>
+<a href="https://open.spotify.com/episode/5Zyga3boZvEdqP0We2QkPT">Click here to listen to the podcast</a>
 
 The podcast episodes in the area of Multiliteracies offer a range of perspectives on why Multiliteracies is important for student learning, what Multiliteracies looks like in enactment and how it can be enacted in classrooms.
 
