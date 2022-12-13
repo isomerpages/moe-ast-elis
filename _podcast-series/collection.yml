@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Reading and
+        Viewing.md
       - Teaching Learning & Assessment/Metacognition in Teaching Reading and
         Viewing.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue – Building a
