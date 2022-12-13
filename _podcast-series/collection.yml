@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Teaching Learning & Assessment/Inquiry Through Dialogue in English
+        Language Teaching and Learning.md
       - Teaching Learning & Assessment/Multiliteracies in Teaching Writing and
         Representing.md
       - Teaching Learning & Assessment/Metacognition in Teaching Writing and
