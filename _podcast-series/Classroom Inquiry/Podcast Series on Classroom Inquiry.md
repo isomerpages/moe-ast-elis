@@ -38,3 +38,17 @@ Share this page by copying this short URL: [go.gov.sg/classroominquirypodcastse
 <center><b>Inquiring into Reading Strategies: Our Learning Experience</b></center>
 </a></p>
 
+<p><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-1">
+<img src="/images/ci-1.png" style="width:30%">
+<center><b>Exploring Fluency in Oral Communication (Part 1)
+</b></center>
+</a></p>
+
+<p><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2">
+<img src="/images/ci-2.png" style="width:30%">
+<center><b>Exploring Fluency in Oral Communication (Part 2)
+</b></center>
+</a></p>
+
+
+
