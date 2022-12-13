@@ -27,3 +27,11 @@ Share this page by copying this short URL: go.gov.sg/researchsummariespodcastser
 <img src="/images/Singaporean%20Students’%20Awareness%20of%20Listening%20and%20Speaking%20Strategies.png" style="width:30%">
 <center><b>Singaporean Students’ Awareness of Listening and Speaking Strategies</b></center>
 </a></p>
+
+<p><a href="/elis/resources/listen/the-impact-of-classroom-goal-structures-on-students-learning-of-english/">
+<img src="/images/The%20Impact%20of%20Classroom%20Goal%20Structures%20on%20Students’%20Learning%20of%20English.png" style="width:30%">
+<center><b>The Impact of Classroom Goal Structures on Students’ Learning of English</b></center>
+</a></p>
+
+
+
