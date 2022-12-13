@@ -40,11 +40,16 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 
 ### Metacognition
 
-<p><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-el-teaching-and-learning/">
 <img src="/images/Metacognition%20in%20English%20Language%20Teaching%20and%20Learning.jpg" style="width:30%">
 <center><b>Metacognition in EL Teaching and Learning</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/">
+<img src="/images/Metacognition%20in%20Teaching%20Oracy.png" style="width:30%">
+<center><b>Metacognition in Teaching Oracy
+</b></center>
+</a></p>
 
 
 ### Multiliteracies 
