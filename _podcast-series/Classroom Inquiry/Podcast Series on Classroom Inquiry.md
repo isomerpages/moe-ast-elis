@@ -17,6 +17,3 @@ Share this page by copying this short URL: [go.gov.sg/classroominquirypodcastse
 <img src="/images/adeline-1.png" style="width:50%">
 <center><b>Developing Motivation to Write Through Journaling (Part 1)</b></center>
 </a></p>
-
-
-
