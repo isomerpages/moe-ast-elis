@@ -9,4 +9,5 @@ Throughout the year, SWI team members and alumni organise professional continuit
 
 <p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-forest-bathing/">
 <img src="/images/forest-bathing-c.jpg"  style="width:50%">
+<center><b>SWI Writing Marathon 2021</b></center>
 </a></p>
