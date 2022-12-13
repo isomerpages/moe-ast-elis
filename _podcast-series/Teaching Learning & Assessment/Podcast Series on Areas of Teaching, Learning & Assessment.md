@@ -63,9 +63,15 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 </b></center>
 </a></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-reading-and-viewing/">
 <img src="/images/tla-kalpana-balasubramaniam.jpg" style="width:30%">
-<center><b>Metacognition in Teaching Reading and Writing
+<center><b>Metacognition in Teaching Reading and Viewing
+</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
+<img src="/images/7-september_tla-and-ci-thumbnails-w-title-only.png" style="width:30%">
+<center><b>Metacognition in Teaching Reading and Representing
 </b></center>
 </a></p>
 
