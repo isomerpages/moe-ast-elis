@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Research Summaries/Research Summary ― The Role of Vocabulary in Reading
+        Comprehension.md
       - Research Summaries/.keep
       - Classroom Inquiry/Podcast Series on Classroom Inquiry.md
       - "Classroom Inquiry/Classroom Inquiry: Developing Motivation to Write
