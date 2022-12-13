@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - Classroom Inquiry/Exploring Fluency in Oral Communication (Part 1).md
       - Classroom Inquiry/Exploring Fluency in Oral Communication (Part 2).md
       - Classroom Inquiry/.keep
       - Teaching Learning & Assessment/Inquiry Through Dialogue in English
