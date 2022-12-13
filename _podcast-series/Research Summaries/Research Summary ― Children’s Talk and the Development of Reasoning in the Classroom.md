@@ -15,7 +15,7 @@ Listen to this summary of the paper entitled ‘Children’s Talk and the Develo
   
 Children's Talk and the Development of Reasoning in the Classroom. Mercer, N., Wegerif, R., & Dawes, L. (1999). British Educational Research Journal, 25(1), 95-111.  
   
-[Link to Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/children's-talk-and-reasoning)  
+[Link to Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/childrens-talk-and-reasoning)  
 
 [Link to all Research Summaries](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries)  
 
