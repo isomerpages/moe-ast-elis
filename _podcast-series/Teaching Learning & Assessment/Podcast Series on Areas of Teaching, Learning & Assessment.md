@@ -78,8 +78,15 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 
 
 
-### Multiliteracies 
+### Multiliteracies
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-el-teaching-and-learning/">
+<img src="/images/Multiliteracies%20in%20English%20Language%20Teaching%20and%20Learning.jpg" style="width:30%">
+<center><b>Multiliteracies in EL Teaching and Learning</b></center>
+</a></p>
+
+
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-teaching-writing-and-representing/">
 <img src="/images/14.png" style="width:30%">
-<center><b>Inquiry Through Dialogue in English Language Teaching and Learning</b></center>
+<center><b>Multiliteracies in Teaching Writing and Representing</b></center>
 </a></p>
