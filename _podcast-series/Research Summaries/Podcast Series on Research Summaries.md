@@ -22,3 +22,8 @@ Share this page by copying this short URL: go.gov.sg/researchsummariespodcastser
 <img src="/images/Academic%20Conversations.png" style="width:30%">
 <center><b>Academic Conversations: Classroom Talk that Fosters Critical Thinking and Content Understandings</b></center>
 </a></p>
+
+<p><a href="/elis/resources/listen/singaporean-students-awareness-of-listening-and-speaking-strategies/">
+<img src="/images/Singaporean%20Students’%20Awareness%20of%20Listening%20and%20Speaking%20Strategies.png" style="width:30%">
+<center><b>Singaporean Students’ Awareness of Listening and Speaking Strategies</b></center>
+</a></p>
