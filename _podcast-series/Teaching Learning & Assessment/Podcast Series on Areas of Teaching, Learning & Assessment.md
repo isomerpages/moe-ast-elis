@@ -26,6 +26,12 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 <center><b>Inquiry Through Dialogue – Using Questioning Techniques</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/student-groupings-for-productive-interaction/">
+<img src="/images/4dd0161613d254859a5821aced6fb0598.jpg" style="width:30%">
+<center><b>Inquiry Through Dialogue – Motivating Students to Write
+</b></center>
+</a></p>
+
 
 
 
