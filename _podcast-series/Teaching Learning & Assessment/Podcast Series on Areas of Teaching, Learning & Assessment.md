@@ -16,8 +16,17 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 <center><b>Inquiry Through Dialogue in English Language Teaching and Learning</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-william-grosse-talks-about-inquiry-through-dialogue/">
+<img src="/images/Building%20a%20Culture%20of%20Learning%20Through%20Talk%20in%20the%20English%20Language%20Classroom.jpg" style="width:30%">
+<center><b>Inquiry Through Dialogue – Building a Culture of Learning Through Talk in the English Language Classroom</b></center>
+</a></p>
+
+
+
+
+
+### Multiliteracies 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-teaching-writing-and-representing/">
 <img src="/images/14.png" style="width:30%">
 <center><b>Inquiry Through Dialogue in English Language Teaching and Learning</b></center>
 </a></p>
-
