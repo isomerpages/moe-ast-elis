@@ -18,5 +18,7 @@ Share this page by copying this short URL: go.gov.sg/researchsummariespodcastser
 <center><b>Children’s Talk and the Development of Reasoning in the Classroom</b></center>
 </a></p>
 
-
-
+<p><a href="/elis/resources/listen/research-summaries-podcasts/academic-conversations/">
+<img src="/images/Academic%20Conversations.png" style="width:30%">
+<center><b>Academic Conversations: Classroom Talk that Fosters Critical Thinking and Content Understandings</b></center>
+</a></p>
