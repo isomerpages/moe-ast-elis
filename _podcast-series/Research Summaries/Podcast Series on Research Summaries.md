@@ -33,5 +33,10 @@ Share this page by copying this short URL: go.gov.sg/researchsummariespodcastser
 <center><b>The Impact of Classroom Goal Structures on Students’ Learning of English</b></center>
 </a></p>
 
+<p><a href="/elis/resources/listen/research-summaries-podcasts/the-role-of-vocabulary-in-reading-comprehension/">
+<img src="/images/The%20Role%20of%20Vocabulary%20in%20Reading%20Comprehension.png" style="width:30%">
+<center><b>The Role of Vocabulary in Reading Comprehension</b></center>
+</a></p>
+
 
 
