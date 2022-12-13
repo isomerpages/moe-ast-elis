@@ -2,14 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Read/Research Summaries.md
-      - Read/ELIS Research Fund Reports.md
-      - Read/Research Digests.md
-      - Read/Classroom Inquiry Digests.md
-      - Read/ELIS e—Digest.md
-      - Read/.keep
-      - Play.md
-      - Teach.md
       - Watch/.keep
       - "Watch/Supporting Inquiry—Based Learning in the English Language
         Classroom: What, Why and How.md"
@@ -30,3 +22,11 @@ collections:
       - "Watch/Inquiry into Classroom Practice: Action Research.md"
       - Watch/What is Co—Teaching?.md
       - Watch/What is a Special Interest Group?.md
+      - Read/.keep
+      - Read/Research Summaries.md
+      - Read/ELIS Research Fund Reports.md
+      - Read/Research Digests.md
+      - Read/Classroom Inquiry Digests.md
+      - Read/ELIS e—Digest.md
+      - Play.md
+      - Teach.md
