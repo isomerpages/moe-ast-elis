@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Research Summaries/Academic Conversations: Classroom Talk that Fosters
+        Critical Thinking and Content Understandings.md"
       - Research Summaries/Research Summary ― Singaporean Students’ Awareness of
         Listening and Speaking Strategies.md
       - Research Summaries/Research Summary ― The Impact of Classroom Goal
