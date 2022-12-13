@@ -57,6 +57,18 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 </b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-jennifer-lui-talks-about-metacognition-in-teaching-grammar/">
+<img src="/images/Metacognition%20in%20Teaching%20Grammar.jpg" style="width:30%">
+<center><b>Metacognition in Teaching Grammar
+</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
+<img src="/images/tla-kalpana-balasubramaniam.jpg" style="width:30%">
+<center><b>Metacognition in Teaching Reading and Writing
+</b></center>
+</a></p>
+
 
 
 
