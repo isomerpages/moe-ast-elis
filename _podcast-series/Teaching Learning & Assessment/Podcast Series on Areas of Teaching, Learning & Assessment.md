@@ -21,6 +21,11 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 <center><b>Inquiry Through Dialogue – Building a Culture of Learning Through Talk in the English Language Classroom</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-audrey-lee-talks-about-questioning-techniques/">
+<img src="/images/Inquiry%20Through%20Dialogue%20–%20Using%20Questioning%20Techniques.jpg" style="width:30%">
+<center><b>Inquiry Through Dialogue – Using Questioning Techniques</b></center>
+</a></p>
+
 
 
 
