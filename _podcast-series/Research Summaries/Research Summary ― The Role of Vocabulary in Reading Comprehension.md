@@ -13,9 +13,8 @@ Listen to this summary of the paper entitled ‘The Role of Vocabulary in Readin
   
 Zhang, L. J., & Anual, S. B. (2008). The Role of Vocabulary in Reading Comprehension: The case of secondary school students learning English in Singapore. RELC Journal, 39(1), 51-76.
 
-[Link to Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/research-resources/research-summaries/vocabulary/the-role-of-vocabulary-in-reading-comprehension)  
+[Link to Research Summary](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/reading-and-viewing/role-of-vocabulary-reading-comprehension)  
   
 [Link to all Research Summaries](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries)
 
 <em>Episode published 11 Aug 2021.</em>
-
