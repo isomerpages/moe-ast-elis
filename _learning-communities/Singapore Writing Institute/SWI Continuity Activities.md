@@ -36,3 +36,8 @@ Throughout the year, SWI team members and alumni organise professional continuit
 <img src="/images/going-green-c.jpg"  style="width:50%">
 <center><b>SWI Writing Marathon 2016</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon-the-civic-district/">
+<img src="/images/cbd-ci.jpg"  style="width:50%">
+<center><b>SWI Writing Marathon 2015</b></center>
+</a></p>
