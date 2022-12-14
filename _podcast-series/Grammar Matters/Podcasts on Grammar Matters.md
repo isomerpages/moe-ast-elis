@@ -10,7 +10,18 @@ third_nav_title: Grammar Matters
 Listen to our Grammar Matters podcast series, which aims to create more awareness of areas of English language use in Singapore that differ from standard English.
 
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/teacher-as-writer-why-writing-with-your-students-is-important/">
-<img src="/images/7-september_tla-and-ci-thumbnails-w-title-only-2-imresizer.jpg" style="width:30%">
-<center><b>Teacher as Writer: Why Writing with your Students is Important</b></center>
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
+<img src="/images/gm-episode-1.png" style="width:30%">
+<center><b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
+<img src="/images/27.png" style="width:30%">
+<center><b>Definite and Indefinite Articles – A Letter of Complaint</b></center>
+</a></p>
+
+
+
+
+
+
