@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore (Episode 4).md
       - English Language Teaching/.keep
       - Grammar Matters/Podcasts on Grammar Matters.md
       - "Grammar Matters/Singular and Plural: Countable and Uncountable Nouns –
