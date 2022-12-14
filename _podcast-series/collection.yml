@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Grammar Matters/Singular and Plural: Countable and Uncountable Nouns –
+        At the Supermarket.md"
       - Grammar Matters/Definite and Indefinite Articles – A Letter of
         Complaint.md
       - Grammar Matters/Collective Nouns – At the Airport.md
