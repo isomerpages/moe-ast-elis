@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Singapore Writing Institute/Teacher as Inquirer: Nurturing Voice in
+        Students' Writing.md"
       - "Singapore Writing Institute/Teacher of Writers: How to Move Our Student
         Writers Forward.md"
       - Singapore Writing Institute/.keep
