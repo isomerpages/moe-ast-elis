@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Singapore Writing Institute/Teacher of Writers: How to Move Our Student
+        Writers Forward.md"
       - Singapore Writing Institute/.keep
       - Research Summaries/Podcast Series on Research Summaries.md
       - Research Summaries/Research Summary ― Children’s Talk and the
