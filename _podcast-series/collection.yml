@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - Singapore Writing Institute/.keep
       - Research Summaries/Podcast Series on Research Summaries.md
       - Research Summaries/Research Summary ― Children’s Talk and the
         Development of Reasoning in the Classroom.md
