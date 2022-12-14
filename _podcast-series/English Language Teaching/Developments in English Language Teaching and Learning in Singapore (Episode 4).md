@@ -17,10 +17,10 @@ To read the ‘Monograph on 50 Years of Developments in English Language Teachin
 
  [Link to Episode 1:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
 
-[Link to Episode 2:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
+[Link to Episode 2:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-2) 
 
 
-[Link to Episode 3:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
+[Link to Episode 3:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-3) 
 
 
 <em>Episode published 27 April 2022.</em>
