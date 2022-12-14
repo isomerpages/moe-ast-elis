@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - "Singapore Writing Institute/Teacher as Writer: Why Writing with your
+        Students is Important.md"
       - "Singapore Writing Institute/Teacher as Inquirer: Nurturing Voice in
         Students' Writing.md"
       - "Singapore Writing Institute/Teacher of Writers: How to Move Our Student
