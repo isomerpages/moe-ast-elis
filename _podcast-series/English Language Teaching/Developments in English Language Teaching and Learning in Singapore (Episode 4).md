@@ -15,10 +15,12 @@ In this episode, Tay May Yin, Principal Master Teacher, highlights through her c
 
 To read the ‘Monograph on 50 Years of Developments in English Language Teaching and Learning in Singapore’ referred to in this episode, please visit [go.gov.sg/50years](http://go.gov.sg/50years). 
 
-Link to Episode 1: [https://go.gov.sg/episode1](https://go.gov.sg/episode1) 
+ [Link to Episode 1:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
 
-Link to Episode 2: [https://go.gov.sg/dielepisode2](http://go.gov.sg/dielepisode2) 
+[Link to Episode 2:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
 
-Link to Episode 3: [https://go.gov.sg/dielepisode3](https://go.gov.sg/dielepisode3) 
+
+[Link to Episode 3:](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1) 
+
 
 <em>Episode published 27 April 2022.</em>
