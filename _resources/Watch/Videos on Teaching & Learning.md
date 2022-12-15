@@ -71,3 +71,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 <center><b>Collaborative Professional Learning</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
+<img src="/images/extended_suppkimbee.jpg" style="width:30%">
+<center><b>Extended Support for EL Teachers</b></center>
+</a></p>
