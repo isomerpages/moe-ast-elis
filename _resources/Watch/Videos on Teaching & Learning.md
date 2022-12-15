@@ -57,3 +57,7 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 <center><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/">
+<img src="/images/quality-question_seq.jpg" style="width:30%">
+<center><b>Quality Questions & Question Sequences</b></center>
+</a></p>
