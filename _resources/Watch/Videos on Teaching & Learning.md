@@ -61,3 +61,7 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 <img src="/images/quality-question_seq.jpg" style="width:30%">
 <center><b>Quality Questions & Question Sequences</b></center>
 </a></p>
+
+### Videos on Support for Teachers
+
+Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
