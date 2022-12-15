@@ -65,3 +65,9 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 ### Videos on Support for Teachers
 
 Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/collaborative-professional-learning/">
+<img src="/images/collab_prof_learning_o.jpg" style="width:30%">
+<center><b>Collaborative Professional Learning</b></center>
+</a></p>
+
