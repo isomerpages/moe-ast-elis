@@ -32,3 +32,7 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 <center><b>Differentiated Instruction</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
+<img src="/images/differentiating-instruction1s.jpg" style="width:30%">
+<center><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></center>
+</a></p>
