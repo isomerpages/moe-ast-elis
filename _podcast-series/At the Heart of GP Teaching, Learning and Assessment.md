@@ -82,6 +82,34 @@ Click the badges below to stream the ELIS Podcast on your favourite platform.
 <p><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT">
 <img src="/images/youtube.png" alt="youtube" style="width:30%">
 </a></p>
+			
+<p><a href="https://podcastaddict.com/?podId=2533012">
+<img src="/images/podcast-addict.png" alt="podcast addict" style="width:30%">
+</a></p>
+			
+<p><a href="https://play.acast.com/s/ELIS-Podcast">
+<img src="/images/listen_acast.png" alt="acast" style="width:30%">
+</a></p>
+
+<p><a href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkLnBvZGJlYW4uY29tL2VsaXNtb2UvZmVlZC54bWw">
+<img src="/images/google_podcasts_badge@8x.png" alt="google podcast" style="width:30%">
+</a></p>
+			
+<p><a href="https://overcast.fm/login">
+<img src="/images/overcast-pod-(1).png" alt="overcast" style="width:30%">
+</a></p>
+			
+<p><a href="https://pca.st/e88ymdqk">
+<img src="/images/pocket-casts-pod-(1).png" alt="pocket cast" style="width:30%">
+</a></p>
+
+<p><a href="https://www.stitcher.com/show/elis-podcast">
+<img src="/images/stitcher.png" alt="stitcher" style="width:30%">
+</a></p>
+	
+<p><a href="https://feed.podbean.com/elismoe/feed.xml">
+<img src="/images/iphone-rss-feed@8x.png" alt="RSS feed" style="width:30%">
+</a></p>
     </div>
 
 </li>
