@@ -36,3 +36,14 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 <img src="/images/differentiating-instruction1s.jpg" style="width:30%">
 <center><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
+<img src="/images/selecting-and-designing-english-language-lessons-for-differentiated-instruction.jpg" style="width:30%">
+<center><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
+<img src="/images/whatsapp-image-2021-03-25-at-18-59-5612a8567afe0b420db4c6eac237e21833.jpg" style="width:30%">
+<center><b>How does Differentiated Instruction Work in a Large English Language Class?</b></center>
+</a></p>
+
