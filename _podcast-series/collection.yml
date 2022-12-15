@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - At the Heart of GP Teaching, Learning and Assessment.md
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
