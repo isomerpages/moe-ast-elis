@@ -79,6 +79,9 @@ Click the badges below to stream the ELIS Podcast on your favourite platform.
 <img src="/images/tunein-badge.png" alt="tune in" style="width:30%">
 </a></p>
 
+<p><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT">
+<img src="/images/youtube.png" alt="youtube" style="width:30%">
+</a></p>
     </div>
 
 </li>
