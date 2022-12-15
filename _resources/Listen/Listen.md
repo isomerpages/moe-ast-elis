@@ -25,3 +25,13 @@ Share this page by copying this short URL: [go.gov.sg/elispodcast](http://go.go
 <img src="/images/11.png" style="width:30%">
 <center><b>Classroom Inquiry</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/research-summaries-podcasts/">
+<img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:30%">
+<center><b>Podcast Series on Research Summaries</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
+<img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:30%">
+<center><b>Singapore Writing Institute</b></center>
+</a></p>
