@@ -48,3 +48,7 @@ Share this page by copying this short URL: [go.gov.sg/elispodcast](http://go.go
 
 ### Special Highlights
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-developments-in-english-language/">
+<img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:30%">
+<center><b>Developments in English Language Teaching and Learning in Singapore</b></center>
+</a></p>
