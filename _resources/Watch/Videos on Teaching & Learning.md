@@ -17,18 +17,18 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 </a></p>
 
 
-<p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/cllips-and-acolade/">
 <img src="/images/cllips-and-acolades_b.jpg" style="width:30%">
 <center><b>Teaching, Learning & Assessment</b></center>
 </a></p>
 
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
 <img src="/images/text-selection-adaptation-thumb.jpg" style="width:30%">
 <center><b>Text Selection and Adaptation</b></center>
 </a></p>
 
-
-
-
-
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction/">
+<img src="/images/differentiated-ins1b.jpg" style="width:30%">
+<center><b>Differentiated Instruction</b></center>
+</a></p>
 
