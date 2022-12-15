@@ -75,3 +75,8 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 <img src="/images/extended_suppkimbee.jpg" style="width:30%">
 <center><b>Extended Support for EL Teachers</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
+<img src="/images/classroom_inq_m.jpg" style="width:30%">
+<center><b>Inquiry into Classroom Practice: Lesson Study</b></center>
+</a></p>
