@@ -313,3 +313,5 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
 </tbody>
 </table>
+
+### e-Conference Resources
