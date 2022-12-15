@@ -51,3 +51,9 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 <img src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg" style="width:30%">
 <center><b>Differentiating by Process through Flexible Grouping</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+<img src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg" style="width:30%">
+<center><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></center>
+</a></p>
+
