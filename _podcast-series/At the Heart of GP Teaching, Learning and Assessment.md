@@ -38,7 +38,29 @@ This podcast was co-developed with the Curriculum Planning and Development Divis
 
 
 Click the badges below to stream the ELIS Podcast on your favourite platform.
+<div class="row">
+	<div class="col-sm-4">
+		<p><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&nd=1">
+<img src="/images/badge---spotify.png" alt="spotify" style="width:25%">
+	</a></p>
+	</div>
 
+<div class="col-sm-4">
+<p><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865">
+<img src="/images/badge---applepodcasts.png" alt="apple podcast" style="width:25%">
+</a></p>
+	</div>
+	
+<div class="col-sm-4">
+<p><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT">
+<img src="/images/youtube.png" alt="youtube" style="width:25%">
+</a></p>
+</div>
+
+</div>
+
+
+	
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
