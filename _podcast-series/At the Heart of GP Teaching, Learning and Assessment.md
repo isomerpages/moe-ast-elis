@@ -41,19 +41,19 @@ Click the badges below to stream the ELIS Podcast on your favourite platform.
 <div class="row">
 	<div class="col-sm-4">
 		<p><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&nd=1">
-<img src="/images/badge---spotify.png" alt="spotify" style="width:25%">
+<img src="/images/badge---spotify.png" alt="spotify" style="width:30%">
 	</a></p>
 	</div>
 
 <div class="col-sm-4">
 <p><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865">
-<img src="/images/badge---applepodcasts.png" alt="apple podcast" style="width:25%">
+<img src="/images/badge---applepodcasts.png" alt="apple podcast" style="width:30%">
 </a></p>
 	</div>
 	
 <div class="col-sm-4">
 <p><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT">
-<img src="/images/youtube.png" alt="youtube" style="width:25%">
+<img src="/images/youtube.png" alt="youtube" style="width:30%">
 </a></p>
 </div>
 
@@ -66,9 +66,20 @@ Click the badges below to stream the ELIS Podcast on your favourite platform.
     <input type="checkbox" id="accordion1">
     <label for="accordion1">All Available Streaming Platforms</label>
     <div>
-
-      <p>This is a simple one line item</p>
+      <p>The ELIS Podcast is available on Spotify, iTunes, YouTube, Overcast, Pocket Casts, Acast, TuneIn, Stitcher and Podcast Addict. You can use your web browser to listen to the podcasts, or choose one of the following apps to listen to podcasts. <a href="mailto:moe_elis_academy@moe.gov.sg">Email us</a> if our podcast is not available on your usual podcast player and we will make sure it gets there!</p>
+<p><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&nd=1">
+<img src="/images/badge---spotify.png" alt="spotify" style="width:30%">
+</a></p>
+			
+<p><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865">
+<img src="/images/badge---applepodcasts.png" alt="apple podcast" style="width:30%">
+</a></p>
+			
+<p><a href="https://tunein.com/podcasts/Education-Podcasts/ELIS-Podcast-p1285568/">
+<img src="/images/tunein-badge.png" alt="tune in" style="width:30%">
+</a></p>
 
     </div>
 
 </li>
+</ul>
