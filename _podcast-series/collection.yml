@@ -2,7 +2,6 @@ collections:
   podcast-series:
     output: true
     order:
-      - At the Heart of GP Teaching, Learning and Assessment.md
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
@@ -86,3 +85,4 @@ collections:
         Learning in Singapore (Episode 3).md
       - English Language Teaching/Developments in English Language Teaching and
         Learning in Singapore (Episode 4).md
+      - At the Heart of GP Teaching, Learning and Assessment.md
