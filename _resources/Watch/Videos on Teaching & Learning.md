@@ -80,3 +80,21 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 <img src="/images/classroom_inq_m.jpg" style="width:30%">
 <center><b>Inquiry into Classroom Practice: Lesson Study</b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+<img src="/images/inquiry-classroom.jpg" style="width:30%">
+<center><b>Inquiry into Classroom Practice: Action Research</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
+<img src="/images/shalini_coteaching.jpg" style="width:30%">
+<center><b>What is Co-Teaching?</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+<img src="/images/cedric_sig.jpg" style="width:30%">
+<center><b>What is a Special Interest Group (SIG)?</b></center>
+</a></p>
+
+
+
