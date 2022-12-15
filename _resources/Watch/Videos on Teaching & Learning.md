@@ -219,3 +219,97 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
 </tbody>
 </table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-d1dx{background-color:#FFF;color:#212529;text-align:center;vertical-align:middle}
+.tg .tg-7rqu{background-color:#FFF;color:#212529;font-weight:bold;text-align:center;vertical-align:bottom}
+.tg .tg-w43o{background-color:#FFF;color:#212529;font-weight:bold;text-align:left;vertical-align:bottom}
+.tg .tg-eya1{background-color:#FFF;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-7rqu">No</th>
+    <th class="tg-w43o">Title of MLU (Research and Subject Literacy)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-d1dx">1</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191"><span style="color:#CA2126;background-color:transparent">Using the Frayer Model strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">2</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282"><span style="color:#CA2126;background-color:transparent">Using the Concept Circle strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">3</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71"><span style="color:#CA2126;background-color:transparent">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">4</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f"><span style="color:#CA2126;background-color:transparent">"Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary"</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">5</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11"><span style="color:#CA2126;background-color:transparent">Using the Word Wall strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">6</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd"><span style="color:#CA2126;background-color:transparent">Using the Annotating Texts strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">7</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c"><span style="color:#CA2126;background-color:transparent">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">8</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b66bf19b-9edb-4ccd-8415-4e983b206785"><span style="color:#CA2126;background-color:transparent">The Role of Talk in Mathematics Classrooms</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">9</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fb075609-9f51-4b41-b762-068b86fefc96"><span style="color:#CA2126;background-color:transparent">What does a productive discussion in Mathematics look like?</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">10</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/40a59fb8-c5ef-451d-aa6c-5973092d2178"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 1 of 3)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">11</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d5cfa5b-14ba-478d-acb8-1bc853a63e3d"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 2 of 3)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">12</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/70afb801-c01a-4eae-bbb8-e6d86db54d0e"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 3 of 3)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">13</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">14</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7b74925e-c877-4303-abe0-4c4228fb126d"><span style="color:#CA2126;background-color:transparent">Initiating Questions for Facilitating Productive Academic Discussion</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">15</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a"><span style="color:#CA2126;background-color:transparent">Crafting Inquiry Questions</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">16</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0ea24868-19c6-40c4-af00-354a818b6033"><span style="color:#CA2126;background-color:transparent">Collecting Qualitative Data</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">17</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d5b42c63-2fda-40ea-ae8f-9638387cb26c"><span style="color:#CA2126;background-color:transparent">Analysing Qualitative Data</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">18</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a0461416-04a0-4f5d-a172-c7a8a24f4f50"><span style="color:#CA2126;background-color:transparent">Communicating Inquiry</span></a></td>
+  </tr>
+</tbody>
+</table>
