@@ -13,12 +13,12 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: Read @ Academy
+          description: ""
+          url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
+        - title: OPAL 2.0
+          description: ""
+          url: https://www.opal2.moe.edu.sg/app/learner
         - title: Page A
           description: Page A is important too
           url: /privacy/
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
