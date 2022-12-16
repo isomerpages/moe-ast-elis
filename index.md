@@ -24,7 +24,6 @@ sections:
           url: https://www.opal2.moe.edu.sg/app/learner
   - infobar:
       title: Infobar title
-      subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
