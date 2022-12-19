@@ -2,6 +2,8 @@ collections:
   professional-learning:
     output: true
     order:
+      - Learning Opportunities/Communicating Effectively in Teaching and
+        Learning.md
       - Learning Opportunities/Professional Learning Opportunities.md
       - Learning Opportunities/.keep
       - Professional Learning.md
