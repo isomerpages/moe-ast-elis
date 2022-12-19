@@ -2,4 +2,5 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Communicating Effectively/Using Talk to Support Writing.md
       - Communicating Effectively/.keep
