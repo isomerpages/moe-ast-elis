@@ -23,3 +23,13 @@ By the end of this course, you will be able to:
 
 <img src="/images/course%20structure%202.png" 
      style="width:70%">
+		 
+### Target Participants
+
+English-medium Subject Teachers and English Language Teachers interested in understanding how to use productive academic discussions to support their students’ learning
+
+### Registration
+
+
+Please register on **OPAL2.0** using this code: **SLI-000019/01**.  
+Closing date for registration: Wed, 1 Mar
