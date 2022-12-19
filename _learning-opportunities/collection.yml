@@ -1,4 +1,5 @@
 collections:
   learning-opportunities:
     output: true
-    order: []
+    order:
+      - Communicating Effectively/.keep
