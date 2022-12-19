@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Courses on Item Setting/Courses on Item Setting.md
       - Courses on Item Setting/Classroom Inquiry for EL and Literature
         Teachers.md
       - Courses on Item Setting/Skilful Questioning to Deepen Learning in the
