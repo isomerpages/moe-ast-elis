@@ -41,4 +41,4 @@ Closing date for registration:
 		 
 ### For enquiries, please contact:* 
 Ms Selene Tan (Senior Academy Officer/Pedagogy) at 
-<a href="mailto:selene_tan@moe.gov.sg.">selene_tan@moe.gov.sg.</a>
+<a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg.</a>
