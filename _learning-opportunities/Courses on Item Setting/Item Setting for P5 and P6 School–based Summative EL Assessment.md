@@ -35,3 +35,10 @@ Registration for the course is limited to a maximum of three participants from e
 
 Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000092/01**.  
 Closing date for registration:
+
+<img src="/images/registration%201.png" 
+     style="width:70%">
+		 
+**For enquiries, please contact:**  
+Ms Selene Tan (Senior Academy Officer/Pedagogy) at 
+<a href="mailto:selene_tan@moe.gov.sg.">selene_tan@moe.gov.sg.</a>
