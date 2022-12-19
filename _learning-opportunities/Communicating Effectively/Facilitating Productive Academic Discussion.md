@@ -33,3 +33,7 @@ English-medium Subject Teachers and English Language Teachers interested in unde
 
 Please register on **OPAL2.0** using this code: **SLI-000019/01**.  
 Closing date for registration: Wed, 1 Mar
+
+### For enquiries, please contact:
+Dr Darren Nonis (Senior Academy Officer/Research) at
+<a href="mailto:darren_anthonio_marino_nonis@moe.gov.sg.">darren_anthonio_marino_nonis@moe.gov.sg</a>
