@@ -2,6 +2,8 @@ collections:
   professional-learning:
     output: true
     order:
+      - Learning Opportunities/Key Personnel & Teacher Leader Growth
+        Programmes.md
       - Learning Opportunities/Courses on Item Setting.md
       - Learning Opportunities/Communicating Effectively in Teaching and
         Learning.md
