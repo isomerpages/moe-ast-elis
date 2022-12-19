@@ -2,5 +2,6 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Communicating Effectively/Facilitating Productive Academic Discussion.md
       - Communicating Effectively/Using Talk to Support Writing.md
       - Communicating Effectively/.keep
