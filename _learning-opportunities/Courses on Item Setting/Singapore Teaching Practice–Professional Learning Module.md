@@ -33,5 +33,8 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000097/01**.  
 Closing date for registration: Tue, 23 May
-		 
-		 
+
+### For enquiries, please contact:* 
+Ms Charmaine Tan (Assistant Director/Pedagogy) at 
+<a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg.</a>
+
