@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Courses on Item Setting/.keep
       - Communicating Effectively/Language and Literacy Across the Curriculum.md
       - Communicating Effectively/Facilitating Productive Academic Discussion.md
       - Communicating Effectively/Using Talk to Support Writing.md
