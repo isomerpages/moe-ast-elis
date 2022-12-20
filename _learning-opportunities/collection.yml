@@ -2,6 +2,8 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Grammar Courses/Building Knowledge of English Grammar – Time, Tense and
+        Aspect (Primary).md
       - Grammar Courses/Building Knowledge of English Grammar – Subject–Verb
         Agreement (Primary).md
       - Grammar Courses/Building Knowledge of English Grammar – Noun Phrases
