@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - PLP@SCHOOL/Teaching Grammar.md
       - PLP@SCHOOL/Teaching Extensive Reading and Viewing.md
       - PLP@SCHOOL/E–Pedagogy and Blended Learning in English Language.md
       - PLP@SCHOOL/.keep
