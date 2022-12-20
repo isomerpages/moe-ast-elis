@@ -59,3 +59,10 @@ Please note the following:
 *   Feb-Mar 2023: group interviews will be conducted for all applicants
 
 Participants must be fully present, excused from duties by their school principals for the duration of SWI 2023, and commit to participating in postSWI continuity activities.
+
+### For enquiries, please contact:
+Dr Darren Nonis (Senior Academy Officer/Research) at  
+<a href="mailto:darren_anthonio_marino_nonis@moe.gov.sg ">darren_anthonio_marino_nonis@moe.gov.sg </a>
+OR  
+Mdm Rita Pillai (MTT/EL) at 
+<a href="mailto:rita_pillai@moe.gov.sg ">rita_pillai@moe.gov.sg</a>
