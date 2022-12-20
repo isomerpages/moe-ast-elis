@@ -2,6 +2,8 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Grammar Courses/Building Knowledge of English Grammar – Noun Phrases
+        (Primary).md
       - Grammar Courses/Building Knowledge of English Grammar – Cohesion and
         Coherence (Primary).md
       - Grammar Courses/Building Knowledge of English Grammar – Adverbials
