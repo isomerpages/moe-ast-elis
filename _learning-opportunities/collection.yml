@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - PLP@SCHOOL/E–Pedagogy and Blended Learning in English Language.md
       - PLP@SCHOOL/.keep
       - "KP& LT ST Growth Programmes/96–hr PLP: Building Subject Content
         Knowledge for EL Teaching, Learning and Assessment.md"
