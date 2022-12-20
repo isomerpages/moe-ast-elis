@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Leader Growth Programmes/.keep
       - Courses on Item Setting/.keep
       - Courses on Item Setting/Item Setting for P5 and P6 School–based
         Summative EL Assessment.md
