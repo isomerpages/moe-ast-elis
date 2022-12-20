@@ -17,3 +17,9 @@ In the SFEd courses on Inquiry-Based Learning (IBL), you will:
 
 There are courses at three Levels of Practice that you can choose from:
 
+<img src="/images/picture.png" 
+     style="width:70%">
+		 
+To decide on the most appropriate Level of Practice to meet your learning needs, please refer to the information for each of the three Levels of Practice below.
+
+### Levels of Practice
