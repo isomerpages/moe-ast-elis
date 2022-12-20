@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - PLP@SCHOOL/Teaching Oracy (Secondary).md
       - PLP@SCHOOL/Teaching Grammar (Secondary).md
       - PLP@SCHOOL/Teaching Writing and Representing (Primary).md
       - PLP@SCHOOL/Teaching Reading, Viewing and Vocabulary (Primary).md
