@@ -2,6 +2,8 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - SkillsFuture for Educators/Differentiating Instruction in the Primary
+        English Language Classroom (Primary).md
       - SkillsFuture for Educators/.keep
       - Grammar Courses/Building Knowledge of English Grammar – Word Classes
         (Secondary).md
