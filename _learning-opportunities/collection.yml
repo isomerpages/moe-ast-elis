@@ -2,6 +2,8 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Leader Growth Programmes/Professional Dialogue with Master Teachers &
+        EL.md
       - Leader Growth Programmes/Clinic with Master Teachers & EL.md
       - Leader Growth Programmes/.keep
       - Courses on Item Setting/.keep
