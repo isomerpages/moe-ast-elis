@@ -2,6 +2,8 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Grammar Courses/Building Knowledge of English Grammar – Subject–Verb
+        Agreement (Secondary).md
       - Grammar Courses/Building Knowledge of English Grammar – Noun Phrases
         (Secondary).md
       - Grammar Courses/Building Knowledge of English Grammar – Cohesion and
