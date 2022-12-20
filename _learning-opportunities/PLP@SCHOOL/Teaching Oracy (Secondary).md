@@ -6,7 +6,7 @@ third_nav_title: PLP@SCHOOL
 ---
 ### Growing Inquirers through Dialogue
 
-What are ways I can teach my students the use of learner strategies and skills to improve oral communication and classroom interaction? How can I encourage student collaboration and knowledge construction through purposeful exploratory talk? What are the learner strategies in the areas of listening and viewing, speaking and representing, and oral interaction that my students should acquire to be empathetic communicators, discerning listeners and viewers as well as creative inquirers? How can I teach oracy effectively, including in blended learning contexts?
+<em>What are ways I can teach my students the use of learner strategies and skills to improve oral communication and classroom interaction? How can I encourage student collaboration and knowledge construction through purposeful exploratory talk? What are the learner strategies in the areas of listening and viewing, speaking and representing, and oral interaction that my students should acquire to be empathetic communicators, discerning listeners and viewers as well as creative inquirers? How can I teach oracy effectively, including in blended learning contexts?</em>
 
 ### Overview
 
