@@ -23,3 +23,26 @@ There are courses at three Levels of Practice that you can choose from:
 To decide on the most appropriate Level of Practice to meet your learning needs, please refer to the information for each of the three Levels of Practice below.
 
 ### Levels of Practice
+
+<img src="/images/Proficient%202.png" 
+     style="width:70%">
+		 
+<img src="/images/Accomplished%202.png" 
+     style="width:70%">
+		 
+<img src="/images/leading%202.png" 
+     style="width:70%">
+
+### Course Structure
+
+<img src="/images/course%20structure%2023.png" 
+     style="width:70%">
+		 
+### Target Participants
+
+EL Key Personnel, Teacher Leaders and Teachers
+
+### Registration
+
+<img src="/images/registration%204.png" 
+     style="width:70%">
