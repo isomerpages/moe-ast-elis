@@ -28,4 +28,21 @@ To decide on the most appropriate Level of Practice to meet your learning needs,
      style="width:70%">
 		 
 <img src="/images/accomplished%203.png" 
-     style="width:70%">		 
+     style="width:70%">
+
+<img src="/images/leading%203.png" 
+     style="width:70%">
+		 
+### Course Structure
+
+<img src="/images/course%20structure%2024.png" 
+     style="width:70%">
+		 
+### Target Participants
+
+EL Key Personnel, Teacher Leaders and Teachers
+
+### Registration 
+
+![](/images/registration%205.png)
+
