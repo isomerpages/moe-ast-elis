@@ -46,3 +46,8 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ![](/images/registration%205.png)
 
+### For enquiries, please contact:
+
+Ms Selene Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
+OR  
+Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.sg">eunice_lim@moe.gov.sg.</a>
