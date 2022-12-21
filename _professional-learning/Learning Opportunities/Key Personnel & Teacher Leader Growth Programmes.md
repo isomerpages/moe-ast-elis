@@ -9,7 +9,7 @@ A range of programmes is offered for Key Personnel, Lead Teachers and Senior Tea
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Simple</label>
+    <label for="accordion1">Lead Teacher-Senior Teacher (LT-ST Growth Programmes)</label>
     <div>
       <p>This is a simple one line item</p>
     </div>
