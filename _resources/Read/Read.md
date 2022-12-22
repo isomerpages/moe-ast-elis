@@ -15,3 +15,8 @@ Deepen your understanding through our extensive library of e-publications on ped
 <center><b>ELIS e–Digest</b></center>
 </a></p>
 
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-e-digest-new/">
+<img src="/images/elis-e-digest-social-media-poster-(issue-3).png" style="width:30%">
+<center><b>ELIS e–Digest</b></center>
+</a></p>
+
