@@ -5,7 +5,8 @@ description: ""
 ---
 ### Student Learning Space Resources for EL Teachers
 
-![](/images/teach_banner.png)
+<img src="/images/teach_banner.png" 
+     style="width:50%">
 
 Use our resources on the Student Learning Space (SLS) to teach your students learner strategies that they need for learning and using English Language in the various Areas of Language Learning. You will also find suggestions on accompanying lesson activities in these resources.  
 
