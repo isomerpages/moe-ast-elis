@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Listen.md
       - Watch/.keep
       - Watch/Videos on Teaching & Learning.md
       - "Watch/Supporting Inquiry—Based Learning in the English Language
@@ -25,6 +24,7 @@ collections:
       - "Watch/Inquiry into Classroom Practice: Action Research.md"
       - Watch/What is Co—Teaching?.md
       - Watch/What is a Special Interest Group?.md
+      - Listen.md
       - Read/.keep
       - Read/Research Summaries.md
       - Read/ELIS Research Fund Reports.md
