@@ -85,8 +85,19 @@ third_nav_title: Read
 
 ### Issue 1, 2016
 
-<p><a href="/files/elis-sl-inquiry-digest-issue-3-2018_final.pdf">
-<img src="/images/sl_inquiry_dig_vol2.jpg" alt="Issue 2" style="width:30%">
+<p>
+<img src="/images/sl_inquiry_dig_vol1.jpg" alt="Issue 1" style="width:30%">
 </a></p>
 
-![](/images/sl_inquiry_dig_vol1.jpg)
+##### Scaffolding Written Explanations in Primary Science
+
+**North Vista Primary School**
+
+##### Supporting Chemistry Students in Constructing Scientific Explanations
+
+**Junyuan Secondary School**
+
+##### Enhancing Classroom Interactions in Primary Mathematics and Science through Teacher Reflection
+
+
+**St. Andrew’s Junior School**
