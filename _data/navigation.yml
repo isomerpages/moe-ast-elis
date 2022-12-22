@@ -13,3 +13,10 @@ links:
     collection: professional-learning
   - title: Learning Communities
     collection: learning-communities
+  - title: Resources
+    url: /elis/resources/watch/
+    sublinks:
+      - title: Watch
+        url: /elis/resources/watch/
+      - title: Listen
+        url: /elis/resources/listen/
