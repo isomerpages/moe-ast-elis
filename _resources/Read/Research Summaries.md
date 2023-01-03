@@ -51,9 +51,7 @@ The summaries are sorted under the headings below and you can click on an indivi
    <div>
 		  <p>1.  <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/grammar/gendered-differences-in-language/">A study of gender and language in teenage personal weblogs in Singapore (Master's thesis)</a><br>
     Chionh, J. P. F. (2008). Retrieved from http://libris.nie.edu.sg/<br>
-				
-2.  [Academic conversations: Classroom talk that fosters critical thinking and content understandings.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/academic-conversations)   
-    Zweirs, J., & Crawford, M. (2011). Portland, Maine: Stenhouse Publishers.
+2. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/grammar/academic-conversations/">Academic conversations: Classroom talk that fosters critical thinking and content understandings.</a><br> Zweirs, J., & Crawford, M. (2011). Portland, Maine: Stenhouse Publishers.<br>       
 3.  [Beliefs, knowledge and practices of grammar pedagogy: A case study of specialist teachers at the Dyslexia Association of Singapore (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/beliefs-knowledge-and-practices-of-grammar-pedagogy)  
     Lin, V. L. C. (2011). Retrieved from http://libris.nie.edu.sg/
 4.  [Benefits and concerns of lesson study](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/benefits-and-concerns-of-lesson-study)  
