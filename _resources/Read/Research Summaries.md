@@ -107,5 +107,43 @@ The summaries are sorted under the headings below and you can click on an indivi
    <input type="checkbox" id="accordion4">
    <label for="accordion4">Listening and Viewing</label>
    <div>
-	<p>
+	<p>1. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/listening-process-second-language-learner/">A study of primary school learners' metacognitive awareness of second language listening comprehension (Master's thesis).</a><br>Yusnita, M. T. (2003). Retrieved from http://libris.nie.edu.sg/<br>
+2. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/dialogic-discussion-in-classroom/">Closing the gap between concept and practice: Toward more dialogic discussion in the language arts classroom.</a><br>  Adler, M., Rougle, E., Kaiser, E., & Caughlan, S. (2003). _Journal of Adolescent & Adult Literacy, 47_(4), 312-322.<br>
+3. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/cooperativelearning-listeningcomprehension/">Cooperative learning and metacognitive awareness in listening comprehension (Master's thesis).</a><br> Haridas, P. (2008). Retrieved from http://libris.nie.edu.sg/<br>
+4.  [Developing communities of mathematical inquiry.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/community-inquiry-and-understanding-maths)  
+    Alton-Lee, A., Hunter, R., Sinnema, C., & Pulegatoa-Diggins, C. (2012). _Quality Teaching for Diverse (All) Learners in Schooling: Best Evidence Synthesis Iteration \[BES\]_. Wellington, New Zealand: Ministry of Education, New Zealand.
+5.  [Discovery listening—improving perceptual processing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/discovery-listening-improving-perceptual-processing)  
+    Wilson, M. (2003). Discovery listening—improving perceptual processing. _ELT journal,_ 57(4), 335-343.
+6.  [From oracy to literacy.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/adults-moving-from-oracy-to-literacy)   
+    Sticht, T. G. (2003). _Literacy Today, 36_, 18.
+7.  [Identifying 'quality' in classroom talk: An enduring research task.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/identifying-quality-classroom-talk)  
+    Westgate, D., & Hughes, M. (1997). _Language and Education, 11_(2), 125-139. doi: 10.1080/09500789708666723.
+8.  [Insights into young learners' metacognitive awareness about listening](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/insights-into-young-learners'-metacognitive-awareness-about-listening#39;-metacognitive-awareness-about-listening)  
+    Goh, C. C. M., & Kaur, K. (2013). Insights into young learners' metacognitive awareness about listening. _The European Journal of Applied Linguistics and TEFL,_ 2(1), 5-26.
+9.  [Investigating language learner strategies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/investigating-language-learner-strategies)  
+    Gu, P. Y., Hu, G., & Zhang, L. J. (2005). Investigating language learner strategies among lower primary school pupils in Singapore. _Language and Education,_ 19(4), 281-303.
+10.  [Investigating Predictors of Listening Comprehension](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/investigating-predictors-of-listening-comprehension)   
+    Tighe, E. L., Spencer, M., & Schatschneider, C. (2015). Investigating predictors of listening comprehension in third-, seventh-, and tenth-grade students: A dominance analysis approach. _Reading Psychology, 36_(8), 700-740. doi:10.1080/02702711.2014.963270
+11.  [Learners' perceptions of listening comprehension problems and language](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/learners'-perceptions-of-listening-comprehension-problems-and-language#39;-perceptions-of-listening-comprehension-problems-and-language)  
+    Hasan, A. S. (2000). Learners' perceptions of listening comprehension problems. _Language, Culture and Curriculum, 13_(2), 137-153. doi: 10.1080/07908310008666595
+12.  [Literacy for the future](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/literacy-for-the-future).  
+    Palmer, S. (2003). _Education Review, 16_(2), 70-74.
+13.  [Metacognitive instruction in listening](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/metacognitive-instruction-in-listening)  
+    Goh, C., & Taib, Y. (2006). Metacognitive instruction in listening for young learners. _ELT Journal,_ 60(3), 222-232.
+14.  [Motivation requires a meaningful task.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/motivation-requires-a-meaningful-task)  
+    Frey, N., & Fisher, D. (2010). _English Journal, 100_(1), 30-36.
+15.  [Oracy: Social facets of language learning.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/oracy-and-language-learning)  
+    Saracho, O. N., & Spodek, B. (2007). _Early Child Development and Care, 177_(6-7), 695-705. doi: 10.1080/03004430701377540
+16.  [Predicting Singapore students' achievement goals in their English study: Self-construal and classroom goal structure.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/the-impact-of-classroom-practices-on-students'-learning-of-english#39;-learning-of-english)  
+    Luo, W., Hogan, D., & Paris, S. G. (2011). _Learning and Individual Differences, 21_(5), 526-535.
+17.  [Reading like a historian: A document-based History curriculum intervention in urban high schools.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/reading-like-a-historian)  
+    Reisman, A. (2012). _Cognition and Instruction, 30_(1), 86-112.
+18.  [Singaporean students’ awareness of listening and speaking strategies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/singaporean-students'-awareness-of-listening-and-speaking-strategies#39;-awareness-of-listening-and-speaking-strategies)  
+    Zhang, D., & Goh, C. C. (2006). Strategy knowledge and perceived strategy use: Singaporean students’ awareness of listening and speaking strategies. Language Awareness, 15(3), 199-219.
+19.  [The 'Document-Based Lesson': Bringing disciplinary inquiry into high school history classrooms with adolescent struggling readers.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/the-pedagogical-practices-of-a-'document-based-lesson'#39;)  
+    Reisman, A. (2012). _Journal of Curriculum Studies, 44:_2, 233-264.
+20.  [The role of self-efficacy, task value, and achievement goals in predicting learning strategies, task disengagement, peer relationship, and achievement outcome.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/student-motivation-and-learning-in-singapore)  
+    Liem, A. D., Lau, S., & Nie, Y. (2008). _Contemporary Educational Psychology, 33_(4), 486-512.
+21.  [Using argument as tool for science literacy](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/using-argument-as-tool-for-science-literacy)  
+    Washburn, E., & Cavagnetto, A. (2013). Using argument as a tool for integrating science and literacy. The Reading Teacher, 67(2), 127-136.
 </ul>
