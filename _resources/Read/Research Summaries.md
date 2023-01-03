@@ -128,4 +128,11 @@ The summaries are sorted under the headings below and you can click on an indivi
 19.  <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/pedagogical-practice-document-based-lesson/">The 'Document-Based Lesson': Bringing disciplinary inquiry into high school history classrooms with adolescent struggling readers.</a><br> Reisman, A. (2012). _Journal of Curriculum Studies, 44:_2, 233-264.<br>
 20.  <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/student-motivation-learning-in-singapore/">The role of self-efficacy, task value, and achievement goals in predicting learning strategies, task disengagement, peer relationship, and achievement outcome.</a><br> Liem, A. D., Lau, S., & Nie, Y. (2008). _Contemporary Educational Psychology, 33_(4), 486-512.<br>
 21. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/listening-viewing/using-argument-a-tool-for-science-literacy/">Using argument as tool for science literacy</a><br> Washburn, E., & Cavagnetto, A. (2013). Using argument as a tool for integrating science and literacy. The Reading Teacher, 67(2), 127-136.</p>
+	</div>
+	</li>
+	<li>
+   <input type="checkbox" id="accordion5">
+   <label for="accordion5">Reading and Viewing</label>
+   <div>
+	<p>
 </ul>
