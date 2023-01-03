@@ -45,4 +45,49 @@ The summaries are sorted under the headings below and you can click on an indivi
 23.  <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/assessment/writing-with-peer-response-using-genre-knowledge/">Writing with peer response using different types of genre knowledge</a><br>Hoogeveen, M., & van Gelderen, A. (2016). Writing with peer response using different types of genre knowledge: Effects on linguistic features and revisions of sixth-grade writers. _The Journal of Educational Research,_ 1-15. doi: 10.1080/0220671.2016.1190913</p>
     </div>
 </li>
+<li>
+   <input type="checkbox" id="accordion2">
+   <label for="accordion2">Grammar</label>
+   <div>
+		  <p>1.  <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/grammar/gendered-differences-in-language/">A study of gender and language in teenage personal weblogs in Singapore (Master's thesis)</a><br>
+    Chionh, J. P. F. (2008). Retrieved from http://libris.nie.edu.sg/<br>
+				
+2.  [Academic conversations: Classroom talk that fosters critical thinking and content understandings.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/academic-conversations)   
+    Zweirs, J., & Crawford, M. (2011). Portland, Maine: Stenhouse Publishers.
+3.  [Beliefs, knowledge and practices of grammar pedagogy: A case study of specialist teachers at the Dyslexia Association of Singapore (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/beliefs-knowledge-and-practices-of-grammar-pedagogy)  
+    Lin, V. L. C. (2011). Retrieved from http://libris.nie.edu.sg/
+4.  [Benefits and concerns of lesson study](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/benefits-and-concerns-of-lesson-study)  
+    Lee, J. F. K. (2008). A Hong Kong case of lesson study—Benefits and concerns. _Teaching and Teacher Education_, 24(5), 1115-1124.
+5.  [Building literacy communities of practice across subject disciplines in secondary schools.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/building-literacy-communities-of-practice-across-subject-disciplines)  
+    Wright, N. (2007). _Language and Education, 21_(5), 420-433.
+6.  [Disciplinary literacies across content areas: Supporting secondary reading through functional language analysis.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/disciplinary-literacies-and-functional-language-analysis)  
+    Fang, Z., & Schleppegrell, M. J. (2010). _Journal of Adolescent & Adult Literacy, 53_(7), 587-597. doi: 10.1598/JAAL.53.7.6
+7.  [English language teachers’ beliefs about the teaching of grammar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/english-language-teachers'-beliefs-about-the-teaching-of-grammar#39;-beliefs-about-the-teaching-of-grammar)  
+    Farrell, T. S., & Lim, P. C. P. (2005). Conceptions of grammar teaching: A case study of teachers’ beliefs and classroom practices. _TESL-EJ, 9_(2), 1-13.
+8.  [Is there a place for critical language awareness in the teaching of Business English to polytechnic students in Singapore?(Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/critical-language-awareness-among-business-english-students)  
+    Kan, H. K. (2010). Retrieved from http://libris.nie.edu.sg/
+9.  [Learning from a Learning Study](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/learning-from-a-learning-study)  
+    Adamson, B., & Walker, E. (2011). _Messy collaboration: Learning from a Learning Study. Teaching and Teacher Education, 27(1)_, 29-36. doi: http://dx.doi.org/10.1016/j.tate.2010.06.024
+10.  [Learning study as an approach to teacher development](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/learning-study-as-an-approach-to-teacher-development)  
+    Siu, I. Y. M. (2008). Learning study as an approach to teacher development in two primary schools. The Asia-Pacific Education Researcher, 17(1), 99–108.
+11.  [Perspectives on spoken grammar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/perspectives-on-spoken-grammar)  
+    Goh, C. (2009). _English Language Teachers Journal, 63_(4), 303-312.
+12.  [School Discourse](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/school-discourse)  
+    Christie, F., & Derewianka, B. (2010). London: Continuum.
+13.  [Teaching grammar and testing grammar in the English primary school](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/teaching-grammar-and-testing-grammar-in-the-english-primary-school)   
+    Safford, K. (2016). Teaching grammar and testing grammar in the English primary school: the impact on teachers and their teaching of the grammar element of the statutory test in spelling, punctuation and grammar (SPaG). _Changing English, 23_(1), 3-21. doi:10.1080/1358684X.2015.1133766
+14.  [The impact of embedded grammar teaching on students’ writing and students’ metalinguistic understanding](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/the-impact-of-embedded-grammar-teaching-on-students'-writing-and-students'-metalinguistic-understanding#39;-metalinguistic-understanding)  
+    Myhill, D. A., Jones, S. M., Lines, H., & Watson, A. (2012). Re-thinking grammar: The impact of embedded grammar teaching on students’ writing and students’ metalinguistic understanding.  _Research Papers in Education, 27_(2), 139-166. doi:10.1080/02671522.2011.637640
+15.  [The role of dialogic pedagogy in teaching grammar](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/the-role-of-dialogic-pedagogy-in-teaching-grammar)   
+    Jones, P., & Chen, H. (2016). The role of dialogic pedagogy in teaching grammar. _Research Papers in Education, 31_(1), 45-69. doi:10.1080/02671522.2016.1106695
+16.  [The short-and long-term effect of explicit grammar instruction on fifth graders’ writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/the-short-and-long-term-effect-of-explicit-grammar-instruction-on-fifth-graders-writing)  
+    Feng, S., & Powers, K. (2005). The short- and long-term effect of explicit grammar instruction on fifth graders’ writing. _Reading Improvement,_ 42(2), 67-72.
+17.  [The syntactic influences of Chinese and Malay on the learning of English in Singapore](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/the-syntactic-influences-of-chinese-and-malay-on-the-learning-of-english-in-singapore)  
+    Tan, C. (2005). English or Singlish? The syntactic influences of Chinese and Malay on the learning of English in Singapore. _Journal of Language and Learning,_ 3(1), 156-179.
+18.  [The use of contextual clues in cloze procedures by Primary Six pupils in Singapore (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/using-contextual-clues-effectively-in-cloze-procedures)  
+    Oo, L. K. C. (2005). Retrieved from http://libris.nie.edu.sg/
+19.  [Using corpus-based materials as a teaching resource for the teaching of prepositions in a Singapore primary school(Master's thesis)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/corpus-based-material-as-a-teaching-resource)  
+    Ang, M. L. (2007). Retrieved from http://libris.nie.edu.sg/
+	 </div>
+</li>
 </ul>
