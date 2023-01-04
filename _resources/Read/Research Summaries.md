@@ -321,5 +321,159 @@ The summaries are sorted under the headings below and you can click on an indivi
 70. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/alternative-assessment-strategies/">Using journal writing and oral presentation as alternative assessment strategies in mathematics instruction: An empirical study in Singapore secondary schools (Doctoral dissertation).</a><br> Yeo, S. M. (2008). Retrieved from http://libris.nie.edu.sg/<br> 
 71. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/author-motivation-in-storytelling/">What now for language in a multimedia world?</a><br>  Malinowski, D., & Nelson, M. E. (2011). In C. M. L. Ho, K. T. Anderson, & A. P. Leong (Eds.), _Transforming literacies and language: Multimodality and literacy in the new media age_ (pp. 9-22). London: Continuum.<br>
 72. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/why-talk-is-important/">Why talk is important</a><br>  Barnes, D. (2010). Why talk is important. _English Teaching: Practice and Critique, 9_(2), 7-10.<br>
-73. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/writing-with-voiced-in-science/">Writing voiced arguments about science topics.</a><br> Monahan, M. B. (2013). _Journal of Adolescent & Adult Literacy, 57_(1), 31-40.<br>
+73. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/speaking-and-representing/writing-with-voiced-in-science/">Writing voiced arguments about science topics.</a><br> Monahan, M. B. (2013). _Journal of Adolescent & Adult Literacy, 57_(1), 31-40.</p>
+		 </div>
+	</li>
+	<li>
+   <input type="checkbox" id="accordion7">
+   <label for="accordion7">Subject Literacy</label>
+   <div>
+	<p>1.  [Building a house on sand: Why disciplinary literacy is not sufficient to replace general strategies for adolescent learners who struggle.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-and-struggling-learners)  
+    Faggella-Luby, M. N., Graner, P. S., Deshler, D. D., & Drew, S. V. (2012). _Topics in Language Disorders, 32_(1), 69-84.
+2.  [A case study of designing technology-enhanced learning in an elementary school in Singapore](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/a-case-study-of-designing-technology-enhanced-learning-in-an-elementary-school-in-singapore)   
+    Tay, L. Y., Melwan, M., Ong, J. L., & Ng, K. R. (2017). A case study of designing technology-enhanced learning in an elementary school in Singapore. _Learning: Research and Practice, 3_(2), 98-113. doi:10.1080/23735082.2017.1350737
+3.  [A project for teaching critical reading and writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/a-project-for-teaching-critical-reading-and-writing)   
+    Teo, P. (2014). Making the familiar strange and the strange familiar: a project for teaching critical reading and writing. _Language and Education, 28_(6), 539-551. doi:10.1080/09500782.2014.921191
+4.  [A social semiotics framework for conceptualizing content area literacies.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/literacy-in-content-areas)  
+    Wilson, A. A., (2011). _Journal of Adolescent & Adult Literacy, 54_(6), 435-444.
+5.  [Academic conversations: Classroom talk that fosters critical thinking and content understandings.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/academic-conversations)   
+    Zweirs, J., & Crawford, M. (2011). Portland, Maine: Stenhouse Publishers.
+6.  [Asking good questions: Promoting greater understanding of mathematics through purposeful teacher and student questioning.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/teacher-and-student-questioning-in-maths)  
+    Di Teodoro, S., Donders, S., Kemp-Davidson, J., Robertson, P., & Schuyler, L. (2011). _Canadian Journal of Action Research, 12_(2), 18-29.
+7.  [Asking Pompeii questions: A co-operative approach to writing in the disciplines.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/writing-in-archaeology)  
+    Somerville, E. M., & Creme, P. (2005). _Teaching in Higher Education, 10_(1), 17 - 28.
+8.  [Building literacy communities of practice across subject disciplines in secondary schools.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/building-literacy-communities-of-practice-across-subject-disciplines)  
+    Wright, N. (2007). _Language and Education, 21_(5), 420-433.
+9.  [Challenges faced by teachers of English language learners and limited English proficiency students](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/challenges-faced-by-teachers-of-english-language-learners-and-limited-english-proficiency-students)  
+    Khong, T. D. H., & Saito, E. (2014). Challenges confronting teachers of English language learners. _Educational Review, 66_(2), 210-225.
+10.  [Charting a Pathway: Embedding ICT and New Literacies into the Curriculum.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/literacy-and-multimodal-texts)  
+    Zammit, K. (2011). In C. M. L. Ho, K. T. Anderson & A. P. Leong (Eds.), _Transforming literacies and language: Multimodality and literacy in the new media age_ (pp. 9-22). London: Continuum.
+11.  [Children's talk and the development of reasoning in the classroom.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/children's-talk-and-reasoning#39;s-talk-and-reasoning)  
+    Mercer, N., Wegerif, R., & Dawes, L. (1999). _British Educational Research Journal, 25_(1), 95-111.
+12.  [Classroom dialogue](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/classroom-dialogue)  
+    Howe, C., & Abedin, M. (2013). Classroom dialogue: A systematic review across four decades of research. _Cambridge Journal of Education,_ 22(2), 1-32. doi: 10.1080/ 0305764X.2013.786024
+13.  [Classroom interaction in science: Teacher questioning and feedback to students' responses.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/classroom-interaction-in-science)  
+    Chin, C. (2006). _International Journal of Science Education, 28_(11), 1315-1346.
+14.  [Communicative competence in oral language assessment.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/assessing-communicative-competence)  
+    Oliver, R., Haig, Y., & Rochecouste, J. (2005). _Language and Education, 19_(3), 212-222. doi: 10.1080/09500780508668675.
+15.  [Competencies for teachers of English learners](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/competencies-for-teachers-of-english-learners)  
+    Faltis, C., Arias, M. B., & Ramírez-Marín, F. (2010). Identifying relevant competencies for secondary teachers of English learners. _Bilingual Research Journal,_ 33(3), 307-328, doi: 10.1080/15235882.2010.529350
+16.  [Creative tensions in teaching new texts and new literacies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/creative-tensions-in-teaching-new-texts-and-new-literacies)  
+    Matthewman, S., Blight, A., & Davies, C. (2004). What does multimodality mean for English? Creative tensions in teaching new texts and new literacies. _Education, Communication & Information,_ 4(1), 153-176.
+17.  [Developing communities of mathematical inquiry.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/community-inquiry-and-understanding-maths)  
+    Alton-Lee, A., Hunter, R., Sinnema, C., & Pulegatoa-Diggins, C. (2012). _Quality Teaching for Diverse (All) Learners in Schooling: Best Evidence Synthesis Iteration \[BES\]_. Wellington, New Zealand: Ministry of Education, New Zealand.
+18.  [Dialogic Interactions and Feedback](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/dialogic-interactions-and-feedback)  
+    Merkel, W. (2018). Role reversals: A case study of dialogic interactions and feedback. _Journal of Second Language Writing, 39_, 16–28.
+19.  [Dialogic space interactions](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/dialogic-space-interactions)  
+    Hammond, J. (2016). Dialogic space interactions between dialogic teaching and systemic functional linguistics. _Research Papers in Education,_ 31(1), 5-22. doi: 10.1080/02671522.2016.1106693
+20.  [Dialogic teaching in the primary Science classroom.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/dialogic-teaching-in-the-primary-science-classroom)  
+    Mercer, N., Dawes, L., & Staarman, J. (2009). Dialogic teaching in the primary science classroom. _Language and Education, 23_(4), 353-369. doi:10.1080/09500780902954273
+21.  [Disciplinary literacies across content areas: Supporting secondary reading through functional language analysis.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacies-and-functional-language-analysis)  
+    Fang, Z., & Schleppegrell, M. J. (2010). _Journal of Adolescent & Adult Literacy, 53_(7), 587-597. doi: 10.1598/JAAL.53.7.6
+22.  [Disciplinary Literacy in Elementary School](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-in-elementary-school)   
+    Shanahan, C., & Shanahan, T. (2014). Does Disciplinary Literacy Have a Place in Elementary School? _The Reading Teacher, 67_(8), 636–639. doi: 10.1002/trtr.1257
+23.  [Disciplinary literacy: Redefining deep understanding and leadership for 21st-century demands.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-and-21st-century-demands)  
+    Piercy, T., & Piercy, W. (2011). Englewood, CO: The Leadership and Learning Center.
+24.  [Disciplinary literacy: What you want to know about it.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/all-about-disciplinary-literacy)  
+    Fang, Z., & Coatoam, S. (2013). _Journal of Adolescent & Adult Literacy, 56_(8), 627-632. doi: 10.1002/JAAL.190
+25.  [Educating the next generation of literacy teachers](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/educating-the-next-generation-of-literacy-teachers)  
+    Comber, B. (2006). Pedagogy as work: Educating the next generation of literacy teachers. _Pedagogies,_ 1(1), 59-67.
+26.  [Foregrounding the disciplines in secondary literacy teaching and learning: A call for change.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplines-in-secondary-literacy-teaching)  
+    Moje, E. B., (2008). _Journal of Adolescent & Adult Literacy, 52_(2), 96-107
+27.  [Implementation of Differentiated Instruction](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/implementation-of-differentiated-instruction)  
+    Robinson, L., & Maldonado, D. N. (2014, November). Perceptions about implementation of differentiated instruction. Paper presented at the Annual Mid-South Educational Research (MSERA) Conference, Knoxville, TN.
+28.  [Improving Teacher Questioning in Science.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/improving-teacher-questioning-in-science)   
+    Oliveira, A. (2010). Improving Teacher Questioning in Science Inquiry Discussions through Professional Development. _Journal of Research in Science Teaching, 47_(4), 422-453. doi 10.1002/tea.20345
+29.  [Interactions between classroom discourse, teacher questioning, and student cognitive engagement in middle school science.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/role-of-teacher-questioning-in-promoting-student-engagement)  
+    Smart, J. B., & Marshall, J. C. (2013). _Journal of Science Teacher Education, 24_(2), 249-267.
+30.  [Investigating a Disciplinary Approach to Literacy Learning in a Secondary School](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/investigating-a-disciplinary-approach-to-literacy-learning-in-a-secondary-school)  
+    Hannant, K., & Jetnikoff, A. (2015). Investigating a disciplinary approach to literacy learning in a secondary school. _Literacy Learning: The Middle Years, 23_(3), 28-37.
+31.  [Investigating language learner strategies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/investigating-language-learner-strategies)  
+    Gu, P. Y., Hu, G., & Zhang, L. J. (2005). Investigating language learner strategies among lower primary school pupils in Singapore. _Language and Education,_ 19(4), 281-303.
+32.  [Learning the language of school history: The role of linguistics in mapping the writing demands of the secondary school curriculum.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-role-of-language-in-learning-history)  
+    Coffin, C. (2006). _Journal of Curriculum Studies, 38_(4), pp. 413-429.
+33.  [Literacy and language pedagogy within subject areas in years 7-11: final report](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/literacy-pedagogical-content-knowledge).  
+    Wilson, A., Jesson, R., Rosedale, N., & Cockle, V. (2012). Auckland: Auckland UniServices.
+34.  [Literacy pedagogical content knowledge](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/literacy-pedagogical-content-knowledge)  
+    Love, K. (2010). Literacy pedagogical content knowledge in the secondary curriculum. _Pedagogies: An International Journal, 5_(4), 338–355. doi:/10.1080/1554480X.2010.521630
+35.  [Making disciplinary writing and thinking practices an integral part of academic content teaching.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/integrating-writing-into-macroeconomics)  
+    Hunter, K., & Tse, H. (2013). _Active Learning in Higher Education, 14_(3), 227-239.
+36.  [Mapping subject-specific literacies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/mapping-subject-specific-literacies)  
+    Coffin, C. (2006). Mapping subject-specific literacies. _NALDIC Quarterly, 3_(3), 1-16. Retrieved from: http://oro.open.ac.uk/23272/2/Mapping\_subject-specific\_literacies.pdf
+37.  [Modifying textbook exercises to incorporate reasoning and communication into the primary mathematics classroom.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/incorporating-reasoning-and-communication-into-mathematics)  
+    Thompson, D. R. (2012). In B. Kaur & T. L. Toh (Eds.), _Reasoning, communication and connections in mathematics: Yearbook 2012, Association of Mathematics Educators_ (pp. 57-74). Singapore: World Scientific Publishing.
+38.  [Multiliteracies, pedagogy and identities](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/multiliteracies-pedagogy-and-identities)  
+    Giampapa, F. (2010). Multiliteracies, pedagogy and identities: Teacher and student voices from a Toronto elementary school. _Canadian Journal of Education,_ 33(2), 407-431.
+39.  [Oracy's central role in teaching mathematics effectively to EAL students.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/oracy-in-mathematics)   
+    Daykin, A. R. (2004). _International Schools Journal, 23_(2), 57-66.
+40.  [Oral presentation as an alternative assessment in mathematics.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/oral-presentations-in-maths)  
+    Seto, C. (2002). In D. Edge & B. H. Yeap (Eds.), _Mathematics education for a knowledge-based era_ (Vol. 2 Selected Papers, pp. 33-39). Singapore: Association of Mathematics Educators.
+41.  [Outside in/inside out: Bridging the gap in literacy education in Singapore classrooms.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/using-students-out-of-classroom-experiences-for-learning)  
+    Teo, P. (2008). _Language and Education, 22_(6), 411-431.
+42.  [Reading like a historian: A document-based History curriculum intervention in urban high schools.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/reading-like-a-historian)  
+    Reisman, A. (2012). _Cognition and Instruction, 30_(1), 86-112.
+43.  [Reading through a disciplinary lens.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/reading-in-the-disciplines)  
+    Juel, C., Hebard, H., Park-Haubner, J., & Moran, M. (2010). _Educational Leadership_, 67, 13-17.
+44.  [Recontextualising reading, rethinking teaching](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/recontextualising-reading-rethinking-teaching)  
+    Jones, S. A. (2012). Recontextualising reading, rethinking teaching: Reading in the English medium primary school in Singapore. _Education 3-13, 40_(3), 243-258.
+45.  [Scaffolding 4th Grade Students’ Scientific Explanation Writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/scaffolding-4th-grade-students-scientific-explanation-writing)  
+    Yang, H. T., & Wang, K. H. (2014). A Teaching Model for Scaffolding 4th Grade Students’ Scientific Explanation Writing. Research in Science Education, 44(4), 531-548. doi: 10.1007/s11165-013-9392-8
+46.  [School Discourse](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/school-discourse)  
+    Christie, F., & Derewianka, B. (2010). London: Continuum.
+47.  [Science, language and young learners](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/science-language-and-young-learners)  
+    Ippolito, J., Condie, C., Blanchette, J., & Cervoni, C. (2018). Learning science and literacy together: Professional learning that supports disciplinary literacy instruction for our youngest learners. _Science & Children. 56_(4), 91-95.
+48.  [Some "what" strategies that advance reasoning and communication in primary mathematics classrooms.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/advancing-reasoning-and-communication-in-mathematics)  
+    Kaur, B. (2012). In B. Kaur & T. L. Toh (Eds.), _Reasoning, communication and connections in mathematics: Yearbook 2012, Association of Mathematics Educators_ (pp. 75-88). Singapore: World Scientific Publishing.
+49.  [Students' multimodal construction of the work-energy concept.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/multimodal-construction)  
+    Tang, K.-S., Tan, S. C., & Yeo, J. (2011). _International Journal of Science Education, 33_(13), 1775-1804. doi: 10.1080/09500693.2010.508899
+50.  [Students’ and teachers’ perceptions of students’ self-assessment ability](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/students-and-teachers-perceptions-of-students-self-assessment-ability)  
+    Wong, H. M. (2014). I can assess myself: Singaporean primary students' and teachers' perceptions of students' self-assessment ability. _Education 3-13,_ 1-16.
+51.  [Subject-specific Literacy and School Learning](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/subject-specific-literacy-and-school-learning)  
+    Green, B. (1988). Subject-specific Literacy and School Learning: A Focus on Writing. _Australian Journal of Education,_ 32(2), 156-179. doi:/10.1177/000494418803200203
+52.  [Supporting knowledge construction and literate talk in Secondary Social Studies.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/classroom-talk-in-secondary-social-studies)  
+    Kramer-Dahl, A., Teo, P., & Chia, A. (2007). _Linguistics and Education, 18_(2), 167-199. doi: 10.1016/j.linged.2007.07.003
+53.  [Supporting middle school students with content area academic language](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/supporting-middle-school-students-with-content-area-academic-language)  
+    Townsend, D. (2015). Who’s using the language? Supporting middle school students with content area language. _Journal of Adolescent & Adult Literacy, 58_(5), 376-287.
+54.  [Talk for promoting enjoyment and developing understanding in Science.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/talk-for-promoting-enjoyment-and-developing-understanding-in-science)   
+    Dawes, L., Dore, B., Loxley, P., & Nichols, L. (2010). A talk focus for promoting enjoyment and developing understanding in science. _English Teaching: Practice and Critique, 9_(2), 99-110. Retrieved from: http://education.waikato.ac.nz/resources/files/etpc/files/2010v9n2nar1.pdf
+55.  [Teacher Questioning in Science Classrooms](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/teacher-questioning-in-science-classrooms)  
+    Chin, C. (2007). Teacher Questioning in Science Classrooms: Approaches that Stimulate Productive Thinking. _Journal of Research in Science Teaching, 44_(6), 815-843.
+56.  [Teachers' use of questioning and modelling comprehension skills in primary classrooms](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/teachers-use-of-questioning-and-modelling-comprehension-skills-in-primary-classrooms#39;-use-of-questioning-and-modelling-comprehension-skills-in-primary-classrooms)  
+    Parker, M., & Hurry, J. (2007). Teachers' use of questioning and modelling comprehension skills in primary classrooms. _Educational Review,_ 59(3), 299-314.
+57.  [Teachers’ concerns about vocabulary in content literacy methodology textbooks.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/teachers-concerns-about-vocabulary-in-content-literacy-methodology-textbooks)  
+    Wood, K. D., Vintinner, J., Hill-Miller, P., Harmon, J., & Hedrick, W. (2009). An investigation of teachers’ concerns about vocabulary and the representation of these concerns in content literacy methodology textbooks. _Reading Psychology, 30_, 319-339. doi: 10.1080/02702710802411562
+58.  [Teaching high school students to use heuristics while reading historical texts.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/reading-multiple-historical-texts)  
+    Nokes, J. D., Dole, J. A., & Hacker, D. J. (2007). _Journal of Educational Psychology, 99_(3), 492-504. doi: 10.1037/0022-0663.99.3.492
+59.  [The 'Document-Based Lesson': Bringing disciplinary inquiry into high school history classrooms with adolescent struggling readers.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-pedagogical-practices-of-a-'document-based-lesson'#39;)  
+    Reisman, A. (2012). _Journal of Curriculum Studies, 44:_2, 233-264.
+60.  [The analysis and reconciliation of students’ rebuttals in argumentation activities](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-analysis-and-reconciliation-of-students-rebuttals-in-argumentation-activities#39;-rebuttals-in-argumentation-activities)  
+    Lin, Y.-R., & Hung, J.-F. (2016). _The analysis and reconciliation of students’ rebuttals in argumentation activities. International Journal of Science Education,_ 38(1), 130-155. doi: 10.1080/09500693.2015.1134848
+61.  [The generative use of ICT in the language arts: Strategies in learning task design and implementation.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/ict-in-learning-task-design-and-implementation)  
+    De Souza, D. E., & Towndrow, P. A. (2011). In C. M. L. Ho, K. T. Anderson & A. P. Leong (Eds.), _Transforming literacies and language: Multimodality and literacy in the new media age_ (pp. 23-48). London: Continuum.
+62.  [The impacts of an early mathematics curriculum on oral language and literacy.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/mathematics-and-language)  
+    Sarama, J., Lange, A. A., Clements, D. H., & Wolfe, C. B. (2012). _Early Childhood Research Quarterly, 27_(3), 489-502. doi: 10.1016/j.ecresq.2011.12.002
+63.  [The language of different types of explanations in junior high school Science texts.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-language-of-different-types-of-explanations-in-junior-high-school-science-texts)  
+    Unsworth, L. (2001). Evaluating the language of different types of explanations in junior high school science texts. _International Journal of Science Education, 23_(6), pp. 585-609. doi:10.1080/09500690010006473
+64.  [The logogenesis of writing to learn: A systemic functional perspective.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/construction-of-scientific-knowledge-through-writing)  
+    Klein, P. D., & Unsworth, L. (2014). _Linguistics and Education, 26_, 1-17.
+65.  [The role of exploratory talk in classroom search engine tasks](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-role-of-exploratory-talk-in-classroom-search-engine-tasks)  
+    Knight, S., & Mercer, N. (2015). The role of exploratory talk in classroom search engine tasks. _Technology, Pedagogy and Education,_ 24(3), 303-309. doi: 10.1080/1475939X.2014.931884
+66.  [The tension between authoritative and dialogic discourse: A fundamental characteristic of meaning making interactions in high school science lessons.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/dialogic-and-authoritative-discourse-in-science-teaching)  
+    Scott, P. H., Mortimer, E. F., & Aguiar, O. G. (2006). _Science Education, 90_(4), 605-631. doi: 10.1002/sce.20131
+67.  [The use of classroom talk and multiple representations in teaching Science](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-use-of-classroom-talk-and-multiple-representations-in-teaching-science)   
+    Tang, K.-S. (2016). The interplay of representations and patterns of classroom discourse in science teaching sequences, _International Journal of Science Education, 38_(13), 2069-2095. doi:10.1080/09500693.2016.1218568
+68.  [Troubling teacher talk: The challenge of changing classroom discourse patterns.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/changing-classroom-discourse-patterns-through-the-scaffolding-approach)  
+    Culican, S. J. (2007). _The Australian Educational Researcher, 34_(2), 7-27.
+69.  [Understanding classroom talk in secondary three mathematics classes in Singapore.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/talk-in-mathematics-classes-in-singapore)  
+    Hogan, D., Rahim, R. A., Chan, M., Kwek, D., & Towndrow, P. (2012). In B. Kaur & T. L. Toh (Eds.), _Reasoning, communication and connections in mathematics: Yearbook 2012, Association of Mathematics Educators_ (pp. 169-197). Singapore: World Scientific Publishing.
+70.  [Using disciplinary literacies to enhance adolescents' engineering design activity.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-in-engineering)  
+    Wilson, A. A., Smith, E., & Householder, D. L. (2014). _Journal of Adolescent & Adult Literacy, 57_(8), 676-686.
+71.  [Using Questioning to Guide Student Thinking.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/using-questioning-to-guide-student-thinking)   
+    Van Zee, E., & Minstrell, J. (1997). Using Questioning to Guide Student Thinking. _The Journal of the Learning Sciences, 6_(2), 227-269. doi: 10.1207/s15327809jls0602\_3
+72.  [What is disciplinary literacy and why does it matter?](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/why-disciplinary-literacy)  
+    Shanahan, T. & Shanahan, C. (2012). _Topics in Language Disorders, 32_(1), 7-18.
+73.  [Words as tools: Learning academic vocabulary as language acquisition.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/learning-academic-vocabulary)  
+    Nagy, W., & Townsend, D. (2012). _Reading Research Quarterly, 47_(1), 91-108.
+74.  [Writing voiced arguments about science topics.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/writing-with-voiced-in-science)  
+    Monahan, M. B. (2013). _Journal of Adolescent & Adult Literacy, 57_(1), 31-40.
 </ul>
