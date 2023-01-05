@@ -425,4 +425,11 @@ The summaries are sorted under the headings below and you can click on an indivi
 15. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/vocabulary/vocabulary-learning/">Vocabulary learning</a><br>Chilton, M. W., & Ehri, L. C. (2015). Vocabulary learning: Sentence contexts linked by events in scenarios facilitate third graders’ memory for verb meanings. Reading Research Quarterly, 50(4), 439-458. doi: 10.1002/rrq.106<br>
 16. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/vocabulary/learning-academic-vocabulary/">Words as tools: Learning academic vocabulary as language acquisition.</a><br>	Nagy, W., & Townsend, D. (2012). Reading Research Quarterly, 47(1), 91-108.<br>
 	</p>
+		 </div>
+	</li>
+	<li>
+   <input type="checkbox" id="accordion9">
+   <label for="accordion9">Writing and Representing</label>
+   <div>
+	<p>
 </ul>
