@@ -328,8 +328,7 @@ The summaries are sorted under the headings below and you can click on an indivi
    <input type="checkbox" id="accordion7">
    <label for="accordion7">Subject Literacy</label>
    <div>
-	<p>1.  [Building a house on sand: Why disciplinary literacy is not sufficient to replace general strategies for adolescent learners who struggle.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-and-struggling-learners)  
-    Faggella-Luby, M. N., Graner, P. S., Deshler, D. D., & Drew, S. V. (2012). _Topics in Language Disorders, 32_(1), 69-84.
+	<p>1. <a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/subject-literacy/disciplinary-literacy-n-struggling-learners/">Building a house on sand: Why disciplinary literacy is not sufficient to replace general strategies for adolescent learners who struggle.</a><br>Faggella-Luby, M. N., Graner, P. S., Deshler, D. D., & Drew, S. V. (2012). _Topics in Language Disorders, 32_(1), 69-84.<br> 
 2.  [A case study of designing technology-enhanced learning in an elementary school in Singapore](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/a-case-study-of-designing-technology-enhanced-learning-in-an-elementary-school-in-singapore)   
     Tay, L. Y., Melwan, M., Ong, J. L., & Ng, K. R. (2017). A case study of designing technology-enhanced learning in an elementary school in Singapore. _Learning: Research and Practice, 3_(2), 98-113. doi:10.1080/23735082.2017.1350737
 3.  [A project for teaching critical reading and writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/a-project-for-teaching-critical-reading-and-writing)   
