@@ -431,5 +431,170 @@ The summaries are sorted under the headings below and you can click on an indivi
    <input type="checkbox" id="accordion9">
    <label for="accordion9">Writing and Representing</label>
    <div>
-	<p>
+	<p>1.  [Building a house on sand: Why disciplinary literacy is not sufficient to replace general strategies for adolescent learners who struggle.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/disciplinary-literacy-and-struggling-learners)  
+    Faggella-Luby, M. N., Graner, P. S., Deshler, D. D., & Drew, S. V. (2012). _Topics in Language Disorders, 32_(1), 69-84.
+2.  ['Drama is like reversing everything': Intervention research as teacher professional development.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/using-drama-in-english-language-classrooms)  
+    Stinson, M. (2009). _Research in Drama Education: The Journal of Applied Theatre and Performance, 14_(2), 225-243.
+3.  [A functional approach to the teaching of coherence in argumentative writing (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/using-a-functional-approach-to-improve-coherence-in-writing)  
+    Lum, W. K. B. (2006). Retrieved from http://libris.nie.edu.sg/
+4.  [A literature-driven English programme's effectiveness in improving the writing skills of Grade 7 Singaporean students.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/improving-writing-skills-in-an-integrated-english-language-and-literature-curriculum)  
+    Pereira, M. D. (2010). _English in Education, 44_(3), 231-251.
+5.  [A project for teaching critical reading and writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/a-project-for-teaching-critical-reading-and-writing)   
+    Teo, P. (2014). Making the familiar strange and the strange familiar: a project for teaching critical reading and writing. _Language and Education, 28_(6), 539-551. doi:10.1080/09500782.2014.921191
+6.  [A social semiotics framework for conceptualizing content area literacies.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/literacy-in-content-areas)  
+    Wilson, A. A., (2011). _Journal of Adolescent & Adult Literacy, 54_(6), 435-444.
+7.  [A study of gender and language in teenage personal weblogs in Singapore (Master's thesis)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/gendered-differences-in-language)  
+    Chionh, J. P. F. (2008). Retrieved from http://libris.nie.edu.sg/
+8.  [Argumentation as core curriculum](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/argumentation-as-core-curriculum)  
+    Kuhn, D., & Moore, M. (2015). _Argumentation as core curriculum. Learning: Research and Practice,_ 1(1), 66-78. doi: 10.1080/23735082.2015.994254
+9.  [Argumentation in students’ online forum discussion](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/argumentation-in-students-online-forum-discussion)  
+    Chandrasegaran, A., & Kong, K. M. C. (2006). Stance-taking and stance-support in students’ online forum discussion. _Linguistics, 17_(3), 374-390.
+10.  [Asking Pompeii questions: A co-operative approach to writing in the disciplines.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writing-in-archaeology)  
+    Somerville, E. M., & Creme, P. (2005). _Teaching in Higher Education, 10_(1), 17 - 28.
+11.  [Assessing student writing on tablets](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/assessing-student-writing-on-tablets)  
+    Davis, L. L., Orr, A., Kong, X., & Lin, C.-H. (2015). Assessing student writing on tablets. _Educational Assessment, 20_(3), 180-198.
+12.  [Assessing the effects of explicit teaching of text structure and planning and revising strategies on primary two students' narrative texts (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/evaluation-of-explicit-teaching-of-text-structure-and-planning-and-revision-strategies)  
+    Long, M. Y. (2002). Retrieved from http://libris.nie.edu.sg/
+13.  [Building literacy communities of practice across subject disciplines in secondary schools.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/building-literacy-communities-of-practice-across-subject-disciplines)  
+    Wright, N. (2007). _Language and Education, 21_(5), 420-433.
+14.  [Characteristics of teacher written feedback on student revision (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/effective-feedback-for-student-revision)  
+    Lee, S. Y. S. (2003). Retrieved from http://libris.nie.edu.sg/
+15.  [Children as researchers: What we can learn from them about the impact of poverty on literacy opportunities?](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/impact-of-poverty-on-literacy-opportunities)  
+    Kellett, M. (2009). _International Journal of Inclusive Educational Leadership, 13_(4), 395-408. doi: 10.1080/10236240802106606.
+16.  [Design and implementation of a student-generated virtual museum in a language curriculum to enhance collaborative multimodal meaning-making.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/studying-the-impact-of-implementing-multimodal-literacy)  
+    Ho, C. M. L., Nelson, M. E., & M-eller-Wittig, W. (2011). _Computers & Education, 57_(1), 1083-1097.
+17.  [Developing motivation to write](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/developing-motivation-to-write)  
+    Bruning, R., & Horn, C. (2000). Developing motivation to write. _Educational Psychologist, 35_(1), 25-37.
+18.  [Developing writing pedagogy in a teacher professional learning community](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/developing-writing-pedagogy-in-a-teacher-professional-learning-community)  
+    Pella, S. (2011). A situative perspective on developing writing pedagogy in a teacher professional learning community. _Teacher Education Quarterly, 38,_ 107-125.
+19.  [Dialogic Interactions and Feedback](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/dialogic-interactions-and-feedback)  
+    Merkel, W. (2018). Role reversals: A case study of dialogic interactions and feedback. _Journal of Second Language Writing, 39_, 16–28.
+20.  [Digital storytelling as a powerful technological tool for teacher and student engagement](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/digital-storytelling-as-a-powerful-technological-tool-for-teacher-and-student-engagement)  
+    Robin, B. R. (2008). Digital storytelling: A powerful technology tool for the 21st century classroom. _Theory into Practice_, _47_(3), 220-228.
+21.  [Disciplinary literacy: What you want to know about it.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/all-about-disciplinary-literacy)  
+    Fang, Z., & Coatoam, S. (2013). _Journal of Adolescent & Adult Literacy, 56_(8), 627-632. doi: 10.1002/JAAL.190
+22.  [Effect of explicit instruction of paragraph writing strategies on PRC students' expository writing(Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/effect-of-explicit-instruction-in-expository-paragraph-writing)  
+    Pung, Y. M. E. (2005). Retrieved from http://libris.nie.edu.sg/
+23.  [Effect of explicit teaching of character development in narrative writing (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/efficacy-of-explicit-teaching-of-writing)  
+    Yeo, S. C. (2002). Retrieved from http://libris.nie.edu.sg/
+24.  [Evaluative expressions in analytical arguments](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/evaluative-expressions-in-analytical-arguments)  
+    Wu, S. M., & Desmond, A. (2005). Evaluative expressions in analytical arguments: Aspects of appraisal in assigned English language essays. _Journal of Applied Linguistics_, _2_(1), 105-127. Retrieved fromhttp://www.equinoxpub.com/journals/index.php/JALPP/article/view/18194/14409
+25.  [Explicit teaching of argumentative writing in upper primary social studies lessons (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/argumentative-writing-across-the-curriculum)   
+    Neo, B. (2004). Retrieved from http://libris.nie.edu.sg/
+26.  [Feedback to writing, assessment for teaching and learning and student progress](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/feedback-to-writing-assessment-for-teaching-and-learning-and-student-progress)  
+    Parr, J. M., & Timperley, H. S. (2010). Feedback to writing, assessment for teaching and learning and student progress. _Assessing Writing_, _15_(2), 68-85.
+27.  [Growth of Metacognitive Awareness in Kindergarten Children through Writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/growth-of-metacognitive-awareness-in-kindergarten-children-through-writing)  
+    Jacobs, G. M. (2004). A Classroom Investigation of the Growth of Metacognitive Awareness in Kindergarten Children through the Writing Process. _Early Childhood Education Journal, 32_ (1), 17-23.
+28.  [Home biliteracy practices and biliteracy acquisition: A comparative study of Singaporean Chinese families and recent immigrant families from China (Doctoral dissertation).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/biliteracy-differences-between-singapore-and-immigrant-chinese-families)  
+    Li, R. (2012). Retrieved from http://libris.nie.edu.sg/
+29.  [Implementing self-regulated strategy development](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/implementing-self-regulated-strategy-development)   
+    Harris, K. R., Lane, K. L., Driscoll, S. A., Graham, S., Wilson, K., Sandmel, K., Brindle, M., & Schatschneider, C. (2012). Tier 1, teacher-implemented self-regulated strategy development for students with and without behavioral challenges: A randomized controlled trial. _Elementary School Journal, 113_(2), 160-191.
+30.  [Improving English language teaching through lesson study](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/improving-english-language-teaching-through-lesson-study)  
+    Goh, R., & Fang, Y. (2017). Improving English language teaching through lesson study: Case study of teacher learning in a Singapore primary school grade level team. _International Journal for Lesson and Learning Studies, 6_(2), 135-150. doi: 10.1108/IJLLS-11-2015-0037
+31.  [Improving the effectiveness of peer feedback for learning](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/improving-the-effectiveness-of-peer-feedback-for-learning)   
+    Gielen, S., Peeters, E., Dochy, F., Onghena, P., & Struyven, K. (2010). Improving the effectiveness of peer feedback for learning. _Learning and Instruction, 20_(4), 304-315.
+32.  [Improving the writing and knowledge of emergent writers](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/improving-the-writing-and-knowledge-of-emergent-writers)  
+    Zumbrunn, S., & Bruning, R. (2013). Improving the writing and knowledge of emergent writers: The effects of self-regulated strategy development. _Reading & Writing, 26_(1), 91-110. doi: 10.1007/s11145-012-9384-5
+33.  [Influencing children’s self-efficacy and self-regulation of reading and writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/influencing-children's-self-efficacy-and-self-regulation-of-reading-and-writing#39;s-self-efficacy-and-self-regulation-of-reading-and-writing)  
+    Schunk, D. H., & Zimmerman, B. J. (2007). Influencing children's self-efficacy and self-regulation of reading and writing through modeling. _Reading & Writing Quarterly_, _23_(1), 7-25.
+34.  [Innovating the Singapore English language curriculum through lesson study](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/innovating-the-singapore-english-language-curriculum-through-lesson-study)  
+    Tan-Chia, L., Fang, Y., & Ang, P. C. (2013). Innovating the Singapore English language curriculum through lesson study. _International Journal for Lesson and Learning Studies, 2_(3), 256-280.
+35.  [Instructional rubrics](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/instructional-rubrics)  
+    Sundeen, T. H. (2014). Instructional rubrics: Effects of presentation options on writing quality. _Assessing Writing_, 21, 74-88. doi: 10.1016/j.asw.2014.03.003
+36.  [Investigating a Disciplinary Approach to Literacy Learning in a Secondary School](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/investigating-a-disciplinary-approach-to-literacy-learning-in-a-secondary-school)  
+    Hannant, K., & Jetnikoff, A. (2015). Investigating a disciplinary approach to literacy learning in a secondary school. _Literacy Learning: The Middle Years, 23_(3), 28-37.
+37.  [Investigating language learner strategies](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/investigating-language-learner-strategies)  
+    Gu, P. Y., Hu, G., & Zhang, L. J. (2005). Investigating language learner strategies among lower primary school pupils in Singapore. _Language and Education,_ 19(4), 281-303.
+38.  [Is there a place for critical language awareness in the teaching of Business English to polytechnic students in Singapore?(Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/critical-language-awareness-among-business-english-students)  
+    Kan, H. K. (2010). Retrieved from http://libris.nie.edu.sg/
+39.  [Learning study as an approach to teacher development](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/learning-study-as-an-approach-to-teacher-development)  
+    Siu, I. Y. M. (2008). Learning study as an approach to teacher development in two primary schools. The Asia-Pacific Education Researcher, 17(1), 99–108.
+40.  [Learning the language of school history: The role of linguistics in mapping the writing demands of the secondary school curriculum.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/the-role-of-language-in-learning-history)  
+    Coffin, C. (2006). _Journal of Curriculum Studies, 38_(4), pp. 413-429.
+41.  [Literacy for the future.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/literacy-for-the-future)  
+    Palmer, S. (2003). _Education Review, 16_(2), 70-74.
+42.  [Making disciplinary writing and thinking practices an integral part of academic content teaching.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/integrating-writing-into-macroeconomics)  
+    Hunter, K., & Tse, H. (2013). _Active Learning in Higher Education, 14_(3), 227-239.
+43.  [Mobile blogging in primary science in Singapore: A linguistic perspective (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/moblogging-in-science-classrooms)  
+    Lee, Q. Y. S. (2010). Retrieved from http://libris.nie.edu.sg/
+44.  [Motivating struggling readers and writers](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/motivating-struggling-readers-and-writers)  
+    Casey, H. K. (2008). Engaging the disengaged: Using learning clubs to motivate struggling adolescent readers and writers. _Journal of Adolescent & Adult Literacy, 52_(4), 284-294. doi: 10.1598/JAAL.52.4.2
+45.  [Newspaper literacy: An investigation of how Singaporean students read the Straits Times.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/critiquing-newspaper-commentary-articles)  
+    Koh, A. (2004). _English Teaching: Practice and Critique, 3_(3), 43-60.
+46.  [Oracy and literacy practices in a Japanese kindergarten: A theoretical examination.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/oracy-in-a-japanese-kindergarten)  
+    Shirakawa, Y., & Iwahama, R. (2009). _Early Child Development and Care, 179_(5), 587-594. doi: 10.1080/03004430701379371
+47.  [Oracy: Social facets of language learning.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/oracy-and-language-learning)  
+    Saracho, O. N., & Spodek, B. (2007). _Early Child Development and Care, 177_(6-7), 695-705. doi: 10.1080/03004430701377540
+48.  [Orienting oracy: Empowerment or enslavement.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/spoken-skills-as-empowerment)  
+    Ferst, P. (1999). _Journal of Further and Higher Education, 23_(2), 257-267. doi: 10.1080/0309877990230209
+49.  [Peer and teacher feedback on student writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/peer-and-teacher-feedback-on-student-writing)  
+    Peterson, S. S., & Portier, C. (2014). Grade one peer and teacher feedback on student writing. _Education 3-13, 42_(3), 237-257. doi: 10.1080/03004279.2012.670256
+50.  [Picture Books as Mentor Texts for 10th Grade Struggling Writers](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/picture-books-as-mentor-texts-for-10th-grade-struggling-writers)  
+    Premont, D. W., Young, T. A., Wilcox, B., Dean, D., & Morrison, T. G. (2017). Picture Books as Mentor Texts for 10th Grade Struggling Writers. _Literacy Research and Instruction, 56_(4), 290-310. doi: 10.1080/19388071.2017.1338803li>
+51.  [Praise and criticism in written feedback](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/praise-and-criticism-in-written-feedback)  
+    Hyland, F., & Hyland, K. (2001). Sugaring the pill: Praise and criticism in written feedback. _Journal of Second Language Writing, 10_(3), 185-212.
+52.  [Predicting Singapore students' achievement goals in their English study: Self-construal and classroom goal structure.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/the-impact-of-classroom-practices-on-students'-learning-of-english#39;-learning-of-english)  
+    Luo, W., Hogan, D., & Paris, S. G. (2011). _Learning and Individual Differences, 21_(5), 526-535.
+53.  [Putting rubrics to the test: The effect of a model, criteria generation, and rubric-referenced self-assessment on elementary school students' writing.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/putting-rubrics-to-the-test)  
+    Andrade, H. L., Du, Y., & Wang, X. (2008). _Educational Measurement: Issues and Practice, 27_(2), 3-13.
+54.  [Reflexive writers](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/reflexive-writers)  
+    Ryan, M. (2014). Reflexive writers: Re-thinking writing development and assessment in schools. _Assessing Writing, 22,_ 60-74.
+55.  [School Discourse](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/school-discourse)  
+    Christie, F., & Derewianka, B. (2010). London: Continuum.
+56.  [Science, language and young learners](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/science-language-and-young-learners)  
+    Ippolito, J., Condie, C., Blanchette, J., & Cervoni, C. (2018). Learning science and literacy together: Professional learning that supports disciplinary literacy instruction for our youngest learners. _Science & Children. 56_(4), 91-95.
+57.  [Secondary school students' stance-support strategies in online discussion: Implications for the composition classroom.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/using-online-discussion-stance-support-strategies-for-writing-compositions)  
+    Chandrasegaran, A. (2006). _English in Education, 40_(2), 22-39.
+58.  [Self-efficacy beliefs, motivation, and achievement](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/self-efficacy-beliefs-motivation-and-achievement)  
+    Pajares, F. (2003). Self-efficacy beliefs, motivation, and achievement in writing: A review of the literature. _Reading & Writing Quarterly, 19_(2), 139-158.
+59.  [Strategy-based writing instruction](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/strategy-based-writing-instruction)   
+    Bai, B. (2015). The effects of strategy-based writing instruction in Singapore primary schools. _System, 53,_ 96-106.
+60.  [Students' perceptions of integrating Wiki technology and peer feedback into English writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/ict/students'-perceptions-of-integrating-wiki-technology-and-peer-feedback-into-english-writing#39;-perceptions-of-integrating-wiki-technology-and-peer-feedback-into-english-writing)  
+    Lin, W., & Yang, S. C. (2011). Exploring students' perceptions of integrating Wiki technology and peer feedback into English writing courses. _English Teaching: Practice and Critique, 10_(2), 88-103.
+61.  [Supporting knowledge construction and literate talk in Secondary Social Studies.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/classroom-talk-in-secondary-social-studies)  
+    Kramer-Dahl, A., Teo, P., & Chia, A. (2007). _Linguistics and Education, 18_(2), 167-199. doi: 10.1016/j.linged.2007.07.003
+62.  [Supporting middle school students with content area academic language](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/supporting-middle-school-students-with-content-area-academic-language)  
+    Townsend, D. (2015). Who’s using the language? Supporting middle school students with content area language. _Journal of Adolescent & Adult Literacy, 58_(5), 376-287.
+63.  [Teacher feedback and student revisions](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/teacher-feedback-and-student-revisions)  
+    Silver, R., & Lee, S. (2007). What does it take to make a change. _English Teaching: Practice and Critique,_ 6(1), 25-49. Retrieved from http://education.waikato.ac.nz/resources/files/etpc/2007v6n1art.pdf
+64.  [Teaching and learning argumentative reading and writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/teaching-and-learning-argumentative-reading-and-writing)  
+    Newell, G. E., Beach, R., Smith J., & VanDerHeide, J. (2011). Teaching and learning argumentative reading and writing: A review of research. _Reading Research Quarterly_, _46_(3), 273-304.
+65.  [Teaching argumentative writing at the primary level](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/teaching-argumentative-writing-at-the-primary-level)  
+    Koh, G. H. (2002). Teaching argumentative writing at the primary level. Review of Educational Research and Advances for Classroom Teachers, 21(1), 57-68.
+66.  [The 'Document-Based Lesson': Bringing disciplinary inquiry into high school history classrooms with adolescent struggling readers.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/the-pedagogical-practices-of-a-'document-based-lesson'#39;)  
+    Reisman, A. (2012). _Journal of Curriculum Studies, 44:_2, 233-264.
+67.  [The development of young writers in an English classroom](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/the-development-of-young-writers-in-an-english-classroom)  
+    Bali, R. (2015). The development of young writers in an English classroom: Opening up dialogue with Year 8 students. _Changing English,_ 22(2), 176-188.
+68.  [The logogenesis of writing to learn: A systemic functional perspective.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/construction-of-scientific-knowledge-through-writing)  
+    Klein, P. D., & Unsworth, L. (2014). _Linguistics and Education, 26_, 1-17.
+69.  [The relationship between use of writing strategies and English proficiency](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/the-relationship-between-use-of-writing-strategies-and-english-proficiency)  
+    Bai, R., Hu, G., & Gu, P. (2014). The relationship between use of writing strategies and English proficiency in Singapore primary schools. _Asia-Pacific Education Researcher_ 23(3), 355-365. doi: 10.1007/s40299-013-0110-0
+70.  [The role of self-efficacy, task value, and achievement goals in predicting learning strategies, task disengagement, peer relationship, and achievement outcome.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/student-motivation-and-learning-in-singapore)  
+    Liem, A. D., Lau, S., & Nie, Y. (2008). _Contemporary Educational Psychology, 33_(4), 486-512.
+71.  [The short-and long-term effect of explicit grammar instruction on fifth graders’ writing](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/the-short-and-long-term-effect-of-explicit-grammar-instruction-on-fifth-graders-writing)  
+    Feng, S., & Powers, K. (2005). The short- and long-term effect of explicit grammar instruction on fifth graders’ writing. _Reading Improvement,_ 42(2), 67-72.
+72.  [The use of blogs for writing of online journals](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/the-use-of-blogs-for-writing-of-online-journals)  
+    Nair, S. S., Tay, L. Y., & Koh, J. L. (2013). Students' motivation and teachers' teaching practices towards the use of blogs for writing of online journals. _Educational Media International,_ 50(2), 108-119.
+73.  [The value of ideational frameworks for helping upper secondary students in their summary writing tasks (Master's thesis).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/evaluating-the-efficacy-of-matrix-ideational-frameworks)  
+    Poh, S. K. (2005). Retrieved from http://libris.nie.edu.sg/
+74.  [Use of scoring rubrics for formative assessment purposes](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/use-of-scoring-rubrics-for-formative-assessment-purposes)  
+    Panadero, E., & Jonsson, A. (2013). The use of scoring rubrics for formative assessment purposes revisited: A review. _Educational Research Review, 9_, 129-144.
+75.  [Using argument as tool for science literacy](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/using-argument-as-tool-for-science-literacy)  
+    Washburn, E., & Cavagnetto, A. (2013). Using argument as a tool for integrating science and literacy. The Reading Teacher, 67(2), 127-136.
+76.  [Using corpus-based materials as a teaching resource for the teaching of prepositions in a Singapore primary school(Master's thesis)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/corpus-based-material-as-a-teaching-resource)  
+    Ang, M. L. (2007). Retrieved from http://libris.nie.edu.sg/
+77.  [Using disciplinary literacies to enhance adolescents' engineering design activity.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/disciplinary-literacy-in-engineering)  
+    Wilson, A. A., Smith, E., & Householder, D. L. (2014). _Journal of Adolescent & Adult Literacy, 57_(8), 676-686.
+78.  [Using journal writing and oral presentation as alternative assessment strategies in mathematics instruction: An empirical study in Singapore secondary schools (Doctoral dissertation).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/using-alternative-assessment-strategies-in-mathematics-instruction)  
+    Yeo, S. M. (2008). Retrieved from http://libris.nie.edu.sg/
+79.  [Writer’s workshop vs writing prompts](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writer-s-workshop-vs-writing-prompts)  
+    Carroll, S., & Feng, J. (2010, October). Writer’s workshop vs writing prompts: The effect on first graders’ writing ability and attitude towards writing. Paper presented at the 2010 Annual Meeting of the Georgia Educational Research Association, Savannah, GA. Retrieved from https://eric.ed.gov/contentdelivery/servlet/ERICServlet?accno=ED533063
+80.  [Writing as literacy development for low achievers: The case of a neighbourhood school in Singapore(Unpublished doctoral dissertation).](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writing-as-literacy-development-for-low-achievers)  
+    Lee, N. F. R. (2012). University of Auckland, Auckland, New Zealand.
+81.  [Writing Strategies, Skills, and Knowledge](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writing-strategies-skills-and-knowledge)  
+    De La Paz, S., & Graham, S. (2002). Explicitly Teaching Strategies, Skills, and Knowledge: Writing Instruction in Middle School Classrooms. _Journal of Educational Psychology, 94_(4), 687-698. doi: 10.1037//0022-0663.94.4.687
+82.  [Writing voiced arguments about science topics.](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writing-with-voiced-in-science)  
+    Monahan, M. B. (2013). _Journal of Adolescent & Adult Literacy, 57_(1), 31-40.
+83.  [Writing with peer response using different types of genre knowledge](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/writing-with-peer-response-using-different-types-of-genre-knowledge)   
+    Hoogeveen, M., & van Gelderen, A. (2016). Writing with peer response using different types of genre knowledge: Effects on linguistic features and revisions of sixth-grade writers. _The Journal of Educational Research,_ 1-15. doi: 10.1080/0220671.2016.1190913</p>
 </ul>
