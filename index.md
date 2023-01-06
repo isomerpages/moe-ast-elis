@@ -22,9 +22,13 @@ sections:
         - title: OPAL 2.0
           description: ""
           url: https://www.opal2.moe.edu.sg/app/learner
-  - infobar:
-      title: Infobar title
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+  - infopic:
+      title: ELIS Professional Learning Opportunities 2023
+      description: Check out our ELIS e-Prospectus for the professional learning
+        opportunities offered to English Language, Literature and English-medium
+        subject teachers.
+      button: Click here
+      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/
+      image: /images/ELIS professional learning opportunities 2023.png
+      alt: ELIS learning opportunities
 ---
