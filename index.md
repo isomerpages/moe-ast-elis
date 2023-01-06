@@ -66,16 +66,10 @@ sections:
       image: /images/watch_banner.png
       alt: watch resources
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
-      alt: Image alt text
-  - infopic:
       title: About the English Language Institute of Singapore
       description: Click here to read more about us
       button: Click here
       url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/about-us/
-      image: /images/logo.svg
+      image: /images/ELIS.png
       alt: ELIS
 ---
