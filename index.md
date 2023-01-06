@@ -56,4 +56,26 @@ sections:
       url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/
       image: /images/podcast.png
       alt: podcast
+  - infopic:
+      title: Supporting Inquiry-Based Learning in the EL Classroom
+      subtitle: Infopic Subtitle
+      description: How can we support student learning by inquiring in the EL
+        classroom?  Watch this video to find out
+      button: Click here
+      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/
+      image: /images/watch_banner.png
+      alt: watch resources
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infopic:
+      title: About the English Language Institute of Singapore
+      description: Click here to read more about us
+      button: Click here
+      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/about-us/
+      image: /images/logo.svg
+      alt: ELIS
 ---
