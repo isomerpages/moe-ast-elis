@@ -31,4 +31,13 @@ sections:
       url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
+  - infopic:
+      title: ELIS e-Digest
+      description: View, read and listen to teacher's experiences in the teaching
+        learning and assessment of English Language, Literature and General
+        Paper
+      button: Click here
+      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-e-digest-new/
+      image: /images/elis-e-digest-social-media-poster-(issue-2)a.png
+      alt: e-Digest
 ---
