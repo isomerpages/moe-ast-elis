@@ -128,7 +128,7 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Simple</label>
+    <label for="accordion2">Research Reports 2020: Speaking and Listening Skills</label>
     <div>
       <p><style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -185,6 +185,115 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 </table></p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3">Research Reports 2019: Reading and Writing Skills</label>
+    <div>
+			<p><b>Reading Skills</b></p>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-mgda{background-color:#ca2126;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Michelle Tan Ni Ling</td>
+    <td class="tg-dewj"><a href="/files/2018-erf-lnt.pdf"><span style="color:#CA2126;background-color:transparent">The effects of the explicit teaching of the inference skill on answering inferential questions in narrative texts (.pdf, 1.21 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Marlina Zainal and Nurdianna Malik</td>
+    <td class="tg-rhd3"><a href="/files/2018-rivevale-ps.pdf"><span style="color:#CA2126;background-color:transparent">To what extent does computer-based immediate feedback have an effect on the Reading Aloud of Primary 3 students? (.pdf, 438.75 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Crescendra Chong-Tan Xiu Mei, Shanni Gurcharan Kaur and Teo Li Yen Lydia</td>
+    <td class="tg-dewj"><a href="/files/2018-nanyang-girls.pdf2"><span style="color:#CA2126;background-color:transparent">An investigation of the reading strategies employed by high-ability learners when reading expository texts (.pdf, 582.15 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Norita Ali, Moon Jia Yuan and Tan Guan Hui Vanessa</td>
+    <td class="tg-rhd3"><a href="/files/2018-meridian-sec.pdf"><span style="color:#CA2126;background-color:transparent">The impact of Extensive Reading (ER) on student reading interest (.pdf, 934.89 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Tan Pin Ru, Wendy Yeo Liew Ee and Teo Hui Min</td>
+    <td class="tg-dewj"><a href="/files/2018-northlight.pdf"><span style="color:#CA2126;background-color:transparent">Developing letter-name knowledge in low-achieving adolescents – the effect of alphabet-only intervention (.pdf, 897.26 KB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+	<p><b>Writing Skills</b></p>
+	<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-mgda{background-color:#ca2126;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Rachel Lee, Michael Fong, Foo Yingting and Sarah Harbachan</td>
+    <td class="tg-dewj"><a href="/files/2018-fuhua-primary.pdf"><span style="color:#CA2126;background-color:transparent">Improving the writing performance of struggling students: the effects of self-regulated strategy (.pdf, 722.06 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Muhammad Fahmi Bin Fo’att, Francesca Phoebe Wah Li Ting and Wong Shi-Lei Claudia</td>
+    <td class="tg-rhd3"><a href="/files/2018-xingnan.pdf"><span style="color:#CA2126;background-color:transparent">The effects of Sustained Silent Writing on the writing scores and perception of writing confidence and competence of Primary 5 students (.pdf, 438.04 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Chan Siew Boon, Rabi’ah Bte Abdul Rahim Shah and Asraf Salavan</td>
+    <td class="tg-dewj"><a href="/files/2018-telok-kurau.pdf"><span style="color:#CA2126;background-color:transparent">The impact of teachers’ communication of standards on student writing confidence and motivation (.pdf, 656.6 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Lynn Loy Lin Li, Nazrul Rashidi Bin Mohd and Priscilla Tey Shu Hui</td>
+    <td class="tg-rhd3"><a href="/files/2018-erf---pasir-ris-sec.pdf"><span style="color:#CA2126;background-color:transparent">Use of Visible Thinking routines to generate relevant points for expository writing (.pdf, 854.92 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2019</td>
+    <td class="tg-ag2m">Du Meishan Grace and Teo Chew Lee</td>
+    <td class="tg-dewj"><a href="/files/a2018-erf_ngee-ann-sec.pdf"><span style="color:#CA2126;background-color:transparent">Using knowledge building in English Language classrooms to improve students’ expository writing (.pdf, 1.41 MB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Paula Png</td>
+    <td class="tg-rhd3"><a href="/files/2018-paula.pdf"><span style="color:#CA2126;background-color:transparent">A review of research on the teaching and learning of writing in Singapore EL classrooms (.pdf, 628.51 KB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+</li>
 </ul>
 
-555
+777
