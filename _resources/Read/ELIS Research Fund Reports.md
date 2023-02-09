@@ -126,6 +126,64 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 </table></p>
     </div>
 	</li>
+	<li>
+    <input type="checkbox" id="accordion2">
+    <label for="accordion2">Simple</label>
+    <div>
+      <p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-dewj{background-color:#E7E7E7;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-mgda{background-color:#ca2126;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+.tg .tg-rhd3{background-color:#D4D4D4;color:#CA2126;text-align:left;text-decoration:underline;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Year</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Authors</span></th>
+    <th class="tg-mgda"><span style="font-weight:600;color:#FFF">Title</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Ee-laine Oh and Shabana Yasmin</td>
+    <td class="tg-dewj"><a href="/files/2018-erf--bedok-view.pdf"><span style="color:#CA2126;background-color:transparent">Examining the impact of teacher reflections on trialling an approach to building student academic discussion in Secondary Geography (.pdf, 648.81 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2019</td>
+    <td class="tg-rfng">Gavin Liu</td>
+    <td class="tg-rhd3"><a href="/files/erf-2018-03-lzy-research-report.pdf"><span style="color:#CA2126;background-color:transparent">The role of metacognition in circumventing unfamiliar situations in spoken interaction(.pdf, 340.05 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Victor Francis and Ian Goh Hsien Jun</td>
+    <td class="tg-dewj"><a href="/files/2018-hji.pdf"><span style="color:#CA2126;background-color:transparent">Using discussion circles to improve oral literacy effectiveness (.pdf, 1004.97 KB)</span></a><br> </td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Rafeah Yahya and Azizah Juma’at</td>
+    <td class="tg-rhd3"><a href="/files/2018-erf--ngee-ann-pri.pdf"><span style="color:#CA2126;background-color:transparent">Using discussion skills to enhance speaking in the classroom (.pdf, 754.6 KB)</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-ag2m">2018</td>
+    <td class="tg-ag2m">Lim Sing Ee, Noraidah A Rahim, Rina Bai and Jennifer Chua Hwee Pheng</td>
+    <td class="tg-dewj"><a href="/files/2018-prcss.pdf"><span style="color:#CA2126;background-color:transparent">Using questions to explore student talk (and thinking) in Secondary 3 Geography classrooms (.pdf, 483.97 KB)</span></a> </td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">2018</td>
+    <td class="tg-rfng">Grace Tay and Cindy Wong</td>
+    <td class="tg-rhd3"><a href="/files/2018-erf-fairlfield.pdf"><span style="color:#CA2126;background-color:transparent">Using the C.I.D. discourse model to develop exploratory talk in the Primary 4 Mathematics classroom (.pdf, 696.03 KB)</span></a></td>
+  </tr>
+</tbody>
+</table></p>
+    </div>
+	</li>
 </ul>
 
-123
