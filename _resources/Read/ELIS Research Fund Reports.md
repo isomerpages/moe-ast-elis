@@ -125,4 +125,5 @@ Here is a compilation of reports written by ELIS Research Fund awardees, with th
 </tbody>
 </table></p>
     </div>
-	</li>  
+	</li>
+</ul>
