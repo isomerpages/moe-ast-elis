@@ -10,8 +10,121 @@ Throughout history, music has been used to express emotions, beliefs, and identi
 
 ### Our writings:
 
-*   [Flutter](https://academyofsingaporeteachers.moe.edu.sg/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/flutter)
-*   [Letter from Joseph](https://academyofsingaporeteachers.moe.edu.sg/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/letter-from-joseph)
-*   [Thank You for the Music](https://academyofsingaporeteachers.moe.edu.sg/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/thank-you-for-the-music)
-*   [To My Beloved Sister-In-Law](https://academyofsingaporeteachers.moe.edu.sg/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/to-my-beloved-sister-in-law)[](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/to-my-beloved-sister-in-law)
-*   [Untitled](https://academyofsingaporeteachers.moe.edu.sg/elis/learning-communities/swi-alumni/swi-continuity-activities/writing-marathon---thank-you-for-the-music/untitled)
+### *   Flutter
+
+By Adeline Lynn Teo
+
+**Spotify audio cannot be embedded in isomer**
+
+
+Linked by hearts  
+Cares depart  
+Wonderous melodies  
+Souls a-sparked   
+  
+Kindred spirits  
+Beautified  
+Shared in  
+fine design
+
+
+
+### *   Letter from Joseph
+
+By Lynn Loy
+
+**Spotify audio cannot be embedded in isomer**
+
+
+Life is full of colours if we choose to look at it that way 
+
+Into a magical world and be far from dismay 
+
+The real world may be harsh at times, needless to say
+
+But be comforted and stay enthralled each day
+
+
+
+### *   Thank You for the Music
+
+By Emily Wong
+
+**Spotify audio cannot be embedded in isomer**
+
+
+Thank You for the Music
+
+The strings that linger
+
+Filling my heart with gratitude
+
+Staying alive, staying alive!
+
+My help cometh from the Lord
+
+Who neither slumbers nor sleeps
+
+The sun shall not smite me by day
+
+Nor the moon by night
+
+I can be the lady in red
+
+Painting the town today
+
+Celebrating the breath of life.
+
+Singing another chorus
+
+And sharing your song!
+
+Thank You, You’re My Music!
+
+
+
+### *   To My Beloved Sister-In-Law
+
+By Suhaily Supahan
+
+**Spotify audio cannot be embedded in isomer**
+
+
+
+_"Going back to the corner where I first saw you, Gonna camp in my sleeping bag I'm not gonna move”_  
+(The Script, 2008, track 4)  
+  
+4th August 2020. Almost two years since you left.  
+  
+We first met in Jakarta and were fast friends. You became family and life was whole. Then, it was painfully ripped apart.  
+  
+Which corner can I possibly go back to, to meet you?   
+  
+In my memory, I see you at the corner of the sofa, laughing, no, guffawing at something you read on Facebook. I see you remarking in your typical easy-going manner telling everyone _'Seb’_, a slang in your language that the family learnt to mean 'Don't worry, I got it'. I see you smiling at me from the doorway where we last said goodbye, not knowing that would be the last time.
+
+
+### *   Untitled
+
+By Richard Koh
+
+**Spotify audio cannot be embedded in isomer**
+
+
+It's been a while since I went to church  
+I'm not moving  
+Tell me what's wrong.  
+  
+A friend rekindled that conversation of spirituality with me when I was serving my stay-home-notice in 2020. She had food delivered to the residence I was staying at and did her best to lift my spirits.  
+  
+My help cometh from the Lord  
+The Lord is thy shade  
+He shall preserve thy soul  
+  
+It's just you and me.  
+  
+A more recent event – my mother-in-law's cancer – made me rethink my priorities and question my purpose in life. I took out the bible and placed it beside my bed.  
+  
+I'm not moving  
+Tell me what's wrong.  
+  
+It's where I want to be.
