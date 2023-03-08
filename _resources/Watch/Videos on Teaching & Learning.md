@@ -13,13 +13,13 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
 <img src="/images/ibl-video-thumbnail.png" style="width:30%">
-<center><b>Teaching, Learning & Assessment</b></center>
+<center><b>Support Inquiry-Based Learning in the EL Classroom</b></center>
 </a></p>
 
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/cllips-and-acolade/">
 <img src="/images/cllips-and-acolades_b.jpg" style="width:30%">
-<center><b>Teaching, Learning & Assessment</b></center>
+<center><b>CLLIPS and ACoLADE</b></center>
 </a></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
@@ -315,3 +315,8 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 </table>
 
 ### e-Conference Resources
+
+![](/images/elis2020.png)
+
+Click [here](/elis/events/event/elisconference2020/) to find out more!
+
