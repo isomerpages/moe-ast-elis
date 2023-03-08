@@ -19,19 +19,18 @@ third_nav_title: EL Pedagogy Team
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/mr-daniel-yip/">
-<img src="/images/danel-yip-68d014bf8d857443cac25a5fe3f08c48f.png" style="width:25%">
+<p><a href="/elis/about-us/team-members/management-team/ms-komathi-govindasamy/">
+<img src="/images/elis-komathi-govindasamy.jpg" style="width:25%">
 </a></p>
-	<figcaption><b>Mr Daniel Yip</b><br>Deputy Director, Pedagogy</figcaption>
+	<figcaption><b>Ms Komathi Govindasamy</b><br>Deputy Director, Pedagogy</figcaption>
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/mr-colin-sim/">
-<img src="/images/colin-sim-1.jpg" style="width:25%">
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+<img src="/images/charmaine-tan-60906587f0af043a0a79c54409b5adfcd.png" style="width:25%">
 </a></p>
-	<figcaption><b>Mr Colin Sim</b><br>Assistant Director (Pedagogy)</figcaption>
+	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
-
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-audrey-lee/">
 <img src="/images/audrey_2.gif" style="width:25%">
@@ -54,6 +53,13 @@ third_nav_title: EL Pedagogy Team
 </figure>
 
 <figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
+<img src="/images/florence-6.png" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Florence Lee</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
+<figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/">
 <img src="/images/jennifer-l603a2c899d57b4171962f04b6a1547bd8-1.png" style="width:25%">
 </a></p>
@@ -67,12 +73,6 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mrs Jennifer Lui</b><br>Master Teacher</figcaption>
 </figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-jeyalaxmy-ayaduray/">
-<img src="/images/jeya_2018(1si).jpg" style="width:25%">
-</a></p>
-	<figcaption><b>Ms Jeyalaxmy Ayaduray</b><br>Master Teacher</figcaption>
-</figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
@@ -124,32 +124,22 @@ third_nav_title: EL Pedagogy Team
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-cara-mok/">
-<img src="/images/cara-mok-69c6b0ba917d443f3b629e87a4015fb03.png" style="width:25%">
+<p><a href="/elis/about-us/team-members/el-pedagogy/mr-benson-pang/">
+<img src="/images/elis-benson-pang.jpg" style="width:25%">
 </a></p>
-	<figcaption><b>Ms Cara Mok</b><br>Senior Academy Officer, Pedagogy</figcaption>
+	<figcaption><b>Mr Benson Pang</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
-<img src="/images/charmaine-tan-60906587f0af043a0a79c54409b5adfcd.png" style="width:25%">
+<p><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
+<img src="/images/eunice-6-(1).png" style="width:25%">
 </a></p>
-	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+	<figcaption><b>Mdm Eunice Lim</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/darrennonis/">
-<img src="/images/darren-nonis-3.png" style="width:25%">
-</a></p>
-	<figcaption><b>Dr Darren Nonis</b><br>Senior Academy Officer, Pedagogy</figcaption>
-</figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
-<img src="/images/florence-6.png" style="width:25%">
-</a></p>
-	<figcaption><b>Dr Florence Lee</b><br>Senior Academy Officer, Pedagogy</figcaption>
-</figure>
+
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
@@ -159,15 +149,16 @@ third_nav_title: EL Pedagogy Team
 </figure>
 
 <figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/">
+<img src="/images/elis_elizabeth-lee-(1).jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Ms Lee Hui, Elizabeth</b><br>Academy Officer, Pedagogy</figcaption>
+</figure>
+
+<figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
 <img src="/images/selene-tan-poh-hong.jpg" style="width:25%">
 </a></p>
 	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
-<img src="/images/eunice-6-(1).png" style="width:25%">
-</a></p>
-	<figcaption><b>Mdm Eunice Lim</b><br>Academy Officer, Pedagogy</figcaption>
-</figure>
