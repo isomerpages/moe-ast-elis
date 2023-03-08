@@ -68,4 +68,13 @@ sections:
       url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/about-us/
       image: /images/ELIS.png
       alt: ELIS
+  - infopic:
+      title: Inspiring Teacher of English Award 2023
+      subtitle: Nominate your english Teacher!
+      description: The Inspiring Teacher of English Award recognises teachers who have
+        been instrumental in igniting a passion for English
+      button: Find out more
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information.
+      image: /images/itea-2020-nominations_homepg.jpg
+      alt: Image alt text
 ---
