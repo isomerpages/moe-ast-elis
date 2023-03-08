@@ -42,5 +42,5 @@ third_nav_title: Management Team
 <p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
 <img src="/images/elis-jeanne-ho.jpg" style="width:25%">
 </a></p>
-	<figcaption><b>Dr Jeanna Ho Pau </b><br>Deputy Director, Special Projects</figcaption>
+	<figcaption><b>Dr Jeanna Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
 </figure>
