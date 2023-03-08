@@ -4,14 +4,11 @@ title: AST | Elis Home
 description: An Isomer site of the Singapore Government
 image: /images/logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
+      title: English Language Insititute of Singapore
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
       key_highlights:
         - title: Read @ Academy
           description: ""
