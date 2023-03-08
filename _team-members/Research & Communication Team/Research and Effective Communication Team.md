@@ -38,3 +38,10 @@ third_nav_title: Research & Communication Team
 </a></p>
 	<figcaption><b>Dr Rachel Goh</b><br>Senior Specialist, English Language</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/management-team/dr-darren-nonis/">
+<img src="/images/darren-nonis-3.png" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Darren Nonis</b><br>Deputy Director, Research and Effective Communication</figcaption>
+</figure>
