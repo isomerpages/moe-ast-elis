@@ -44,4 +44,3 @@ third_nav_title: Management Team
 </a></p>
 	<figcaption><b>Dr Jeanna Ho Pau </b><br>Deputy Director, Special Projects</figcaption>
 </figure>
-
