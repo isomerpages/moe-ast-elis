@@ -4,7 +4,6 @@ permalink: /elis/learning-communities/swi-alumni/swi-continuity-activities/prese
 description: ""
 third_nav_title: 2019   Re–Inventing Spaces
 ---
-
 ### Preservation - but at what cost?
 
 by Emily Koh
@@ -14,7 +13,7 @@ Reinvention is taking place at the Keong Saik Bakery. There is a convergence of 
 The novelty steadily dissipates, however, when the time comes to actually choose. I look hard at what is on display (I scrutinise); I have to order (and soon!) before the queue behind me gets any longer. The pleasant stimulation brought about by innovation, of creativity, to bring together a mixing of the old and the new has given way to a kind of sober clarity. I ask myself honestly: do I really want to eat an Attap Chee Rose Cheesecake or a Mama’s Kueh Salat? (Attap chee, bandung and cheese, quirky combination or fatal? And is Mama’s Kueh Salat kueh salat at all? And who is Mama? Whose Mama is it?) Or do I really want to eat a Chendol Delight? (What on earth is a Chendol Delight? Chendol is delightful enough as it is; is Chendol Delight going to turn out horribly wrong like Tuna Surprise? I shudder at the thought.) The final question that nags at me is: Why do all of these fusion cakes have genoise in them? I end up ordering a teh o ice limau, for the reinvented price of $2.50. 
 
 <img src="/images/preservation.png" 
-     style="width:60%">
+     style="width:600px">
 
 I am sitting opposite Kervin right now, the Purist, period, and not just the Laksa Purist. Just earlier, I was telling him about Cookie Museum’s “amazing nasi lemak cookies!” where in one bite you can actually taste separate different ingredients, to which he exclaimed indignantly, “If you want to eat nasi lemak, why don’t you just eat nasi lemak?!” Which is why I wonder: why reinvent? Why do people engage in reinvention? What is wrong with the real thing, with the original? Because if there is nothing wrong with it, then why reinvent it? And if there is something wrong with it, why not just let it die out?
 
