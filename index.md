@@ -29,6 +29,14 @@ sections:
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
   - infopic:
+      title: Supporting Inquiry-Based Learning in the EL Classroom
+      description: How can we support student learning by inquiring in the EL
+        classroom?  Watch these videos to find out!
+      button: Click here
+      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/
+      image: /images/watch_banner.png
+      alt: watch resources
+  - infopic:
       title: ELIS e-Digest
       description: View, read and listen to teacher's experiences in the teaching
         learning and assessment of English Language, Literature and General
@@ -53,15 +61,6 @@ sections:
       url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/
       image: /images/podcast.png
       alt: podcast
-  - infopic:
-      title: Supporting Inquiry-Based Learning in the EL Classroom
-      subtitle: Infopic Subtitle
-      description: How can we support student learning by inquiring in the EL
-        classroom?  Watch this video to find out
-      button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/
-      image: /images/watch_banner.png
-      alt: watch resources
   - infopic:
       title: About the English Language Institute of Singapore
       description: Click here to read more about us
