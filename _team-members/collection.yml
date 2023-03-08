@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - Management Team/Ms Komathi Govindasamy.md
       - Management Team/.keep
       - Management Team/Management Team.md
       - Management Team/Dr Tay May Yin.md
