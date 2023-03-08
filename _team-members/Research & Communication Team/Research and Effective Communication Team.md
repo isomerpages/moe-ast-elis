@@ -12,6 +12,13 @@ third_nav_title: Research & Communication Team
 </figure>
 
 <figure>
+<p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
+<img src="/images/elis-jeanne-ho.jpg" style="width:25%">
+</a></p>
+	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
+</figure>
+
+<figure>
 <p><a href="/elis/about-us/team-members/research-team/dr-caroline-ho/">
 <img src="/images/carol.gif" style="width:25%">
 </a></p>
@@ -31,5 +38,3 @@ third_nav_title: Research & Communication Team
 </a></p>
 	<figcaption><b>Dr Rachel Goh</b><br>Senior Specialist, English Language</figcaption>
 </figure>
-
-
