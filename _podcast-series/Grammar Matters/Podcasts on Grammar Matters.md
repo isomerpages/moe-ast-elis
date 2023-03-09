@@ -34,3 +34,10 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 <img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only.png" style="width:30%">
 <center><b>Pronouns – The Accident</b></center>
 </a></p>
+
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
+<img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
+<center><b>Transitive and Intransitive Verbs - The Cruise
+</b></center>
+</a></p>
