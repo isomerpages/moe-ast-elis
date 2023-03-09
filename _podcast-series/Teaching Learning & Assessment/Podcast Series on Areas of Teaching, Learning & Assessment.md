@@ -75,7 +75,7 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 </b></center>
 </a></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
+<p><a href="/elis/resources/listen/the-teaching-and-learning-of-critical-reading/">
 <img src="/images/cover-art-with-titles-and-names-(1).png" style="width:30%">
 <center><b>Metacognition in The Teaching and Learning of Critical Reading 
 
