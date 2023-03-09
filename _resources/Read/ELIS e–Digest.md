@@ -4,6 +4,13 @@ permalink: /elis/resources/read/elis-e-digest-new/
 description: ""
 third_nav_title: Read
 ---
+<img src="/images/digest4.png" 
+     style="width:75%">
+		 
+[ELIS e-Digest Issue 4](/files/learning-by-inquiring.pdf)		 
+
+The focus of this issue, 'Learning by Inquiring', is on how teachers can promote active student learning by engaging students in Inquiry-Based Learning (IBL). Read on to find out how students can learn by inquiring as they engage in dialogic talk, apply metacognitive learner strategies and find answers to their own questions.
+
 
 <img src="/images/elis-e-digest-social-media-poster-(issue-3).png" 
      style="width:75%">
