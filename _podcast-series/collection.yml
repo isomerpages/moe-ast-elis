@@ -2,8 +2,6 @@ collections:
   podcast-series:
     output: true
     order:
-      - Teaching Learning & Assessment/Metacognition in The Teaching and
-        Learning of Critical Reading.md
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
@@ -17,6 +15,8 @@ collections:
         Viewing.md
       - Teaching Learning & Assessment/Metacognition in Teaching Reading and
         Viewing.md
+      - Teaching Learning & Assessment/Metacognition in The Teaching and
+        Learning of Critical Reading.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue – Building a
         Culture of Learning Through Talk in English Language Classroom.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue – Using
