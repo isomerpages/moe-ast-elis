@@ -50,11 +50,5 @@ Click on the 'Play' button to find out more!
 
 ![](/images/masterclass4.png)
 
-• view the panel discussion with Mr Chia, Ms Amanda Chong, a poet and state counsel, Ms Kamini Ramachandran, a well-known storyteller, and Mr Cedric Leong, Principal Master Teacher/English Language;
 
-
-• access masterclass by Professor Sheridan Blau from Teachers College, Columbia University; and
-
-• access masterclasses by English Language Master Teachers and view presentations by English Language and English-medium subject teachers.  
-  
 ****[****Click here**** **to visit the ELIS e-Conference 2020 website.**](https://academyofsingaporeteachers.moe.edu.sg/elis/events/elisconference2020)****
