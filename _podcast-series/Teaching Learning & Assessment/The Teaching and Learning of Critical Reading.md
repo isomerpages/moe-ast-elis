@@ -4,11 +4,9 @@ permalink: /elis/resources/listen/the-teaching-and-learning-of-critical-reading/
 description: ""
 third_nav_title: Teaching Learning & Assessment
 ---
-
-
 ![](/images/cover-art-with-titles-and-names-(1).png)
 
-#### Listen to the podcast of Spotify [here](https://open.spotify.com/episode/2kO16WYsxE9Rc5rpsFuWRR?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1)
+#### Click [here](https://open.spotify.com/episode/2kO16WYsxE9Rc5rpsFuWRR?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1) to listen to the podcast
 
 We feature Yasila Vetri, Lead Teacher, who has been in service for almost 30 years in roles such as Head of Department, Teaching Fellow at the NIE and Curriculum Specialist in MOE. Yasila speaks with Tay May Yin, Principal Master Teacher, and Florence Lee, Master Teacher, about what the teaching of critical reading involves and why developing critical reading skills is important for our learners.
 
