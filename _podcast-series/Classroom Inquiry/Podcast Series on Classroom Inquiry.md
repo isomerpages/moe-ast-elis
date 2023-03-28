@@ -25,12 +25,12 @@ Share this page by copying this short URL: [go.gov.sg/classroominquirypodcastse
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3">
 <img src="/images/adeline-3.jpg" style="width:30%">
-<center><b>Developing Motivation to Write Through Journaling (Part 2)</b></center>
+<center><b>Developing Motivation to Write Through Journaling (Part 3)</b></center>
 </a></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/developing-motivation-to-write-through-journaling-part-4">
 <img src="/images/adeline-4.jpg" style="width:30%">
-<center><b>Developing Motivation to Write Through Journaling (Part 2)</b></center>
+<center><b>Developing Motivation to Write Through Journaling (Part 4)</b></center>
 </a></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/inquiring-into-reading-strategies-our-learning-experience">
