@@ -42,7 +42,7 @@ third_nav_title: EL Pedagogy Team
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
 <img src="/images/charles-peter-4-jpg.png" style="width:25%">
 </a></p>
-	<figcaption><b>Mr Charles Peter</b><br>Master Teacher</figcaption>
+	<figcaption><b>Mr Charles Peters</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
@@ -56,7 +56,7 @@ third_nav_title: EL Pedagogy Team
 <p><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
 <img src="/images/florence-6.png" style="width:25%">
 </a></p>
-	<figcaption><b>Dr Florence Lee</b><br>Senior Academy Officer, Pedagogy</figcaption>
+	<figcaption><b>Dr Florence Lee</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
@@ -161,4 +161,3 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
-
