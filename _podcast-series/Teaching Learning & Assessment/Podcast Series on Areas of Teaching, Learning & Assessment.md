@@ -32,7 +32,7 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/master-teacher-rita-pillai-talks-about-motivating-students-to-write/">
 <img src="/images/3b56bb985f6804d2e8930d023ac19d798.jpg" style="width:30%">
-<center><b>Inquiry Through Dialogue – Using Questioning Techniques</b></center>
+<center><b>Inquiring Through Dialogue - Motivating Students to Write</b></center>
 </a></p>
 
 
@@ -71,13 +71,13 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
 <img src="/images/7-september_tla-and-ci-thumbnails-w-title-only.png" style="width:30%">
-<center><b>Metacognition in Teaching Reading and Representing
+<center><b>Metacognition - Teaching Writing and Representing
 </b></center>
 </a></p>
 
 <p><a href="/elis/resources/listen/the-teaching-and-learning-of-critical-reading/">
 <img src="/images/cover-art-with-titles-and-names-(1).png" style="width:30%">
-<center><b>Metacognition in The Teaching and Learning of Critical Reading 
+<center><b>The Teaching and Learning of Critical Reading 
 
 </b></center>
 </a></p>
