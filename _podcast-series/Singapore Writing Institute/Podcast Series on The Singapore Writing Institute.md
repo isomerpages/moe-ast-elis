@@ -7,7 +7,7 @@ third_nav_title: Singapore Writing Institute
 <img src="/images/final-elis-series-podcast-artwork-2021.png" 
      style="width:50%">
 		 
-Listen to our Singapore Writing Institute (SWI) podcast episodes featuring SWI alumni give their views on the teaching, learning and assessment of writing and representing.
+Listen to our Singapore Writing Institute (SWI) podcast episodes featuring SWI alumni giving their views on the teaching, learning and assessment of writing and representing.
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/teacher-as-writer-why-writing-with-your-students-is-important/">
 <img src="/images/7-september_tla-and-ci-thumbnails-w-title-only-2-imresizer.jpg" style="width:30%">
@@ -23,9 +23,3 @@ Listen to our Singapore Writing Institute (SWI) podcast episodes featuring SWI 
 <img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only-(1).png" style="width:30%">
 <center><b>Teacher of Writers: How to Move Our Student Writers Forward</b></center>
 </a></p>
-
-
-
-
-
-
