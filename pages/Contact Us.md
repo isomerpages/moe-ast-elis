@@ -47,9 +47,34 @@ Harbourfront MRT: 57, 61, 97, 100, 166
 
 An Electronic Parking System (EPS) will be implemented with effect from 1 Apr 2016 at Malan Road campus (MRC) where ACADEMY OF SINGAPORE TEACHERS (AST), ELIS, PESTA and STAR are co-located. With the season parking in place, staff at MRC will purchase and be issued season parking labels for parking in designated areas. The parking facilities for course participants / visitors will therefore be limited and the charges are:  
 
-| Type of Vehicle | Visitor Parking |
-| --- | --- |
-| Car | $1.20 per hr, charged on per minute basis |
-| Motorcycle | $0.65 per entry |
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ag2m{background-color:#E7E7E7;text-align:left;vertical-align:top}
+.tg .tg-8yes{background-color:#803124;border-color:inherit;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-848l{background-color:#803124;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-rfng{background-color:#D4D4D4;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-8yes"><span style="font-weight:600;color:#FFF">Type of Vehicle</span></th>
+    <th class="tg-848l"><span style="font-weight:600;color:#FFF">Visitor Parking</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ag2m">Car</td>
+    <td class="tg-ag2m">$1.20 per hr, charged on per minute basis</td>
+  </tr>
+  <tr>
+    <td class="tg-rfng">Motorcycle</td>
+    <td class="tg-rfng">$0.65 per entry</td>
+  </tr>
+</tbody>
+</table>
 
 Visitors are encouraged to take public transport or park at the public car parks at Alexandra Retail Centre or Gillman Barracks. View&nbsp;[car-park-rates(.pdf, 389.6 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/default-document-library/car-park-rates.pdf?sfvrsn=f8ec05ad_2 "car-park-rates")&nbsp;at Alexandra Retail Centre &amp; Gillman Barracks.
