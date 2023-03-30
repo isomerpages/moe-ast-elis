@@ -5,7 +5,7 @@ description: ""
 third_nav_title: EL Pedagogy Team
 ---
 <img src="/images/dr%20lucy%20fernandez.png" 
-     style="width:70%">
+     style="width:80%">
 		 
 Prior to joining ELIS (MOE), Dr Lucy Fernandez taught at both the primary and secondary levels as well as at higher education at the National Institute of Education, Singapore. She obtained her BA (Hons) from the University of Otago, New Zealand (English and English Literature) and her MSc in Applied Linguistics and Language Acquisition from the University of Oxford, UK. While at school, Lucy held various positions and was involved in the professional development of teachers in various areas as well as spear-headed numerous initiatives and programmes. In 2009, she was conferred the President’s Award for Teachers.
 
