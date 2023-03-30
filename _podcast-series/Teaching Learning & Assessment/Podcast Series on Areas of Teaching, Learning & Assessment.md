@@ -104,7 +104,7 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 <center><b>Multiliteracies in Teaching Writing and Representing</b></center>
 </a></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-teaching-writing-and-representing/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-teaching-writing-and-vocabulary/">
 <img src="/images/Multiliteracies%20in%20Teaching%20Grammar%20and%20Vocabulary.jpg" style="width:40%">
 <center><b>Multiliteracies in Teaching Grammar and Vocabulary</b></center>
 </a></p>
