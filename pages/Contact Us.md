@@ -26,17 +26,17 @@ Block P Levels 1 and 2
 
 Singapore 109433
 
-##### Operating Hours:
+#### Operating Hours:
 
 Mondays to Fridays: 8:30am to 5:30pm
 
 Closed on Saturdays, Sundays and Public Holidays
 
-##### Getting Here:
+#### Getting Here:
 
 Malan Road Campus is within walking distance (500m) to Labrador Park MRT Station (Circle Line - CC27)
 
-##### Buses from the other MRT Stations
+#### Buses from the other MRT Stations
 
 Queenstown MRT: 51
 
@@ -44,7 +44,7 @@ Commonwealth MRT: 100
 
 Harbourfront MRT: 57, 61, 97, 100, 166
 
-##### Car Parking
+#### Car Parking
 
 An Electronic Parking System (EPS) will be implemented with effect from 1 Apr 2016 at Malan Road campus (MRC) where ACADEMY OF SINGAPORE TEACHERS (AST), ELIS, PESTA and STAR are co-located. With the season parking in place, staff at MRC will purchase and be issued season parking labels for parking in designated areas. The parking facilities for course participants / visitors will therefore be limited and the charges are:  
 
