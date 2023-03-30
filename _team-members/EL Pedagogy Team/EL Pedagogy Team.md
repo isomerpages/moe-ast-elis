@@ -31,12 +31,7 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-audrey-lee/">
-<img src="/images/audrey_2.gif" style="width:25%">
-</a></p>
-	<figcaption><b>Ms Audrey Lee</b><br>Master Teacher</figcaption>
-</figure>
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
