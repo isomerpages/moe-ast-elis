@@ -105,6 +105,6 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 </a></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/multiliteracies-in-teaching-writing-and-vocabulary/">
-<img src="/images/Multiliteracies%20in%20Teaching%20Grammar%20and%20Vocabulary.jpg" style="width:40%">
+<img src="/images/Multiliteracies%20in%20Teaching%20Grammar%20and%20Vocabulary.png" style="width:40%">
 <center><b>Multiliteracies in Teaching Grammar and Vocabulary</b></center>
 </a></p>
