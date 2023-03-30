@@ -2,6 +2,7 @@ collections:
   staff-publicationss:
     output: true
     order:
+      - Tay May Yin.md
       - Joy Lee.md
       - Caroline Ho.md
       - Jeyalaxmy Ayaduray.md
