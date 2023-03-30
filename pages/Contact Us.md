@@ -5,6 +5,7 @@ description: ""
 ---
 <img src="/images/elis.svg" style="width:20%"><br>
 
+### English Language Institute of Singapore
 
 <ul>
 <li><a href="mailto:MOE_ELIS_Academy@moe.gov.sg">MOE_ELIS_Academy@moe.gov.sg</a></li><a href="mailto:MOE_ELIS_Academy@moe.gov.sg">
