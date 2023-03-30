@@ -43,5 +43,5 @@ third_nav_title: Research & Communication Team
 <p><a href="/elis/about-us/team-members/research-team/dr-darren-nonis/">
 <img src="/images/darren-nonis-3.png" style="width:25%">
 </a></p>
-	<figcaption><b>Dr Darren Nonis</b><br>Senior Academy Officer, Research and Effective Communication</figcaption>
+	<figcaption><b>Dr Darren Nonis</b><br>Senior Academy Officer, Research</figcaption>
 </figure>
