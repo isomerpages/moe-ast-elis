@@ -4,10 +4,8 @@ permalink: /elis/about-us/team-members/management-team/dr-paul-grahame-doyle/
 description: ""
 third_nav_title: Management Team
 ---
-
-
 <img src="/images/Dr%20Paul%20Grahame%20Doyle.png" 
-     style="width:70%">
+     style="width:80%">
 
 As Deputy Director, Research, Paul heads the team in ELIS that supports English Language teachers in undertaking classroom inquiry and action research. He holds a PhD in Applied Linguistics from Lancaster University, UK, and has taught English Language in several countries, including Indonesia and Singapore. He has also had experience training in communication skills training for corporate clients.  
 
