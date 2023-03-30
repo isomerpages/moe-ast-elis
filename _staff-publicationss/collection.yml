@@ -2,4 +2,5 @@ collections:
   staff-publicationss:
     output: true
     order:
+      - Jeyalaxmy Ayaduray.md
       - Rachel Goh.md
