@@ -2,8 +2,6 @@ collections:
   podcast-series:
     output: true
     order:
-      - Teaching Learning & Assessment/Multiliteracies in Teaching Grammar and
-        Vocabulary.md
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
@@ -34,6 +32,8 @@ collections:
         Viewing.md
       - Teaching Learning & Assessment/Multiliteracies in Teaching Writing and
         Representing.md
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Grammar and
+        Vocabulary.md
       - Classroom Inquiry/.keep
       - Classroom Inquiry/Podcast Series on Classroom Inquiry.md
       - "Classroom Inquiry/Classroom Inquiry: Developing Motivation to Write
