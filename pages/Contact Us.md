@@ -77,4 +77,4 @@ An Electronic Parking System (EPS) will be implemented with effect from 1 Apr 20
 </tbody>
 </table>
 
-Visitors are encouraged to take public transport or park at the public car parks at Alexandra Retail Centre or Gillman Barracks. View&nbsp;[car-park-rates(.pdf, 389.6 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/default-document-library/car-park-rates.pdf?sfvrsn=f8ec05ad_2 "car-park-rates")&nbsp;at Alexandra Retail Centre &amp; Gillman Barracks.
+Visitors are encouraged to take public transport or park at the public car parks at Alexandra Retail Centre or Gillman Barracks. View&nbsp;[car-park-rates(.pdf, 389.6 KB)](/files/car-park-rates.pdf)&nbsp;at Alexandra Retail Centre &amp; Gillman Barracks.
