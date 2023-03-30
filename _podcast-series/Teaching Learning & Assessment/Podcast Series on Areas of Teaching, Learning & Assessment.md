@@ -71,7 +71,7 @@ Listen to our Teaching, Learning & Assessment podcast episodes on Inquiry Throug
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-teaching-writing-and-representing/">
 <img src="/images/7-september_tla-and-ci-thumbnails-w-title-only.png" style="width:30%">
-<center><b>Metacognition - Teaching Writing and Representing
+<center><b>Metacognition in Teaching Writing and Representing
 </b></center>
 </a></p>
 
