@@ -4,7 +4,7 @@ permalink: /elis/resources/listen/multiliteracies-in-teaching-writing-and-vocabu
 description: ""
 third_nav_title: Teaching Learning & Assessment
 ---
-<img src="/images/Multiliteracies%20in%20Teaching%20Grammar%20and%20Vocabulary.jpg" 
+<img src="/images/Multiliteracies%20in%20Teaching%20Grammar%20and%20Vocabulary.png" 
      style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/2A6JNfVlA9rMN5mlBM7MBi?go=1&sp_cid=e24597e8e622a1c8c0ffad0fc2d6676c&utm_source=embed_player_p&utm_medium=desktop">Click here to listen to the podcast</a>
