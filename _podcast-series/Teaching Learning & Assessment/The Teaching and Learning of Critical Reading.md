@@ -4,7 +4,8 @@ permalink: /elis/resources/listen/the-teaching-and-learning-of-critical-reading/
 description: ""
 third_nav_title: Teaching Learning & Assessment
 ---
-![](/images/cover-art-with-titles-and-names-(1).png)
+<img src="/images/cover-art-with-titles-and-names-(1).png" 
+     style="width:50%">
 
 #### Click [here](https://open.spotify.com/episode/2kO16WYsxE9Rc5rpsFuWRR?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1) to listen to the podcast
 
