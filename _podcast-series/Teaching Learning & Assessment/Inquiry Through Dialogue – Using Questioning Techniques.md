@@ -37,7 +37,7 @@ In this episode, Master Teacher Audrey Lee talks about questioning techniques, a
   </tr>
   <tr>
     <td class="tg-rfng">Six Types of Probing Questions <br></td>
-    <td class="tg-rfng">Paul, R., &amp; Elder, L. (2010). The Miniature Guide to Critical Thinking Concepts and Tools. Dillon Beach: Foundation for Critical Thinking Press. &lt;<a href="https://www.criticalthinking.org/files/Concepts_Tools.pdf"><span style="color:#CA2126;background-color:transparent">https://www.criticalthinking.org/files</span></a><br><a href="https://www.criticalthinking.org/files/Concepts_Tools.pdf"><span style="color:#CA2126;background-color:transparent">/Concepts_Tools.pdf</span></a>&gt;<br>Paul, R., &amp; Elder, L. (2006). The art of Socratic questioning. Dillon Beach, CA: Foundation for Critical Thinking.</td>
+    <td class="tg-rfng">Paul, R., &amp; Elder, L. (2010). The Miniature Guide to Critical Thinking Concepts and Tools. Dillon Beach: Foundation for Critical Thinking Press. &lt;<a href="https://www.criticalthinking.org/files/Concepts_Tools.pdf"><span style="color:#CA2126;background-color:transparent">https://www.criticalthinking.org/files</span></a><br><a href="https://www.criticalthinking.org/files/Concepts_Tools.pdf"><span style="color:#CA2126;background-color:transparent">/Concepts_Tools.pdf</span></a>&gt;<br><br>Paul, R., &amp; Elder, L. (2006). The art of Socratic questioning. Dillon Beach, CA: Foundation for Critical Thinking.</td>
   </tr>
   <tr>
     <td class="tg-ag2m">Types and Functions of Questions</td>
