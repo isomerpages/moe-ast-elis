@@ -48,3 +48,15 @@ Share this page by copying this short URL: [go.gov.sg/classroominquirypodcastse
 <center><b>Exploring Fluency in Oral Communication (Part 2)
 </b></center>
 </a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2">
+<img src="/images/288.png" style="width:40%">
+<center><b>Using Annotation to Develop Inferencing Skills for Critical Reading (Part 1)
+</b></center>
+</a></p>
+
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2">
+<img src="/images/288.png" style="width:40%">
+<center><b>Using Annotation to Develop Inferencing Skills for Critical Reading (Part 2)
+</b></center>
+</a></p>
