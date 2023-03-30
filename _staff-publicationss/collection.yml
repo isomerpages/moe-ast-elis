@@ -2,5 +2,6 @@ collections:
   staff-publicationss:
     output: true
     order:
+      - Caroline Ho.md
       - Jeyalaxmy Ayaduray.md
       - Rachel Goh.md
