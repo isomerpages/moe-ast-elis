@@ -16,9 +16,9 @@ Click on the links below to view the presentation slides from the WSA-EC Forum 2
 
 Supporting Students in the Literacy of Geography and History (ELIS, CPDD and Tampines Secondary)
 
-[Supporting Students in the Literacy of Geography(.pdf, 1.99 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/supporting-students-in-the-literacy-of-geography.pdf?sfvrsn=e5b76bb5_2 "Supporting Students in the Literacy of Geography")
+[Supporting Students in the Literacy of Geography(.pdf, 1.99 MB)](/files/supporting-students-in-the-literacy-of-history.pdf)
 
-[Supporting Students in the Literacy of History(.pdf, 374.48 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/supporting-students-in-the-literacy-of-history.pdf?sfvrsn=1d85560b_2 "Supporting Students in the Literacy of History")
+[Supporting Students in the Literacy of History(.pdf, 374.48 KB)](/files/supporting-students-in-the-literacy-of-geography.pdf)
 
 _Students' Voices in the Primary Classroom_
 
