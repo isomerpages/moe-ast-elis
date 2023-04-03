@@ -209,20 +209,24 @@ description: ""
 </ul>
 
 
-
 ### EC CHAMPIONS
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion117" type="checkbox">
-    <label for="accordion117"><h4>DAF</h4></label>
+    <label for="accordion117"><h4>2HP Presentations by school EC Champions (Part 2) Pri</h4></label>
     <div>
-OOO
+<p><strong>Developing Students’ Thinking and Literacy in the English Language and Art Classrooms</strong></p>
+<p><em>Ms Nur Ain Ahmad, Park View Primary School</em><br><em>Mrs Eileen Yap, Park View Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="https://go.gov.sg/2hp-wsa-ec-pri-park-view-pri">2HP-WSA-EC (Pri)-Park View Pri(.pdf, 10.21 MB)</a></p>
+<p><strong>Infusing Subject Literacy Support in English, Mathematics and Science Classrooms</strong></p>
+<p><em>Mrs Lata Menon, Gongshang Primary School</em><br><em>Mdm Widayu Bte Kemat, Gongshang Primary School</em><br><em>Mrs Lisa Choo, Gongshang Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="https://go.gov.sg/2hp-wsa-ec-pri-gongshang-pri">2HP-WSA-EC (Pri)-Gongshang Pri(.pdf, 8.84 MB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion118" type="checkbox">
-    <label for="accordion118"><h4>DAF</h4></label>
+    <label for="accordion118"><h4>2HS Presentations by school EC Champions (Part 2) Sec</h4></label>
     <div>
 OOO
     </div>
