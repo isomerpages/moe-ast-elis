@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-digests/
 description: ""
 third_nav_title: Read
 ---
-### Volume 6,2019
+<h4>Volume 6,2019</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
@@ -13,7 +13,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="#6DB1C2">2. Talk for learning across the curriculum : Exploring its relationship to formative assessment</font></b></a></p>
 
 
-### Volume 5, 2018
+<h4>Volume 5, 2018</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
@@ -22,7 +22,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-5-issue-2.pdf"><b><font color="#6DB1C2">2. Differentiating Teaching and Learning: The Benefits and the Challenges</font></b></a></p>
 
 
-### Volume 4, 2017
+<h4>Volume 4, 2017</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
@@ -36,7 +36,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-4-issue-4.pdf"><b><font color="#69A998">4. 21st Century Competencies - What are they and are we teaching them ?</font></b></a></p>
 
 
-### Volume 3, 2016
+<h4>Volume 3, 2016</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
@@ -49,7 +49,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-3-issue-4.pdf"><b><font color="#69A998">4. Approaches to Preparing Students for the Future</font></b></a></p>
 
 
-### Volume 2, 2015
+<h4>Volume 2, 2015</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
@@ -62,7 +62,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-2-issue-4_rev2.pdf"><b><font color="#69A998">4. Attributes of a Good Language Learner</font></b></a></p>
 
 
-### Volume 1, 2013/2014
+<h4>Volume 1, 2013/2014</h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
