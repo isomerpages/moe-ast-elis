@@ -64,5 +64,5 @@ Closing date for registration: Fri, 26 May
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
 
 ##### For enquiries, please contact:
-Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salwah_badiuzzaman@moe.gov.sg.
-<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg.</a>
+Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at
+<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg</a>
