@@ -35,9 +35,12 @@ Select this course at the Proficient Level of Practice if you:
 
 By the end of this course, you will be able to:
 
-*   demonstrate understanding of DI and its rationale in the teaching, learning and assessment in the EL classroom;
-*   apply the principles of DI to meet students’ different learning readiness, interests and learning profiles; and
-*   make appropriate choices, including the use of technology, to support DI in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.
+<ul>
+<li>demonstrate understanding of DI and its rationale in the teaching, learning and assessment in the EL classroom;</li>
+<li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL in the EL classroom; and</li>
+<li>make appropriate choices, including the use of technology, to support DI in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
+</ul>
+
 
 <p style="font-size:13px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
 
