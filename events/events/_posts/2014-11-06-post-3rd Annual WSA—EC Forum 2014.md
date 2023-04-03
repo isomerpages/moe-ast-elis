@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Schools on the WSA-EC programme attended the 3rd Annual WSA-EC Forum at the Academy of Singapore Teachers on 6 November 2014. Professor Neil Mercer, Professor of Education at the University of Cambridge, delivered the keynote address. A renowned expert in the field of academic talk and its relation to thinking, Professor Mercer shared his research on how language use is related to the development of reasoning and cognitive development as well as highlighting its practical implications for education. The participants then had the privilege of learning from sharing sessions conducted by WSA-EC schools and ELIS’s partners from the National Institute of Singapore (NIE), the Academy of Singapore Teachers (AST) and The British Council in various concurrent sessions.
 
 ### WSA-EC FORUM 2014
@@ -37,7 +36,7 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">1.1a:</td>
     <td class="tg-ag2m">WSA-EC innovations @ Chestnut Drive Secondary School</td>
-    <td class="tg-dewj"><a href="/files/1-1a-wsa-ec-forum-presentation-2014-chestnut-drive-secondary-school.pdf"><span style="color:#CA2126;background-color:transparent">1.1a WSA-EC Forum Presentation 2014 Chestnut Drive Secondary School(.pdf, 2.07 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/1-1a-wsa-ec-forum-presentation-2014-chestnut-drive-secondary-school.pdf"><span style="color:#CA2126;background-color:transparent">1.1a WSA-EC Forum Presentation 2014 <br>Chestnut Drive Secondary School(.pdf, 2.07 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">1.1b:</td>
@@ -150,7 +149,3 @@ Click on the links below to download the slides made available by presenters fro
   </tr>
 </tbody>
 </table>
-
-
-
-
