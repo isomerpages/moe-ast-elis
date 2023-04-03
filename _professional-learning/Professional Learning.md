@@ -12,9 +12,10 @@ Our professional learning programmes for teachers focus on:
 *   building a culture that celebrates effective communication in English throughout the whole school
 *   encouraging the growth of teacher reflection through classroom inquiry and research
 
+### Areas of Support
+
 To deepen teachers’ professional learning, ELIS provides four areas of support:
 
-<img src="/images/elis-pl-(5-jan-2022).png" 
-     style="width:70%">
+<img src="/images/elis-pl-(5-jan-2022).png" style="width:70%">
 
 ![](/images/approach-to-pl_2022.png)
