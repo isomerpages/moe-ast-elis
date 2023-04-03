@@ -1,4 +1,6 @@
 collections:
   masterclasses:
     output: true
-    order: []
+    order:
+      - "THE COMMENTARY PROJECT: AN APPRENTICESHIP IN TALKING AND WRITING ABOUT
+        READING.md"
