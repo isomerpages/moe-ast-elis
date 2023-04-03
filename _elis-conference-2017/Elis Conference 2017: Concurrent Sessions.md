@@ -78,3 +78,76 @@ OOO
     </div>
 	</li>  
 </ul>
+
+## Concurrent Session 2 | 3:30pm – 5:00pm
+
+### Education Leaders
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion109" type="checkbox">
+    <label for="accordion1"><h4>1A Education Leaders Segment (Session 1)</h4></label>
+    <div>
+0000
+    </div>
+	</li>  
+</ul>
+
+### EL TEACHER LEADERS
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion110" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion111" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion112" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion113" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion114" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion115" type="checkbox">
+    <label for="accordion1"><h4>NOOO</h4></label>
+    <div>
+OOOO
+    </div>
+	</li>  
+</ul>
+
+### EC CHAMPIONS
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion116" type="checkbox">
+    <label for="accordion1"><h4>DAF</h4></label>
+    <div>
+OOO
+    </div>
+	</li>  
+</ul>
