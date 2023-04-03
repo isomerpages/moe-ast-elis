@@ -45,8 +45,8 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 	</li>  
 </ul>
 
-<p>As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.</p>
-			<p>There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):</p>
+As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.<br><br>
+There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):
 			
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
