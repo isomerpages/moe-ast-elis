@@ -22,7 +22,7 @@ Supporting Students in the Literacy of Geography and History (ELIS, CPDD and Ta
 
 _Students' Voices in the Primary Classroom_
 
-*   [The BGPS Experience(.pdf, 2.5 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/the-bedok-green-primary-school-experience.pdf?sfvrsn=2858b737_2 "The BGPS Experience") (Bedok Green Primary School)
+*   [The BGPS Experience(.pdf, 2.5 MB)](/files/the-bedok-green-primary-school-experience.pdf) (Bedok Green Primary School)
 *   [Science - Food and Nutrition(.flv, 9.17 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/bgps-01.flv?sfvrsn=e78b6066_2&download=true "Science - Food and Nutrition") _(video)_ (Bedok Green Primary School)
 *   [Enhancing Students’ Conceptual Understanding through WSA-EC Class Meetings(.pdf, 3.59 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/chij-olqp_wsaec-class-meetings.pdf?sfvrsn=cc2e7081_2 "Enhancing Students’ Conceptual Understanding through WSA-EC Class Meetings") (CHIJ Our Lady Queen of Peace)
 *   [WSA-EC in SAJS(.pdf, 2.25 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/st-andrews-junior-school.pdf?sfvrsn=d5744244_2 "WSA-EC in SAJS") (St Andrew's Junior School)
