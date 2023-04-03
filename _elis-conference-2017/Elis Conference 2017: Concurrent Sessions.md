@@ -96,9 +96,10 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion108" type="checkbox">
-    <label for="accordion1"><h4>DAF</h4></label>
+    <label for="accordion1"><h4>1H Professional Learning for EC Champions (Part 1)</h4></label>
     <div>
-OOO
+<p><strong>Future-ready Professional Learning for Teachers</strong></p>
+<p><em>Dr Paul Doyle, ELIS</em></p>
     </div>
 	</li>  
 </ul>
@@ -110,7 +111,7 @@ OOO
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion109" type="checkbox">
-    <label for="accordion1"><h4>1A Education Leaders Segment (Session 1)</h4></label>
+    <label for="accordion1"><h4>2A Education Leaders Segment (Session 2)</h4></label>
     <div>
 0000
     </div>
@@ -175,4 +176,3 @@ OOO
     </div>
 	</li>  
 </ul>
-
