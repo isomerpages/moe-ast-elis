@@ -12,6 +12,10 @@ Schools on the WSA-EC programme attended the 5th Annual WSA-EC Forum at the Acad
 
 EC Champions then engaged in learning at sharing sessions from four WSA-EC schools, which presented how they had implemented school wide programmes to develop the subject literacy and communication skills of their students. EC Champions from EL departments were able to hear presentations of findings by EL teachers who had inquired into their classroom practices on projects funded by ELIS.
 
+Click [here](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/news-events/events/wsa-ec-forum-2018) to download the slides made available by presenters from the WSA-EC Forum 2018.
+
+
+
 ![](/images/ecforum2018_1.jpeg)
 
 ![](/images/ecforum2018_2.jpeg)
