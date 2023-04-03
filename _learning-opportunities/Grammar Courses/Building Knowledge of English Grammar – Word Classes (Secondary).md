@@ -18,16 +18,20 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2021.png" 
-     style="width:70%">
+<img src="/images/course%20structure%2021.png" style="width:70%">
 		 
 ### Target Participants
 EL Key Personnel, Teacher Leaders and Teachers
 
-### Registration 
-Please register on **OPAL2.0** using this code: **EL-000091**.  
+### Registration&nbsp;
+
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000091](https://www.opal2.moe.edu.sg/app/learner/detail/course/7aa46a81-7a42-4980-b800-259f4716200e).
 Closing date for registration: Thu, 26 Jan
 
-### For enquiries, please contact:
-Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salwah_badiuzzaman@moe.gov.sg.
-<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg.</a>
+<img align="left" style="width:7%" src="/images/picture17.png"><br>
+
+##### For enquiries, please contact:
+Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at
+<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg</a>
+
+[**Click here to download the ELIS prospectus**](https://go.gov.sg/elis-professional-learning-opportunities-2023-final)
