@@ -228,33 +228,16 @@ description: ""
     <input id="accordion118" type="checkbox">
     <label for="accordion118"><h4>2HS Presentations by school EC Champions (Part 2) Sec</h4></label>
     <div>
-OOO
+<p><strong>Infusing Language and Literacy Awareness into the English Language, Chemistry, History and Art Classrooms</strong></p>
+<p><em>Mrs Lee Hui Xin, Serangoon Garden Secondary School</em><br><em>Mr Ong Chee Meng, Serangoon Garden Secondary School</em><br><em>Mr Chiew Jing Wen, Serangoon Garden Secondary School</em><br><em>Ms Chia Ying, Serangoon Garden Secondary School</em></p>
+<p>Download slides here -&nbsp;<a href="https://go.gov.sg/2hs-wsa-ec-sec-serangoon-garden-sec">2HS-WSA-EC (Sec)-Serangoon Garden Sec(.pdf, 5.35 MB)</a></p>
+<p><strong>Opening up Talk for Learning in the Subject Classroom</strong></p>
+<p><em>Mr Jeffrey Sui, Gan Eng Seng School</em><br><em>Ms Shirley Tan, Gan Eng Seng School</em><br><em>Ms Vinodhini M Selveindran, Gan Eng Seng School</em><br><em>Mrs Tan-Ong Li Pei, Gan Eng Seng School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2hs-wsa-ec-(sec)-gan-eng-seng-school.pdf">2HS-WSA-EC (Sec)-Gan Eng Seng School(.pdf, 773.03 KB)</a></p>
+<p><strong>How We Integrated Talk with Writing in the Subject Classroom</strong></p>
+<p>Ms Donna Koh, CHIJ St. Theresa’s Convent<br>Mr Bryan Lim, CHIJ St. Theresa’s Convent<br>Ms Audrea Cheang, CHIJ St. Theresa’s Convent</p>
+<p>Download slides here -&nbsp;<a href="/files/2hs-wsa-ec-(sec)-chij-st-theresa's-convent.pdf">2HS-WSA-EC (Sec)-CHIJ St Theresa #39 Convent(.pdf, 4.61 MB)</a></p>
     </div>
 	</li>  
 </ul>
 
-**Infusing Language and Literacy Awareness into the English Language, Chemistry, History and Art Classrooms**
-
-_Mrs Lee Hui Xin, Serangoon Garden Secondary School_  
-_Mr Ong Chee Meng, Serangoon Garden Secondary School_  
-_Mr Chiew Jing Wen, Serangoon Garden Secondary School_  
-_Ms Chia Ying, Serangoon Garden Secondary School_
-
-Download slides here -&nbsp;[2HS-WSA-EC (Sec)-Serangoon Garden Sec(.pdf, 5.35 MB)](https://go.gov.sg/2hs-wsa-ec-sec-serangoon-garden-sec)
-
-**Opening up Talk for Learning in the Subject Classroom**
-
-_Mr Jeffrey Sui, Gan Eng Seng School_  
-_Ms Shirley Tan, Gan Eng Seng School_  
-_Ms Vinodhini M Selveindran, Gan Eng Seng School_  
-_Mrs Tan-Ong Li Pei, Gan Eng Seng School_
-
-Download slides here -&nbsp;[2HS-WSA-EC (Sec)-Gan Eng Seng School(.pdf, 773.03 KB)](/files/2hs-wsa-ec-(sec)-gan-eng-seng-school.pdf)
-
-**How We Integrated Talk with Writing in the Subject Classroom**
-
-Ms Donna Koh, CHIJ St. Theresa’s Convent  
-Mr Bryan Lim, CHIJ St. Theresa’s Convent  
-Ms Audrea Cheang, CHIJ St. Theresa’s Convent
-
-Download slides here -&nbsp;[2HS-WSA-EC (Sec)-CHIJ St Theresa #39 Convent(.pdf, 4.61 MB)](/files/2hs-wsa-ec-(sec)-chij-st-theresa's-convent.pdf)
