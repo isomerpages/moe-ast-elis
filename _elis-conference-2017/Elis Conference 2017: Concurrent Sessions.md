@@ -50,12 +50,17 @@ description: ""
     <input id="accordion104" type="checkbox">
     <label for="accordion1"><h4>1D Reading for Pri EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>Using Question-Answer Relationships (QAR) to Teach Close and Critical Reading Skills</strong></p>
+<p><em>Mdm Sanmuga Malar D/O Rathakrishnan, Princess Elizabeth Primary School</em>&nbsp;<br><em>Miss Chin Sau Lai, Princess Elizabeth Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/1d-reading-(pri)-princess-elizabeth-pri.pdf">1D-Reading (Pri)-Princess Elizabeth Pri(.pdf, 1.93 MB)</a></p>
+<p><strong>The Power of Effective Questioning</strong></p>
+<p><em>Mdm Elista Tan, Cedar Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/1d-reading-(pri)-cedar-pri.pdf">1D-Reading (Pri)-Cedar Pri(.pdf, 462.92 KB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion105" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>1E Grammar for Pri EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -161,15 +166,3 @@ OOO
 	</li>  
 </ul>
 
-**Using Question-Answer Relationships (QAR) to Teach Close and Critical Reading Skills**
-
-_Mdm Sanmuga Malar D/O Rathakrishnan, Princess Elizabeth Primary School_&nbsp;  
-_Miss Chin Sau Lai, Princess Elizabeth Primary School_
-
-Download slides here -&nbsp;[1D-Reading (Pri)-Princess Elizabeth Pri(.pdf, 1.93 MB)](/files/1d-reading-(pri)-princess-elizabeth-pri.pdf)
-
-**The Power of Effective Questioning**
-
-_Mdm Elista Tan, Cedar Primary School_
-
-Download slides here -&nbsp;[1D-Reading (Pri)-Cedar Pri(.pdf, 462.92 KB)](/files/1d-reading-(pri)-cedar-pri.pdf)
