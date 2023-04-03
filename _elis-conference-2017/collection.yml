@@ -2,4 +2,5 @@ collections:
   elis-conference-2017:
     output: true
     order:
+      - Example Title.md
       - Elis Conference 2017.md
