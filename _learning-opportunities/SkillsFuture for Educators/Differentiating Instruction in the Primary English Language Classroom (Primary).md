@@ -66,6 +66,17 @@ Select this course at the Leading Level of Practice if you:
 *   would like to be able to lead effectively and mentor others in their professional learning and practice of DI; and
 *   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves planning a professional learning session to lead and guide peers/teachers in their practice of DI in the EL classroom.
 
+#### Learning Goals
+
+By the end of this course, you will be able to:
+
+*   lead and mentor peers/teachers in the practice of DI in the areas of language learning to improve classroom practice by demonstrating:
+
+	*   the application of DI principles and e-pedagogy,
+	*   ongoing review of and critical inquiry into the practice of DI, and
+	*   adaptiveness in the practice of DI to customise learning for students; and
+
+*   plan with the aim of facilitating professional learning about DI in the EL classroom in the following contexts: a Professional Learning Team, Professional Learning Community and/or Networked Learning Community at school/cluster levels.
 
 
 ### Course Structure
