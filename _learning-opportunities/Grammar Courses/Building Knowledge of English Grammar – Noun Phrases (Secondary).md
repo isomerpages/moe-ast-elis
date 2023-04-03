@@ -19,16 +19,18 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2018.png" 
-     style="width:70%">
+<img src="/images/course%20structure%2018.png" style="width:70%">
 		 
 ### Target Participants
 EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
-Please register on **OPAL2.0** using this code: **EL-000170**.  
+
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000170](https://www.opal2.moe.edu.sg/app/learner/detail/course/cdd14d5f-a714-48e3-9926-83269d11563b).
 Closing date for registration: Thu, 23 Mar
 
-### For enquiries, please contact:
-Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salwah_badiuzzaman@moe.gov.sg.
-<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg.</a>
+<img align="left" style="width:7%" src="/images/picture17.png"><br>
+
+##### For enquiries, please contact:
+Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at
+<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg</a>
