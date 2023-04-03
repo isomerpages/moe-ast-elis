@@ -4,8 +4,7 @@ permalink: /elis/professional-learning/professional-learning-opportunities/skill
 description: ""
 third_nav_title: Learning Opportunities
 ---
-* The SFEd Differentiated Instruction courses enable English Language teachers to better respond to variation in students’ learning readiness, interests and learning profiles. The SFEd Inquiry-Based Learning courses enable teachers to guide students in exploring, coconstructing and inquiring into ideas and issues, and engaging in metacognitive learning processes.
-* 
+The SFEd Differentiated Instruction courses enable English Language teachers to better respond to variation in students’ learning readiness, interests and learning profiles. The SFEd Inquiry-Based Learning courses enable teachers to guide students in exploring, coconstructing and inquiring into ideas and issues, and engaging in metacognitive learning processes.
 
 <ul class="jekyllcodex_accordion">
   <li>
