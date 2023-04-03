@@ -32,24 +32,24 @@ By the end of this course, you will be able to:
 .tg .tg-5p3q{background-color:#f9d89a;color:#212529;text-align:center;vertical-align:top}
 .tg .tg-alvu{background-color:#f9d89a;color:#212529;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-ecbr">Mode of Learning</th>
-    <th class="tg-5wiv"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
-    <th class="tg-5wiv"><img style="width:50px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-ecbr">Mode of Learning</th>
+    <th style="border: 1px solid white" class="tg-5wiv"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-5wiv"><img style="width:50px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
-    <td class="tg-alvu">2 hours</td>
-    <td class="tg-alvu">Thu, 6 Jul – Thu, 20 Jul</td>
+    <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
+    <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
+    <td style="border: 1px solid white" class="tg-alvu">Thu, 6 Jul – Thu, 20 Jul</td>
   </tr>
   <tr>
-    <td class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
-    <td class="tg-alvu">2 hours</td>
-    <td class="tg-alvu">Thu, 27 Jul (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
+    <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
+    <td style="border: 1px solid white" class="tg-alvu">Thu, 27 Jul (P.M.)</td>
   </tr>
 </tbody>
 </table>
