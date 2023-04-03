@@ -106,14 +106,14 @@ By the end of this course, you will be able to:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ylnx"><img height="36" width="42" alt="Picture9" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture9586bbe804379403a95bb3157ad530055.png?sfvrsn=24596e6d_0">#Asynchronous Online Learning Period</td>
+    <td class="tg-ylnx"><img height="36" width="42" alt="Picture9" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture9586bbe804379403a95bb3157ad530055.png?sfvrsn=24596e6d_0">Asynchronous Online Learning Period</td>
     <td class="tg-he1f">3 hours</td>
     <td class="tg-he1f">Fri, 17 Feb – Fri, 3 Mar</td>
     <td class="tg-he1f">Wed, 22 Mar – Wed, 5 Apr</td>
     <td class="tg-he1f">Fri, 24 Mar – Mon, 10 Apr</td>
   </tr>
   <tr>
-    <td class="tg-ylnx"><img height="34" width="41" alt="Picture10" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture10.png?sfvrsn=da1a2fba_0">#Synchronous Online Learning Session</td>
+    <td class="tg-ylnx"><img height="34" width="41" alt="Picture10" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture10.png?sfvrsn=da1a2fba_0">Synchronous Online Learning Session</td>
     <td class="tg-he1f">3 hours</td>
     <td class="tg-he1f">Thu, 9 Mar (P.M.)</td>
     <td class="tg-he1f">Wed, 12 Apr (P.M.)</td>
