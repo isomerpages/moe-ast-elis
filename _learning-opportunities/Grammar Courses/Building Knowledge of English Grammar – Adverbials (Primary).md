@@ -34,7 +34,7 @@ By the end of this course, you will be able to:
 <thead>
   <tr>
     <th class="tg-h3mj">Mode of Learning</th>
-    <th class="tg-thnp"><img style="width:60px" alt="Picture7" src="/images/picture7.png"></th>
+    <th class="tg-thnp"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
     <th class="tg-thnp"><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
