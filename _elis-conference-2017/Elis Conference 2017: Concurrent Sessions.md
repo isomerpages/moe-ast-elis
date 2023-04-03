@@ -167,6 +167,20 @@ OOOO
 	</li>  
 </ul>
 
+**Developing 21st Century Readers among Normal (Technical) Students**&nbsp;  
+  
+_Ms Caroline Patricia Thomas, Anderson Secondary School_  
+_Ms Jeyalaxmy Ayaduray, ELIS_
+
+Download slides here -&nbsp;[2B-Reading (Sec)-Anderson Sec(.pdf, 4.93 MB)](/files/2b-reading-(sec)-anderson-sec.pdf)
+
+**READ@Clementi Town Secondary School (Whole School Approach to Reading)**&nbsp;  
+  
+_Mrs Teresa Chua, Clementi Town Secondary School_  
+_Ms Karen Sia, Clementi Town Secondary School_
+
+Download slides here -&nbsp;[2B-Reading (Sec)-Clementi Town Sec(.pdf, 8.76 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/2b-reading-(sec)-clementi-town-sec.pdf?sfvrsn=6d778475_2 "2B-Reading (Sec)-Clementi Town Sec")
+
 ### EC CHAMPIONS
 
 <ul class="jekyllcodex_accordion">
