@@ -18,7 +18,39 @@ By the end of this course, you will be able to:
 *   explain how you will know when your students have applied cohesion and coherence appropriately and effectively.
 
 ### Course Structure
-<img src="/images/course%20structure%2011.png" style="width:70%">
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y050{background-color:#8abfbb;color:#212529;text-align:center;vertical-align:middle}
+.tg .tg-h3mj{background-color:#8abfbb;color:#212529;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-thnp{background-color:#8abfbb;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ta8k{background-color:#8abfbb;color:#212529;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h3mj">Mode of Learning</th>
+    <th class="tg-thnp"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
+    <th class="tg-thnp"><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
+    <td class="tg-y050">2 hours</td>
+    <td class="tg-y050">Thu, 23 Mar – Thu, 6 Apr</td>
+  </tr>
+  <tr>
+    <td class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
+    <td class="tg-y050">2 hours</td>
+    <td class="tg-y050">Thu, 13 Apr (P.M.)</td>
+  </tr>
+</tbody>
+</table>
 		 
 ### Target Participants
 
