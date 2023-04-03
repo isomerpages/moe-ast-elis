@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-digests/
 description: ""
 third_nav_title: Read
 ---
-<h4><b><font color="#BB342F">Volume 6,2019</font></b></h4>
+<h4><b><font color="#BB342F">Volume 6, 2019</font></b></h4>
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
