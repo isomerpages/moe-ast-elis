@@ -120,7 +120,7 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">2.1a:</td>
     <td class="tg-ag2m">WSA-EC Initiatives in Coral Primary School</td>
-    <td class="tg-dewj"><a href="https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa_ec-forum-2014/2-1a-wsa-ec-initiatives-in-coral-primary.pdf?sfvrsn=42217621_2"><span style="color:#CA2126;background-color:transparent">2.1a WSA-EC Initiatives in Coral Primary(.pdf, 6.69 MB)</span></a></td>
+    <td class="tg-dewj"><a href="https://go.gov.sg/2-1a-wsa-ec-initiatives-in-coral-primary"><span style="color:#CA2126;background-color:transparent">2.1a WSA-EC Initiatives in Coral Primary(.pdf, 6.69 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2.1b:</td>
