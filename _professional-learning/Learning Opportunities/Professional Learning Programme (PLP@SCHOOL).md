@@ -79,7 +79,7 @@ of participatory, connected and reflective EL classrooms<br><br>Your EL departme
 principles of e-pedagogy and blended learning. They will learn about
 the practice of teaching with technology to design lessons for
 students to achieve the intended learning outcomes in blended
-learning contexts.<br><br>You can refer to page 39 for the details on this area of learning.</li><p><strong style="color:#46859d;"></strong><strong style="color:#46859d;">OR</strong>
+learning contexts.<br><br>You can refer to page 39 for the details on this area of learning.</li><p><strong style="color:#46859d;">OR</strong>
  </p><li><strong style="text-decoration:underline;">one</strong> area of language learning to be selected from the following:
         <ol><li>Teaching Grammar (Primary/Secondary)</li><li>Teaching Oracy (Primary/Secondary)</li><li>Teaching Reading, Viewing and Vocabulary (Primary/Secondary) </li><li>Teaching Extensive Reading and Viewing (Primary/Secondary) </li><li>Teaching Writing and Representing (Primary/Secondary) </li></ol><p>For any area of language learning that you select, your EL
 department members will deepen their knowledge of it. They will
@@ -94,4 +94,4 @@ department decides on; and</p></div></div><br><div style="display:flex;width:100
 and guide your colleagues in planning and enacting classroom
 inquiry into the impact of their application of learning on student
 learning outcomes.
-        </p></div></div><br>    
+        </p></div></div><br>
