@@ -6,11 +6,11 @@ description: ""
 Click on the links below to view the presentation slides from the WSA-EC Forum 2013:
 
 **Plenary Address**  
-[Why student talk matters in subject classrooms(.pdf, 2.61 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/wsa-ec-forum_plenary-address.pdf?sfvrsn=b1f37976_2 "Why student talk matters in subject classrooms") (Dr Anneliese Kramer-Dahl and Dr Paul Doyle)
+[Why student talk matters in subject classrooms(.pdf, 2.61 MB)](/files/wsa-ec-forum_plenary-address.pdf) (Dr Anneliese Kramer-Dahl and Dr Paul Doyle)
 
 **Concurrent Sessions**
 
-[How to Get Started: Teacher Strategies for Opening Up Classroom Talk(.pdf, 1.72 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/teacher-strategies-for-opening-up-classroom-talk.pdf?sfvrsn=ec6bc3e3_2 "How to Get Started: Teacher Strategies for Opening Up Classroom Talk") (Dr Anneliese Kramer-Dahl)
+[](/files/teacher-strategies-for-opening-up-classroom-talk.pdf) (Dr Anneliese Kramer-Dahl)
 
 [Language Awareness in the Content Classroom(.pdf, 806.19 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/language-awareness-in-the-content-classroom.pdf?sfvrsn=dbe03db5_2 "Language Awareness in the Content Classroom") (Mr Edward Russell, British Council)
 
