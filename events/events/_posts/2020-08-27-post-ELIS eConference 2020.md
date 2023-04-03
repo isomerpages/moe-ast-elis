@@ -23,9 +23,9 @@ Click on the 'Play' button to find out more!
 
 ![](/images/conversationwithdge.png)
 
-## Keynote Address & Panel Discussion
+## Keynote Address &amp; Panel Discussion
 
-[Click here to watch the Keynote Address & Panel Discussion](/elis/elisconference2020-keynote-address-panel-discussion-videos)
+[Click here to watch the Keynote Address &amp; Panel Discussion](/elis/elisconference2020-keynote-address-panel-discussion-videos)
 
 ![](/images/keynote1.png)
 ### Other Panelists
@@ -51,4 +51,4 @@ Click on the 'Play' button to find out more!
 ![](/images/masterclass4.png)
 
 
-****[****Click here**** **to visit the ELIS e-Conference 2020 website.**](https://academyofsingaporeteachers.moe.edu.sg/elis/events/elisconference2020)****
+[**Click here to visit the ELIS e-Conference 2020&nbsp;website.**](https://academyofsingaporeteachers.moe.edu.sg/elis/events/elisconference2020)
