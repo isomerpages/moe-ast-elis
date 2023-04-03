@@ -59,7 +59,7 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000094](https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51)  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000094](https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51)  <br>
 Closing date for registration: Tue, 7 Mar
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
