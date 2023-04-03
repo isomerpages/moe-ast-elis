@@ -5,6 +5,7 @@ description: ""
 third_nav_title: PLP@SCHOOL
 ---
 ### Nurturing Creative, Critical and Purposeful Writers
+
 <em>How do I help my students develop a positive disposition towards writing and representing? How do I help them to write creatively and critically for a variety of purposes, audiences, contexts and cultures? What do I need to do to plan and teach engaging and effective writing lessons that meet my students’ readiness to learn, interests and learning profiles? How can I teach writing and representing effectively, including in blended learning contexts?</em>
 
 ### Overview
