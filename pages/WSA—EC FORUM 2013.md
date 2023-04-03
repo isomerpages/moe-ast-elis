@@ -29,5 +29,5 @@ _Students' Voices in the Primary Classroom_
 
 Students' Voices in the Secondary Classroom
 
-*   [Express to Engage(.pdf, 3.39 MB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/sembawang-secondary_express-to-engage.pdf?sfvrsn=e53aff64_2 "Express to Engage") (Sembawang Secondary)
-*   [Disciplinary Literacy Strategies in Physics Teaching(.pdf, 292.05 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/nbrooks-nie_disciplinary-literacy-strategies-in-physics-teaching.pdf?sfvrsn=67d3f78f_2 "Disciplinary Literacy Strategies in Physics Teaching") (Northbrooks Secondary in collaboration with the National Institute of Education
+*   [Express to Engage(.pdf, 3.39 MB)](/files/sembawang-secondary_express-to-engage.pdf) (Sembawang Secondary)
+*   [Disciplinary Literacy Strategies in Physics Teaching(.pdf, 292.05 KB)](/files/nbrooks-nie_disciplinary-literacy-strategies-in-physics-teaching.pdf) (Northbrooks Secondary in collaboration with the National Institute of Education
