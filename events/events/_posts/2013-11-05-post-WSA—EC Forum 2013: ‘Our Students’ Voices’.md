@@ -10,5 +10,4 @@ Schools on the WSA-EC programme attended the annual WSA-EC Forum at the Academy 
 
 The teachers then engaged in learning at sharing sessions conducted by WSA-EC schools, and ELIS’s partners from the National Institute of Singapore (NIE), the Curriculum Planning and Development Division (CPDD) and The British Council in various concurrent sessions.
 
-**Click [](https://academyofsingaporeteachers.moe.edu.sg/elis/events/wsa-ec-forum-2013)[here](https://academyofsingaporeteachers.moe.edu.sg/elis/events/wsa-ec-forum-2013) to view the presentation slides from the WSA-EC Forum 2013.**
-
+**Click [here](https://academyofsingaporeteachers.moe.edu.sg/elis/events/wsa-ec-forum-2013) to view the presentation slides from the WSA-EC Forum 2013.**
