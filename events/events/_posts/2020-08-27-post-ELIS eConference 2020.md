@@ -49,6 +49,3 @@ Click on the 'Play' button to find out more!
 [Click here to view this masterclass](/elis/masterclasses/developing-a-nose-for-quality/)
 
 ![](/images/masterclass4.png)
-
-
-[**Click here to visit the ELIS e-Conference 2020&nbsp;website.**](https://academyofsingaporeteachers.moe.edu.sg/elis/events/elisconference2020)
