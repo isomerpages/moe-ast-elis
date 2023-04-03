@@ -188,16 +188,22 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion115" type="checkbox">
-    <label for="accordion115"><h4>NOOO</h4></label>
+    <label for="accordion115"><h4>2G Master Class on Singapore Writing Institute</h4></label>
     <div>
-OOOO
+<p><strong>The Singapore Writing Institute: A Taster</strong>  </p>
+<p><em>Mdm Varalackshmi Hariharan, ELIS</em><br><em>Ms Audrey Lee, ELIS</em><br><em>Mr Amir Wahab, ELIS</em></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion116" type="checkbox">
-    <label for="accordion116"><h4>NOOO</h4></label>
+    <label for="accordion116"><h4>2I Literature for Sec EL &amp; Lit teachers</h4></label>
     <div>
-OOOO
+<p><strong>The Use of Lesson Study to Prepare Students to Ask Purposeful Questions in a Poetry Socratic Seminar</strong>  </p>
+<p><em>Mrs Cheryl Wong, Methodist Girls’ School</em><br><em>Mrs Beatrice Leong, Methodist Girls’ School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2i-literature-(sec)-methodist-girls'-school.pdf">2I-Literature (Sec)-Methodist Girls #39 School(.pdf, 1.42 MB)</a></p>
+<p><strong>Digital Resources for Critical Appreciation of Literary Texts</strong>  </p>
+<p><em>Mrs June Henry, ELLB (Sec Unit), Literature Team</em><br><em>Ms Indirani D/O Palaraju, ELLB (Sec Unit), Literature Team</em><br><em>Ms Liew Wai Yee Janet, ELLB (Sec Unit), Literature Team</em><br><em>Ms Zheng Kankan, ELLB (Sec Unit), Literature Team</em><br><em>Miss Lee Yuling Jean, ELLB (Sec Unit), Literature Team</em><br><em>Miss Leong Su Zhen, ELLB (Sec Unit), Literature Team</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2i-literature-(sec)-ellb-(sec).pdf">2I-Literature (Sec)-ELLB (Sec)(.pdf, 943.89 KB)</a></p>
     </div>
 	</li>  
 </ul>
