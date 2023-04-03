@@ -125,27 +125,27 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-rfng">2.1b:</td>
     <td class="tg-rfng">WSA-EC Initiatives in West Grove Primary School</td>
-    <td class="tg-rhd3"><a href="/files/2-1b-wsa-ec-@-wgps_west-grove-(wsa-ec-forum).pdf"><span style="color:#CA2126;background-color:transparent">2.1b WSA-EC @ WGPS_West Grove (WSA-EC Forum)(.pdf, 3.37 MB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/2-1b-wsa-ec-@-wgps_west-grove-(wsa-ec-forum).pdf"><span style="color:#CA2126;background-color:transparent">2.1b WSA-EC @ WGPS_West <br>Grove (WSA-EC Forum)(.pdf, 3.37 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2.2a: </td>
     <td class="tg-ag2m">Let’s Talk Card Game: Developing an Educational Resource for Productive Academic Discussions in Subject Classrooms CHIJ (Our Lady Queen of Peace)</td>
-    <td class="tg-dewj"><a href="/files/2-2a-let's-talk-card-game.pdf"><span style="color:#CA2126;background-color:transparent">2.2a: Let's Talk Card Game(.pdf, 327.47 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/2-2a-let's-talk-card-game.pdf"><span style="color:#CA2126;background-color:transparent">2.2a: Let's Talk Card Game<br>(.pdf, 327.47 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2.2b: </td>
     <td class="tg-rfng">Classroom Interaction Teacher Reflection Tool (CITReT) for Subject Teachers’ Professional development (St. Andrew’s Junior School)</td>
-    <td class="tg-rhd3"><a href="/files/2-2b-citret-for-teacher-professional-development.pdf"><span style="color:#CA2126;background-color:transparent">2.2b CITReT for Teacher Professional Development(.pdf, 748.76 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/2-2b-citret-for-teacher-professional-development.pdf"><span style="color:#CA2126;background-color:transparent">2.2b CITReT for Teacher Professional <br>Development(.pdf, 748.76 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">2.4:</td>
     <td class="tg-ag2m">A Topic-Based Approach to Addressing the Language Demands of Science (NIE)</td>
-    <td class="tg-ag2m">Download 1<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_1.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to addressing the language demands of science _1(.pdf, 457.79 KB)</span></a><br>Download 2<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_2.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to addressing the language demands of science _2(.pdf, 495.85 KB)</span></a></td>
+    <td class="tg-ag2m">Download 1<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_1.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to <br>addressing the language demands of science _1(.pdf, 457.79 KB)</span></a><br>Download 2<br><a href="/files/2-4-a-topic-based-approach-to-addressing-the-language-demands-of-science-_2.pdf"><span style="color:#CA2126;background-color:transparent">2.4 A topic-based approach to <br>addressing the language demands of science _2(.pdf, 495.85 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">2.5:</td>
     <td class="tg-rfng">Generating Math Talk that Supports Mathematical Thinking and Learning (AST)</td>
-    <td class="tg-rhd3"><a href="/files/2-5-generating-math-talk-that-supports-mathematical-thinking-and-learning.pdf"><span style="color:#CA2126;background-color:transparent">2.5 Generating Math Talk that Supports Mathematical Thinking and Learning(.pdf, 573.74 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/2-5-generating-math-talk-that-supports-mathematical-thinking-and-learning.pdf"><span style="color:#CA2126;background-color:transparent">2.5 Generating Math Talk that Supports <br>Mathematical Thinking and Learning(.pdf, 573.74 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
