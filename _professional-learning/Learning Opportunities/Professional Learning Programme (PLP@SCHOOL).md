@@ -47,7 +47,7 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 
 <p>As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.</p>
 			<p>There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):</p>
-			<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -86,3 +86,40 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
     For any area of language learning that you select, your EL department members will deepen their knowledge of it. They will also consider ways of using technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.  
       
     You can refer to pages 40 to 48 for the details on the areas of language learning listed above.
+		
+		<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k35i{background-color:#a43318;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-03jt{background-color:#3a7596;color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td style="text-align:center;" class="tg-k35i">2</td>
+    <td style="text-align:center;" class="tg-03jt">Support in forming and guiding Professional Learning Teams (PLTs) in your department to deepen the teachers’ knowledge, skills and classroom practice in the area of learning your department decides on; and</td>
+  </tr>
+</thead>
+</table>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k35i{background-color:#a43318;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-03jt{background-color:#3a7596;color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td style="text-align:center;" class="tg-k35i">3</td>
+    <td style="text-align:center;" class="tg-03jt">Guidance in the growth of teacher leadership. You will learn to lead and guide your colleagues in planning and enacting classroom inquiry into the impact of their application of learning on student learning outcomes.
+		</td>
+  </tr>
+</thead>
+</table>
