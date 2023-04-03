@@ -192,7 +192,7 @@ Download slides here -&nbsp;[2C-ICT-St Joseph' Institution Junior(.pdf, 455.29 K
 _Miss Nurkhalisah Binte Kassim, Ngee Ann Secondary School_  
 _Miss Elizabeth Eng Yan Ling, Ngee Ann Secondary School_
 
-Download slides here -&nbsp;[2C-ICT-Ngee Ann Sec(.pdf, 1.21 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/2c-ict-ngee-ann-sec.pdf?sfvrsn=e3cf5697_2 "2C-ICT-Ngee Ann Sec")
+Download slides here -&nbsp;[2C-ICT-Ngee Ann Sec(.pdf, 1.21 MB)](/files/2c-ict-ngee-ann-sec.pdf)
 
 ### EC CHAMPIONS
 
