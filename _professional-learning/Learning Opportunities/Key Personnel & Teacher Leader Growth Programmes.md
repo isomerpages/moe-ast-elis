@@ -9,7 +9,7 @@ A range of programmes is offered for Key Personnel, Lead Teachers and Senior Tea
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h3>Lead Teacher-Senior Teacher (LT-ST Growth Programmes)</h3></label>
+    <label for="accordion1"><h4>Lead Teacher-Senior Teacher (LT-ST Growth Programmes)</h4></label>
     <div>
       <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/clinic-with-master-teachers-el/">Clinic with Master Teachers &amp; EL</a></p>
 			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/professional-dialogue/">Professional Dialogue with Master Teachers &amp; EL</a></p>
@@ -18,7 +18,7 @@ A range of programmes is offered for Key Personnel, Lead Teachers and Senior Tea
 	</li>  
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h3>Key Personnel/Lead Teacher-Senior Teacher (KP/LT-ST Growth Programmes)</h3></label>
+    <label for="accordion2"><h4>Key Personnel/Lead Teacher-Senior Teacher (KP/LT-ST Growth Programmes)</h4></label>
     <div>
       <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/the-singapore-writing-institute/">The Singapore Writing Institute</a></p>
 			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/building-subject-content-knowledge/">96–hr PLP: Building Subject Content Knowledge for EL Teaching, Learning and Assessment</a></p>
