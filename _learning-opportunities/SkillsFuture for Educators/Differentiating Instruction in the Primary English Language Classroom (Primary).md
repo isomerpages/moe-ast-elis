@@ -130,7 +130,7 @@ EL Key Personnel, Teacher Leaders and Teachers
 </table>
 
 
-<img style="width:15%" src="/images/picture13.png">
+<img style="width:9%" src="/images/picture13.png">
 
 ##### For enquiries, please contact:
 
