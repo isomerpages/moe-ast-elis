@@ -41,7 +41,7 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">Connect, Collaborate, Communicate: Cascading Professional Learning In Subject Literacy Across Subject Areas</td>
     <td class="tg-ag2m">Mrs. Loretta Goh, Head of Department, English Language, Yuying Secondary School</td>
-    <td class="tg-dewj"><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf"><span style="color:#CA2126;background-color:transparent">Connect Collaborate Communicate Loretta Goh Yuying Secondary(.pdf, 1.46 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf"><span style="color:#CA2126;background-color:transparent"></span></a><ul><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf"></a><li><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf">Connect Collaborate Communicate Loretta Goh Yuying Secondary(.pdf, 1.46 MB)</a></li></ul></td>
   </tr>
   <tr>
     <td class="tg-rfng">Strategies and Pitfalls in Promoting Mathematical Discourse in Classrooms: Lessons from Research</td>
