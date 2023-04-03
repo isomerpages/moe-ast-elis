@@ -41,17 +41,17 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">Connect, Collaborate, Communicate: Cascading Professional Learning In Subject Literacy Across Subject Areas</td>
     <td class="tg-ag2m">Mrs. Loretta Goh, Head of Department, English Language, Yuying Secondary School</td>
-    <td class="tg-dewj"><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf"><span style="color:#CA2126;background-color:transparent">Connect Collaborate Communicate Loretta Goh Yuying Secondary(.pdf, 1.46 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/connect-collaborate-communicate-loretta-goh-yuying-secondary.pdf"><span style="color:#CA2126;background-color:transparent">Connect Collaborate Communicate<br> Loretta Goh Yuying Secondary(.pdf, 1.46 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Strategies and Pitfalls in Promoting Mathematical Discourse in Classrooms: Lessons from Research</td>
     <td class="tg-rfng">Dr. Ridzuan B. Abd. Rahim, Senior Assistant Director and Lead Specialist, Mathematics, Curriculum Planning and Development Division</td>
-    <td class="tg-rhd3"><a href="/files/strategies-and-pitfalls-in-promoting-mathematical-discourse-in-classrooms_ridzuan.pdf"><span style="color:#CA2126;background-color:transparent">Strategies and Pitfalls in Promoting Mathematical Discourse in Classrooms_Ridzuan(.pdf, 510.46 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/strategies-and-pitfalls-in-promoting-mathematical-discourse-in-classrooms_ridzuan.pdf"><span style="color:#CA2126;background-color:transparent">Strategies and Pitfalls in Promoting<br> Mathematical Discourse in Classrooms_Ridzuan(.pdf, 510.46 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Supporting Teachers to Become ‘Geo-Literate’: The Why, What &amp; How</td>
     <td class="tg-ag2m">Mdm. N. Vijaya Rani, Master Teacher, Geography, Academy of Singapore Teachers</td>
-    <td class="tg-dewj"><a href="/files/the-geo-literate-teacher_vijaya_rani.pdf"><span style="color:#CA2126;background-color:transparent">The Geo-Literate Teacher_Vijaya_Rani(.pdf, 459.43 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/the-geo-literate-teacher_vijaya_rani.pdf"><span style="color:#CA2126;background-color:transparent">The Geo-Literate<br>Teacher_Vijaya_Rani(.pdf, 459.43 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -82,12 +82,12 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">Scaffolding Students’ Argumentation in Science</td>
     <td class="tg-ag2m">Mayflower Secondary School</td>
-    <td class="tg-dewj"><a href="/files/mayflower_sec_wsa-ec-2016.pdf"><span style="color:#CA2126;background-color:transparent">Mayflower_Sec_WSA-EC 2016(.pdf, 2.73 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/mayflower_sec_wsa-ec-2016.pdf"><span style="color:#CA2126;background-color:transparent">Mayflower_Sec_<br>WSA-EC 2016(.pdf, 2.73 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Implementing the WSA-EC Programme at Woodlands Ring Secondary school –Subject Department Initiatives</td>
     <td class="tg-rfng">Woodlands Ring Secondary School</td>
-    <td class="tg-rhd3"><a href="/files/wrss-slides-no-video_wsa-ec-forum-2016-_atpd_final_7nov.pdf"><span style="color:#CA2126;background-color:transparent">WRSS Slides-no video_WSA-EC Forum 2016 _ATPD_Final_7Nov(.pdf, 2.43 MB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/wrss-slides-no-video_wsa-ec-forum-2016-_atpd_final_7nov.pdf"><span style="color:#CA2126;background-color:transparent">WRSS Slides-no video_<br>WSA-EC Forum 2016 _ATPD_Final_7Nov(.pdf, 2.43 MB)</span></a></td>
   </tr>
 </tbody>
 </table>
