@@ -166,18 +166,3 @@ OOO
 	</li>  
 </ul>
 
-**Making Teaching Grammar Meaningful**
-
-_Miss Ellen Ang Geok Lian, Pei Hwa Presbyterian Primary School_  
-_Miss Margaret Teo Kar Sze, Pei Hwa Presbyterian Primary School_  
-_Mdm Celestine Ong, Pei Hwa Presbyterian Primary School_  
-_Mrs Elicia Tay, Pei Hwa Presbyterian Primary School_
-
-Download slides here -&nbsp;[1E-Grammar (Pri)-Pei Hwa Presbyterian Pri(.pdf, 995.94 KB)](/files/1e-grammar-(pri)-pei-hwa-presbyterian-pri.pdf)
-
-**Deep in the Text**
-
-_Mrs Jennifer Lui, ELIS_&nbsp;  
-_Mdm Shalini Damodaran, ELIS_
-
-Download slides here -&nbsp;[1E-Grammar (Pri)-ELIS(.pdf, 1.34 MB)](/files/1e-grammar-(pri)-elis.pdf)
