@@ -12,9 +12,8 @@ third_nav_title: Read
 
 ### Issue 9 , 2018
 
-<p>
-<img src="/images/issue%209-2018.png" style="width:70%">
-</p>
+<p><a href="https://academyofsingaporeteachers.moe.edu.sg/el-classroom-inq/ebook9-2018/">
+<img src="/images/issue%209-2018.png" style="width:70%"></a></p>
 
 ### Issue 8, 2018
 
