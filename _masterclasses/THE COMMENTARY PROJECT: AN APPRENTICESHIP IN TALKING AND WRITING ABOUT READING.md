@@ -6,6 +6,6 @@ description: ""
 ---
 ![](/images/Professor%20Sheridan.jpg)
 
-<iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="607.5" width="1080" src="https://player.vimeo.com/video/451964616">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;</iframe>
+<iframe allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" height="360" width="640" src="https://player.vimeo.com/video/451964616">&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;nbsp;</iframe>
 
 ###### [Click here to download the resources Professor Blau referred to in his video.](https://drive.google.com/drive/folders/1RNlAE4O8dcpr6sJJRA-ta4mI9RXoI5Ya)
