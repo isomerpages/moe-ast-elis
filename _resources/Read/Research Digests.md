@@ -74,6 +74,6 @@ third_nav_title: Read
 
 <p><a href="/files/elis-research-digest-vol-1-issue-4.pdf"><b><font color="#69A998">4. Assessment of Disciplinary Literacy</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-1-issue-5.pdf"><b><font color="000">5. Writing in the Different Disciplines</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-1-issue-5.pdf"><b><font color="#C96D6B">5. Writing in the Different Disciplines</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-1-issue-6.pdf"><b><font color="000">6. Frameworks for Disciplinary Literacy</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-1-issue-6.pdf"><b><font color="#6DB1C2">6. Frameworks for Disciplinary Literacy</font></b></a></p>
