@@ -69,3 +69,29 @@ charmaine_tan@moe.gov.sg.  <br>
     </div>
 	</li>  
 </ul>
+
+As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.  
+  
+There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):
+
+<div style="display:flex;width:100%;align-items:center;gap:10px;"><div class="num">1</div><div style="width:100%;" class="pill"><p style="margin:0;text-align:center;">Guidance in the selection of the learning focus for your department;</p></div></div><p>Your EL department will choose <strong><span style="text-decoration:underline;">one </span></strong>of the following two areas of learning, (a) or (b):</p><ol type="a"><li>learning about e-pedagogy and blended learning for the enactment
+of participatory, connected and reflective EL classrooms<br><br>Your EL department members will deepen their understanding of the
+principles of e-pedagogy and blended learning. They will learn about
+the practice of teaching with technology to design lessons for
+students to achieve the intended learning outcomes in blended
+learning contexts.<br><br>You can refer to page 39 for the details on this area of learning.</li><p><strong style="color:#46859d;"></strong><strong style="color:#46859d;">OR</strong>
+ </p><li><strong style="text-decoration:underline;">one</strong> area of language learning to be selected from the following:
+        <ol><li>Teaching Grammar (Primary/Secondary)</li><li>Teaching Oracy (Primary/Secondary)</li><li>Teaching Reading, Viewing and Vocabulary (Primary/Secondary) </li><li>Teaching Extensive Reading and Viewing (Primary/Secondary) </li><li>Teaching Writing and Representing (Primary/Secondary) </li></ol><p>For any area of language learning that you select, your EL
+department members will deepen their knowledge of it. They will
+also consider ways of using technology in blended learning contexts
+to support active learning in participatory, connected and reflective
+classrooms.
+            <br><br>You can refer to pages 40 to 48 for the details on the areas of language learning listed above.
+        </p></li></ol><div style="display:flex;width:100%;align-items:center;gap:10px;"><div class="num">2</div><div style="width:100%;" class="pill"><p style="margin:0;text-align:center;">Support in forming and guiding Professional Learning Teams
+(PLTs) in your department to deepen the teachers’ knowledge,
+skills and classroom practice in the area of learning your
+department decides on; and</p></div></div><br><div style="display:flex;width:100%;align-items:center;gap:10px;"><div class="num">3</div><div style="width:100%;" class="pill"><p style="margin:0;text-align:center;">Guidance in the growth of teacher leadership. You will learn to lead
+and guide your colleagues in planning and enacting classroom
+inquiry into the impact of their application of learning on student
+learning outcomes.
+        </p></div></div><br>    
