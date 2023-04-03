@@ -19,8 +19,38 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2010.png" 
-     style="width:70%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-y050{background-color:#8abfbb;color:#212529;text-align:center;vertical-align:middle}
+.tg .tg-h3mj{background-color:#8abfbb;color:#212529;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-thnp{background-color:#8abfbb;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ta8k{background-color:#8abfbb;color:#212529;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-h3mj">Mode of Learning</th>
+    <th class="tg-thnp"><img height="76" width="60" alt="Picture7" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture7.png?sfvrsn=80d183e4_0"></th>
+    <th class="tg-thnp"><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ta8k"><img height="51" width="60" alt="Picture9" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture9586bbe804379403a95bb3157ad530055.png?sfvrsn=24596e6d_0">#Asynchronous Online Learning Period           </td>
+    <td class="tg-y050">2 hours</td>
+    <td class="tg-y050">Thu, 6 Jul – Thu, 20 Jul</td>
+  </tr>
+  <tr>
+    <td class="tg-ta8k"><img height="50" width="60" alt="Picture10" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture10.png?sfvrsn=da1a2fba_0">#Synchronous Online Learning Session           </td>
+    <td class="tg-y050">2 hours</td>
+    <td class="tg-y050">Thu, 27 Jul (P.M.)</td>
+  </tr>
+</tbody>
+</table>
 		 
 ### Target Participants
 
@@ -28,7 +58,7 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on **OPAL2.0** using this code: **EL-000089/01**.  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;**EL-000089/01**.  
 Closing date for registration: Fri, 26 May
 
 ### For enquiries, please contact:
