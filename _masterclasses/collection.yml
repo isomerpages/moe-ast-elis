@@ -1,0 +1,4 @@
+collections:
+  masterclasses:
+    output: true
+    order: []
