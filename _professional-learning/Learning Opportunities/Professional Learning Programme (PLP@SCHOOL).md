@@ -35,7 +35,7 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 			<p>a. learning about e-pedagogy and blended learning for the enactment of participatory, connected and reflective EL classrooms</p>
 			<p>Your EL department members will deepen their understanding of the principles of e-pedagogy and blended learning. They will learn about the practice of teaching with technology to design lessons for students to achieve the intended learning outcomes in blended learning contexts.</p>
 			<p>1.  You can refer to page 39 for the details on this area of learning.</p>
-			<p><b>OR</b></p>
+			<p><strong style="color:#46859d;">OR</strong></p>
 			<p>b. <b>one</b>&nbsp;area of language learning to be selected from the following:<br>1.  Teaching Grammar (Primary/Secondary)<br>
 2.  Teaching Oracy (Primary/Secondary)<br>
 3.  Teaching Reading, Viewing and Vocabulary (Primary/Secondary)<br>
