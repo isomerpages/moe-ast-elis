@@ -98,10 +98,10 @@ By the end of this course, you will be able to:
 <thead>
   <tr>
     <th class="tg-xpq4">Mode of Learning</th>
-    <th class="tg-ye8s"><img height="66" width="52" alt="Picture7" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture7.png?sfvrsn=80d183e4_0"></th>
-    <th class="tg-xpq4">SFEd IBL<br>(Proficient)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
-    <th class="tg-xpq4">SFEd IBL<br>(Accomplished)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
-    <th class="tg-xpq4">SFEd IBL<br>(Leading)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
+    <th class="tg-ye8s"><img height="66" width="52" alt="Picture7" src="/images/picture7.png"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Proficient)<br><img height="57" width="60" alt="Picture8" src="![](/images/picture8.png)"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Accomplished)<br><img height="57" width="60" alt="Picture8" src="/images/picture8.png"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Leading)<br><img height="57" width="60" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
