@@ -44,12 +44,13 @@ By the end of this course, you will be able to:
   <tr>
     <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
     <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
-    <td style="border: 1px solid white" class="tg-alvu">Thu, 6 Jul – Thu, 20 Jul</td>
+    <td style="border: 1px solid white" class="tg-alvu">Thu, 3 Aug – Mon, 21 Aug</td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
     <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
-    <td style="border: 1px solid white" class="tg-alvu">Thu, 27 Jul (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-alvu">Thu, 24 Aug (P.M.)
+</td>
   </tr>
 </tbody>
 </table>
