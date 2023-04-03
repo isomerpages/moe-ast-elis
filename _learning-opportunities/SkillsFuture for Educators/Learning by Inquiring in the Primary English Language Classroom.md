@@ -106,7 +106,7 @@ By the end of this course, you will be able to:
 <thead>
   <tr>
     <th style="border: 1px solid white" class="tg-xpq4">Mode of Learning</th>
-    <th class="tg-ye8s"><img style="width:60px" alt="Picture7" src="/images/picture7.png"></th>
+    <th class="tg-ye8s"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
     <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Proficient)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
     <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Accomplished)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
     <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Leading)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
