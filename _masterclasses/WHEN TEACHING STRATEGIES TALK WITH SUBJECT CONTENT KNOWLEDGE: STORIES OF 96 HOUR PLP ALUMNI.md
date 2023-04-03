@@ -6,4 +6,6 @@ description: ""
 ---
 ![](/images/Cedric%20Leong.jpg)
 
-[###### Click here to further build your understanding of 'The Place of Subject Content Knowledge (SCK) in English Language Teaching, Learning and Assessment'](https://drive.google.com/file/d/1Gy2pyzhzrTAYkG1CyrEVdRiZ6PWSJDpM/view)
+
+
+###### [Click here to further build your understanding of 'The Place of Subject Content Knowledge (SCK) in English Language Teaching, Learning and Assessment'](https://drive.google.com/file/d/1Gy2pyzhzrTAYkG1CyrEVdRiZ6PWSJDpM/view)
