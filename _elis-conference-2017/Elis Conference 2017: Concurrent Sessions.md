@@ -11,7 +11,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion101" type="checkbox">
-    <label for="accordion1"><h4>1A Education Leaders Segment (Session 1)</h4></label>
+    <label for="accordion101"><h4>1A Education Leaders Segment (Session 1)</h4></label>
     <div>
       <p><strong>Why fix it if it ain’t broke?: Effecting Change in the Teaching and Learning of English Language</strong>&nbsp;<br><em>Mrs Anba Saroja, Kent Ridge Secondary School</em>&nbsp;</p>
 <p><strong>Class Action Suits! The Trials and Joys of Teaching Again</strong><br><em>Mrs Lucy Toh, Kent Ridge Secondary School</em>&nbsp;</p>
@@ -25,7 +25,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion102" type="checkbox">
-    <label for="accordion1"><h4>1B Professional Learning for Sec EL teachers</h4></label>
+    <label for="accordion102"><h4>1B Professional Learning for Sec EL teachers</h4></label>
     <div>
 <p><strong>When Teachers Become Learners: A Case Study</strong></p>
 <p><em>Ms Ann Cheo, Seng Kang Secondary School</em><br><em>Ms Nivashini Mohandasan, Seng Kang Secondary School</em><br><em>Mdm Varalackshmi Hariharan, ELIS</em></p>
@@ -35,7 +35,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion103" type="checkbox">
-    <label for="accordion1"><h4>1C Writing for Sec EL teachers</h4></label>
+    <label for="accordion103"><h4>1C Writing for Sec EL teachers</h4></label>
     <div>
 <p><strong>Understanding Inquiry as Stance: The Journey of a Teacher of Writing</strong></p>
 <p><em>Ms Sumangalam Haridas, Tampines Secondary School</em><br><em>Ms Shen Simin Nicole, Tampines Secondary School</em><br><em>Mdm Shalini Damodaran, ELIS</em></p>
@@ -48,7 +48,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion104" type="checkbox">
-    <label for="accordion1"><h4>1D Reading for Pri EL teachers</h4></label>
+    <label for="accordion104"><h4>1D Reading for Pri EL teachers</h4></label>
     <div>
 <p><strong>Using Question-Answer Relationships (QAR) to Teach Close and Critical Reading Skills</strong></p>
 <p><em>Mdm Sanmuga Malar D/O Rathakrishnan, Princess Elizabeth Primary School</em>&nbsp;<br><em>Miss Chin Sau Lai, Princess Elizabeth Primary School</em></p>
@@ -60,7 +60,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion105" type="checkbox">
-    <label for="accordion1"><h4>1E Grammar for Pri EL teachers</h4></label>
+    <label for="accordion105"><h4>1E Grammar for Pri EL teachers</h4></label>
     <div>
 <p><strong>Using Question-Answer Relationships (QAR) to Teach Close and Critical Reading Skills</strong></p>
 <p><em>Mdm Sanmuga Malar D/O Rathakrishnan, Princess Elizabeth Primary School</em>&nbsp;<br><em>Miss Chin Sau Lai, Princess Elizabeth Primary School</em></p>
@@ -72,7 +72,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion106" type="checkbox">
-    <label for="accordion1"><h4>1F Writing for Pri EL teachers</h4></label>
+    <label for="accordion106"><h4>1F Writing for Pri EL teachers</h4></label>
     <div>
 <p><strong>TAD: An Effective Tool to Help Students Develop Ideas in Writing</strong></p>
 <p><em>Miss Chia Soo Yin. North Vista Primary School</em><br><em>Miss Dashni D/O Ravindran, Si Ling Primary School</em></p>
@@ -83,7 +83,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion107" type="checkbox">
-    <label for="accordion1"><h4>1G Master Class on SCK &amp; PCK</h4></label>
+    <label for="accordion107"><h4>1G Master Class on SCK &amp; PCK</h4></label>
     <div>
 <p><strong>I am an English Language Teacher. So HOW?</strong></p>
 <p><em>Dr Tay May Yin, ELIS</em></p>
@@ -96,7 +96,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion108" type="checkbox">
-    <label for="accordion1"><h4>1H Professional Learning for EC Champions (Part 1)</h4></label>
+    <label for="accordion108"><h4>1H Professional Learning for EC Champions (Part 1)</h4></label>
     <div>
 <p><strong>Future-ready Professional Learning for Teachers</strong></p>
 <p><em>Dr Paul Doyle, ELIS</em></p>
@@ -111,7 +111,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion109" type="checkbox">
-    <label for="accordion1"><h4>2A Education Leaders Segment (Session 2)</h4></label>
+    <label for="accordion109"><h4>2A Education Leaders Segment (Session 2)</h4></label>
     <div>
 <p><strong>An Alliance of Four Critical Friends: Deepening Inquiry, Seeding Innovation</strong>&nbsp;  </p>
 <p><em>Mrs Mary Seah, Tanjong Katong Girls’ School</em><br><em>Mdm Yasmin Bte A. Aziz, Hai Sing Catholic School</em><br><em>Mrs Wong Shu Xian, Hai Sing Catholic School</em><br><em>Ms Sukhjeet Kaur, CHIJ Katong Convent</em><br><em>Ms Chee Bee Phaik, Tanjong Katong Girls’ School</em><br><em>Mdm Muneira Daud, Ngee Ann Secondary School</em><br><em>Dr Tay May Yin, ELIS</em></p>
@@ -125,7 +125,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion110" type="checkbox">
-    <label for="accordion1"><h4>2B Reading for Sec EL teachers</h4></label>
+    <label for="accordion110"><h4>2B Reading for Sec EL teachers</h4></label>
     <div>
 <p><strong>Developing 21st Century Readers among Normal (Technical) Students</strong>&nbsp;  </p>
 <p><em>Ms Caroline Patricia Thomas, Anderson Secondary School</em><br><em>Ms Jeyalaxmy Ayaduray, ELIS</em></p>
@@ -137,7 +137,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion111" type="checkbox">
-    <label for="accordion1"><h4>2C ICT for Pri &amp; Sec EL teachers</h4></label>
+    <label for="accordion111"><h4>2C ICT for Pri &amp; Sec EL teachers</h4></label>
     <div>
 <p><strong>Integrating the Use of Personal Learning Devices with the Teaching of Speaking and Writing</strong>&nbsp;  </p>
 <p><em>Mdm Sarahlyn Cheng Yanling, Canberra Primary School</em><br><em>Mdm Kuah Hui Yeng, Canberra Primary School</em></p>
@@ -152,7 +152,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion112" type="checkbox">
-    <label for="accordion1"><h4>2D Reading for Pri EL teachers</h4></label>
+    <label for="accordion112"><h4>2D Reading for Pri EL teachers</h4></label>
     <div>
 <p><strong>Instructional Practices of Teachers who Carry Out Explicit Comprehension Instructions in the Primary School Classroom</strong>  </p>
 <p><em>Mdm Foo En Ting, Grace, North Vista Primary School</em><br><em>Miss Wang Kaifen, North Vista Primary School</em><br><em>Miss Chong Yuan Ping, North Vista Primary School</em><br><em>Mdm Rose Iliyana Mohamad Said, North Vista Primary School</em></p>
@@ -164,7 +164,7 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion113" type="checkbox">
-    <label for="accordion1"><h4>2E Oracy for Pri EL teachers</h4></label>
+    <label for="accordion113"><h4>2E Oracy for Pri EL teachers</h4></label>
     <div>
 <p><strong>The Impact of ‘Think-Talk-Write-Practise’ Strategy on Primary Four Students’ Performance in Stimulus-based Conversation</strong>&nbsp;  </p>
 <p><em>Mrs Audrey Lee-Lim Ya Qi, Yishun Primary School</em><br><em>Mdm Aziana Aziz, Yishun Primary School</em><br><em>Mdm Geetha D/O V. K. Ramadass, Yishun Primary School</em><br><em>Mrs Justina A. Surash, Yishun Primary School</em></p>
@@ -176,41 +176,47 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion114" type="checkbox">
-    <label for="accordion1"><h4>2F Writing for Pri EL teachers</h4></label>
+    <label for="accordion114"><h4>2F Writing for Pri EL teachers</h4></label>
+    <div>
+<p><strong>Exploring Upper Primary Students’ Writing Using the STAR Framework as a Form of Feedback</strong>  </p>
+<p><em>Mdm Anissa Ferdaus Md Salleh, Tanjong Katong Primary School</em><br><em>Mrs Chen-Wang Seow Huey, Tanjong Katong Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2f-writing-(pri)-tanjong-katong-pri.pdf"></a></p>
+<p><strong>Developing Motivation to Write through Journaling</strong>  </p>
+<p><em>Mrs Adeline Lynn Teo, De La Salle School</em><br><em>Mdm Koh Ting Ting, De La Salle School</em><br><em>Mdm Leong Foong Yee Irene, De La Salle School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2f-writing-(pri)-de-la-salle-school.pdf">2F-Writing (Pri)-De La Salle School(.pdf, 639.65 KB)</a></p>
+    </div>
+	</li>  
+	<li>
+    <input id="accordion115" type="checkbox">
+    <label for="accordion115"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion115" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <input id="accordion116" type="checkbox">
+    <label for="accordion116"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 </ul>
 
-**Exploring Upper Primary Students’ Writing Using the STAR Framework as a Form of Feedback**  
-  
-_Mdm Anissa Ferdaus Md Salleh, Tanjong Katong Primary School_  
-_Mrs Chen-Wang Seow Huey, Tanjong Katong Primary School_
 
-Download slides here -&nbsp;[](/files/2f-writing-(pri)-tanjong-katong-pri.pdf)
-
-**Developing Motivation to Write through Journaling**  
-  
-_Mrs Adeline Lynn Teo, De La Salle School_  
-_Mdm Koh Ting Ting, De La Salle School_  
-_Mdm Leong Foong Yee Irene, De La Salle School_
-
-Download slides here -&nbsp;[2F-Writing (Pri)-De La Salle School(.pdf, 639.65 KB)](/files/2f-writing-(pri)-de-la-salle-school.pdf)
 
 ### EC CHAMPIONS
 
 <ul class="jekyllcodex_accordion">
   <li>
-    <input id="accordion116" type="checkbox">
-    <label for="accordion1"><h4>DAF</h4></label>
+    <input id="accordion117" type="checkbox">
+    <label for="accordion117"><h4>DAF</h4></label>
+    <div>
+OOO
+    </div>
+	</li>  
+	<li>
+    <input id="accordion118" type="checkbox">
+    <label for="accordion118"><h4>DAF</h4></label>
     <div>
 OOO
     </div>
