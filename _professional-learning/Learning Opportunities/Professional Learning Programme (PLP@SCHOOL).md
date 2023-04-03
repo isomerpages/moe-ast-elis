@@ -104,7 +104,7 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
     <td style="text-align:center;" class="tg-03jt">Support in forming and guiding Professional Learning Teams (PLTs) in your department to deepen the teachers’ knowledge, skills and classroom practice in the area of learning your department decides on; and</td>
   </tr>
 </thead>
-</table>
+</table><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
