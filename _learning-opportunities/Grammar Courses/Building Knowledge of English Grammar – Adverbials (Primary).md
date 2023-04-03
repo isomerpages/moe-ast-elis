@@ -40,12 +40,12 @@ By the end of this course, you will be able to:
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ta8k"><img style="width:60px" width="60" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
+    <td class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
     <td class="tg-y050">2 hours</td>
     <td class="tg-y050">Thu, 6 Jul – Thu, 20 Jul</td>
   </tr>
   <tr>
-    <td class="tg-ta8k"><img style="width:60px" width="60" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
+    <td class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
     <td class="tg-y050">2 hours</td>
     <td class="tg-y050">Thu, 27 Jul (P.M.)</td>
   </tr>
