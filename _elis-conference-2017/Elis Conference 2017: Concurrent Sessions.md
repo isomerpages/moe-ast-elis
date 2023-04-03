@@ -154,12 +154,17 @@ description: ""
     <input id="accordion112" type="checkbox">
     <label for="accordion1"><h4>2D Reading for Pri EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>Instructional Practices of Teachers who Carry Out Explicit Comprehension Instructions in the Primary School Classroom</strong>  </p>
+<p><em>Mdm Foo En Ting, Grace, North Vista Primary School</em><br><em>Miss Wang Kaifen, North Vista Primary School</em><br><em>Miss Chong Yuan Ping, North Vista Primary School</em><br><em>Mdm Rose Iliyana Mohamad Said, North Vista Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2d-reading-(pri)-north-vista-pri.pdf">2D-Reading (Pri)-North Vista Pri(.pdf, 590.74 KB)</a></p>
+<p><strong>Making Sense of Text: Enhancing Upper Primary Students’ Inference Skills in Reading</strong>&nbsp;  </p>
+<p><em>Mr Leslie Lai Kuan Hoe, Innova Primary School</em><br><em>Ms Chan Siew Li Doreen, Woodlands Primary School</em><br><em>Mrs Shanti Marion Prakash, Tao Nan School</em><br><em>Mdm Wong Bing Sum, Radin Mas Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2d-reading-(pri)-innova_woodlands_tao-nan_radin-mas.pdf">2D-Reading (Pri)-Innova_Woodlands_Tao Nan_Radin Mas(.pdf, 345.21 KB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion113" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>2E Oracy for Pri EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -180,24 +185,21 @@ OOOO
 	</li>  
 </ul>
 
-**Instructional Practices of Teachers who Carry Out Explicit Comprehension Instructions in the Primary School Classroom**  
+**The Impact of ‘Think-Talk-Write-Practise’ Strategy on Primary Four Students’ Performance in Stimulus-based Conversation**&nbsp;  
   
-_Mdm Foo En Ting, Grace, North Vista Primary School_  
-_Miss Wang Kaifen, North Vista Primary School_  
-_Miss Chong Yuan Ping, North Vista Primary School_  
-_Mdm Rose Iliyana Mohamad Said, North Vista Primary School_
+_Mrs Audrey Lee-Lim Ya Qi, Yishun Primary School_  
+_Mdm Aziana Aziz, Yishun Primary School_  
+_Mdm Geetha D/O V. K. Ramadass, Yishun Primary School_  
+_Mrs Justina A. Surash, Yishun Primary School_
 
-Download slides here -&nbsp;[2D-Reading (Pri)-North Vista Pri(.pdf, 590.74 KB)](/files/2d-reading-(pri)-north-vista-pri.pdf)
+Download slides here -&nbsp;[2E-Oracy (Pri)-Yishun Pri(.pdf, 1.58 MB)](/files/2e-oracy-(pri)-yishun-pri.pdf)
 
-**Making Sense of Text: Enhancing Upper Primary Students’ Inference Skills in Reading**&nbsp;  
+**Use of Thinking Routines to Enhance Critical Thinking and Oracy in Students**  
   
-_Mr Leslie Lai Kuan Hoe, Innova Primary School_  
-_Ms Chan Siew Li Doreen, Woodlands Primary School_  
-_Mrs Shanti Marion Prakash, Tao Nan School_  
-_Mdm Wong Bing Sum, Radin Mas Primary School_
+_Mrs Cecilia Peralta-Lee, Fairfield Methodist School (Primary)_  
+_Mrs Rena Tham, Fairfield Methodist School (Primary)_
 
-Download slides here -&nbsp;[2D-Reading (Pri)-Innova\_Woodlands\_Tao Nan\_Radin Mas(.pdf, 345.21 KB)](/files/2d-reading-(pri)-innova_woodlands_tao-nan_radin-mas.pdf)
-
+Download slides here -&nbsp;[2E-Oracy (Pri)-Fairfield Methodist School (Pri)(.pdf, 625.06 KB)](/files/2e-oracy-(pri)-fairfield-methodist-school-(pri).pdf)
 
 ### EC CHAMPIONS
 
