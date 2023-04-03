@@ -47,6 +47,7 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 
 <p>As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.</p>
 			<p>There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):</p>
+			
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -87,7 +88,7 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
       
     You can refer to pages 40 to 48 for the details on the areas of language learning listed above.
 		
-		<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -103,7 +104,7 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
     <td style="text-align:center;" class="tg-03jt">Support in forming and guiding Professional Learning Teams (PLTs) in your department to deepen the teachers’ knowledge, skills and classroom practice in the area of learning your department decides on; and</td>
   </tr>
 </thead>
-</table>
+</table><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -184,4 +185,3 @@ OR  <br>Ms Charmaine Tan (Assistant Director/Pedagogy) at
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg</a>.  
   
 Closing date for application:&nbsp;**Wed, 23 Nov 2022**
-
