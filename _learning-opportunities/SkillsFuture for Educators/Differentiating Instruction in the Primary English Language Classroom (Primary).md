@@ -107,10 +107,10 @@ EL Key Personnel, Teacher Leaders and Teachers
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-8vob"></th>
     <th class="tg-8vob"><span style="font-weight:600">SFEd DI (Proficient)</span></th>
     <th class="tg-8vob"><span style="font-weight:600">SFEd DI (Accomplished)</span></th>
-    <th class="tg-8vob"><span style="font-weight:600">SFEd DI (Leading)</span></th>
-    <th class="tg-myt5"></th>
+    <th class="tg-myt5"><span style="font-weight:600">SFEd DI (Leading)</span></th>
   </tr>
 </thead>
 <tbody>
