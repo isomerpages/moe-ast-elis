@@ -47,7 +47,7 @@ By the end of this course, you will be able to:
 
 ---
 
-<b><font color="#D35E71">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
+<b><font color="#C7394B">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
 
 Select this course at the Accomplished Level of Practice if you:
 
