@@ -39,6 +39,9 @@ By the end of this course, you will be able to:
 *   apply the principles of DI to meet students’ different learning readiness, interests and learning profiles; and
 *   make appropriate choices, including the use of technology, to support DI in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.
 
+<p style="font-size:13px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
+
+
 ---
 
 <b><font color="#D35E71">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
