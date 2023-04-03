@@ -33,7 +33,7 @@ third_nav_title: Read
 
 <p><a href="/files/elis-research-digest-vol-4-issue-3.pdf"><b><font color="#E9B964">3. Enhancing the Subject Literacy Competencies and Pedagogic Practices of English Subject Teachers</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-4-issue-4.pdf"><b><font color="000">4. 21st Century Competencies - What are they and are we teaching them ?</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-4-issue-4.pdf"><b><font color="#69A998">4. 21st Century Competencies - What are they and are we teaching them ?</font></b></a></p>
 
 
 ### Volume 3, 2016
@@ -46,7 +46,7 @@ third_nav_title: Read
 
 <p><a href="/files/elis-research-digest-vol-3-issue-3.pdf"><b><font color="#E9B964">3. Preparing students to communicate in Workplace</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-3-issue-4.pdf"><b><font color="000">4. Approaches to Preparing Students for the Future</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-3-issue-4.pdf"><b><font color="#69A998">4. Approaches to Preparing Students for the Future</font></b></a></p>
 
 
 ### Volume 2, 2015
@@ -59,7 +59,7 @@ third_nav_title: Read
 
 <p><a href="/files/elis-research-digest-vol-2-issue-3.pdf"><b><font color="#E9B964">3. Role of Teacher-student interactions in developing student motivation in language learning</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-2-issue-4_rev2.pdf"><b><font color="000">4. Attributes of a Good Language Learner</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-2-issue-4_rev2.pdf"><b><font color="#69A998">4. Attributes of a Good Language Learner</font></b></a></p>
 
 
 ### Volume 1, 2013/2014
@@ -72,7 +72,7 @@ third_nav_title: Read
 
 <p><a href="/files/elis-research-digest-vol-1-issue-3.pdf"><b><font color="#E9B964">3. Talk in the Classroom</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-1-issue-4.pdf"><b><font color="000">4. Assessment of Disciplinary Literacy</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-1-issue-4.pdf"><b><font color="#69A998">4. Assessment of Disciplinary Literacy</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-1-issue-5.pdf"><b><font color="000">5. Writing in the Different Disciplines</font></b></a></p>
 
