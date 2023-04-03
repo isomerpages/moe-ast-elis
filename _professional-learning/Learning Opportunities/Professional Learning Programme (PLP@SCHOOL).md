@@ -93,5 +93,4 @@ skills and classroom practice in the area of learning your
 department decides on; and</p></div></div><br><div style="display:flex;width:100%;align-items:center;gap:10px;"><div class="num">3</div><div style="width:100%;" class="pill"><p style="margin:0;text-align:center;">Guidance in the growth of teacher leadership. You will learn to lead
 and guide your colleagues in planning and enacting classroom
 inquiry into the impact of their application of learning on student
-learning outcomes.
-        </p></div></div><br>
+learning outcomes.</p></div></div><br>
