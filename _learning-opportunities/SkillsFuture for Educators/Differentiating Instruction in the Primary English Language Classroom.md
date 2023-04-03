@@ -60,7 +60,7 @@ By the end of this course, you will be able to:
 
 ---
 
-<b><font color="#D35E71">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
+<b><font color="#8A2735">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
 
 Select this course at the Leading Level of Practice if you:
 
