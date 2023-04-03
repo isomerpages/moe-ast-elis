@@ -23,11 +23,7 @@ To decide on the most appropriate Level of Practice to meet your learning needs,
 
 ### Levels of Practice
 
-<img src="/images/Proficient%202.png" style="width:70%">
-		 
-<img src="/images/Accomplished%202.png" style="width:70%">
-		 
-<img src="/images/leading%202.png" style="width:70%">
+
 
 ### Course Structure
 
