@@ -14,7 +14,23 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 			<h3>Overview</h3>
 			<p>As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.</p>
 			<p>There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):</p>
-			<img src="/images/PLP1.png" style="width:50%">
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-k35i{background-color:#a43318;color:#ffffff;text-align:left;vertical-align:top}
+.tg .tg-03jt{background-color:#3a7596;color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-k35i">1</td>
+    <td class="tg-03jt">Guidance in the selection of the learning focus for your department;</td>
+  </tr>
+</thead>
+</table>
 			<p>Your EL department will choose&nbsp;<b>one</b>&nbsp;of the following two areas of learning, (a) or (b):</p>
 			<p>a. learning about e-pedagogy and blended learning for the enactment of participatory, connected and reflective EL classrooms</p>
 			<p>Your EL department members will deepen their understanding of the principles of e-pedagogy and blended learning. They will learn about the practice of teaching with technology to design lessons for students to achieve the intended learning outcomes in blended learning contexts.</p>
