@@ -30,7 +30,7 @@ Deepen your understanding through our extensive library of e-publications on ped
 </a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/">
-<img src="/images/elis-research-fund-report.jpg" style="width:30%">
+<img src="/images/res-summaries-2_900.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/"><b>Research Summaries</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/">
 </a><p></p>
 
