@@ -21,7 +21,7 @@ There are courses at three Levels of Practice that you can choose from:
 
 ### Levels of Practice
 
-<b><font color="#00664f">Proficient</font></b>&nbsp;Level of Practice: Does independently
+<b><font color="#D35E71">Proficient</font></b>&nbsp;Level of Practice: Does independently
 
 
 ### Course Structure
