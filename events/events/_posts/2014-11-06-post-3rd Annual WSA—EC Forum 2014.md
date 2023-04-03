@@ -66,35 +66,35 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">1.4a:</td>
     <td class="tg-ag2m">Scaffolding Scientific Writing through Disciplinary Literacy Instruction (CHIJ St Joseph’s Convent and NIE)</td>
-    <td class="tg-dewj"><a href="/files/1-4a-scaffolding-scientific-writing-through-disciplinary-literacy-instruction.pdf"><span style="color:#CA2126;background-color:transparent">1.4a Scaffolding Scientific Writing through Disciplinary Literacy Instruction(.pdf, 986.06 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/1-4a-scaffolding-scientific-writing-through-disciplinary-literacy-instruction.pdf"><span style="color:#CA2126;background-color:transparent">1.4a Scaffolding Scientific Writing through <br>Disciplinary Literacy Instruction(.pdf, 986.06 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">1.4b:</td>
     <td class="tg-rfng">Scaffolding Scientific Explanation in Chemistry through Language-specific Support (Junyuan Secondary School)</td>
-    <td class="tg-rhd3"><a href="/files/1-4b-scaffolding-scientific-explanation-in-chemistry---junyuan-secondary-school.pdf"><span style="color:#CA2126;background-color:transparent">1.4b Scaffolding Scientific Explanation in Chemistry - Junyuan Secondary School(.pdf, 451.06 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-4b-scaffolding-scientific-explanation-in-chemistry---junyuan-secondary-school.pdf"><span style="color:#CA2126;background-color:transparent">1.4b Scaffolding Scientific Explanation in <br>Chemistry - Junyuan Secondary School(.pdf, 451.06 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">1.5a:</td>
     <td class="tg-ag2m">Empowering Students to meet the Demands of Extended Writing Tasks in Geography (Northland Secondary School)</td>
-    <td class="tg-dewj"><a href="/files/1-5a-empowering-students-to-meet-the-demands-of-extended-writing-tasks-in-geography.pdf"><span style="color:#CA2126;background-color:transparent">1.5a Empowering students to meet the demands of extended writing tasks in Geography(.pdf, 1.34 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/1-5a-empowering-students-to-meet-the-demands-of-extended-writing-tasks-in-geography.pdf"><span style="color:#CA2126;background-color:transparent">1.5a Empowering students to meet the <br>demands of extended writing tasks in Geography(.pdf, 1.34 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">1.5b</td>
     <td class="tg-rfng">Scaffolding the Inferential Understanding of Texts in Lower Secondary History (St Margaret’s Secondary School)</td>
-    <td class="tg-rhd3"><a href="/files/1-5b-scaffolding-inferential-understanding-of-texts-in-lower-secondary-history.pdf"><span style="color:#CA2126;background-color:transparent">1.5b Scaffolding Inferential Understanding of Texts in Lower Secondary History(.pdf, 1.8 MB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-5b-scaffolding-inferential-understanding-of-texts-in-lower-secondary-history.pdf"><span style="color:#CA2126;background-color:transparent">1.5b Scaffolding Inferential Understanding of <br>Texts in Lower Secondary History(.pdf, 1.8 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">1.5c:</td>
     <td class="tg-ag2m">Students' Progressive Understandings of Historical Accounts (NIE)</td>
-    <td class="tg-dewj"><a href="/files/1-5c-students'-progressive-understandings-of-historical-accounts.pdf"><span style="color:#CA2126;background-color:transparent">1.5c Students Progressive Understandings of Historical Accounts(.pdf, 668.88 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/1-5c-students'-progressive-understandings-of-historical-accounts.pdf"><span style="color:#CA2126;background-color:transparent">1.5c Students Progressive Understandings of <br>Historical Accounts(.pdf, 668.88 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">1.6:</td>
     <td class="tg-rfng">Teaching Approaches for Developing Thoughtful Talk in the Classroom (St Andrew’s Secondary School)</td>
-    <td class="tg-rhd3"><a href="/files/1-6-teaching-approaches-for-developing-thoughtful-talk-in-the-classroom-_sass.pdf"><span style="color:#CA2126;background-color:transparent">1.6 Teaching Approaches for Developing Thoughtful Talk in the Classroom _SASS(.pdf, 2.84 MB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-6-teaching-approaches-for-developing-thoughtful-talk-in-the-classroom-_sass.pdf"><span style="color:#CA2126;background-color:transparent">1.6 Teaching Approaches for Developing <br>Thoughtful Talk in the Classroom _SASS(.pdf, 2.84 MB)</span></a></td>
   </tr>
 </tbody>
-</table>
+</table><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
