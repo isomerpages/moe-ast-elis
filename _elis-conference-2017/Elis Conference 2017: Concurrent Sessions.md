@@ -172,7 +172,27 @@ OOOO
 	</li>  
 </ul>
 
+**Integrating the Use of Personal Learning Devices with the Teaching of Speaking and Writing**&nbsp;  
+  
+_Mdm Sarahlyn Cheng Yanling, Canberra Primary School_  
+_Mdm Kuah Hui Yeng, Canberra Primary School_
 
+Download slides here -&nbsp;[2C-ICT-Canberra Pri(.pdf, 841.91 KB)](/files/2c-ict-canberra-pri.pdf)
+
+**Engaging Learners, Enabling and Enhancing Language-learning in the Classroom**  
+  
+_Mrs Serene Ng, St Joseph’s Institution Junior_  
+_Mrs Chriel Chua, St Joseph’s Institution Junior_  
+_Ms Grace Lim, St Joseph’s Institution Junior_
+
+Download slides here -&nbsp;[2C-ICT-St Joseph' Institution Junior(.pdf, 455.29 KB)](/files/2c-ict-st-joseph's-institution-junior.pdf)
+
+**Enhancing Self-Directed and Collaborative Learning through the Use of 1-to-1 Computing**  
+  
+_Miss Nurkhalisah Binte Kassim, Ngee Ann Secondary School_  
+_Miss Elizabeth Eng Yan Ling, Ngee Ann Secondary School_
+
+Download slides here -&nbsp;[2C-ICT-Ngee Ann Sec(.pdf, 1.21 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/2c-ict-ngee-ann-sec.pdf?sfvrsn=e3cf5697_2 "2C-ICT-Ngee Ann Sec")
 
 ### EC CHAMPIONS
 
