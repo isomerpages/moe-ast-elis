@@ -11,7 +11,7 @@ As the ability to distinguish between word classes is foundational to building k
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Primary</label>
+    <label for="accordion1"><h4>Primary</h4></label>
     <div>
 			 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/adverbials/">Building Knowledge of English Grammar – Adverbials (Primary)</a></p>
 			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/cohesion-and-coherence/">Building Knowledge of English Grammar – Cohesion and Coherence (Primary)</a></p>
@@ -23,7 +23,7 @@ As the ability to distinguish between word classes is foundational to building k
 	</li>
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Secondary</label>
+    <label for="accordion2"><h4>Secondary</h4></label>
     <div>
 			 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/adverbials/">Building Knowledge of English Grammar – Adverbials (Secondary)</a></p>
 			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/cohesion-and-coherence/">Building Knowledge of English Grammar – Cohesion and Coherence (Secondary)</a></p>
