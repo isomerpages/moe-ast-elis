@@ -161,7 +161,7 @@ _Ms Sumangalam Haridas, Tampines Secondary School_
 _Ms Shen Simin Nicole, Tampines Secondary School_  
 _Mdm Shalini Damodaran, ELIS_
 
-Download slides here -&nbsp;[1C-Writing (Sec)-Tampines Sec(.pdf, 986.04 KB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/1c-writing-(sec)-tampines-sec.pdf?sfvrsn=6c76eb6e_2 "1C-Writing (Sec)-Tampines Sec")
+Download slides here -&nbsp;[1C-Writing (Sec)-Tampines Sec(.pdf, 986.04 KB)](/files/1c-writing-(sec)-tampines-sec.pdf)
 
 **Erasing Blind-spots and Providing Action-based Corrective Advice in the Marking of Exposition Essays**
 
@@ -169,4 +169,4 @@ _Miss Luisa Ten Mei Fong, Anglican High School_
 
 _Miss Yan Xiuru, Anglican High School_
 
-Download slides here -&nbsp;[1C-Writing (Sec)-Anglican High(.pdf, 759.64 KB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/1c-writing-(sec)-anglican-high.pdf?sfvrsn=9ce52b57_2 "1C-Writing (Sec)-Anglican High")
+Download slides here -&nbsp;[1C-Writing (Sec)-Anglican High(.pdf, 759.64 KB)](/files/1c-writing-(sec)-anglican-high.pdf)
