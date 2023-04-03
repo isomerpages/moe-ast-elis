@@ -31,7 +31,7 @@ Deepen your understanding through our extensive library of e-publications on ped
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/">
 <img src="/images/elis-research-fund-report.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/"><b>ELIS Research Fund Reports</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/">
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/"><b>Research Summaries</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports/">
 </a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/subject-literacy-inquiry-digests/">
