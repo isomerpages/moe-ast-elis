@@ -48,4 +48,6 @@ Click on the 'Play' button to find out more!
 ![](/images/masterclass3.png)
 [Click here to view this masterclass](/elis/masterclasses/developing-a-nose-for-quality/)
 
-![](![](/images/masterclass4.jpg)
+
+![](/images/masterclass4.jpg)
+[Click here to view this masterclass](elis/masterclasses/the-commentary-project-an-apprenticeship-in-talking-and-writing-about-reading)
