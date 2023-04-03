@@ -179,8 +179,8 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
 <h3>How to Apply</h3>
 
 Please write to Mr Daniel Yip (Deputy Director/Pedagogy) at  
-<a href="mailto:yip_kok_hoong@moe.gov.sg">yip_kok_hoong@moe.gov.sg</a> 
-OR  Ms Charmaine Tan (Assistant Director/Pedagogy) at  
+<a href="mailto:yip_kok_hoong@moe.gov.sg">yip_kok_hoong@moe.gov.sg</a> <br>
+OR  <br>Ms Charmaine Tan (Assistant Director/Pedagogy) at
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg</a>.  
   
 Closing date for application:&nbsp;**Wed, 23 Nov 2022**
