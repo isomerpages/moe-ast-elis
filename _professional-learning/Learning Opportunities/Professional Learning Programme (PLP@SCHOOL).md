@@ -123,3 +123,6 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
   </tr>
 </thead>
 </table>
+
+<h3>Programme Structure</h3>
+![Professional Learning Programme Structure](/images/Professional%20Learning%20Programme%20Structure.jpg)
