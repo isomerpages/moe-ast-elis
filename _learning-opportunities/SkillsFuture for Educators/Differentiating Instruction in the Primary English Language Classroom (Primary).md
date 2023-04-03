@@ -26,7 +26,7 @@ There are courses at three Levels of Practice that you can choose from:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2022.png" style="width:70%">
+<img src="/images/course%20structure%2022.png" style="width:90%">
 		 
 ### Target Participants
 
