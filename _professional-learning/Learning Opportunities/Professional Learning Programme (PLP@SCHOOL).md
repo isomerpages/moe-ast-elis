@@ -98,13 +98,13 @@ You can refer to page 39 for the details on this area of learning.
 
 <strong style="color:#46859d;">OR</strong>
 
-2.  **<u>one</u>**&nbsp;area of language learning to be selected from the following:
-    
-	1.  Teaching Grammar (Primary/Secondary)
-    2.  Teaching Oracy (Primary/Secondary)
-    3.  Teaching Reading, Viewing and Vocabulary (Primary/Secondary)
-    4.  Teaching Extensive Reading and Viewing (Primary/Secondary)
-    5.  Teaching Writing and Representing (Primary/Secondary)
+b.  **<u>one</u>**&nbsp;area of language learning to be selected from the following:
+     
+1.  Teaching Grammar (Primary/Secondary)
+2.  Teaching Oracy (Primary/Secondary)
+3.  Teaching Reading, Viewing and Vocabulary (Primary/Secondary)
+4.  Teaching Extensive Reading and Viewing (Primary/Secondary)
+5.  Teaching Writing and Representing (Primary/Secondary)
     
     For any area of language learning that you select, your EL department members will deepen their knowledge of it. They will also consider ways of using technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.  
       
