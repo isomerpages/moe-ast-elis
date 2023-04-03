@@ -5,20 +5,19 @@ description: ""
 ---
 ### Student Learning Space Resources for EL Teachers
 
-<img src="/images/teach_banner.png" 
-     style="width:50%">
+<img src="/images/teach_banner.png" style="width:50%">
 
 Use our resources on the Student Learning Space (SLS) to teach your students learner strategies that they need for learning and using English Language in the various Areas of Language Learning. You will also find suggestions on accompanying lesson activities in these resources.  
 
 ### Steps to Access SLS Resources
 
-1.  Click [here](https://vle.learning.moe.edu.sg/searchresource/search?keyword=ast) to log on to your SLS account.
+1.  Click&nbsp;[here](https://vle.learning.moe.edu.sg/searchresource/search?keyword=ast)&nbsp;to log on to your SLS account.
     
-2.  Select **"Community Gallery".**
+2.  Select&nbsp;**"Community Gallery".**
     
-3.  **"AST"** in the search field.
+3.  **"AST"**&nbsp;in the search field.
     
-4.  Refine the search results by selecting either **"English Language - EL"** for the primary level or **"English Language - EL1"** for the secondary level, in the "Subject Field.
+4.  Refine the search results by selecting either&nbsp;**"English Language - EL"**&nbsp;for the primary level or&nbsp;**"English Language - EL1"**&nbsp;for the secondary level, in the "Subject Field.
 
 ### Primary
 
@@ -46,7 +45,15 @@ Use our resources on the Student Learning Space (SLS) to teach your students lea
 <tbody>
   <tr>
     <td class="tg-gip3">Lower Primary<br></td>
-    <td class="tg-iq2a">- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/b8118a02-b560-4c36-8706-6a6890666b01/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Drawing on Prior Knowledge to Plan and Set Goals for Speaking </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/6f9e2f7b-da0c-40ba-954d-6159f6634a99/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Generating Ideas for Writing</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/b0d2e577-a727-4e4f-b779-886b8c7530c1/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Listening and Viewing Actively</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/df4ce9f3-5143-4bfa-865a-a377adf90f7d/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Making Text-to-Self Connections as We Read</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d93c5599-ba6f-44a5-9284-c26028b6a2e8/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Speaking: Recognising and Using Appropriate Sentence Stress to Convey Intended Meaning </span></a></td>
+    <td class="tg-iq2a"><ul>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/b8118a02-b560-4c36-8706-6a6890666b01/cover">Drawing on Prior Knowledge to Plan and Set Goals for Speaking</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/6f9e2f7b-da0c-40ba-954d-6159f6634a99/cover">Generating Ideas for Writing</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/b0d2e577-a727-4e4f-b779-886b8c7530c1/cover">Listening and Viewing Actively</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/df4ce9f3-5143-4bfa-865a-a377adf90f7d/cover">Making Text-to-Self Connections as We Read  
+</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d93c5599-ba6f-44a5-9284-c26028b6a2e8/cover">Speaking: Recognising and Using Appropriate Sentence Stress to Convey Intended Meaning</a></li>
+</ul>
+</td>
   </tr>
   <tr>
     <td class="tg-cekf">Middle Primary</td>
@@ -91,3 +98,4 @@ Use our resources on the Student Learning Space (SLS) to teach your students lea
   </tr>
 </tbody>
 </table>
+
