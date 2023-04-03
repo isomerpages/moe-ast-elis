@@ -36,18 +36,18 @@ By the end of this course, you will be able to:
 <thead>
   <tr>
     <th class="tg-ecbr">Mode of Learning</th>
-    <th class="tg-5wiv"><img height="76" width="60" alt="Picture7" src="/images/picture7.png"></th>
-    <th class="tg-5wiv"><img height="57" width="60" alt="Picture8" src="/images/picture8.png"></th>
+    <th class="tg-5wiv"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
+    <th class="tg-5wiv"><img style="width:50px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-5p3q"><img height="51" width="60" alt="Picture9" src="/images/picture9.png">#Asynchronous Online Learning Period           </td>
+    <td class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
     <td class="tg-alvu">2 hours</td>
     <td class="tg-alvu">Thu, 6 Jul – Thu, 20 Jul</td>
   </tr>
   <tr>
-    <td class="tg-5p3q"><img height="50" width="60" alt="Picture10" src="/images/picture10.png">#Synchronous Online Learning Session           </td>
+    <td class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
     <td class="tg-alvu">2 hours</td>
     <td class="tg-alvu">Thu, 27 Jul (P.M.)</td>
   </tr>
