@@ -139,39 +139,39 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
 .tg .tg-2u06{background-color:#a43318;color:#FFF;text-align:center;vertical-align:top}
 .tg .tg-kduf{background-color:#a43318;color:#FFF;font-weight:bold;text-align:center;vertical-align:middle}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-kduf">Mode of Learning</th>
-    <th class="tg-7gif"><img style="width:55px" alt="Picture7" src="/images/picture7.png"></th>
-    <th class="tg-kduf">Option A<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
-    <th class="tg-kduf">Option B<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-kduf">Mode of Learning</th>
+    <th style="border: 1px solid white" class="tg-7gif"><img style="width:55px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-kduf">Option A<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-kduf">Option B<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 1)</td>
-    <td class="tg-ftkq">3 hours</td>
-    <td class="tg-ftkq">Thu, 24 Mar –<br>Thu, 7 Apr</td>
-    <td class="tg-ftkq">Wed, 30 Mar –<br>Wed, 13 Apr</td>
+    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 1)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">3 hours</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Thu, 24 Mar –<br>Thu, 7 Apr</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Wed, 30 Mar –<br>Wed, 13 Apr</td>
   </tr>
   <tr>
-    <td class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 1)</td>
-    <td class="tg-ftkq">2 hours</td>
-    <td class="tg-ftkq">Thu, 14 Apr<br>(P.M.)</td>
-    <td class="tg-ftkq">Wed, 20 Apr<br>(P.M.)</td>
+    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 1)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">2 hours</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Thu, 14 Apr<br>(P.M.)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Wed, 20 Apr<br>(P.M.)</td>
   </tr>
   <tr>
-    <td class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 2)</td>
-    <td class="tg-ftkq">3 hours</td>
-    <td class="tg-ftkq">Mon, 18 Apr –<br>Fri, 13 May</td>
-    <td class="tg-ftkq">Thu, 21 Apr –<br>Wed, 18 May</td>
+    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 2)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">3 hours</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Mon, 18 Apr –<br>Fri, 13 May</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Thu, 21 Apr –<br>Wed, 18 May</td>
   </tr>
   <tr>
-    <td class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 2)</td>
-    <td class="tg-ftkq">2 hours</td>
-    <td class="tg-ftkq">Thu, 19 May<br>(P.M.)</td>
-    <td class="tg-ftkq">Wed, 25 May<br>(P.M.)</td>
+    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 2)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">2 hours</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Thu, 19 May<br>(P.M.)</td>
+    <td style="border: 1px solid white" class="tg-ftkq">Wed, 25 May<br>(P.M.)</td>
   </tr>
 </tbody>
 </table>
