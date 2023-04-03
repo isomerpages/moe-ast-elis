@@ -166,12 +166,17 @@ description: ""
     <input id="accordion113" type="checkbox">
     <label for="accordion1"><h4>2E Oracy for Pri EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>The Impact of ‘Think-Talk-Write-Practise’ Strategy on Primary Four Students’ Performance in Stimulus-based Conversation</strong>&nbsp;  </p>
+<p><em>Mrs Audrey Lee-Lim Ya Qi, Yishun Primary School</em><br><em>Mdm Aziana Aziz, Yishun Primary School</em><br><em>Mdm Geetha D/O V. K. Ramadass, Yishun Primary School</em><br><em>Mrs Justina A. Surash, Yishun Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2e-oracy-(pri)-yishun-pri.pdf">2E-Oracy (Pri)-Yishun Pri(.pdf, 1.58 MB)</a></p>
+<p><strong>Use of Thinking Routines to Enhance Critical Thinking and Oracy in Students</strong>  </p>
+<p><em>Mrs Cecilia Peralta-Lee, Fairfield Methodist School (Primary)</em><br><em>Mrs Rena Tham, Fairfield Methodist School (Primary)</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2e-oracy-(pri)-fairfield-methodist-school-(pri).pdf">2E-Oracy (Pri)-Fairfield Methodist School (Pri)(.pdf, 625.06 KB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion114" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>2F Writing for Pri EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -185,21 +190,20 @@ OOOO
 	</li>  
 </ul>
 
-**The Impact of ‘Think-Talk-Write-Practise’ Strategy on Primary Four Students’ Performance in Stimulus-based Conversation**&nbsp;  
+**Exploring Upper Primary Students’ Writing Using the STAR Framework as a Form of Feedback**  
   
-_Mrs Audrey Lee-Lim Ya Qi, Yishun Primary School_  
-_Mdm Aziana Aziz, Yishun Primary School_  
-_Mdm Geetha D/O V. K. Ramadass, Yishun Primary School_  
-_Mrs Justina A. Surash, Yishun Primary School_
+_Mdm Anissa Ferdaus Md Salleh, Tanjong Katong Primary School_  
+_Mrs Chen-Wang Seow Huey, Tanjong Katong Primary School_
 
-Download slides here -&nbsp;[2E-Oracy (Pri)-Yishun Pri(.pdf, 1.58 MB)](/files/2e-oracy-(pri)-yishun-pri.pdf)
+Download slides here -&nbsp;[](/files/2f-writing-(pri)-tanjong-katong-pri.pdf)
 
-**Use of Thinking Routines to Enhance Critical Thinking and Oracy in Students**  
+**Developing Motivation to Write through Journaling**  
   
-_Mrs Cecilia Peralta-Lee, Fairfield Methodist School (Primary)_  
-_Mrs Rena Tham, Fairfield Methodist School (Primary)_
+_Mrs Adeline Lynn Teo, De La Salle School_  
+_Mdm Koh Ting Ting, De La Salle School_  
+_Mdm Leong Foong Yee Irene, De La Salle School_
 
-Download slides here -&nbsp;[2E-Oracy (Pri)-Fairfield Methodist School (Pri)(.pdf, 625.06 KB)](/files/2e-oracy-(pri)-fairfield-methodist-school-(pri).pdf)
+Download slides here -&nbsp;[2F-Writing (Pri)-De La Salle School(.pdf, 639.65 KB)](/files/2f-writing-(pri)-de-la-salle-school.pdf)
 
 ### EC CHAMPIONS
 
