@@ -83,7 +83,44 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2022.png" style="width:95%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-he1f{background-color:#f5c05e;color:#212529;text-align:center;vertical-align:middle}
+.tg .tg-ye8s{background-color:#f5c05e;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ylnx{background-color:#f5c05e;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-xpq4{background-color:#f5c05e;color:#212529;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-xpq4">Mode of Learning</th>
+    <th class="tg-ye8s"><img height="66" width="52" alt="Picture7" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture7.png?sfvrsn=80d183e4_0"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Proficient)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Accomplished)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
+    <th class="tg-xpq4">SFEd IBL<br>(Leading)<br><img height="57" width="60" alt="Picture8" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture8.png?sfvrsn=e557d2f6_0"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ylnx"><img height="36" width="42" alt="Picture9" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture9586bbe804379403a95bb3157ad530055.png?sfvrsn=24596e6d_0">#Asynchronous Online Learning Period</td>
+    <td class="tg-he1f">3 hours</td>
+    <td class="tg-he1f">Fri, 17 Feb – Fri, 3 Mar</td>
+    <td class="tg-he1f">Wed, 22 Mar – Wed, 5 Apr</td>
+    <td class="tg-he1f">Fri, 24 Mar – Mon, 10 Apr</td>
+  </tr>
+  <tr>
+    <td class="tg-ylnx"><img height="34" width="41" alt="Picture10" src="https://academyofsingaporeteachers.moe.edu.sg/images/librariesprovider2/professional-learning/picture10.png?sfvrsn=da1a2fba_0">#Synchronous Online Learning Session</td>
+    <td class="tg-he1f">3 hours</td>
+    <td class="tg-he1f">Thu, 9 Mar (P.M.)</td>
+    <td class="tg-he1f">Wed, 12 Apr (P.M.)</td>
+    <td class="tg-he1f">Fri, 14 Apr (P.M.)</td>
+  </tr>
+</tbody>
+</table>
 		 
 ### Target Participants
 
