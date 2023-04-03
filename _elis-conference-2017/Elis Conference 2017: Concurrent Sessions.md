@@ -27,12 +27,15 @@ description: ""
     <input id="accordion102" type="checkbox">
     <label for="accordion1"><h4>1B Professional Learning for Sec EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>When Teachers Become Learners: A Case Study</strong></p>
+<p><em>Ms Ann Cheo, Seng Kang Secondary School</em><br><em>Ms Nivashini Mohandasan, Seng Kang Secondary School</em><br><em>Mdm Varalackshmi Hariharan, ELIS</em></p>
+<p><strong>Teaching Without Research or Driving Without Watching the Road</strong><br><em>Dr Christopher Ward, ELIS</em>&nbsp;</p>
+<p>Download slides here -&nbsp;<a href="/files/1b-professional-learning-(sec)-elis.pdf">1B-Professional Learning (Sec)-ELIS(.pdf, 429.88 KB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion103" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>1C Writing for Sec EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -152,13 +155,3 @@ OOO
 	</li>  
 </ul>
 
-**When Teachers Become Learners: A Case Study**
-
-_Ms Ann Cheo, Seng Kang Secondary School_  
-_Ms Nivashini Mohandasan, Seng Kang Secondary School_  
-_Mdm Varalackshmi Hariharan, ELIS_
-
-**Teaching Without Research or Driving Without Watching the Road**  
-_Dr Christopher Ward, ELIS_&nbsp;
-
-Download slides here -&nbsp;[1B-Professional Learning (Sec)-ELIS(.pdf, 429.88 KB)](/files/1b-professional-learning-(sec)-elis.pdf)
