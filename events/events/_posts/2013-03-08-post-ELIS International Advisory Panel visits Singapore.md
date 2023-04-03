@@ -16,9 +16,8 @@ The ELIS team is delighted to have the opportunity to interact with and learn fr
 
 **_We are pleased to inform you that the IAP members have offered to share their presentation slides on our website for your reference. Click on the links below to download them. Enjoy!_**
 
-_Professor Ronald Carter's presentation - [Scaffolding Spoken Discourse for Students](/files/prof-ronald-carter---scaffolding-spoken-discourse-for-students.pdf)  
+_Professor Ronald Carter's presentation     - [Scaffolding Spoken Discourse for Students](/files/prof-ronald-carter---scaffolding-spoken-discourse-for-students.pdf)  
 Professor Christine Davison's presentation - [Scaffolding Disciplinary Literacy for Students](/files/prof-chris-davison---scaffolding-disciplinary-literacy-for-students.pdf)  
-Professor Amy Tsui's presentation - [Scaffolding Professional Development for Teachers](/files/prof-amy-tsui---scaffolding-professional-development-for-teachers.pdf)_
+Professor Amy Tsui's presentation         - [Scaffolding Professional Development for Teachers](/files/prof-amy-tsui---scaffolding-professional-development-for-teachers.pdf)_
 
 ![](/images/iap.jpeg)
-
