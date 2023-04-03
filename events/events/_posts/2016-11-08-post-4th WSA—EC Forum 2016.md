@@ -118,12 +118,12 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-ag2m">Fostering Interaction and Opening Up Talk to Support Learning in Primary Science</td>
     <td class="tg-ag2m">Townsville Primary School, Sengkang Green Primary School</td>
-    <td class="tg-dewj"><a href="/files/wsa-ec-forum-2016_tvps.pdf"><span style="color:#CA2126;background-color:transparent">WSA-EC Forum 2016_TVPS(.pdf, 496.04 KB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/wsa-ec-forum-2016_tvps.pdf"><span style="color:#CA2126;background-color:transparent">WSA-EC Forum <br>2016_TVPS(.pdf, 496.04 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">Making Thinking Visible: Supporting Students in Mathematical Reasoning</td>
     <td class="tg-rfng">St Andrew’s Junior School</td>
-    <td class="tg-rhd3"><a href="/files/sajswsa-ec-forum-2016.pdf"><span style="color:#CA2126;background-color:transparent">SAJSWSA-EC forum 2016(.pdf, 587.54 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/sajswsa-ec-forum-2016.pdf"><span style="color:#CA2126;background-color:transparent">SAJSWSA-EC forum <br>2016(.pdf, 587.54 KB)</span></a></td>
   </tr>
 </tbody>
 </table>
