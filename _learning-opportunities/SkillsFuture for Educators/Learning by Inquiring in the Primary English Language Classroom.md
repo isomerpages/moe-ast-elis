@@ -42,7 +42,7 @@ By the end of this course, you will be able to:
 </ul>
 
 
-<p style="font-size:13px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
+<p style="font-size:14px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
 
 
 ---
