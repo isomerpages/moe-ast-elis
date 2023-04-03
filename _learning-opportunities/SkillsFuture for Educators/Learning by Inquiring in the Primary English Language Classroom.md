@@ -93,9 +93,46 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-<img src="/images/registration%204.png" style="width:70%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-8vob{background-color:#fbe6bb;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-933g{background-color:#fbe6bb;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-myt5{background-color:#fbe6bb;text-align:left;vertical-align:top}
+.tg .tg-chv6{background-color:#fbe6bb;color:#CA2126;text-align:center;text-decoration:underline;vertical-align:top}
+.tg .tg-7vt8{background-color:#fbe6bb;color:#212529;text-align:center;vertical-align:middle}
+</style>
+<table style="border: 1px solid white" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid white" class="tg-8vob"></th>
+    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd DI (Proficient)</span></th>
+    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd DI (Accomplished)</span></th>
+    <th style="border: 1px solid white" class="tg-myt5"><span style="font-weight:600">SFEd DI (Leading)</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid white" class="tg-933g"><img style="width:60px" alt="Picture11" src="/images/picture11.png">Please register on<br>OPAL2.0 using<br>these codes.</td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/10d7e1b8-f2b0-4556-b70c-f808880f8db6"><span style="color:#CA2126">EL000078</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/968f4e98-bd58-4149-9157-a5b6109ef69e"><span style="color:#CA2126">EL000080</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/6c11a2c5-4342-4290-bccd-c490b77d534d"><span style="color:#CA2126">EL000079</span></a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white" class="tg-933g"><img style="width:60px" alt="Picture12" src="/images/picture12.png">Closing dates<br>for registration</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Fri, 3 Feb</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Tue, 28 Feb</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Fri, 20 Jan</td>
+  </tr>
+</tbody>
+</table>
 
-### For enquiries, please contact:
+<img align="left" style="width:7%" src="/images/picture13.png"><br><br>
+
+##### For enquiries, please contact:
 
 Ms Selene Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
 OR  
