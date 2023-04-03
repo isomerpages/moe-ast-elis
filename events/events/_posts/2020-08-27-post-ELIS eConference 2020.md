@@ -50,4 +50,4 @@ Click on the 'Play' button to find out more!
 
 
 ![](/images/masterclass4.jpg)
-[Click here to view this masterclass](elis/masterclasses/the-commentary-project-an-apprenticeship-in-talking-and-writing-about-reading)
+[Click here to view this masterclass](/elis/masterclasses/the-commentary-project-an-apprenticeship-in-talking-and-writing-about-reading)
