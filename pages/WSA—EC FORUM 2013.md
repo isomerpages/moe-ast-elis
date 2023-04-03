@@ -10,9 +10,9 @@ Click on the links below to view the presentation slides from the WSA-EC Forum 2
 
 **Concurrent Sessions**
 
-[](/files/teacher-strategies-for-opening-up-classroom-talk.pdf) (Dr Anneliese Kramer-Dahl)
+[How to Get Started: Teacher Strategies for Opening Up Classroom Talk(.pdf, 1.72 MB)](/files/teacher-strategies-for-opening-up-classroom-talk.pdf) (Dr Anneliese Kramer-Dahl)
 
-[Language Awareness in the Content Classroom(.pdf, 806.19 KB)](https://academyofsingaporeteachers.moe.edu.sg/docs/librariesprovider2/events-news/wsa-ec-forum-2013/language-awareness-in-the-content-classroom.pdf?sfvrsn=dbe03db5_2 "Language Awareness in the Content Classroom") (Mr Edward Russell, British Council)
+[Language Awareness in the Content Classroom(.pdf, 806.19 KB)](/files/language-awareness-in-the-content-classroom.pdf) (Mr Edward Russell, British Council)
 
 Supporting Students in the Literacy of Geography and History (ELIS, CPDD and Tampines Secondary)
 
