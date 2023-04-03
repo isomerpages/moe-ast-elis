@@ -72,16 +72,21 @@ description: ""
 	</li>  
 	<li>
     <input id="accordion106" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>1F Writing for Pri EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>TAD: An Effective Tool to Help Students Develop Ideas in Writing</strong></p>
+<p><em>Miss Chia Soo Yin. North Vista Primary School</em><br><em>Miss Dashni D/O Ravindran, Si Ling Primary School</em></p>
+<p><strong>Using Visible Thinking in Drama Strategies for Skilful Writing</strong></p>
+<p><em>Ms Stella Fernandez, CHIJ Our Lady Of Good Counsel</em><br><em>Mrs Shiamala Gopal, CHIJ Our Lady Of Good Counsel</em><br><em>Ms Loh Lee Miang, CHIJ Our Lady Of Good Counsel</em></p>
+<p>Download slides here -&nbsp;<a href="https://go.gov.sg/1f-writing-pri-chij-our-lady-of-good-counsel">1F-Writing (Pri)-CHIJ Our Lady of Good Counsel(.pdf, 6.23 MB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion107" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>1G Master Class on SCK &amp; PCK</h4></label>
     <div>
-OOOO
+<p><strong>I am an English Language Teacher. So HOW?</strong></p>
+<p><em>Dr Tay May Yin, ELIS</em></p>
     </div>
 	</li>  
 </ul>
@@ -170,3 +175,4 @@ OOO
     </div>
 	</li>  
 </ul>
+
