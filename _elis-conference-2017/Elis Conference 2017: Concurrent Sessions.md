@@ -127,12 +127,17 @@ description: ""
     <input id="accordion110" type="checkbox">
     <label for="accordion1"><h4>2B Reading for Sec EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>Developing 21st Century Readers among Normal (Technical) Students</strong>&nbsp;  </p>
+<p><em>Ms Caroline Patricia Thomas, Anderson Secondary School</em><br><em>Ms Jeyalaxmy Ayaduray, ELIS</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2b-reading-(sec)-anderson-sec.pdf">2B-Reading (Sec)-Anderson Sec(.pdf, 4.93 MB)</a></p>
+<p><strong>READ@Clementi Town Secondary School (Whole School Approach to Reading)</strong>&nbsp;  </p>
+<p><em>Mrs Teresa Chua, Clementi Town Secondary School</em><br><em>Ms Karen Sia, Clementi Town Secondary School</em></p>
+<p>Download slides here -&nbsp;<a href="https://go.gov.sg/2b-reading-sec-clementi-town-sec">2B-Reading (Sec)-Clementi Town Sec(.pdf, 8.76 MB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion111" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>2C ICT for Pri &amp; Sec EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -167,19 +172,7 @@ OOOO
 	</li>  
 </ul>
 
-**Developing 21st Century Readers among Normal (Technical) Students**&nbsp;  
-  
-_Ms Caroline Patricia Thomas, Anderson Secondary School_  
-_Ms Jeyalaxmy Ayaduray, ELIS_
 
-Download slides here -&nbsp;[2B-Reading (Sec)-Anderson Sec(.pdf, 4.93 MB)](/files/2b-reading-(sec)-anderson-sec.pdf)
-
-**READ@Clementi Town Secondary School (Whole School Approach to Reading)**&nbsp;  
-  
-_Mrs Teresa Chua, Clementi Town Secondary School_  
-_Ms Karen Sia, Clementi Town Secondary School_
-
-Download slides here -&nbsp;[2B-Reading (Sec)-Clementi Town Sec(.pdf, 8.76 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/events-news/elis-conference-2017/2b-reading-(sec)-clementi-town-sec.pdf?sfvrsn=6d778475_2 "2B-Reading (Sec)-Clementi Town Sec")
 
 ### EC CHAMPIONS
 
