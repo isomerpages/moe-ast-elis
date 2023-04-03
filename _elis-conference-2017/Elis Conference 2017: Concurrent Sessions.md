@@ -25,7 +25,7 @@ description: ""
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion102" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>1B Professional Learning for Sec EL teachers</h4></label>
     <div>
 OOOO
     </div>
