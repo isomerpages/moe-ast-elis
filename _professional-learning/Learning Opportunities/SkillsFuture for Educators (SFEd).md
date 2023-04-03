@@ -9,7 +9,7 @@ The SFEd Differentiated Instruction courses enable English Language teachers to 
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
-    <label for="accordion1">Primary</label>
+    <label for="accordion1"><h4>Primary</h4></label>
     <div>
       <ul><li><p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/differentiating-instruction/">Differentiating Instruction in the Primary English Language Classroom</a></p></li>
 		<li><p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">Learning by Inquiring in the Primary English Language Classroom </a></p></li></ul>
@@ -17,7 +17,7 @@ The SFEd Differentiated Instruction courses enable English Language teachers to 
 	</li>  
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2">Secondary</label>
+    <label for="accordion2"><h4>Secondary</h4></label>
     <div>
       <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/differentiate-instruction/">Differentiating Instruction in the Secondary English Language Classroom</a></p>
 		<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/learning-by-inquiring/">Learning by Inquiring in the Secondary English Language Classroom</a></p>
@@ -25,7 +25,7 @@ The SFEd Differentiated Instruction courses enable English Language teachers to 
 	</li>  
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3">Primary/Secondary</label>
+    <label for="accordion3"><h4>Primary/Secondary</h4></label>
     <div>
       <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary-secondary/applying-epedagogy">Applying e–Pedagogy and Blended Learning in the Primary and Secondary English Language Classrooms</a></p>
     </div>
