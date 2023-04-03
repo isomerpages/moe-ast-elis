@@ -128,7 +128,7 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
 
 ![Professional Learning Programme Structure](/images/Professional%20Learning%20Programme%20Structure.jpg)
 
-<style type="text/css">
+ <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -143,7 +143,7 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
 <thead>
   <tr>
     <th style="border: 1px solid white" class="tg-kduf">Mode of Learning</th>
-    <th style="border: 1px solid white" class="tg-7gif"><img style="width:55px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-7gif"><img style="width:47px" alt="Picture7" src="/images/picture7.png"></th>
     <th style="border: 1px solid white" class="tg-kduf">Option A<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
     <th style="border: 1px solid white" class="tg-kduf">Option B<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
@@ -184,3 +184,4 @@ OR  <br>Ms Charmaine Tan (Assistant Director/Pedagogy) at
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg</a>.  
   
 Closing date for application:&nbsp;**Wed, 23 Nov 2022**
+
