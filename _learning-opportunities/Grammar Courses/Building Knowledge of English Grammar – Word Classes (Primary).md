@@ -29,24 +29,24 @@ By the end of this course, you will be able to:
 .tg .tg-thnp{background-color:#8abfbb;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
 .tg .tg-ta8k{background-color:#8abfbb;color:#212529;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
+<table style="border: 1px solid white" class="tg">
 <thead>
   <tr>
-    <th class="tg-h3mj">Mode of Learning</th>
-    <th class="tg-thnp"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
-    <th class="tg-thnp"><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-h3mj">Mode of Learning</th>
+    <th style="border: 1px solid white" class="tg-thnp"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-thnp"><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
-    <td class="tg-y050">2 hours</td>
-    <td class="tg-y050">Tue, 7 Feb – Tue, 21 Feb</td>
+    <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
+    <td style="border: 1px solid white" class="tg-y050">2 hours</td>
+    <td style="border: 1px solid white" class="tg-y050">Tue, 7 Feb – Tue, 21 Feb</td>
   </tr>
   <tr>
-    <td class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
-    <td class="tg-y050">2 hours</td>
-    <td class="tg-y050">Tue, 28 Feb (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
+    <td style="border: 1px solid white" class="tg-y050">2 hours</td>
+    <td style="border: 1px solid white" class="tg-y050">Tue, 28 Feb (P.M.)</td>
   </tr>
 </tbody>
 </table>
