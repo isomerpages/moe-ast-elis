@@ -127,7 +127,16 @@ b.  **<u>one</u>**&nbsp;area of language learning to be selected from the follow
 
 <h3>Programme Structure</h3>
 
-![Professional Learning Programme Structure](/images/Professional%20Learning%20Programme%20Structure.jpg)
+<style>  
+img {  
+  display: block;  
+  margin-left: auto;  
+  margin-right: auto;  
+}  
+</style>  
+<img style="width:80%;" alt="Professional Learning Programme Structure" src="/images/Professional%20Learning%20Programme%20Structure.jpg">  
+  
+<br>
 
  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
