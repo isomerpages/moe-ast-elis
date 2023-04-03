@@ -31,38 +31,50 @@ OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion102" type="checkbox">
+    <input id="accordion103" type="checkbox">
     <label for="accordion1"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion102" type="checkbox">
+    <input id="accordion104" type="checkbox">
     <label for="accordion1"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion102" type="checkbox">
+    <input id="accordion105" type="checkbox">
     <label for="accordion1"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion102" type="checkbox">
+    <input id="accordion106" type="checkbox">
     <label for="accordion1"><h4>NOOO</h4></label>
     <div>
 OOOO
     </div>
 	</li>  
 	<li>
-    <input id="accordion102" type="checkbox">
+    <input id="accordion107" type="checkbox">
     <label for="accordion1"><h4>NOOO</h4></label>
     <div>
 OOOO
+    </div>
+	</li>  
+</ul>
+
+### EC CHAMPIONS
+
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion108" type="checkbox">
+    <label for="accordion1"><h4>DAF</h4></label>
+    <div>
+OOO
     </div>
 	</li>  
 </ul>
