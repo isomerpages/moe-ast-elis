@@ -151,3 +151,14 @@ OOO
     </div>
 	</li>  
 </ul>
+
+**When Teachers Become Learners: A Case Study**
+
+_Ms Ann Cheo, Seng Kang Secondary School_  
+_Ms Nivashini Mohandasan, Seng Kang Secondary School_  
+_Mdm Varalackshmi Hariharan, ELIS_
+
+**Teaching Without Research or Driving Without Watching the Road**  
+_Dr Christopher Ward, ELIS_&nbsp;
+
+Download slides here -&nbsp;[1B-Professional Learning (Sec)-ELIS(.pdf, 429.88 KB)](/files/1b-professional-learning-(sec)-elis.pdf)
