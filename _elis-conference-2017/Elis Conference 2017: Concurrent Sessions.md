@@ -113,17 +113,19 @@ description: ""
     <input id="accordion109" type="checkbox">
     <label for="accordion1"><h4>2A Education Leaders Segment (Session 2)</h4></label>
     <div>
-0000
+<p><strong>An Alliance of Four Critical Friends: Deepening Inquiry, Seeding Innovation</strong>&nbsp;  </p>
+<p><em>Mrs Mary Seah, Tanjong Katong Girls’ School</em><br><em>Mdm Yasmin Bte A. Aziz, Hai Sing Catholic School</em><br><em>Mrs Wong Shu Xian, Hai Sing Catholic School</em><br><em>Ms Sukhjeet Kaur, CHIJ Katong Convent</em><br><em>Ms Chee Bee Phaik, Tanjong Katong Girls’ School</em><br><em>Mdm Muneira Daud, Ngee Ann Secondary School</em><br><em>Dr Tay May Yin, ELIS</em></p>
     </div>
 	</li>  
 </ul>
+
 
 ### EL TEACHER LEADERS
 
 <ul class="jekyllcodex_accordion">
   <li>
     <input id="accordion110" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>2B Reading for Sec EL teachers</h4></label>
     <div>
 OOOO
     </div>
