@@ -57,11 +57,24 @@ Use our resources on the Student Learning Space (SLS) to teach your students lea
   </tr>
   <tr>
     <td class="tg-cekf">Middle Primary</td>
-    <td class="tg-ngxg">- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/acf8faf3-ccb9-48af-a8e8-bd0697147b24/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Establishing a Purpose for Listening </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d3464a43-d333-44d8-8c08-1174bceb143c/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Making Text-to-Text Connections While Reading </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/f873129f-2e2d-480d-bbc6-0b613ef072c4/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Making Text-to-World Connections While Reading</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d93c5599-ba6f-44a5-9284-c26028b6a2e8/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Speaking: Recognising and Using Appropriate Sentence Stress to Convey Intended Meaning </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a1570959-99cf-4c97-95ed-f344e221030e/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Understanding and Using Conjunctions Appropriately</span></a></td>
+    <td class="tg-ngxg"><ul>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/acf8faf3-ccb9-48af-a8e8-bd0697147b24/cover">Establishing a Purpose for Listening</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d3464a43-d333-44d8-8c08-1174bceb143c/cover">Making Text-to-Text Connections While Reading</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/f873129f-2e2d-480d-bbc6-0b613ef072c4/cover">Making Text-to-World Connections While Reading</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d93c5599-ba6f-44a5-9284-c26028b6a2e8/cover">Speaking: Recognising and Using Appropriate Sentence Stress to Convey Intended Meaning</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a1570959-99cf-4c97-95ed-f344e221030e/cover">Understanding and Using Conjunctions Appropriately</a></li>
+</ul>
+</td>
   </tr>
   <tr>
     <td class="tg-gip3">Upper Primary<br></td>
-    <td class="tg-iq2a">- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d6905a15-3a7a-4be4-be1d-d0d73f69c6f7/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Listening and Viewing: Identify and Analyse How Semiotic Modes Work Together to Achieve an Intended Purpose </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0edb85fa-ad40-479d-acd4-5d6d125d24f0/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Understanding and Using the Past Perfect </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/26a8efd8-8c61-49ba-a52e-618f887acb0b/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Using the Five Senses to Engage the Reader through 'Show Not Tell' in Writing</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/456e2e35-2a62-4836-b998-2e8b586e3371/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Revising Writing by Changing, Adding, Reordering and Deleting Words, Phrases and Sentences to Vary Sentence Lengths</span></a></td>
+    <td class="tg-iq2a"><ul>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d6905a15-3a7a-4be4-be1d-d0d73f69c6f7/cover">Listening and Viewing: Identify and Analyse How Semiotic Modes Work Together to Achieve an Intended Purpose</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/0edb85fa-ad40-479d-acd4-5d6d125d24f0/cover">Understanding and Using the Past Perfect</a>&nbsp;  </li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/26a8efd8-8c61-49ba-a52e-618f887acb0b/cover">Using the Five Senses to Engage the Reader through 'Show Not Tell' in Writing</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/456e2e35-2a62-4836-b998-2e8b586e3371/cover">Revising Writing by Changing, Adding, Reordering and Deleting Words, Phrases and Sentences to Vary Sentence Lengths</a></li>
+</ul>
+</td>
   </tr>
 </tbody>
 </table>
@@ -90,11 +103,26 @@ Use our resources on the Student Learning Space (SLS) to teach your students lea
 <tbody>
   <tr>
     <td class="tg-ag2m">Lower Secondary</td>
-    <td class="tg-dewj">- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/2c9d0b12-72bf-4314-a566-1132ea9ae3e3/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Making Inferences to Draw Conclusions in Reading and Viewing</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/9f79e11e-ec05-467b-8157-af9b743e6be0/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Understanding and Using Adverbials</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/ccb80fef-cdd1-4eac-8328-619ee73978a8/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Learner Strategies for Summarising (Part 1): Determining and Paraphrasing Main Ideas </span></a></td>
+    <td class="tg-dewj"><ul>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/2c9d0b12-72bf-4314-a566-1132ea9ae3e3/cover">Making Inferences to Draw Conclusions in Reading and Viewing</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/9f79e11e-ec05-467b-8157-af9b743e6be0/cover">Understanding and Using Adverbials</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/ccb80fef-cdd1-4eac-8328-619ee73978a8/cover">Learner Strategies for Summarising (Part 1): Determining and Paraphrasing Main Ideas</a></li>
+</ul>
+</td>
   </tr>
   <tr>
     <td class="tg-rfng">Upper Secondary</td>
-    <td class="tg-rhd3">- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/4a9e8ec5-6b95-4169-8ac4-933dfe05d861/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Analysing Organisational Patterns to Identify Structure and Purpose of a Text when Reading and Viewing </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/ce6fe531-67e5-4435-97cd-a686e924cd2b/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Evaluating the Soundness and Objectivity of Information When Reading</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/c9fe9409-f4be-415e-a551-5383031f0ca2/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Learner Strategies for Summarising (Part 2): Using Organisational Patterns, and Creating Coherence and Cohesion</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/74f8afc1-3632-4f9f-8f82-a3b273f46736/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Asking Different Types of Questions to Generate and Gather Ideas for Writing </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/7013f33f-a8fe-4e44-a91c-10868854d15b/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Reviewing and Revising Written Drafts</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/c63f533b-0de8-4dc4-9947-cab7346227df/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Framing Questions using Modals to Clarify when Speaking</span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/05d9eb1f-02d0-465a-9267-41d15d29edba/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Making Predictions Before Listening and Viewing </span></a><br>- <a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d7a14e41-2ff4-4ba3-ad4c-bdb117c03bbf/cover" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Distinguishing between the Simple Past and the Past Perfect</span></a></td>
+    <td class="tg-rhd3"><ul>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/4a9e8ec5-6b95-4169-8ac4-933dfe05d861/cover">Analysing Organisational Patterns to Identify Structure and Purpose of a Text when Reading and Viewing</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/ce6fe531-67e5-4435-97cd-a686e924cd2b/cover">Evaluating the Soundness and Objectivity of Information When Reading</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/c9fe9409-f4be-415e-a551-5383031f0ca2/cover">Learner Strategies for Summarising (Part 2): Using Organisational Patterns, and Creating Coherence and Cohesion</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/74f8afc1-3632-4f9f-8f82-a3b273f46736/cover">Asking Different Types of Questions to Generate and Gather Ideas for Writing</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/7013f33f-a8fe-4e44-a91c-10868854d15b/cover">Reviewing and Revising Written Drafts</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/c63f533b-0de8-4dc4-9947-cab7346227df/cover">Framing Questions using Modals to Clarify when Speaking</a></li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/05d9eb1f-02d0-465a-9267-41d15d29edba/cover">Making Predictions Before Listening and Viewing</a>&nbsp;</li>
+<li><a href="http://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/d7a14e41-2ff4-4ba3-ad4c-bdb117c03bbf/cover">Distinguishing between the Simple Past and the Past Perfect</a></li>
+</ul>
+</td>
   </tr>
 </tbody>
 </table>
