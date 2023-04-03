@@ -37,7 +37,13 @@ description: ""
     <input id="accordion103" type="checkbox">
     <label for="accordion1"><h4>1C Writing for Sec EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>Understanding Inquiry as Stance: The Journey of a Teacher of Writing</strong></p>
+<p><em>Ms Sumangalam Haridas, Tampines Secondary School</em><br><em>Ms Shen Simin Nicole, Tampines Secondary School</em><br><em>Mdm Shalini Damodaran, ELIS</em></p>
+<p>Download slides here -&nbsp;<a href="/files/1c-writing-(sec)-tampines-sec.pdf">1C-Writing (Sec)-Tampines Sec(.pdf, 986.04 KB)</a></p>
+<p><strong>Erasing Blind-spots and Providing Action-based Corrective Advice in the Marking of Exposition Essays</strong></p>
+<p><em>Miss Luisa Ten Mei Fong, Anglican High School</em></p>
+<p><em>Miss Yan Xiuru, Anglican High School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/1c-writing-(sec)-anglican-high.pdf">1C-Writing (Sec)-Anglican High(.pdf, 759.64 KB)</a></p>
     </div>
 	</li>  
 	<li>
@@ -155,18 +161,3 @@ OOO
 	</li>  
 </ul>
 
-**Understanding Inquiry as Stance: The Journey of a Teacher of Writing**
-
-_Ms Sumangalam Haridas, Tampines Secondary School_  
-_Ms Shen Simin Nicole, Tampines Secondary School_  
-_Mdm Shalini Damodaran, ELIS_
-
-Download slides here -&nbsp;[1C-Writing (Sec)-Tampines Sec(.pdf, 986.04 KB)](/files/1c-writing-(sec)-tampines-sec.pdf)
-
-**Erasing Blind-spots and Providing Action-based Corrective Advice in the Marking of Exposition Essays**
-
-_Miss Luisa Ten Mei Fong, Anglican High School_
-
-_Miss Yan Xiuru, Anglican High School_
-
-Download slides here -&nbsp;[1C-Writing (Sec)-Anglican High(.pdf, 759.64 KB)](/files/1c-writing-(sec)-anglican-high.pdf)
