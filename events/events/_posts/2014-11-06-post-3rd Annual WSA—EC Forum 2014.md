@@ -41,27 +41,27 @@ Click on the links below to download the slides made available by presenters fro
   <tr>
     <td class="tg-rfng">1.1b:</td>
     <td class="tg-rfng">Nan Hua High's Journey into Disciplinary Literacy: The First Forays</td>
-    <td class="tg-rhd3"><a href="/files/1-1b-nan-hua-high-school's-journey-in-dl_-the-first-forays.pdf"><span style="color:#CA2126;background-color:transparent">1.1b Nan Hua High School #39 Journey in DL_ The First Forays(.pdf, 2.69 MB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-1b-nan-hua-high-school's-journey-in-dl_-the-first-forays.pdf"><span style="color:#CA2126;background-color:transparent">1.1b Nan Hua High School #39 Journey in DL_ <br>The First Forays(.pdf, 2.69 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">1.1c:</td>
     <td class="tg-ag2m">WSA-EC innovations @ Sembawang Secondary School</td>
-    <td class="tg-ag2m">Download 1: History<br><a href="/files/1-1c-wsa-ec-innovations-@-sembawang-sec---history.pdf"><span style="color:#CA2126;background-color:transparent">1.1c WSA-EC Innovations @ Sembawang Sec - History(.pdf, 146.05 KB)</span></a><br>Download 2: Science<br><a href="/files/1-1c-wsa-ec-innovations-@-sembawang-sec---science.pdf"><span style="color:#CA2126;background-color:transparent">1.1c WSA-EC Innovations @ Sembawang Sec - Science(.pdf, 712.66 KB)</span></a><br> </td>
+    <td class="tg-ag2m">Download 1: History<br><a href="/files/1-1c-wsa-ec-innovations-@-sembawang-sec---history.pdf"><span style="color:#CA2126;background-color:transparent">1.1c WSA-EC Innovations @ Sembawang Sec - <br>History(.pdf, 146.05 KB)</span></a><br>Download 2: Science<br><a href="/files/1-1c-wsa-ec-innovations-@-sembawang-sec---science.pdf"><span style="color:#CA2126;background-color:transparent">1.1c WSA-EC Innovations @ Sembawang Sec - <br>Science(.pdf, 712.66 KB)</span></a><br> </td>
   </tr>
   <tr>
     <td class="tg-rfng">1.2a:</td>
     <td class="tg-rfng">WSA-EC innovations @ Paya Lebar Methodist Girls' School (Secondary)</td>
-    <td class="tg-rhd3"><a href="/files/1-2a-wsa-ec-innovations-at-plmgss.pdf"><span style="color:#CA2126;background-color:transparent">1.2a WSA-EC innovations at PLMGSS(.pdf, 540.78 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-2a-wsa-ec-innovations-at-plmgss.pdf"><span style="color:#CA2126;background-color:transparent">1.2a WSA-EC innovations at PLMGSS<br>(.pdf, 540.78 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">1.2b: </td>
     <td class="tg-ag2m">WSA-EC innovations @ Pasir Ris Crest Secondary School</td>
-    <td class="tg-dewj"><a href="/files/1-2b-wsa-ec-innovations-at-pasir-ris-crest-secondary.pdf"><span style="color:#CA2126;background-color:transparent">1.2b WSA-EC innovations at Pasir Ris Crest Secondary(.pdf, 4.16 MB)</span></a></td>
+    <td class="tg-dewj"><a href="/files/1-2b-wsa-ec-innovations-at-pasir-ris-crest-secondary.pdf"><span style="color:#CA2126;background-color:transparent">1.2b WSA-EC innovations at Pasir Ris Crest <br>Secondary(.pdf, 4.16 MB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-rfng">1.3a:</td>
     <td class="tg-rfng">Structuring Reasoning Process in a Science Explanation through the Use of Multiple Representations (Northbrooks Secondary School and NIE)</td>
-    <td class="tg-rhd3"><a href="/files/1-3a-reasoning-process-in-a-science-explanation-through-the-use-of-multiple-representations.pdf"><span style="color:#CA2126;background-color:transparent">1.3a Structuring Reasoning Process in a Science Explanation through the Use of Multiple Representations(.pdf, 759.35 KB)</span></a></td>
+    <td class="tg-rhd3"><a href="/files/1-3a-reasoning-process-in-a-science-explanation-through-the-use-of-multiple-representations.pdf"><span style="color:#CA2126;background-color:transparent">1.3a Structuring Reasoning Process in a Science <br>Explanation through the Use of Multiple Representations(.pdf, 759.35 KB)</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">1.4a:</td>
