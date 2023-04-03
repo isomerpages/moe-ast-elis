@@ -91,7 +91,44 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2023.png" style="width:95%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-he1f{background-color:#f5c05e;color:#212529;text-align:center;vertical-align:middle}
+.tg .tg-ye8s{background-color:#f5c05e;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-ylnx{background-color:#f5c05e;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-xpq4{background-color:#f5c05e;color:#212529;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table style="border: 1px solid white" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid white" class="tg-xpq4">Mode of Learning</th>
+    <th class="tg-ye8s"><img style="width:60px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Proficient)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Accomplished)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-xpq4">SFEd IBL<br>(Leading)<br><img style="width:60px" alt="Picture8" src="/images/picture8.png"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid white" class="tg-ylnx"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period</td>
+    <td style="border: 1px solid white" class="tg-he1f">3 hours</td>
+    <td style="border: 1px solid white" class="tg-he1f">Fri, 17 Feb – Fri, 3 Mar</td>
+    <td style="border: 1px solid white" class="tg-he1f">Wed, 22 Mar – Wed, 5 Apr</td>
+    <td style="border: 1px solid white" class="tg-he1f">Fri, 24 Mar – Mon, 10 Apr</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white" class="tg-ylnx"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session</td>
+    <td style="border: 1px solid white" class="tg-he1f">3 hours</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 9 Mar (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-he1f">Wed, 12 Apr (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-he1f">Fri, 14 Apr (P.M.)</td>
+  </tr>
+</tbody>
+</table>
 		 
 ### Target Participants
 
