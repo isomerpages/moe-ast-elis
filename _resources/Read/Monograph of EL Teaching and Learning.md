@@ -9,4 +9,4 @@ third_nav_title: Read
 
 Click&nbsp;[here](https://academyofsingaporeteachers.moe.edu.sg/elis_monograph/ELISMonograph/mobile/index.html#p=1)&nbsp;to view.
 
-<img style="width:40%" src="/images/qr.jpeg">
+<a href="https://academyofsingaporeteachers.moe.edu.sg/elis_monograph/ELISMonograph/mobile/index.html#p=1"><img style="width:40%" src="/images/Monograph%20of%20EL%20Teaching%20and%20Learning.jpg"></a>
