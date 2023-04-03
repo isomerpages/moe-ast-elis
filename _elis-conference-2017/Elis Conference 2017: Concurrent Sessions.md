@@ -139,12 +139,20 @@ description: ""
     <input id="accordion111" type="checkbox">
     <label for="accordion1"><h4>2C ICT for Pri &amp; Sec EL teachers</h4></label>
     <div>
-OOOO
+<p><strong>Integrating the Use of Personal Learning Devices with the Teaching of Speaking and Writing</strong>&nbsp;  </p>
+<p><em>Mdm Sarahlyn Cheng Yanling, Canberra Primary School</em><br><em>Mdm Kuah Hui Yeng, Canberra Primary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2c-ict-canberra-pri.pdf">2C-ICT-Canberra Pri(.pdf, 841.91 KB)</a></p>
+<p><strong>Engaging Learners, Enabling and Enhancing Language-learning in the Classroom</strong>  </p>
+<p><em>Mrs Serene Ng, St Joseph’s Institution Junior</em><br><em>Mrs Chriel Chua, St Joseph’s Institution Junior</em><br><em>Ms Grace Lim, St Joseph’s Institution Junior</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2c-ict-st-joseph's-institution-junior.pdf">2C-ICT-St Joseph' Institution Junior(.pdf, 455.29 KB)</a></p>
+<p><strong>Enhancing Self-Directed and Collaborative Learning through the Use of 1-to-1 Computing</strong>  </p>
+<p><em>Miss Nurkhalisah Binte Kassim, Ngee Ann Secondary School</em><br><em>Miss Elizabeth Eng Yan Ling, Ngee Ann Secondary School</em></p>
+<p>Download slides here -&nbsp;<a href="/files/2c-ict-ngee-ann-sec.pdf">2C-ICT-Ngee Ann Sec(.pdf, 1.21 MB)</a></p>
     </div>
 	</li>  
 	<li>
     <input id="accordion112" type="checkbox">
-    <label for="accordion1"><h4>NOOO</h4></label>
+    <label for="accordion1"><h4>2D Reading for Pri EL teachers</h4></label>
     <div>
 OOOO
     </div>
@@ -172,27 +180,24 @@ OOOO
 	</li>  
 </ul>
 
-**Integrating the Use of Personal Learning Devices with the Teaching of Speaking and Writing**&nbsp;  
+**Instructional Practices of Teachers who Carry Out Explicit Comprehension Instructions in the Primary School Classroom**  
   
-_Mdm Sarahlyn Cheng Yanling, Canberra Primary School_  
-_Mdm Kuah Hui Yeng, Canberra Primary School_
+_Mdm Foo En Ting, Grace, North Vista Primary School_  
+_Miss Wang Kaifen, North Vista Primary School_  
+_Miss Chong Yuan Ping, North Vista Primary School_  
+_Mdm Rose Iliyana Mohamad Said, North Vista Primary School_
 
-Download slides here -&nbsp;[2C-ICT-Canberra Pri(.pdf, 841.91 KB)](/files/2c-ict-canberra-pri.pdf)
+Download slides here -&nbsp;[2D-Reading (Pri)-North Vista Pri(.pdf, 590.74 KB)](/files/2d-reading-(pri)-north-vista-pri.pdf)
 
-**Engaging Learners, Enabling and Enhancing Language-learning in the Classroom**  
+**Making Sense of Text: Enhancing Upper Primary Students’ Inference Skills in Reading**&nbsp;  
   
-_Mrs Serene Ng, St Joseph’s Institution Junior_  
-_Mrs Chriel Chua, St Joseph’s Institution Junior_  
-_Ms Grace Lim, St Joseph’s Institution Junior_
+_Mr Leslie Lai Kuan Hoe, Innova Primary School_  
+_Ms Chan Siew Li Doreen, Woodlands Primary School_  
+_Mrs Shanti Marion Prakash, Tao Nan School_  
+_Mdm Wong Bing Sum, Radin Mas Primary School_
 
-Download slides here -&nbsp;[2C-ICT-St Joseph' Institution Junior(.pdf, 455.29 KB)](/files/2c-ict-st-joseph's-institution-junior.pdf)
+Download slides here -&nbsp;[2D-Reading (Pri)-Innova\_Woodlands\_Tao Nan\_Radin Mas(.pdf, 345.21 KB)](/files/2d-reading-(pri)-innova_woodlands_tao-nan_radin-mas.pdf)
 
-**Enhancing Self-Directed and Collaborative Learning through the Use of 1-to-1 Computing**  
-  
-_Miss Nurkhalisah Binte Kassim, Ngee Ann Secondary School_  
-_Miss Elizabeth Eng Yan Ling, Ngee Ann Secondary School_
-
-Download slides here -&nbsp;[2C-ICT-Ngee Ann Sec(.pdf, 1.21 MB)](/files/2c-ict-ngee-ann-sec.pdf)
 
 ### EC CHAMPIONS
 
