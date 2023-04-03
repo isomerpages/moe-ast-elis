@@ -26,9 +26,12 @@ By the end of this course, you will be able to:
 EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;**EL-000093/01.**  
+
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000093](https://www.opal2.moe.edu.sg/app/learner/detail/course/ee58beb0-6bc4-45af-b71b-eb6b335036ac)   
 Closing date for registration: Tue, 4 Apr
 
-### For enquiries, please contact:
-Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salwah_badiuzzaman@moe.gov.sg.
-<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg.</a>
+<img align="left" style="width:7%" src="/images/picture17.png"><br>
+
+##### For enquiries, please contact:
+Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at
+<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg</a>
