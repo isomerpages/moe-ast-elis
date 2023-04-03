@@ -59,8 +59,8 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
 <table class="tg">
 <thead>
   <tr>
-    <td class="tg-k35i">1</td>
-    <td class="tg-03jt">Guidance in the selection of the learning focus for your department;</td>
+    <td style="text-align:center;" class="tg-k35i">1</td>
+    <td style="text-align:center;" class="tg-03jt">Guidance in the selection of the learning focus for your department;</td>
   </tr>
 </thead>
 </table>
