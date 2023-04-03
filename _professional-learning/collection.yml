@@ -2,6 +2,7 @@ collections:
   professional-learning:
     output: true
     order:
+      - Professional Learning.md
       - Learning Opportunities/.keep
       - Learning Opportunities/Professional Learning Opportunities.md
       - Learning Opportunities/SkillsFuture for Educators (SFEd).md
@@ -12,4 +13,3 @@ collections:
       - Learning Opportunities/Courses on Item Setting.md
       - Learning Opportunities/Communicating Effectively in Teaching and
         Learning.md
-      - Professional Learning.md
