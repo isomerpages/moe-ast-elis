@@ -25,11 +25,12 @@ third_nav_title: Read
 
 ### Issue 2, 2017
 
-<p><a href="/files/elis-sl-inquiry-digest-issue-3-2018_final.pdf">
+<p><a href="https://go.gov.sg/subject-literacy-issue-2-2017">
 <img src="/images/issue%202.png" alt="Issue 2" style="width:70%"></a></p>
 
 
 ### Issue 1, 2016
 
-<p><a href="/files/elis-sl-inquiry-digest-issue-3-2018_final.pdf">
+<p><a href="https://go.gov.sg/subject-literacy-issue-1-2016">
 <img src="/images/issue%201.png" alt="Issue 1" style="width:70%"></a></p>
+
