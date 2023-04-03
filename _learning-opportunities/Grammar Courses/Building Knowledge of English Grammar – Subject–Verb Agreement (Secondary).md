@@ -18,7 +18,40 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%2019.png" style="width:70%">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-ecbr{background-color:#f9d89a;color:#212529;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-5wiv{background-color:#f9d89a;color:#212529;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-5p3q{background-color:#f9d89a;color:#212529;text-align:center;vertical-align:top}
+.tg .tg-alvu{background-color:#f9d89a;color:#212529;text-align:center;vertical-align:middle}
+</style>
+<table style="border: 1px solid white" class="tg">
+<thead>
+  <tr>
+    <th style="border: 1px solid white" class="tg-ecbr">Mode of Learning</th>
+    <th style="border: 1px solid white" class="tg-5wiv"><img style="width:50px" alt="Picture7" src="/images/picture7.png"></th>
+    <th style="border: 1px solid white" class="tg-5wiv"><img style="width:50px" alt="Picture8" src="/images/picture8.png"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
+    <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
+    <td style="border: 1px solid white" class="tg-alvu">Tue, 4 Jul – Tue, 18 Jul
+</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
+    <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
+    <td style="border: 1px solid white" class="tg-alvu">Tue, 25 Jul (P.M.)
+</td>
+  </tr>
+</tbody>
+</table>
 		 
 ### Target Participants
 EL Key Personnel, Teacher Leaders and Teachers
