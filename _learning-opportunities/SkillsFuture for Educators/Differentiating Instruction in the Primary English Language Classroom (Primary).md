@@ -58,6 +58,8 @@ By the end of this course, you will be able to:
 
 *   demonstrate adaptiveness in differentiating content, process, product and learning environment in the enactment of lessons to enable students to maximise their learning in the areas of language learning.
 
+---
+
 <b><font color="#D35E71">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
 
 Select this course at the Leading Level of Practice if you:
@@ -92,7 +94,10 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 <img src="/images/registration%203.png" style="width:70%">
 
-### For enquiries, please contact:
+
+<img style="width:15%" src="/images/picture13.png">
+
+##### For enquiries, please contact:
 
 Ms Selene Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
 OR  
