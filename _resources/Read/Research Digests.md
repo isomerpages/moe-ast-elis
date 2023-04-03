@@ -8,7 +8,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="000">1. Assessment that impacts hearing</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="#C96D6B">1. Assessment that impacts hearing</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="000">2.Talk for learning across the curriculum : Exploring its relationship to formative assessment</font></b></a></p>
 
@@ -17,7 +17,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-5-issue-1_r.pdf"><b><font color="000">1. Students from diverse language backgrounds</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-5-issue-1_r.pdf"><b><font color="#C96D6B">1. Students from diverse language backgrounds</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-5-issue-2.pdf"><b><font color="000">2. Differentiating Teaching and Learning: The Benefits and the Challenges</font></b></a></p>
 
@@ -26,7 +26,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-4-issue1.pdf"><b><font color="000">1. The Measures of Quality Teaching and Quality Teachers</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-4-issue1.pdf"><b><font color="#C96D6B">1. The Measures of Quality Teaching and Quality Teachers</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-4-issue-2.pdf"><b><font color="000">2. Developing the Qualities of a Good English Language Teacher</font></b></a></p>
 
@@ -40,7 +40,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-3-issue-1.pdf"><b><font color="000">1. Towards a Future-oriented English Language Education</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-3-issue-1.pdf"><b><font color="#C96D6B">1. Towards a Future-oriented English Language Education</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-3-issue-2.pdf"><b><font color="000">2. Glocalization : A Global Language of Local Importance</font></b></a></p>
 
@@ -53,7 +53,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-2-issue-1.pdf"><b><font color="000">1. Student Motivation and English Language Learning in Schools</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-2-issue-1.pdf"><b><font color="#C96D6B">1. Student Motivation and English Language Learning in Schools</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-2-issue-2.pdf"><b><font color="000">2. Influence of In-school and Out-of-school factors on Language Development</font></b></a></p>
 
@@ -66,7 +66,7 @@ third_nav_title: Read
 
 <img src="/images/res-digest_s-removebg-preview.png" style="width:60%">
 		 
-<p><a href="/files/elis-research-digest-vol-1-issue-1.pdf"><b><font color="000">1. Disciplinary Literacy :  A study of Literature</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-1-issue-1.pdf"><b><font color="#C96D6B">1. Disciplinary Literacy :  A study of Literature</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-1-issue-2.pdf"><b><font color="000">2. Towards Disciplinary Reading</font></b></a></p>
 
