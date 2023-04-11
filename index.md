@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: English Language Insititute of Singapore
+      title: English Language Institute of Singapore
       background: /images/hero-banner.png
       key_highlights:
         - title: Read @ Academy
