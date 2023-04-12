@@ -1,15 +1,32 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: About Us
+    url: /elis/about-us/
+    sublinks:
+      - title: About Us
+        url: /elis/about-us/
+      - title: Vision and Mission
+        url: /elis/about-us/vision-mission/
+      - title: Team Members
+        url: /elis/about-us/team-members/management-team/
+      - title: Contact Us
+        url: /elis/about-us/contact-us
+  - title: Professional Learning
+    collection: professional-learning
+  - title: Learning Communities
+    collection: learning-communities
+  - title: Resources
+    url: /elis/resources/watch/
+    sublinks:
+      - title: Watch
+        url: /elis/resources/watch/
+      - title: Listen
+        url: /elis/resources/listen/
+      - title: Read
+        url: /elis/resources/read/
+      - title: Teach
+        url: /elis/resources/teach/
+      - title: Play
+        url: /elis/resources/play/
+  - title: Events
+    resource_room: true

@@ -1,0 +1,97 @@
+collections:
+  podcast-series:
+    output: true
+    order:
+      - Teaching Learning & Assessment/.keep
+      - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
+        Learning & Assessment.md
+      - Teaching Learning & Assessment/Inquiry Through Dialogue in English
+        Language Teaching and Learning.md
+      - Teaching Learning & Assessment/Inquiry Through Dialogue – Building a
+        Culture of Learning Through Talk in English Language Classroom.md
+      - Teaching Learning & Assessment/Inquiry Through Dialogue – Using
+        Questioning Techniques.md
+      - Teaching Learning & Assessment/Inquiry Through Dialogue – Motivating
+        Students to Write.md
+      - Teaching Learning & Assessment/Inquiry Through Dialogue – Facilitating
+        Productive Interaction in Groups.md
+      - Teaching Learning & Assessment/Metacognition in EL Teaching and
+        Learning.md
+      - Teaching Learning & Assessment/Metacognition in Teaching Oracy.md
+      - Teaching Learning & Assessment/Metacognition in Teaching Grammar.md
+      - Teaching Learning & Assessment/Metacognition in Teaching Reading and
+        Viewing.md
+      - Teaching Learning & Assessment/Metacognition in Teaching Writing and
+        Representing.md
+      - Teaching Learning & Assessment/The Teaching and Learning of Critical
+        Reading.md
+      - Teaching Learning & Assessment/Multiliteracies in EL Teaching and
+        Learning.md
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Oracy.md
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Reading and
+        Viewing.md
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Writing and
+        Representing.md
+      - Teaching Learning & Assessment/Multiliteracies in Teaching Grammar and
+        Vocabulary.md
+      - Classroom Inquiry/.keep
+      - Classroom Inquiry/Podcast Series on Classroom Inquiry.md
+      - "Classroom Inquiry/Classroom Inquiry: Developing Motivation to Write
+        Through Journaling (Part 1).md"
+      - "Classroom Inquiry/Classroom Inquiry: Developing Motivation to Write
+        Through Journaling (Part 2).md"
+      - "Classroom Inquiry/Classroom Inquiry: Developing Motivation to Write
+        Through Journaling (Part 3).md"
+      - "Classroom Inquiry/Classroom Inquiry: Developing motivation to write
+        through journaling (Part 4).md"
+      - "Classroom Inquiry/Classroom Inquiry — Inquiring into Reading
+        Strategies: Our Learning Experience.md"
+      - Classroom Inquiry/Exploring Fluency in Oral Communication (Part 1).md
+      - Classroom Inquiry/Exploring Fluency in Oral Communication (Part 2).md
+      - Classroom Inquiry/Using Annotation to Develop Inferencing Skills for
+        Critical Reading (Part 1).md
+      - Classroom Inquiry/Using Annotation to Develop Inferencing Skills for
+        Critical Reading (Part 2).md
+      - Research Summaries/.keep
+      - Research Summaries/Podcast Series on Research Summaries.md
+      - Research Summaries/Research Summary ― Children’s Talk and the
+        Development of Reasoning in the Classroom.md
+      - "Research Summaries/Academic Conversations: Classroom Talk that Fosters
+        Critical Thinking and Content Understandings.md"
+      - Research Summaries/Research Summary ― Singaporean Students’ Awareness of
+        Listening and Speaking Strategies.md
+      - Research Summaries/Research Summary ― The Impact of Classroom Goal
+        Structures on Students’ Learning of English.md
+      - Research Summaries/Research Summary ― The Role of Vocabulary in Reading
+        Comprehension.md
+      - Singapore Writing Institute/.keep
+      - Singapore Writing Institute/Podcast Series on The Singapore Writing
+        Institute.md
+      - "Singapore Writing Institute/Teacher as Writer: Why Writing with your
+        Students is Important.md"
+      - "Singapore Writing Institute/Teacher as Inquirer: Nurturing Voice in
+        Students' Writing.md"
+      - "Singapore Writing Institute/Teacher of Writers: How to Move Our Student
+        Writers Forward.md"
+      - Grammar Matters/.keep
+      - Grammar Matters/Podcasts on Grammar Matters.md
+      - "Grammar Matters/Singular and Plural: Countable and Uncountable Nouns –
+        At the Supermarket.md"
+      - Grammar Matters/Definite and Indefinite Articles – A Letter of
+        Complaint.md
+      - Grammar Matters/Collective Nouns – At the Airport.md
+      - Grammar Matters/Adjectives – The Advertisement.md
+      - Grammar Matters/Pronouns – The Accident.md
+      - Grammar Matters/Transitive and Intransitive Verbs – The Cruise.md
+      - English Language Teaching/.keep
+      - English Language Teaching/Podcasts on Developments in English Language
+        Teaching and Learning in Singapore.md
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore (Episode 1).md
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore (Episode 2).md
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore (Episode 3).md
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore (Episode 4).md
+      - At the Heart of GP Teaching, Learning and Assessment.md

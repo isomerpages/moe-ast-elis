@@ -1,0 +1,38 @@
+collections:
+  resources:
+    output: true
+    order:
+      - Watch/.keep
+      - Watch/Videos on Teaching & Learning.md
+      - "Watch/Supporting Inquiry—Based Learning in the English Language
+        Classroom: What, Why and How.md"
+      - Watch/Differentiated Instruction.md
+      - "Watch/Differentiating Instruction: Planning, Enacting, Reviewing.md"
+      - Watch/Selecting and Designing English Language Lessons for
+        Differentiated Instruction.md
+      - Watch/How does Differentiated Instruction Work in a Large English
+        Language Class?.md
+      - Watch/Differentiating by Process through Flexible Grouping.md
+      - Watch/Differentiating Instruction in Response to Student Readiness for a
+        Literature Lesson.md
+      - Watch/CLLIPS and ACoLADE.md
+      - Watch/Text Selection and Adaptation.md
+      - Watch/Quality Questions & Question Sequences.md
+      - Watch/Collaborative Professional Learning.md
+      - Watch/Extended Support for EL Teachers.md
+      - "Watch/Inquiry into Classroom Practice: Lesson Study.md"
+      - "Watch/Inquiry into Classroom Practice: Action Research.md"
+      - Watch/What is Co—Teaching?.md
+      - Watch/What is a Special Interest Group?.md
+      - Listen.md
+      - Read/.keep
+      - Read/Read.md
+      - Read/ELIS e–Digest.md
+      - Read/Classroom Inquiry Digests.md
+      - Read/Research Digests.md
+      - Read/ELIS Research Fund Reports.md
+      - Read/Research Summaries.md
+      - Read/Subject Literacy Inquiry Digests.md
+      - Read/Monograph of EL Teaching and Learning.md
+      - Teach.md
+      - Play.md

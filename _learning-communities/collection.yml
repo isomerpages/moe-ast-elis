@@ -1,0 +1,14 @@
+collections:
+  learning-communities:
+    output: true
+    order:
+      - Learning Communities.md
+      - Singapore Writing Institute/.keep
+      - Singapore Writing Institute/The Singapore Writing Institute (SWI).md
+      - Singapore Writing Institute/SWI Experience.md
+      - Singapore Writing Institute/SWI Alumni.md
+      - Singapore Writing Institute/SWI Continuity Activities.md
+      - Singapore Writing Institute/SWI History.md
+      - Singapore Writing Institute/SWI Affiliation.md
+      - Special Interest Group (SIG).md
+      - Teacher Work Attachment.md

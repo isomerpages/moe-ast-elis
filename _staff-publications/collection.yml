@@ -1,0 +1,9 @@
+collections:
+  staff-publications:
+    output: true
+    order:
+      - Tay May Yin.md
+      - Joy Lee.md
+      - Caroline Ho.md
+      - Jeyalaxmy Ayaduray.md
+      - Rachel Goh.md
