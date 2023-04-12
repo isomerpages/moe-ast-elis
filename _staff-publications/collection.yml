@@ -1,5 +1,5 @@
 collections:
-  staff-publicationss:
+  staff-publications:
     output: true
     order:
       - Tay May Yin.md
