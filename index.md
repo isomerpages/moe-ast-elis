@@ -74,7 +74,7 @@ sections:
       title: About the English Language Institute of Singapore
       description: Click here to read more about us
       button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/about-us/
+      url: /elis/about-us/
       image: /images/ELIS.png
       alt: ELIS
 ---
