@@ -24,24 +24,24 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 </a></p><center><a href="/elis/resources/listen/classroom-inquiry-podcasts/"><b>Classroom Inquiry</b></a></center><a href="/elis/resources/listen/classroom-inquiry-podcasts/">
 </a><p></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/research-summaries-podcasts/">
+<p><a href="/elis/resources/listen/research-summaries-podcasts/">
 <img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/research-summaries-podcasts/">
+</a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
 </a><p></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
+<p><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
 <img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/"><b>Singapore Writing Institute</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
+</a></p><center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/"><b>Singapore Writing Institute</b></a></center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
 </a><p></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/">
+<p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
 <img src="/images/final-elis-series-podcast-artwork-2021-1.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/"><b>Grammar Matters</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/">
+</a></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/"><b>Grammar Matters</b></a></center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
 </a><p></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-developments-in-english-language/">
+<p><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 <img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-developments-in-english-language/"><b>Developments in English Language Teaching and Learning in Singapore</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-developments-in-english-language/">
+</a></p><center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/"><b>Developments in English Language Teaching and Learning in Singapore</b></a></center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 </a><p></p>
 
 ### Special Highlights
