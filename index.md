@@ -33,7 +33,7 @@ sections:
       description: How can we support student learning by inquiring in the EL
         classroom?  Watch these videos to find out!
       button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/
+      url: /elis/resources/watch/
       image: /images/watch_banner.png
       alt: watch resources
   - infopic:
