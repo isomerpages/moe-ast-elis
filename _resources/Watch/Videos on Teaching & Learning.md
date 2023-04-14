@@ -48,17 +48,17 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 
 <p><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
 <img src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
 <img src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/">
+<p><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
 <img src="/images/quality-question_seq.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/">
+</a></p><center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
 </a>
 
 ### Videos on Support for Teachers
