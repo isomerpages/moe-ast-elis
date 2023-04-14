@@ -15,7 +15,7 @@ sections:
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
         - title: Useful Links
           description: ""
-          url: https://staging.d2dfevnwgxersp.amplifyapp.com/useful-links/
+          url: /useful-links/
         - title: OPAL 2.0
           description: ""
           url: https://www.opal2.moe.edu.sg/app/learner
