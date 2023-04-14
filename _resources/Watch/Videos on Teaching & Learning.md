@@ -90,9 +90,9 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 </a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 <img src="/images/cedric_sig.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 </a>
 
 ### Microlearning Units
