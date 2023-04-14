@@ -42,7 +42,7 @@ sections:
         learning and assessment of English Language, Literature and General
         Paper
       button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-e-digest-new/
+      url: /elis/resources/read/elis-e-digest-new/
       image: /images/elis-e-digest-social-media-poster-(issue-2)a.png
       alt: e-Digest
   - infopic:
