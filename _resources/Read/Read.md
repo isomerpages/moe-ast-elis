@@ -29,17 +29,17 @@ Deepen your understanding through our extensive library of e-publications on ped
 </a></p><center><a href="/elis/resources/read/elis-research-fund-reports/"><b>ELIS Research Fund Reports</b></a></center><a href="/elis/resources/read/elis-research-fund-reports/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/">
+<p><a href="/elis/resources/read/research-summaries/">
 <img src="/images/res-summaries-2_900.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/"><b>Research Summaries</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/research-summaries/">
+</a></p><center><a href="/elis/resources/read/research-summaries/"><b>Research Summaries</b></a></center><a href="/elis/resources/read/research-summaries/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/subject-literacy-inquiry-digests/">
+<p><a href="/elis/resources/read/subject-literacy-inquiry-digests/">
 <img src="/images/sl-digest_collection1.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/subject-literacy-inquiry-digests/"><b>Subject Literacy Inquiry Digests</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/subject-literacy-inquiry-digests/">
+</a></p><center><a href="/elis/resources/read/subject-literacy-inquiry-digests/"><b>Subject Literacy Inquiry Digests</b></a></center><a href="/elis/resources/read/subject-literacy-inquiry-digests/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/monograph-of-el-teaching-and-learning/">
+<p><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/">
 <img src="/images/monography.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/monograph-of-el-teaching-and-learning/"><b>Monograph of EL Teaching and Learning</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/monograph-of-el-teaching-and-learning/">
+</a></p><center><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/"><b>Monograph of EL Teaching and Learning</b></a></center><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/">
 </a>
