@@ -162,29 +162,28 @@ OR  <br>Ms Charmaine Tan (Assistant Director/Pedagogy) at <br>
     <input type="checkbox" id="accordion2">
     <label for="accordion2"><h4>Primary/Secondary</h4></label>
     <div>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/e-pedagogy-and-blended-learning/">E–Pedagogy and Blended Learning in English Language</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/teaching-extensive-reading-viewing/">Teaching Extensive Reading and Viewing</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/e-pedagogy-and-blended-learning/">E–Pedagogy and Blended Learning in English Language</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-extensive-reading-viewing/">Teaching Extensive Reading and Viewing</a></p>
     </div>
 	</li>  
 	<li>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h4>Primary</h4></label>
     <div>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/teaching-grammar/">Teaching Grammar (Primary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/teaching-oracy/">Teaching Oracy (Primary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing-vocabulary/">Teaching Reading, Viewing and Vocabulary (Primary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/">Teaching Writing and Representing (Primary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-grammar/">Teaching Grammar (Primary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-oracy/">Teaching Oracy (Primary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing-vocabulary/">Teaching Reading, Viewing and Vocabulary (Primary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/">Teaching Writing and Representing (Primary)</a></p>
     </div>
 	</li> 
 	<li>
     <input type="checkbox" id="accordion4">
     <label for="accordion4"><h4>Secondary</h4></label>
     <div>
-      <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/teaching-grammar/">Teaching Grammar (Secondary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/">Teaching Oracy (Secondary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/">Teaching Reading, Viewing and Vocabulary (Secondary)</a></p>
-			<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/secondary/teach-writing-representing/">Teaching Writing and Representing (Secondary)</a></p>
+      <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-grammar/">Teaching Grammar (Secondary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/">Teaching Oracy (Secondary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/">Teaching Reading, Viewing and Vocabulary (Secondary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teach-writing-representing/">Teaching Writing and Representing (Secondary)</a></p>
     </div>
 	</li>  
 </ul>
-
