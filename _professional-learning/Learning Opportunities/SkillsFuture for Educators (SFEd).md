@@ -11,8 +11,8 @@ The SFEd Differentiated Instruction courses enable English Language teachers to 
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h4>Primary</h4></label>
     <div>
-      <ul><li><p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/differentiating-instruction/">Differentiating Instruction in the Primary English Language Classroom</a></p></li>
-		<li><p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">Learning by Inquiring in the Primary English Language Classroom </a></p></li></ul>
+      <ul><li><p><a href="/elis/professional-learning/professional-learning-opportunities/primary/differentiating-instruction/">Differentiating Instruction in the Primary English Language Classroom</a></p></li>
+		<li><p><a href="/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">Learning by Inquiring in the Primary English Language Classroom </a></p></li></ul>
     </div>
 	</li>  
 	<li>
