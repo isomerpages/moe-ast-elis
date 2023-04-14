@@ -25,7 +25,7 @@ sections:
         opportunities offered to English Language, Literature and English-medium
         subject teachers.
       button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/professional-learning/professional-learning-opportunities/
+      url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
   - infopic:
