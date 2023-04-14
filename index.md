@@ -58,7 +58,7 @@ sections:
       title: ELIS Podcast
       description: Learn on-the-go by listening to our podcast episodes here
       button: Click here
-      url: https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/
+      url: /elis/resources/listen/
       image: /images/podcast.png
       alt: podcast
   - infopic:
