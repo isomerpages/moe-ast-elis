@@ -18,6 +18,11 @@ Our strategic thrusts support the achievement of ELIS’s vision and mission. Th
 *   Cultivate pedagogical expertise in the teaching, learning and use of the English language; and&nbsp;
 *   Develop expertise in research for teachers and ELIS staff
 
+<details>
+	<summary>Hello</summary>
+	This is a test on how accordion might work 
+</details>
+
 <style>
 h3 {
 	font-weight: bold !important;
