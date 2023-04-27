@@ -4,6 +4,17 @@ permalink: /elis/about-us/team-members/management-team/
 description: ""
 third_nav_title: Management Team
 ---
+|                                          |Name                                          |Designation|
+|----------------------------------|--------------------------------|------------|
+||Ms May Tan|Academy Principal|
+||Dr Tay May Yin| Principal Master Teacher|
+||Mr Cedric Leong| Principal Master Teacher|
+||Ms Komathi Govindasamy| Deputy Director, Pedagogy|
+||Dr Paul Grahame Doyle| Deputy Director, Research|
+||Dr Jeanne Ho Pau Yuen| Deputy Director, Special Projects|
+
+
+
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
 <img src="/images/maytan_2.gif" style="width:25%">
