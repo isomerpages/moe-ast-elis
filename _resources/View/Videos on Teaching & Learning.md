@@ -1,5 +1,5 @@
 ---
-title: Videos on Teaching &amp; Learning
+title: Videos on Teaching & Learning
 permalink: /elis/resources/watch/
 description: ""
 third_nav_title: View
@@ -194,7 +194,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
   <tr>
     <td class="tg-d1dx">20</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">21</td>
