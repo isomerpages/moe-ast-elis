@@ -20,6 +20,6 @@ Our strategic thrusts support the achievement of ELIS’s vision and mission. Th
 
 <style>
 h3 {
-	font-weight: bold;
+	font-weight: bold !important;
 	}
 </style>
