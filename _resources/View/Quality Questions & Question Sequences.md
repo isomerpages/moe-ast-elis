@@ -1,5 +1,5 @@
 ---
-title: Quality Questions &amp; Question Sequences
+title: Quality Questions & Question Sequences
 permalink: /elis/resources/watch/videos/quality-questions-question-sequences/
 description: ""
 third_nav_title: View
@@ -16,6 +16,6 @@ This is a series of two videos that are based on the following questions:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3pojCAccrJ8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-### Questions Sequences
+### Question Sequences
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cSk8Mwe1Ec0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
