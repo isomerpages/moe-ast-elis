@@ -23,7 +23,7 @@ sections:
       title: ELIS Professional Learning Opportunities 2023
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
-      button: Check out our e-Prospectus
+      button: Check out the ELIS prospectus
       url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
@@ -38,7 +38,7 @@ sections:
       alt: e-Digest
   - infopic:
       title: e-Pedagogy in the EL Classroom
-      description: In this microlearning unit, you will learn about the philosophy
+      description: In this microlearning unit, you will learn about the philosophy,
         principles and processes that you should be guided by in designing
         blended learning resource.
       button: Find out more
