@@ -62,18 +62,8 @@ sections:
       image: /images/podcast.png
       alt: podcast
   - infopic:
-      title: Inspiring Teacher of English Award 2023
-      subtitle: Nominate your english Teacher!
-      description: The Inspiring Teacher of English Award recognises teachers who have
-        been instrumental in igniting a passion for English
-      button: Find out more
-      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information.
-      image: /images/itea-2020-nominations_homepg.jpg
-      alt: Image alt text
-  - infopic:
       title: About the English Language Institute of Singapore
-      description: Click here to read more about us
-      button: Click here
+      button: Read more about us
       url: /elis/about-us/
       image: /images/ELIS.png
       alt: ELIS
