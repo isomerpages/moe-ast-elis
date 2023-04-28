@@ -20,7 +20,7 @@ sections:
           description: ""
           url: https://www.opal2.moe.edu.sg/app/learner
   - infopic:
-      title: ELIS Professional Learning Opportunities 2023
+      title: Professional Learning Opportunities 2023
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
       button: Check out the ELIS prospectus
