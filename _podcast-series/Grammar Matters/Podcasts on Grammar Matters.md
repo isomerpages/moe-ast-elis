@@ -4,40 +4,47 @@ permalink: /elis/resources/listen/podcast-series-on-grammar-matters/
 description: ""
 third_nav_title: Grammar Matters
 ---
-<img src="/images/final-elis-series-podcast-artwork-2021-1.png" 
-     style="width:50%">
+<img src="/images/final-elis-series-podcast-artwork-2021-1.png" style="width:50%">
 		 
 Listen to our Grammar Matters podcast series, which aims to create more awareness of areas of English language use in Singapore that differ from standard English.
 
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
 <img src="/images/gm-episode-1.png" style="width:30%">
-<center><b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"><b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
+</a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
 <img src="/images/27.png" style="width:30%">
-<center><b>Definite and Indefinite Articles – A Letter of Complaint</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><b>Definite and Indefinite Articles – A Letter of Complaint</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
+</a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only-6.png" style="width:30%">
-<center><b>Collective Nouns - At the Airport</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><b>Collective Nouns - At the Airport</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
+</a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only.png" style="width:30%">
-<center><b>Adjectives – The Advertisement</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><b>Adjectives – The Advertisement</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
+</a><p></p>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
 <img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only.png" style="width:30%">
-<center><b>Pronouns – The Accident</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/"><b>Pronouns – The Accident</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
+</a><p></p>
 
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
 <img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
-<center><b>Transitive and Intransitive Verbs - The Cruise
-</b></center>
-</a></p>
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b>Transitive and Intransitive Verbs - The Cruise
+</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
+	
+</a><p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"></a><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
+<img src="/images/cover%20art%20with%20titles%20and%20names%20(5).png" style="width:30%">
+
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"><b>Active and Stative Verbs – The Voicemail
+</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
+	
+	
+</a><p></p>
