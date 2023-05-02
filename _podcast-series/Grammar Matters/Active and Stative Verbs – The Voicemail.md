@@ -4,7 +4,7 @@ permalink: /podcast-series/grammar-matters/active-and-stative-verbs-the-voicemai
 description: ""
 third_nav_title: Grammar Matters
 ---
-![](/images/cover%20art%20with%20titles%20and%20names%20(5).png)
+<img src="/images/cover%20art%20with%20titles%20and%20names%20(5).png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/0sGHcbesLraIra3Q8hi2tx?si=sS20X0whRzy9vsRBxfrubw">Click here to listen to the podcast</a>
 
