@@ -2,20 +2,22 @@
 title: Research and Effective Communication Team
 permalink: /elis/about-us/team-members/research-team/
 description: ""
-third_nav_title: Research & Communication Team
+third_nav_title: Research &amp; Communication Team
 ---
+
+
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/">
 <img src="/images/paul_2016.jpg" style="width:25%">
 </a></p>
-	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, Research and Effective Communication</figcaption>
+	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, <br>Research and Effective Communication</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
 <img src="/images/elis-jeanne-ho.jpg" style="width:25%">
 </a></p>
-	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
+	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, <br>Special Projects</figcaption>
 </figure>
 
 <figure>

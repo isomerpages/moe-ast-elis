@@ -15,5 +15,11 @@ To lead educators in the teaching, learning and use of the English language in S
 
 Our strategic thrusts support the achievement of ELIS’s vision and mission. They are:
 
-*   Cultivate pedagogical expertise in the teaching, learning and use of the English language; and 
+*   Cultivate pedagogical expertise in the teaching, learning and use of the English language; and&nbsp;
 *   Develop expertise in research for teachers and ELIS staff
+
+<style>
+h3 {
+	font-weight: bold !important;
+	}
+</style>

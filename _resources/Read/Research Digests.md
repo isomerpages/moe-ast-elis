@@ -31,7 +31,7 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-4-issue-2.pdf"><b><font color="#6DB1C2">2. Developing the Qualities of a Good English Language Teacher</font></b></a></p>
 
 
-<p><a href="/files/elis-research-digest-vol-4-issue-3.pdf"><b><font color="#E9B964">3. Enhancing the Subject Literacy Competencies and Pedagogic Practices of English Subject Teachers</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-4-issue-3.pdf"><b><font color="#E9B964">3. Enhancing the Subject Literacy Competencies and Pedagogic Practices of English-Medium Subject Teachers</font></b></a></p>
 
 <p><a href="/files/elis-research-digest-vol-4-issue-4.pdf"><b><font color="#69A998">4. 21st Century Competencies - What are they and are we teaching them ?</font></b></a></p>
 

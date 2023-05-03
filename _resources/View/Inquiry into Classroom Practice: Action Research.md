@@ -2,7 +2,7 @@
 title: "Inquiry into Classroom Practice: Action Research"
 permalink: /elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/
 description: ""
-third_nav_title: Watch
+third_nav_title: View
 ---
 This video helps you better understand what is involved when inquiring into your classroom practice through Action Research. It highlights a CHIJ (Toa Payoh) teacher’s efforts to help students structure their thinking when talking about a picture. Questions for you to think about while viewing the video:
 
@@ -12,6 +12,4 @@ This video helps you better understand what is involved when inquiring into your
 
 ### Inquiry into Classroom Practice: Action Research
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/13UAu5p7mfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/13UAu5p7mfo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

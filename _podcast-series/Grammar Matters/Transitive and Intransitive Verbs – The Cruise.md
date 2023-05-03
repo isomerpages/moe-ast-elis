@@ -6,7 +6,7 @@ third_nav_title: Grammar Matters
 ---
 ![](/images/cover-art-with-titles-and-names-2.png)
 
-Click [here](https://open.spotify.com/episode/6bTPJTaSRem6GNQNjM0FcS?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1) to listen to the podcast on Spotify 
+[Click here to listen to the podcast](https://open.spotify.com/episode/6bTPJTaSRem6GNQNjM0FcS?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1) 
 
 In this episode, Dr Paul Doyle, Deputy Director, Research, talks about the use of transitive and intransitive verbs.
 

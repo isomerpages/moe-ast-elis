@@ -1,10 +1,8 @@
-logo: /images/logo.svg
+logo: /images/ELIS.png
 links:
   - title: About Us
     url: /elis/about-us/
     sublinks:
-      - title: About Us
-        url: /elis/about-us/
       - title: Vision and Mission
         url: /elis/about-us/vision-mission/
       - title: Team Members
@@ -18,7 +16,7 @@ links:
   - title: Resources
     url: /elis/resources/watch/
     sublinks:
-      - title: Watch
+      - title: View
         url: /elis/resources/watch/
       - title: Listen
         url: /elis/resources/listen/

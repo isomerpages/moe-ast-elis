@@ -1,8 +1,8 @@
 ---
-title: Videos on Teaching &amp; Learning
+title: Videos on Teaching & Learning
 permalink: /elis/resources/watch/
 description: ""
-third_nav_title: Watch
+third_nav_title: View
 ---
 <img src="/images/watch_banner.png" style="width:50%">
 			 
@@ -10,89 +10,89 @@ Watch these videos to understand and apply the principles, teaching processes an
   
 Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
+<p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
 <img src="/images/ibl-video-thumbnail.png" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
+</a></p><center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
 </a>
 
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/cllips-and-acolade/">
+<p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
 <img src="/images/cllips-and-acolades_b.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/cllips-and-acolade/"><b>CLLIPS and ACoLADE</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/cllips-and-acolade/">
+</a></p><center><a href="/elis/resources/watch/videos/cllips-and-acolade/"><b>CLLIPS and ACoLADE</b></a></center><a href="/elis/resources/watch/videos/cllips-and-acolade/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
 <img src="/images/text-selection-adaptation-thumb.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/"><b>Text Selection and Adaptation</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/"><b>Text Selection and Adaptation</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction/">
+<p><a href="/elis/resources/watch/videos/differentiated-instruction/">
 <img src="/images/differentiated-ins1b.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction/"><b>Differentiated Instruction</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction/"><b>Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
 <img src="/images/differentiating-instruction1s.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/"><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/"><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
+<p><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
 <img src="/images/selecting-and-designing-english-language-lessons-for-differentiated-instruction.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/"><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
+</a></p><center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/"><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
+<p><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
 <img src="/images/whatsapp-image-2021-03-25-at-18-59-5612a8567afe0b420db4c6eac237e21833.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/"><b>How does Differentiated Instruction Work in a Large English Language Class?</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/"><b>How does Differentiated Instruction Work in a Large English Language Class?</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
+<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
 <img src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
 <img src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/">
+<p><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
 <img src="/images/quality-question_seq.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/quality-questions-question-sequences/">
+</a></p><center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
 </a>
 
 ### Videos on Support for Teachers
 
 Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/collaborative-professional-learning/">
+<p><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
 <img src="/images/collab_prof_learning_o.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/collaborative-professional-learning/">
+</a></p><center><a href="/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
+<p><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
 <img src="/images/extended_suppkimbee.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/"><b>Extended Support for EL Teachers</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
+</a></p><center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/"><b>Extended Support for EL Teachers</b></a></center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
+<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
 <img src="/images/classroom_inq_m.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
+</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
 <img src="/images/inquiry-classroom.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
 <img src="/images/shalini_coteaching.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
 </a>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 <img src="/images/cedric_sig.jpg" style="width:30%">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 </a>
 
 ### Microlearning Units
@@ -194,7 +194,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
   <tr>
     <td class="tg-d1dx">20</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">21</td>
