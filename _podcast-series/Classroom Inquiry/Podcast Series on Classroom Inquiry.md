@@ -73,8 +73,8 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodca
 </b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part2/">
 </a><p></p>
 
-<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/classroom-inquiry-podcasts/inquiring-into-students-critical-reading-2/">
-<img style="width:40%" src="/images/288.png">
-</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/classroom-inquiry-podcasts/inquiring-into-students-critical-reading-2/"><b>Using Annotation to Develop Inferencing Skills for Critical Reading (Part 2)
-</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/classroom-inquiry-podcasts/inquiring-into-students-critical-reading-2/">
+<p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part3/">
+<img style="width:40%" src="/images/podcast%20ci7.png">
+</a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part3/"><b>Learning from Inquiry as a Zonal Networked Learning Community (NLC) (Part 3)
+</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part3/">
 </a><p></p>
