@@ -8,19 +8,31 @@ third_nav_title: Learning Opportunities
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.
 
-<p class="btn">Download the ELIS e-Prospectus 2023 here</p>
+<a class="btn" target="_blank" href="https://imagecolorpicker.com/en">
+ Download the ELIS e-Prospectus 2023 here
+</a> 
 
 <style>
 .btn {
-		background: #feb47e;
-		font-weight: bold;
-		text-decoration: underline;
-		border-radius: 10px;
-		font-size: 10px;
-		padding: 0px !important;
-		margin: 0px !important;
+    background-color: #feb47e;
+    border: none;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 8px;
+}
+.btn:hover,
+.btn:focus,
+.btn:focus-within,
+.btn:active{
+  color: black;
 }
 </style>
+
 
 <p><a href="">
 <img src="/images/e-prospectus.png" style="width:40%">
