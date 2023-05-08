@@ -10,15 +10,18 @@ sections:
       title: English Language Institute of Singapore
       background: /images/hero-banner.png
       key_highlights:
-        - title: Read @ Academy
+        - title: About Us
           description: ""
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
-        - title: Useful Links
+        - title: Professional learning
           description: ""
           url: /useful-links/
-        - title: OPAL 2.0
+        - title: learning communities
           description: ""
           url: https://www.opal2.moe.edu.sg/app/learner
+        - title: Resources
+          description: ""
+          url: ""
   - infopic:
       title: Professional Learning Opportunities 2023
       description: Interested in professional learning opportunities offered to
