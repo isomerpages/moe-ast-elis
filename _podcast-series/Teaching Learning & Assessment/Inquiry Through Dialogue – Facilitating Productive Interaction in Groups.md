@@ -4,7 +4,7 @@ permalink: /elis/resources/listen/student-groupings-for-productive-interaction/
 description: ""
 third_nav_title: Teaching Learning & Assessment
 ---
-<img src="/images/4dd0161613d254859a5821aced6fb0598.jpg"  style="width:50%">
+<img src="/images/4dd0161613d254859a5821aced6fb0598.jpg" style="width:50%">
 
 <a href="https://open.spotify.com/episode/5ZmBjun20Wme5tU95NSdN9">Click here to listen to the podcast</a>
 
@@ -43,8 +43,6 @@ In this episode, Master Teacher Joy Lee talks about facilitating productive inte
     <td class="tg-ag2m">Ogle, D. (1986) K-W-L: A teaching model that develops active reading of expository text. The Reading Teacher, 39(6), 564-570.</td>
   </tr>
   <tr>
-    <td class="tg-rfng">Thinking Routines<br></td>
-    <td class="tg-rfng">Thinking Routines Matrix From the Ron Ritchhart Website<br><a href="http://www.ronritchhart.com/ronritchhart.com/COT_Resources.html"><span style="color:#CA2126;background-color:transparent">Click to go to Ron Ritchhart Website.</span></a></td>
   </tr>
   <tr>
     <td class="tg-ag2m">Four Goals for Productive Discussions (Talk Moves) </td>
