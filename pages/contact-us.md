@@ -17,12 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6664 1724
-      - email: rohaya_ithnin@moe.gov.sg
-      - other: Rohaya Ithnin (Ayu)
+      - email: MOE_ELIS_Academy@moe.gov.sg
+      - other: ""
     title: "General Enquiries "
-  - content:
-      - phone: +65 6566 6417
-      - email: hamshala_ariaratnam@moe.gov.sg
-      - other: Hamshala Ariaratnam
-    title: "Enquiries on courses & events "
 ---
