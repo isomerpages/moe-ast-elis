@@ -3,16 +3,12 @@ title: Contact Us
 permalink: /elis/about-us/contact-us/
 description: ""
 ---
-<img src="/images/elis.svg" style="width:18%"><br>
-
 #### English Language Institute of Singapore
 
 <ul>
 <li><a href="mailto:MOE_ELIS_Academy@moe.gov.sg">MOE_ELIS_Academy@moe.gov.sg</a></li><a href="mailto:MOE_ELIS_Academy@moe.gov.sg">
-</a><li><a href="mailto:MOE_ELIS_Academy@moe.gov.sg"></a><a href="https://academyofsingaporeteachers.moe.edu.sg/elis">academyofsingaporeteachers.moe.edu.sg/elis</a></li>
 <li>+65 6664 1724</li>
-<li><a href="https://academyofsingaporeteachers.moe.edu.sg/elis/contact-us">academyofsingaporeteachers.moe.edu.sg/elis/contact-us</a></li>
-</ul>
+
 
 ---
 
@@ -44,9 +40,9 @@ Commonwealth MRT: 100
 
 Harbourfront MRT: 57, 61, 97, 100, 166
 
-#### Car Parking
+#### Carpark
 
-An Electronic Parking System (EPS) will be implemented with effect from 1 Apr 2016 at Malan Road campus (MRC) where ACADEMY OF SINGAPORE TEACHERS (AST), ELIS, PESTA and STAR are co-located. With the season parking in place, staff at MRC will purchase and be issued season parking labels for parking in designated areas. The parking facilities for course participants / visitors will therefore be limited and the charges are:  
+Limited parking lots are available at the Malan Road campus where the Academy of Singapore Teachers (AST), ELIS, PESTA and STAR are co-located.  The following carpark charges, which are subject to change without prior notice, apply.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -78,4 +74,4 @@ An Electronic Parking System (EPS) will be implemented with effect from 1 Apr 20
 </tbody>
 </table>
 
-Visitors are encouraged to take public transport or park at the public car parks at Alexandra Retail Centre or Gillman Barracks. View&nbsp;[car-park-rates(.pdf, 389.6 KB)](/files/car-park-rates.pdf)&nbsp;at Alexandra Retail Centre &amp; Gillman Barracks.
+Visitors are encouraged to take public transport or park at the public car parks at Alexandra Retail Centre or Gillman Barracks. </a></ul>
