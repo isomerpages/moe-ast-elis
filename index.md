@@ -10,7 +10,7 @@ sections:
       title: English Language Institute of Singapore
       background: /images/hero-banner.png
       key_highlights:
-        - title: About you
+        - title: About Us
           description: ""
           url: https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME
         - title: Professional learning
