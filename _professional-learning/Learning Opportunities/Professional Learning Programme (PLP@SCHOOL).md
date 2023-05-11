@@ -152,8 +152,7 @@ img {
 
 <h3>How to Apply</h3>
 
-<p>Please write to Mr Daniel Yip (Deputy Director/Pedagogy) at<br><a href="mailto:yip_kok_hoong@moe.gov.sg">yip_kok_hoong@moe.gov.sg</a> <br>
-OR  <br>Ms Charmaine Tan (Assistant Director/Pedagogy) at <br>
+<p>Please write to Ms Charmaine Tan (Assistant Director/Pedagogy) at <br>
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg</a>.  </p>
 <p>Closing date for application:&nbsp;<strong>Wed, 23 Nov 2022</strong></p>
     </div>
