@@ -29,8 +29,12 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
     display: inline-block;
     font-size: 16px;
     border-radius: 8px;
-		margin: 0 auto;
+		margin: 0 auto !important;
 }
+	.btn::before,
+	.btn::after {
+		content: "" !important;
+	}
 .btn:hover,
 .btn:focus,
 .btn:focus-within,
