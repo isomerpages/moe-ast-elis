@@ -21,7 +21,7 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
 .btn {
     background-color: #feb47e;
     border: none;
-    color: #000000;
+    color: #000000 !important;
     padding: 15px 32px;
     text-align: center;
     text-decoration: underline;
@@ -42,10 +42,5 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
   color: black;
 }
 </style>
-
-
-<p><a href="">
-<img src="/images/e-prospectus.png" style="width:40%">
-</a></p>
 
 ![](/images/elis-cover-page_final-version-1.jpg)
