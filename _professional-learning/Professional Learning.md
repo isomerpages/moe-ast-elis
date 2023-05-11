@@ -23,9 +23,3 @@ These are the seven dimensions of CREA<sup>2</sup>TE that we apply in our approa
 To deepen teachers’ professional learning, ELIS provides four areas of support:
 
 <img src="/images/elis-pl-(5-jan-2022).png" style="width:70%">
-
-<style>
-h3 {
-	font-weight: bold;
-	}
-</style>
