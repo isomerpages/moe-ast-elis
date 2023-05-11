@@ -7,11 +7,17 @@ third_nav_title: Learning Opportunities
 ### Professional Learning Opportunities 2023
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.
+<div class="center">
 <a class="btn" href="/files/elis-professional%20learning%20opportunities%202023_10%20Jan.pdf">
  Download the ELIS e-Prospectus 2023 here
 </a> 
+	</div>
 
 <style>
+	.center {
+		display: flex;
+		justify-content: center;
+	}
 .btn {
     background-color: #feb47e;
     border: none;
