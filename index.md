@@ -20,7 +20,7 @@ sections:
       title: Professional Learning Opportunities 2023
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
-      button: Check out the ELIS prospectus
+      button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
@@ -37,7 +37,7 @@ sections:
       title: e-Pedagogy in the EL Classroom
       description: Learn about the philosophy, principles and processes that you
         should be guided by when designing blended learning experiences.
-      button: Find out more
+      button: Access this MLU on OPAL2.0
       url: https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DUc6Ghs62DqkbvQvNo98gYDanPVvMFRWOOxmTncu5sia28%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DGaefzuKJp2qdvx66W6YZTPuTj-BEsEvAT6RXVlxA2wI%26code_challenge_method%3DS256%26nonce%3DUc6Ghs62DqkbvQvNo98gYDanPVvMFRWOOxmTncu5sia28
       image: /images/el-pedagogy.png
       alt: Image alt text
