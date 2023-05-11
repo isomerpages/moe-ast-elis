@@ -3,7 +3,7 @@ title: Professional Learning
 permalink: /elis/professional-learning/
 description: ""
 ---
-### Professional Learning
+### **Professional Learning**
 
 Our professional learning programmes for teachers focus on:
 
@@ -12,13 +12,13 @@ Our professional learning programmes for teachers focus on:
 *   building a culture that celebrates effective communication in English throughout the whole school
 *   encouraging the growth of teacher reflection through classroom inquiry and research
 
-### Our Approach to Professional Learning
+### **Our Approach to Professional Learning**
 
 These are the seven dimensions of CREA<sup>2</sup>TE that we apply in our approach to teacher professional learning:
 
 ![Our Approach to Professional Learning](/images/Our%20Approach%20to%20Professional%20Learning.jpg)
 
-### Areas of Support
+### **Areas of Support**
 
 To deepen teachers’ professional learning, ELIS provides four areas of support:
 
