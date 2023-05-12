@@ -27,8 +27,8 @@ To decide on the most appropriate Level of Practice to meet your learning needs,
 
 Select this course at the Proficient Level of Practice if you:
 
-*   wish to have fundamental understanding of the principles of DI, and to become skilful and independent in your practice of DI in the EL classroom;
-*   would like to be able to, on an ongoing basis, reflect on your practice of DI to improve student learning of EL; and
+*   wish to have fundamental understanding of IBL, and would like to become skilful and independent in your practice of IBL in the EL classroom;
+*   would like to be able to, on an ongoing basis, reflect on your practice of IBL to improve student learning of EL; and
 *   plan to apply your learning as you participate in the course.
 
 #### Learning Goals 
@@ -36,9 +36,9 @@ Select this course at the Proficient Level of Practice if you:
 By the end of this course, you will be able to:
 
 <ul>
-<li>demonstrate understanding of DI and its rationale in the teaching, learning and assessment in the EL classroom;</li>
+<li>demonstrate understanding of IBL and its rationale in the teaching, learning and assessment in the EL classroom;</li>
 <li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL in the EL classroom; and</li>
-<li>make appropriate choices, including the use of technology, to support DI in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
+<li>make appropriate choices, including the use of technology, to support IBL in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
 </ul>
 
 
@@ -51,20 +51,20 @@ By the end of this course, you will be able to:
 
 Select this course at the Accomplished Level of Practice if you:
 
-*   are skilful and independent in your practice of DI in the EL classroom;
-*   would like to become adaptive in your practice of DI, by being able to customise and/or personalise learning for your students as you enact your EL lessons; and
-*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves reviewing a lesson for adaptive practice of DI in the EL classroom.
+*   are skilful and independent in your practice of IBL in the EL classroom;
+*   would like to become adaptive in your practice of IBL, by being able to customise and/or personalise learning for your students as you enact your EL lessons; and
+*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves reviewing a lesson for adaptive practice of IBL in the EL classroom.
 
 #### Learning Goals
 
 By the end of this course, you will be able to:
 
-*   adapt EL lessons, incorporating the use of technology, based on:
+*   customise EL lessons, incorporating the use of technology, that support IBL based on:
 
-	*   principles of DI, and
+	*   principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE), and
 	*   knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
 
-*   demonstrate adaptiveness in differentiating content, process, product and learning environment in the enactment of lessons to enable students to maximise their learning in the areas of language learning.
+*   demonstrate adaptiveness in facilitating IBL in the enactment of lessons through prompting, posing questions, and supporting the collaborative process by which students learn about skills and learner strategies in the areas of language learning.
 
 ---
 
@@ -72,21 +72,21 @@ By the end of this course, you will be able to:
 
 Select this course at the Leading Level of Practice if you:
 
-*   are skilful, independent and adaptive in your practice of DI in the EL classroom;
-*   would like to be able to lead effectively and mentor others in their professional learning and practice of DI; and
-*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves planning a professional learning session to lead and guide peers/teachers in their practice of DI in the EL classroom.
+*   are skilful, independent and adaptive in your practice of IBL in the EL classroom; 
+*   would like to be able to lead effectively and mentor others in their professional learning and practice of IBL; and
+*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves planning a professional learning session to lead and guide peers/teachers in their practice of IBL in the EL classroom.
 
 #### Learning Goals
 
 By the end of this course, you will be able to:
 
-*   lead and mentor peers/teachers in the practice of DI in the areas of language learning to improve classroom practice by demonstrating:
+*   lead and mentor peers/teachers in the practice of IBL in the areas of language learning to improve classroom practice by demonstrating:
 
-	*   the application of DI principles and e-pedagogy,
-	*   ongoing review of and critical inquiry into the practice of DI, and
-	*   adaptiveness in the practice of DI to customise learning for students; and
+	*   the application of principles of EL teaching and learning (CLLIPS), the teaching processes (ACoLADE) and e-pedagogy,
+	*   ongoing review of and critical inquiry into the practice of IBL, and
+	*   adaptiveness in the practice of IBL to customise learning for students in the EL classroom; and
 
-*   plan with the aim of facilitating professional learning about DI in the EL classroom in the following contexts: a Professional Learning Team, Professional Learning Community and/or Networked Learning Community at school/cluster levels.
+*   plan with the aim of facilitating professional learning about IBL in the EL classroom in the following contexts: a Professional Learning Team, Professional Learning Community and/or Networked Learning Community at school/cluster levels.
 
 
 ### Course Structure
