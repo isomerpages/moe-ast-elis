@@ -28,11 +28,7 @@ This podcast was co-developed with the Curriculum Planning and Development Divis
 <tbody>
   <tr>
     <td class="tg-ag2m">General Paper</td>
-    <td class="tg-ag2m">Click <a href="https://www.opal2.moe.edu.sg/csl/s/the-general-paper-page/wiki/overview/list-categories"><span style="color:#CA2126;background-color:transparent">here</span></a> to access professional learning  resources on OPAL2.0.</td>
+    <td class="tg-ag2m">Click <a href="https://www.opal2.moe.edu.sg/csl/s/the-general-paper-page/wiki/overview/list-categories"><span style="color:#CA2126;background-color:transparent">here</span></a> to access professional learning  resources on OPAL2.0</td>
   </tr>
 </tbody>
 </table>
-
-
-
-
