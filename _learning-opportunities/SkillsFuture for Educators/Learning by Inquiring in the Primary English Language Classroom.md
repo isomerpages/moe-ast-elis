@@ -152,23 +152,23 @@ EL Key Personnel, Teacher Leaders and Teachers
 <thead>
   <tr>
     <th style="border: 1px solid white" class="tg-8vob"></th>
-    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd DI (Proficient)</span></th>
-    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd DI (Accomplished)</span></th>
-    <th style="border: 1px solid white" class="tg-myt5"><span style="font-weight:600">SFEd DI (Leading)</span></th>
+    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd IBL (Proficient)</span></th>
+    <th style="border: 1px solid white" class="tg-8vob"><span style="font-weight:600">SFEd IBL (Accomplished)</span></th>
+    <th style="border: 1px solid white" class="tg-myt5"><span style="font-weight:600">SFEd IBL (Leading)</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td style="border: 1px solid white" class="tg-933g"><img style="width:50px" alt="Picture11" src="/images/picture11.png">Please register on<br>OPAL2.0 using<br>these codes.</td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/10d7e1b8-f2b0-4556-b70c-f808880f8db6"><span style="color:#CA2126">EL000078</span></a></td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/968f4e98-bd58-4149-9157-a5b6109ef69e"><span style="color:#CA2126">EL000080</span></a></td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/6c11a2c5-4342-4290-bccd-c490b77d534d"><span style="color:#CA2126">EL000079</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a8e753d0-aaa9-4b53-8acc-99e775e9631e"><span style="color:#CA2126">EL000172</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/be8e5690-eaea-4b2a-ad4a-e77f84b986a4"><span style="color:#CA2126">EL000101</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b59caa3a-1020-4e7a-878d-7f314449cc63"><span style="color:#CA2126">EL000100</span></a></td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-933g"><img style="width:50px" alt="Picture12" src="/images/picture12.png">Closing dates<br>for registration</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Fri, 3 Feb</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Tue, 28 Feb</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Fri, 20 Jan</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Tue, 31 Jan</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Wed, 1 Mar</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Fri, 3 Mar</td>
   </tr>
 </tbody>
 </table>
