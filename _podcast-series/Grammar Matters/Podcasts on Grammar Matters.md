@@ -12,27 +12,27 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
 <img src="/images/gm-episode-1.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"><b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-</a><p></p>
+</a>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
 <img src="/images/27.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><b>Definite and Indefinite Articles – A Letter of Complaint</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
-</a><p></p>
+</a>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only-6.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><b>Collective Nouns - At the Airport</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
-</a><p></p>
+</a>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><b>Adjectives – The Advertisement</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
-</a><p></p>
+</a>
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
 <img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only.png" style="width:30%">
 </a></p><center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/"><b>Pronouns – The Accident</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
-</a><p></p>
+</a>
 
 
 <p><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
@@ -47,4 +47,4 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 </b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
 	
 	
-</a><p></p>
+</a>
