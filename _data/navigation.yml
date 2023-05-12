@@ -17,7 +17,7 @@ links:
     url: /elis/resources/watch/
     sublinks:
       - title: View
-        url: /elis/resources/watch/
+        url: /elis/resources/view/
       - title: Listen
         url: /elis/resources/listen/
       - title: Read
