@@ -21,8 +21,7 @@ By the end of the course, participants will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%207.png" 
-     style="width:70%">
+<img src="/images/course%20structure%207.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -31,7 +30,7 @@ EL Key Personnel, Teacher Leaders and Teachers
 ### Registration
 
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000144/01**.  
+Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**EL-000144**](https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741).  
 Closing date for registration: Thu, 23 Feb
 
 ### For enquiries, please contact:
