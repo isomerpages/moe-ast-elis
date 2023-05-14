@@ -44,3 +44,10 @@ third_nav_title: Management Team
 </a></p>
 	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
 </figure>
+
+<style>
+.content {
+	display: grid;
+	grid-template-cols: repeat(2, 1fr);
+	}
+</style>
