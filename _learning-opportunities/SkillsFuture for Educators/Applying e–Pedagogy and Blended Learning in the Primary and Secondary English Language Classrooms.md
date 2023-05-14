@@ -36,7 +36,7 @@ EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary leve
 		width: 50% !important;
 		border: 1px solid white !important;
 		text-align:center !important;
-		vertical-align:center !important;
+		vertical-align:middle !important;
 	}
 	.flex {
 		display: flex;
