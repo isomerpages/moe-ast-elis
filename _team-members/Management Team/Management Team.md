@@ -52,6 +52,14 @@ third_nav_title: Management Team
 	display: grid;
 	grid-template-columns: repeat(2, 1fr);
 	}
+	
+@media screen and (min-width: 576px) {  
+		.content {
+			display: grid;
+			grid-template-columns: repeat(1, 1fr);
+			}
+	}
+	
 	.content figure {
 		margin: 2em;
 	}
