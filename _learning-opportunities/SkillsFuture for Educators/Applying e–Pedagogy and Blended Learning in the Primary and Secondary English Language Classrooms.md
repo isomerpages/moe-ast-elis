@@ -61,7 +61,7 @@ EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary leve
 			<td class="table2"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0db86f5c-f88a-4113-8b63-b7deb25390a8"><span style="color:#CA2126">EL-000179</span></a></td>
 		</tr>
 		<tr>
-		<td class="table2 flex"><img style="width:50px" alt="Picture12" src="/images/picture12.png"><span>Closing dates<br>for registration</span></td>
+		<td class="table2 flex"><img style="width:50px" alt="Picture12" src="/images/picture12.png"><span>Closing dates for registration</span></td>
 			<td class="table2">Tue, 11 Jul</td>
 		</tr>
 	</tbody>
