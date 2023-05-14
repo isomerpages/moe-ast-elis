@@ -14,8 +14,7 @@ This Clinic provides you with personalised guidance in preparing your profession
 
 ### Programme Structure
 
-<img src="/images/course%20structure%209.png" 
-     style="width:70%">
+<img src="/images/course%20structure%209.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -23,11 +22,10 @@ English Language, Literature and General Paper Senior Teachers nominated for Lea
 
 ### Registration
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000096**.  
+Please register on&nbsp;OPAL2.0 &nbsp;using this code:&nbsp;[**EL-000096**](https://www.opal2.moe.edu.sg/).  
 Closing date for registration:
 
-<img src="/images/registration.png" 
-     style="width:70%">
+<img src="/images/registration.png" style="width:70%">
 		 
 ### For enquiries, please contact:  
 Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at <a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg.</a>
