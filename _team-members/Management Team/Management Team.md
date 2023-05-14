@@ -48,6 +48,6 @@ third_nav_title: Management Team
 <style>
 .content {
 	display: grid;
-	grid-template-cols: repeat(2, 1fr);
+	grid-template-column: repeat(2, 1fr);
 	}
 </style>
