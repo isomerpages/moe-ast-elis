@@ -19,8 +19,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%206.png" 
-     style="width:70%">
+<img src="/images/course%20structure%206.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -29,7 +28,7 @@ Literature Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **LIT-000012**.  
+Please register on&nbsp;[OPAL2.0](https://www.opal2.moe.edu.sg/)&nbsp;using this code:&nbsp;**LIT-000012**.  
 Closing date for registration: Fri, 20 Jan
 
 ### For enquiries, please contact:
