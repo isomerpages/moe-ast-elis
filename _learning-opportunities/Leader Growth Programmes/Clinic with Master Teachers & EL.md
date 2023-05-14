@@ -22,7 +22,7 @@ English Language, Literature and General Paper Senior Teachers nominated for Lea
 
 ### Registration
 
-Please register on&nbsp;OPAL2.0 &nbsp;using this code:&nbsp;[**EL-000096**](https://www.opal2.moe.edu.sg/).  
+Please register on&nbsp;OPAL2.0 &nbsp;using this code:&nbsp;[**EL-000096**](https://www.opal2.moe.edu.sg/app/learner/detail/course/f48b5157-f4d0-4267-ae74-7e7290cc4115).  
 Closing date for registration:
 
 <img src="/images/registration.png" style="width:70%">
