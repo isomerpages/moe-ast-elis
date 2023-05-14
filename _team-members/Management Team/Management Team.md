@@ -49,14 +49,14 @@ third_nav_title: Management Team
 
 <style>
 .content {
-	display: grid;
-	grid-template-columns: repeat(2, 1fr);
+	display: grid !important;
+	grid-template-columns: repeat(2, 1fr) !important;
 	}
 	
 @media screen and (max-width: 576px) {  
 		.content {
-			display: grid;
-			grid-template-columns: repeat(1, 1fr);
+			display: grid !important;
+			grid-template-columns: repeat(1, 1fr) !important;
 			}
 	}
 	
