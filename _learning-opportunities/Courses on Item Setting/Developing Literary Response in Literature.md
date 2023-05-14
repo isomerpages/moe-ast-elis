@@ -28,7 +28,7 @@ Literature Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on&nbsp;[OPAL2.0](https://www.opal2.moe.edu.sg/)&nbsp;using this code:&nbsp;**LIT-000012**.  
+Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**LIT-000021**](https://safe.menlosecurity.com/https:/www.opal2.moe.edu.sg/app/learner/detail/course/b8ae68ee-5271-4341-8bf0-bef48446e218).  
 Closing date for registration: Fri, 20 Jan
 
 ### For enquiries, please contact:
