@@ -35,14 +35,14 @@ Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Th
 <p><a href="/elis/resources/listen/student-groupings-for-productive-interaction/">
 <img src="/images/4dd0161613d254859a5821aced6fb0598.jpg" style="width:40%">
 </a></p><center><a href="/elis/resources/listen/student-groupings-for-productive-interaction/"><b>Inquiry Through Dialogue – Facilitating Productive Interaction in Groups
-</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/student-groupings-for-productive-interaction/">
+</b></a></center><a href="/elis/resources/listen/student-groupings-for-productive-interaction/">
 </a>
 
 ### Metacognition
 
 <p><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/">
 <img src="/images/Metacognition%20in%20English%20Language%20Teaching%20and%20Learning.jpg" style="width:40%">
-</a></p><center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"><b>Metacognition in EL Teaching and Learning</b></a></center><a href="https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/listen/metacognition-in-el-teaching-and-learning/">
+</a></p><center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"><b>Metacognition in EL Teaching and Learning</b></a></center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/">
 </a>
 
 <p><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/">
