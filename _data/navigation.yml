@@ -14,7 +14,7 @@ links:
   - title: Learning Communities
     collection: learning-communities
   - title: Resources
-    url: /elis/resources/watch/
+    url: /elis/resources/view/
     sublinks:
       - title: View
         url: /elis/resources/view/

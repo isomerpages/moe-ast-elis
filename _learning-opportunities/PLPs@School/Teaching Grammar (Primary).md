@@ -2,9 +2,8 @@
 title: Teaching Grammar (Primary)
 permalink: /elis/professional-learning/professional-learning-opportunities/teaching-grammar/
 description: ""
-third_nav_title: PLP@SCHOOL
+third_nav_title: PLPs@School
 ---
-
 ### Right from the Start
 
 <em>What is grammar? How do I enable my students to see the value of learning grammar and its application in real-world contexts? What teaching approaches and learner strategies would enable my students to learn to use grammar meaningfully and in context? How can I teach grammar effectively, including in blended learning contexts?</em>

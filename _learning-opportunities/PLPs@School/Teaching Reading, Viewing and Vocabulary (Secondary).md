@@ -2,9 +2,9 @@
 title: Teaching Reading, Viewing and Vocabulary (Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/
 description: ""
-third_nav_title: PLP@SCHOOL
+third_nav_title: PLPs@School
 ---
-### More than Meets the Eye 
+### More than Meets the Eye&nbsp;
 
 <em>How can I enable my students to read and view print and digital texts more effectively and with discernment? How do I teach them a repertoire of reading, viewing and vocabulary learner strategies for use, including in blended learning contexts? What appropriate tasks and tools can I use to assess my students’ skills and learner strategies in reading, viewing and vocabulary development?</em>
 

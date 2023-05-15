@@ -2,7 +2,7 @@
 title: The Singapore Writing Institute
 permalink: /elis/professional-learning/professional-learning-opportunities/the-singapore-writing-institute/
 description: ""
-third_nav_title: KP& LT ST Growth Programmes
+third_nav_title: KP & LT ST Growth Programmes
 ---
 ### Overview
 
@@ -29,8 +29,7 @@ You can look forward to:
 
 *   a half-day orientation session to prepare you for SWI;
 *   a ten-day programme with a blend of in-person and online synchronous and asynchronous learning sessions; and
-<img src="/images/programme%20structure%203.png" 
-     style="width:70%">
+<img src="/images/programme%20structure%203.png" style="width:70%">
 		 
 *   four post-SWI sessions to support your application of learning from SWI. These sessions will be held once a term between Term 4, 2023 and Term 3, 2024. You will be given the opportunity to co-construct and present your inquiry into the teaching, learning and assessment of writing and representing through collaborative professional conversations. You will also consider the implications of your inquiry on your classroom practice and leadership.
 
@@ -46,10 +45,10 @@ Those who participate will:
 *   be reflective, enthusiastic and open to receiving feedback on their writing and representing as well as to giving feedback to others;
 *   commit to applying what they have learnt in their own classrooms;
 *   demonstrate teacher leadership by influencing their peers as well as their students to write and represent more effectively; and
-*   contribute to Special Interest Groups (SIGs)\* as members of the SWI alumni
+*   contribute to Special Interest Groups (SIGs)\*&nbsp;as members of the SWI alumni
 
   
-* SIGs are groups of like-minded teachers who share a passion and work together to develop a valuable repertoire of ideas and practices.
+*&nbsp;SIGs are groups of like-minded teachers who share a passion and work together to develop a valuable repertoire of ideas and practices.
 
 ### How to Apply
 
@@ -62,7 +61,7 @@ Participants must be fully present, excused from duties by their school principa
 
 ### For enquiries, please contact:
 Dr Darren Nonis (Senior Academy Officer/Research) at  
-<a href="mailto:darren_anthonio_marino_nonis@moe.gov.sg ">darren_anthonio_marino_nonis@moe.gov.sg </a>
+<a href="mailto:darren_anthonio_marino_nonis@moe.gov.sg">darren_anthonio_marino_nonis@moe.gov.sg </a>
 OR  
 Mdm Rita Pillai (MTT/EL) at 
-<a href="mailto:rita_pillai@moe.gov.sg ">rita_pillai@moe.gov.sg</a>
+<a href="mailto:rita_pillai@moe.gov.sg">rita_pillai@moe.gov.sg</a>
