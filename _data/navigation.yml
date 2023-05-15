@@ -27,6 +27,4 @@ links:
       - title: Play
         url: /elis/resources/play/
   - title: Events
-    resource_room: true
-  - title: Events
     url: /events/
