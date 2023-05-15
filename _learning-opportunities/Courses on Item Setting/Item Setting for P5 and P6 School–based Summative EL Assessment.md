@@ -21,8 +21,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%204.png" 
-     style="width:70%">
+<img src="/images/course%20structure%204.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -33,11 +32,10 @@ Registration for the course is limited to a maximum of three participants from e
 ### Registration
 
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000092/01**.  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[**EL-000092**](https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c).  
 Closing date for registration:
 
-<img src="/images/registration%201.png" 
-     style="width:70%">
+<img src="/images/registration%201.png" style="width:70%">
 		 
 ### For enquiries, please contact:* 
 Ms Selene Tan (Senior Academy Officer/Pedagogy) at 

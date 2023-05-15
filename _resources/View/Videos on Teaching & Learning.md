@@ -1,6 +1,6 @@
 ---
 title: Videos on Teaching & Learning
-permalink: /elis/resources/watch/
+permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
 ---

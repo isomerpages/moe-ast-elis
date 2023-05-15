@@ -4,7 +4,6 @@ permalink: /elis/professional-learning/professional-learning-opportunities/desig
 description: ""
 third_nav_title: Courses on Item Setting
 ---
-
 <em>How can I design English Language (EL) lessons that are aligned with both the EL Syllabus 2020 and the Singapore Teaching Practice (STP)? What considerations should I take into account when selecting a teaching approach and strategies to enable my students to achieve the lesson objectives?</em>
 
 ### Overview
@@ -23,8 +22,7 @@ By the end of the four sessions of this module, you will be able to apply the ST
 
 ### Course Structure
 
-<img src="/images/course%20structure%205.png" 
-     style="width:70%">
+<img src="/images/course%20structure%205.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -32,7 +30,7 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **EL-000097/01**.  
+Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**EL-000097**](https://www.opal2.moe.edu.sg/app/learner/detail/course/0c916837-5b62-4210-9d67-cbf1929ce743).  
 Closing date for registration: Tue, 23 May
 
 ### For enquiries, please contact:

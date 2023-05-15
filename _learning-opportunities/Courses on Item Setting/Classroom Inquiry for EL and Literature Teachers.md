@@ -22,8 +22,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%208.png" 
-     style="width:70%">
+<img src="/images/course%20structure%208.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -32,7 +31,7 @@ By the end of this course, you will be able to:
 
 ### Registration
 
-Please register on [OPAL2.0](https://www.opal2.moe.edu.sg/) using this code: **CI-000024/01**.  
+Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**CI-000024**](https://www.opal2.moe.edu.sg/app/learner/detail/course/8fc87560-84bd-42c4-b9c3-f8d1c6769821).  
 Closing date for registration: Fri, 10 Feb
 
 ### For enquiries, please contact:

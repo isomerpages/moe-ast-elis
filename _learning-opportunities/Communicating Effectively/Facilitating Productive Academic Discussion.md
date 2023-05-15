@@ -21,8 +21,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%202.png" 
-     style="width:70%">
+<img src="/images/course%20structure%202.png" style="width:70%">
 		 
 ### Target Participants
 
@@ -31,7 +30,7 @@ English-medium Subject Teachers and English Language Teachers interested in unde
 ### Registration
 
 
-Please register on **OPAL2.0** using this code: **SLI-000019/01**.  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[**SLI-000019**](https://www.opal2.moe.edu.sg/app/learner/detail/course/ac03bad0-8837-4cd7-be16-17caefdfbcb7).  
 Closing date for registration: Wed, 1 Mar
 
 ### For enquiries, please contact:
