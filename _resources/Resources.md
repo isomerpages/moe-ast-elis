@@ -5,12 +5,12 @@ description: ""
 ---
 <div class="row">
 <div class="col is-6 is-12-touch">
-	<div class="border p-4 text-center">
+	<div class="border">
 		View
 	</div>
 </div>
 <div class="col is-6 is-12-touch">	
-	<div class="border p-4 text-center">
+	<div class="border">
 		Listen
 	</div>
 	</div>
@@ -24,5 +24,10 @@ description: ""
 	    box-sizing: border-box;
     width: 100%;
     border: 2px black solid  !important ;
+	}
+	@media only screen and (min-width: 1000px) {
+		.border {
+		min-height: 250px !important;
+	}
 	}
 </style>
