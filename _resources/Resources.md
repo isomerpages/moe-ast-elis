@@ -14,9 +14,13 @@ description: ""
 		Listen
 	</div>
 	</div>
+</div>
+<div class="row">
 	<div class="col is-6 is-12-touch">Read</div>
 	<div class="col is-6 is-12-touch">Teach</div>
-	<div class="col is-6 is-12-touch">Play</div>
+	</div>
+	<div class="row">
+<div class="col is-6 is-12-touch">Play</div>
 </div>
 
 <style>
