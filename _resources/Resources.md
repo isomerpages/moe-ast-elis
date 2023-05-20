@@ -3,18 +3,20 @@ title: Resources
 permalink: /elis/resources/
 description: ""
 ---
-<div class="col-12 col-md-6">
+<div class="row>
+
+	<div class=">
+			hello
+	</div>
+
+	<div class="col-12 col-md-6">
 		hello
-</div>
+	</div>
 
-<div class="col-12 col-md-6">
-	hello
-</div>
-
-
+	
 
 <style>
-.row {
+	.row {
 
         width: 100%;
 
@@ -23,124 +25,17 @@ description: ""
         flex-wrap: wrap;
 
       }
-
-  
-
-      /\* 1/12 \*/
-
-      .col-1 {
-
-        width: 8.33%;
-
-      }
-
-  
-
-      /\* 2/12 \*/
-
-      .col-2 {
-
-        width: 16.66%;
-
-      }
-
-  
-
-      /\* 3/12 \*/
-
-      .col-3 {
-
-        width: 25%;
-
-      }
-
-  
-
-      /\* 4/12 \*/
-
-      .col-4 {
-
-        width: 33.33%;
-
-      }
-
-  
-
-      /\* 5/12 \*/
-
-      .col-5 {
-
-        width: 41.66%;
-
-      }
-
-  
-
-      /\* 6/12 \*/
-
-      .col-6 {
-
-        width: 50%;
-
-      }
-
-  
-
-      /\* 7/12 \*/
-
-      .col-7 {
-
-        width: 58.33%;
-
-      }
-
-  
-
-      /\* 8/12 \*/
-
-      .col-8 {
-
-        width: 66.66%;
-
-      }
-
-  
-
-      /\* 9/12 \*/
-
-      .col-9 {
-
-        width: 75%;
-
-      }
-
-  
-
-      /\* 10/12 \*/
-
-      .col-10 {
-
-        width: 83.33%;
-
-      }
-
-  
-
-      /\* 11/12 \*/
-
-      .col-11 {
-
-        width: 91.66%;
-
-      }
-
-  
-
-      /\* 12/12 \*/
-
-      .col-12 {
-
-        width: 100%;
-
-      }
+	
+.border {
+    box-sizing: border-box;
+    width: 100%;
+    padding-top: 10px;
+    border: 2px black solid;
+}
+	
+	@media only screen and (min-width: 1000px) {
+	.border {
+		min-height: 250px;
+	}
+	}
 </style>
