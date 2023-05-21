@@ -6,7 +6,7 @@ description: ""
 <div class="row flex-wrap">
 <div class="col is-6 is-12-touch">
 	<div class="border">
-		View
+		<h1 class="text-center">View</h1>
 	</div>
 </div>
 <div class="col is-6 is-12-touch">	
@@ -20,6 +20,9 @@ description: ""
 </div>
 
 <style>
+	.text-center {
+		text-center: center;
+	}
 .border {
 	    box-sizing: border-box;
     width: 100%;
