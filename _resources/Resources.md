@@ -26,7 +26,7 @@ description: ""
 	
 <style>
 	.w-1/3 {
-	width: 33.33%
+	width: 33% !important;
 	}
 	.aspect-square {
 	aspect-ratio: 1;
@@ -39,6 +39,7 @@ description: ""
 	}
 	.flex {
 	display: flex;
+	width: 100%;
 	}
 .border {
 	display: flex;
