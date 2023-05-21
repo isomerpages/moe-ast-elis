@@ -56,7 +56,7 @@ description: ""
 	justify-content: space-between;
 	}
 	.m-0 {
-		line-height: inherit;
+		line-height: 1.5rem !important;
 		margin: 0 !important;
 	}
 	.w-33 {
