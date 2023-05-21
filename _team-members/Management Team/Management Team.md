@@ -54,10 +54,14 @@ third_nav_title: Management Team
 	}
 	
 @media screen and (max-width: 576px) {
-	.content {
+		.content {
 			display: grid !important;
 			grid-template-columns: repeat(1, 1fr) !important;
 			}
+		.display-hidden {
+			display: none !important;
+			visibility: hidden !important;
+		}
 	}
 	
 	.content figure {
