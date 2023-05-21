@@ -58,7 +58,7 @@ description: ""
 	}
 	@media only screen and (min-width: 1000px) {
 		.border {
-		min-height: 250px !important;
+		min-height: 150px !important;
 	}
 	}
 	.flex-wrap {
