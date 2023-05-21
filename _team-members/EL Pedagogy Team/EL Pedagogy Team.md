@@ -156,3 +156,25 @@ third_nav_title: EL Pedagogy Team
 </a></p>
 	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
+
+<style>
+.content {
+	display: grid !important;
+	grid-template-columns: repeat(2, 1fr) !important;
+	}
+	
+@media screen and (max-width: 576px) {
+		.content {
+			display: grid !important;
+			grid-template-columns: repeat(1, 1fr) !important;
+			}
+		.display-hidden {
+			display: none !important;
+			visibility: hidden !important;
+		}
+	}
+	
+	.content figure {
+		margin: 2em;
+	}
+</style>
