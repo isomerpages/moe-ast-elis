@@ -21,7 +21,7 @@ description: ""
 
 <style>
 	.text-center {
-		text-center: center;
+		text-align: center;
 	}
 .border {
 	    box-sizing: border-box;
