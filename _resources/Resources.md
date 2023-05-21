@@ -56,6 +56,7 @@ description: ""
     width: 100%;
     border: 2px black solid  !important ;
 	height: 100%;
+	padding: 10px;
 	}
 	@media only screen and (min-width: 1000px) {
 		.border {
