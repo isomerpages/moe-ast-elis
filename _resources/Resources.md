@@ -14,9 +14,13 @@ description: ""
 	</a>
 </div>
 <div class="col is-6 is-12-touch">	
-	<div class="border">
-		Listen
-	</div>
+	<a class="border" href="/elis/resources/view/">
+		<h3 class="text-center font-bold">Listen</h3>
+		<div class="flex gap-5">
+		<img class="aspect-square w-33" alt="view" src="/images/listen_icon.png">
+			<p class="m-0">Discover ideas, perspectives and research on English Language education in our bite-sized podcasts.</p>
+		</div>
+	</a>
 	</div>
 	<div class="col is-6 is-12-touch">Read</div>
 	<div class="col is-6 is-12-touch">Teach</div>
@@ -61,6 +65,7 @@ description: ""
 	padding: 10px;
 	color: inherit !important;
 	margin: 0 !important;
+	justify-content: space-between;
 	text-decoration: none !important;
 	}
 	@media only screen and (min-width: 1000px) {
