@@ -323,7 +323,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 Click [here](/elis/events/event/elisconference2020/) to find out more!
 
 <style>
-a > span {
-	text-decoration-color: #CA2126;
+a:has(span) {
+	color: #CA2126 !important;
 	}
 </style>
