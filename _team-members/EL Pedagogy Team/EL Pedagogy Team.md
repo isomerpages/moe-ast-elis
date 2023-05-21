@@ -61,13 +61,6 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Ms Jennifer Lim</b><br>Master Teacher</figcaption>
 </figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lui/">
-<img src="/images/jennifer-6622312fe8a1e42f8a2fc8e311d4a4c07.png" style="width:50%">
-</a></p>
-	<figcaption><b>Mrs Jennifer Lui</b><br>Master Teacher</figcaption>
-</figure>
-
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
