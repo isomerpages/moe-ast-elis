@@ -7,7 +7,7 @@ description: ""
 <div class="col is-6 is-12-touch">
 	<div class="border">
 		<h3 class="text-center font-bold">View</h3>
-		<div class="flex">
+		<div class="flex gap-5">
 		<img class="aspect-square w-33" alt="view" src="/images/watch_icon.png">
 			<p class="m-0">Explore our library of videos on classroom teaching and learning, support for teachers and ELIS e-Conference presentations.</p>
 		</div>
@@ -25,6 +25,10 @@ description: ""
 
 	
 <style>
+	.gap-5 {
+	gap: 10px;
+	padding: 10px;
+	}
 	.m-0 {
 		line-height: inherit;
 		margin: 0;
