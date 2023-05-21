@@ -11,7 +11,7 @@ third_nav_title: Management Team
 <figcaption><b>Ms May Tan</b><br>Academy Principal, ELIS</figcaption>
 </figure>
 
-<p></p>
+<p class="display-hidden"></p>
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
