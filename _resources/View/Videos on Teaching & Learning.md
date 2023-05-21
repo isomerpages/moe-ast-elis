@@ -274,6 +274,11 @@ Watch these videos on how to strengthen our pedagogical practices through collab
     <td class="tg-d1dx">13</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
   </tr>
+	
+  <tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Classroom Inquiry</span></a></td>
+  </tr>
   <tr>
     <td class="tg-d1dx">15</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a"><span style="color:#CA2126;background-color:transparent">Crafting Inquiry Questions</span></a></td>
