@@ -8,8 +8,8 @@ description: ""
 	<div class="border">
 		<h3 class="text-center font-bold">View</h3>
 		<div class="flex">
-		<img class="aspect-square w-1/3" alt="view" src="/images/watch_icon.png">
-			<p>Explore our library of videos on classroom teaching and learning, support for teachers and ELIS e-Conference presentations.</p>
+		<img class="aspect-square w-33" alt="view" src="/images/watch_icon.png">
+			<p class="m-0">Explore our library of videos on classroom teaching and learning, support for teachers and ELIS e-Conference presentations.</p>
 		</div>
 	</div>
 </div>
@@ -25,7 +25,11 @@ description: ""
 
 	
 <style>
-	.w-1/3 {
+	.m-0 {
+		line-height: inherit;
+		margin: 0;
+	}
+	.w-33 {
 	width: 33% !important;
 	}
 	.aspect-square {
