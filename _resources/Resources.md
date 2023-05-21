@@ -28,7 +28,7 @@ description: ""
     width: 100%;
     border: 2px black solid  !important ;
 	}
-	@media only screen and (min-width: 1000px) {
+	@media only screen and (min-width: 1000px) {
 		.border {
 		min-height: 250px !important;
 	}
