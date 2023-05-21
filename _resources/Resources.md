@@ -63,5 +63,7 @@ description: ""
 	}
 	.flex-wrap {
 		flex-wrap: wrap;
+		align-items: stretch;
+	justify-content: flex-start;
 	}
 </style>
