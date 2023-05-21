@@ -64,6 +64,6 @@ description: ""
 	.flex-wrap {
 		flex-wrap: wrap;
 		align-items: stretch;
-	justify-content: flex-start;
+	justify-content: space-between;
 	}
 </style>
