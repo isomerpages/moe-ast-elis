@@ -277,7 +277,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 	
   <tr>
     <td class="tg-d1dx"></td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Classroom Inquiry</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Learning Path: Classroom Inquiry</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">9</td>
@@ -299,7 +299,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 
 <tr>
     <td class="tg-d1dx"></td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Big Ideas of Effective Feedback</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Learning Path: Big Ideas of Effective Feedback</span></a></td>
   </tr>
 	  <tr>
     <td class="tg-d1dx">13</td>
