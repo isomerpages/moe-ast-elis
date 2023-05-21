@@ -55,6 +55,7 @@ description: ""
 	    box-sizing: border-box;
     width: 100%;
     border: 2px black solid  !important ;
+	height: 100%;
 	}
 	@media only screen and (min-width: 1000px) {
 		.border {
