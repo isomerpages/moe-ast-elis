@@ -271,7 +271,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c"><span style="color:#CA2126;background-color:transparent">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">13</td>
+    <td class="tg-d1dx">8</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
   </tr>
 	
@@ -280,20 +280,38 @@ Watch these videos on how to strengthen our pedagogical practices through collab
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Classroom Inquiry</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">15</td>
+    <td class="tg-d1dx">9</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a"><span style="color:#CA2126;background-color:transparent">Crafting Inquiry Questions</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">16</td>
+    <td class="tg-d1dx">10</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0ea24868-19c6-40c4-af00-354a818b6033"><span style="color:#CA2126;background-color:transparent">Collecting Qualitative Data</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">17</td>
+    <td class="tg-d1dx">11</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d5b42c63-2fda-40ea-ae8f-9638387cb26c"><span style="color:#CA2126;background-color:transparent">Analysing Qualitative Data</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">18</td>
+    <td class="tg-d1dx">12</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a0461416-04a0-4f5d-a172-c7a8a24f4f50"><span style="color:#CA2126;background-color:transparent">Communicating Inquiry</span></a></td>
+  </tr>
+	
+
+<tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Big Ideas of Effective Feedback</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-d1dx">13</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</span></a></td>
+  </tr>
+		  <tr>
+    <td class="tg-d1dx">14</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (2) – Motivating Students</span></a></td>
+  </tr>
+		  <tr>
+    <td class="tg-d1dx">15</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/e1842bbd-e411-4905-9aba-79393b4adb55"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (3) – Self-directed Learners</span></a></td>
   </tr>
 </tbody>
 </table>
