@@ -3,7 +3,7 @@ title: Resources
 permalink: /elis/resources/
 description: ""
 ---
-<div class="row">
+<div class="row flex-wrap">
 <div class="col is-6 is-12-touch">
 	<div class="border">
 		View
@@ -33,5 +33,8 @@ description: ""
 		.border {
 		min-height: 250px !important;
 	}
+	}
+	.flex-wrap {
+		flex-wrap: wrap;
 	}
 </style>
