@@ -5,13 +5,13 @@ description: ""
 ---
 <div class="row flex-wrap">
 <div class="col is-6 is-12-touch">
-	<div class="border">
+	<a class="border" href="/elis/resources/view/">
 		<h3 class="text-center font-bold">View</h3>
 		<div class="flex gap-5">
 		<img class="aspect-square w-33" alt="view" src="/images/watch_icon.png">
 			<p class="m-0">Explore our library of videos on classroom teaching and learning, support for teachers and ELIS e-Conference presentations.</p>
 		</div>
-	</div>
+	</a>
 </div>
 <div class="col is-6 is-12-touch">	
 	<div class="border">
@@ -28,10 +28,12 @@ description: ""
 	.gap-5 {
 	gap: 10px;
 	padding: 10px;
+	align-items: center;
+	justify-content: space-between;
 	}
 	.m-0 {
 		line-height: inherit;
-		margin: 0;
+		margin: 0 !important;
 	}
 	.w-33 {
 	width: 33% !important;
@@ -57,6 +59,9 @@ description: ""
     border: 2px black solid  !important ;
 	height: 100%;
 	padding: 10px;
+	color: inherit !important;
+	margin: 0 !important;
+	text-decoration: none !important;
 	}
 	@media only screen and (min-width: 1000px) {
 		.border {
