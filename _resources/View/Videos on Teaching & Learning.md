@@ -238,6 +238,10 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/ead8543c-175f-47b1-b01b-8aef366c2c65/fromlmm"><span style="color:#CA2126;background-color:transparent; font-weight: bold">Learning Path: Providing Language and Literacy Support in Subject Classrooms</span></a></td>
+  </tr>
   <tr>
     <td class="tg-d1dx">1</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191"><span style="color:#CA2126;background-color:transparent">Using the Frayer Model strategy to learn subject-specific vocabulary</span></a></td>
@@ -267,32 +271,8 @@ Watch these videos on how to strengthen our pedagogical practices through collab
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c"><span style="color:#CA2126;background-color:transparent">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">8</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b66bf19b-9edb-4ccd-8415-4e983b206785"><span style="color:#CA2126;background-color:transparent">The Role of Talk in Mathematics Classrooms</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">9</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fb075609-9f51-4b41-b762-068b86fefc96"><span style="color:#CA2126;background-color:transparent">What does a productive discussion in Mathematics look like?</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">10</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/40a59fb8-c5ef-451d-aa6c-5973092d2178"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 1 of 3)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">11</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d5cfa5b-14ba-478d-acb8-1bc853a63e3d"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 2 of 3)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">12</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/70afb801-c01a-4eae-bbb8-e6d86db54d0e"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 3 of 3)</span></a></td>
-  </tr>
-  <tr>
     <td class="tg-d1dx">13</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">14</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7b74925e-c877-4303-abe0-4c4228fb126d"><span style="color:#CA2126;background-color:transparent">Initiating Questions for Facilitating Productive Academic Discussion</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">15</td>
@@ -318,3 +298,9 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 ![](/images/elis2020.png)
 
 Click [here](/elis/events/event/elisconference2020/) to find out more!
+
+<style>
+a > span {
+	text-decoration-color: #CA2126;
+	}
+</style>
