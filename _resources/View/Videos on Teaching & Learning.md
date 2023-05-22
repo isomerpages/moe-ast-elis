@@ -238,6 +238,10 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
 </thead>
 <tbody>
+	  <tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/ead8543c-175f-47b1-b01b-8aef366c2c65/fromlmm"><span style="color:#CA2126;background-color:transparent; font-weight: bold">Learning Path: Providing Language and Literacy Support in Subject Classrooms</span></a></td>
+  </tr>
   <tr>
     <td class="tg-d1dx">1</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191"><span style="color:#CA2126;background-color:transparent">Using the Frayer Model strategy to learn subject-specific vocabulary</span></a></td>
@@ -268,47 +272,46 @@ Watch these videos on how to strengthen our pedagogical practices through collab
   </tr>
   <tr>
     <td class="tg-d1dx">8</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b66bf19b-9edb-4ccd-8415-4e983b206785"><span style="color:#CA2126;background-color:transparent">The Role of Talk in Mathematics Classrooms</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
+  </tr>
+	
+  <tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Learning Path: Classroom Inquiry</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">9</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fb075609-9f51-4b41-b762-068b86fefc96"><span style="color:#CA2126;background-color:transparent">What does a productive discussion in Mathematics look like?</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">10</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/40a59fb8-c5ef-451d-aa6c-5973092d2178"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 1 of 3)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">11</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d5cfa5b-14ba-478d-acb8-1bc853a63e3d"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 2 of 3)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">12</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/70afb801-c01a-4eae-bbb8-e6d86db54d0e"><span style="color:#CA2126;background-color:transparent">Talk Moves in a Biology Classroom (Part 3 of 3)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">13</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758"><span style="color:#CA2126;background-color:transparent">Using the Let's Talk! Card game</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">14</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7b74925e-c877-4303-abe0-4c4228fb126d"><span style="color:#CA2126;background-color:transparent">Initiating Questions for Facilitating Productive Academic Discussion</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-d1dx">15</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a"><span style="color:#CA2126;background-color:transparent">Crafting Inquiry Questions</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">16</td>
+    <td class="tg-d1dx">10</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0ea24868-19c6-40c4-af00-354a818b6033"><span style="color:#CA2126;background-color:transparent">Collecting Qualitative Data</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">17</td>
+    <td class="tg-d1dx">11</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d5b42c63-2fda-40ea-ae8f-9638387cb26c"><span style="color:#CA2126;background-color:transparent">Analysing Qualitative Data</span></a></td>
   </tr>
   <tr>
-    <td class="tg-d1dx">18</td>
+    <td class="tg-d1dx">12</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a0461416-04a0-4f5d-a172-c7a8a24f4f50"><span style="color:#CA2126;background-color:transparent">Communicating Inquiry</span></a></td>
+  </tr>
+	
+
+<tr>
+    <td class="tg-d1dx"></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm"><span style="color:#CA2126;background-color:transparent;font-weight: bold;">Learning Path: Big Ideas of Effective Feedback</span></a></td>
+  </tr>
+	  <tr>
+    <td class="tg-d1dx">13</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</span></a></td>
+  </tr>
+		  <tr>
+    <td class="tg-d1dx">14</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (2) – Motivating Students</span></a></td>
+  </tr>
+		  <tr>
+    <td class="tg-d1dx">15</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/e1842bbd-e411-4905-9aba-79393b4adb55"><span style="color:#CA2126;background-color:transparent">Big Ideas of Feedback (3) – Self-directed Learners</span></a></td>
   </tr>
 </tbody>
 </table>
@@ -318,3 +321,9 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 ![](/images/elis2020.png)
 
 Click [here](/elis/events/event/elisconference2020/) to find out more!
+
+<style>
+a:has(span) {
+	color: #CA2126 !important;
+	}
+</style>
