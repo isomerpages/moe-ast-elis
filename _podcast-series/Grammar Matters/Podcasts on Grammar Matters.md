@@ -32,7 +32,7 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 
 </a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
 <img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
-</a><p></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b>Transitive and Intransitive Verbs - The Cruise
+</a><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b>Transitive and Intransitive Verbs - The Cruise
 </b></a></center><b><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b><b></b></b></a><b><b><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
 	
 </a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
