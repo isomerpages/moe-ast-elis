@@ -6,11 +6,13 @@ third_nav_title: Classroom Inquiry
 ---
 ![](/images/299.png)
 
-### Listen to podcast on Spotify [here](https://open.spotify.com/episode/22LXTQgrMrp19WBpLuZsH9?go=1&sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&utm_source=embed_player_p&utm_medium=desktop&nd=1)
+### Listen to podcast on Spotify [here](https://open.spotify.com/episode/22LXTQgrMrp19WBpLuZsH9?go=1&amp;sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&amp;utm_source=embed_player_p&amp;utm_medium=desktop&amp;nd=1)
 
-This two-part episode features Fabriz Tong, an English Language teacher at Valour Primary School who attended ELIS’s Classroom Inquiry for EL and Literature Teachers course in 2021. 
+  
 
-Fabriz talks with Dr Caroline Ho, Lead Specialist from ELIS, about his inquiry into the use of annotation to enhance students’ critical reading and inference skills. In this first episode, Fabriz talks about how he started on his classroom inquiry, what motivated him, and how he identified a focus and crafted his inquiry question.
+In this episode, English Language teacher Mr Fabriz Tong talks with Dr Caroline Ho, a Lead Specialist from ELIS, about how he broadened the scope of his data collection to include qualitative data. This enabled him to better understand his students’ thinking and so help them learn more effectively.
+
+The ‘Using Annotation to Develop Inferencing Skills for Critical Reading’ episodes feature Fabriz Tong, an English Language teacher at Valour Primary School who attended ELIS’s Classroom Inquiry for EL and Literature Teachers course in 2021.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
