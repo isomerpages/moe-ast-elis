@@ -51,3 +51,6 @@ Click on the 'Play' button to find out more!
 
 ![](/images/masterclass4.jpg)
 [Click here to view this masterclass](/elis/masterclasses/the-commentary-project-an-apprenticeship-in-talking-and-writing-about-reading)
+
+## Teacher Presentations
+[Click here to view all Teacher Presentations](/elis-e-conference-2020/teacher-presentations/)

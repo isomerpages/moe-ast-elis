@@ -4,14 +4,15 @@ permalink: /elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-i
 description: ""
 third_nav_title: Classroom Inquiry
 ---
-<img src="/images/ci-1.png" 
-     style="width:50%">
+<img src="/images/ci-1.png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/1iP9YHEREjcn1YfoQaqsC7">Click here to listen to the podcast</a>
 
-This two-part episode features Sharon Ng, an English Language teacher at Chung Cheng High School (Main) who attended ELIS’s Classroom Inquiry for EL and Literature Teachers course in 2021.
 
-Sharon talks about her classroom inquiry project on fluency in oral communication with Dr Caroline Ho, a Lead Specialist from ELIS. In this first part, Sharon explains how she started on classroom inquiry, what motivated her, and how she created her inquiry question.
+In this episode, English Language teacher Miss Sharon Ng talks about her classroom inquiry project on fluency in oral communication. In conversation with Dr Caroline Ho, a Lead Specialist from ELIS, Sharon explains how she started on classroom inquiry, what motivated her, and how she created her inquiry question.
+
+The ‘Exploring Fluency in Oral Communication’ episodes feature Sharon Ng, an English Language teacher at Chung Cheng High School (Main) who attended ELIS’s Classroom Inquiry for EL and Literature Teachers course in 2021.
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

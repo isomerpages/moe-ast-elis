@@ -8,11 +8,13 @@ third_nav_title: Classroom Inquiry
 
 <a href="https://open.spotify.com/episode/5rM8KnVC2pXlUHHNmOMADE?si=KOo8pd5VR9iiOiZVgd533A">Click here to listen to the podcast</a>
 
-This three-part episode features Nora Misnari, an English Language Senior Teacher from Unity Primary School, Peter Chutatape, an English Language Lead Teacher from Bukit Panjang Primary School, Sanmuga Malar, an English Language Lead Teacher from Princess Elizabeth Primary School, and Yusnita Mohamed Taib, an English Language Lead Teacher from West Grove Primary School. Together with eight other colleagues from the Networked Learning Community (NLC), they completed two classroom inquiry projects in 2021, with support from ELIS.&nbsp;
+        
 
-They talk with Dr Alison Tan, a Lead Specialist from ELIS, about their classroom inquiry projects to grow West Zone teacher leaders’ competencies in guiding and mentoring West Zone EL teachers and improving EL Teaching and Learning practices in West Zone Schools.
+In this episode, four Teacher Leaders, Mdm Nora Misnari, Mr Peter Chutatape, Mdm Sanmuga Malar and Mdm Yusnita Mohamed Taib, recount how they started a classroom inquiry by identifying the learning needs of teacher colleagues and their students.
 
-In this first episode, the Teacher Leaders describe how they got started with classroom inquiry by identifying their NLC’s Areas of Language Learning, the components of language which they assessed to be learning needs for the students as well as teachers. They also shared how the English Language Master Teachers and Specialists guided them and provided support throughout the navigation of their NLC’s classroom inquiry projects to ensure their success.
+In conversation with Dr Alison Tan, a Lead Specialist from ELIS, the Teacher Leaders talk about classroom inquiry as a means to grow teacher leaders’ competencies in guiding and mentoring EL teachers, and improving EL Teaching and Learning practices in West Zone Schools.
+
+The ‘Learning from Inquiry as a Zonal Networked Learning Community’ episodes feature Mdm Nora Misnari, English Language Senior Teacher from Unity Primary School, and Mr Peter Chutatape, Mdm Sanmuga Malar and Mdm Yusnita Mohamed Taib, English Language Lead Teachers from Bukit Panjang Primary School, Princess Elizabeth Primary School and West Grove Primary School respectively. With eight other colleagues from their Networked Learning Community, they completed two classroom inquiry projects with support from ELIS in 2021.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
