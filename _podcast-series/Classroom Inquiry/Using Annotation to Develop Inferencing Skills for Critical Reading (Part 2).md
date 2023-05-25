@@ -6,9 +6,8 @@ third_nav_title: Classroom Inquiry
 ---
 ![](/images/299.png)
 
-### Listen to podcast on Spotify [here](https://open.spotify.com/episode/22LXTQgrMrp19WBpLuZsH9?go=1&amp;sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&amp;utm_source=embed_player_p&amp;utm_medium=desktop&amp;nd=1)
+<a href="https://open.spotify.com/episode/22LXTQgrMrp19WBpLuZsH9?si=193y1yBkQA6Vsg7V4THfKw">Click here to listen to the podcast</a>
 
-  
 
 In this episode, English Language teacher Mr Fabriz Tong talks with Dr Caroline Ho, a Lead Specialist from ELIS, about how he broadened the scope of his data collection to include qualitative data. This enabled him to better understand his students’ thinking and so help them learn more effectively.
 
