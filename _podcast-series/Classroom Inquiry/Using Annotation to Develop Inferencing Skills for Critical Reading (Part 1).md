@@ -6,7 +6,7 @@ third_nav_title: Classroom Inquiry
 ---
 ![](/images/288.png)
 
-### Listen to the podcast on Spotify [here](https://open.spotify.com/episode/4m9igykrlbnvBRGF2LPDxH?go=1&amp;sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&amp;utm_source=embed_player_p&amp;utm_medium=desktop&amp;nd=1)
+<a href="https://open.spotify.com/episode/4m9igykrlbnvBRGF2LPDxH?si=PEVlW-AVQPGFpBh2nZDRRQ">Click here to listen to the podcast</a>
 
 
 In this episode, English Language teacher Mr Fabriz Tong talks with Dr Caroline Ho, a Lead Specialist from ELIS, about how he started his classroom inquiry project on the use of annotation to enhance students’ critical reading and inference skills. He explains what motivated him, and how he identified a focus and crafted his inquiry question.
