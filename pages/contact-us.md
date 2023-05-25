@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: English Language Institute of Singapore
 locations:
   - address:
-      - "2 Malan Road  "
-      - "Block P Levels 1 and 2  "
+      - 2 Malan Road
+      - Block P Levels 1 and 2
       - Singapore 109433
     operating_hours:
       - days: Mon - Fri
@@ -17,7 +17,7 @@ locations:
 contacts:
   - content:
       - phone: +65 6664 1724
-      - email: MOE_ELIS_Academy@moe.gov.sg
+      - email: MOE_ELIS_academy@moe.gov.sg
       - other: ""
-    title: "General Enquiries "
+    title: General Enquiries
 ---
