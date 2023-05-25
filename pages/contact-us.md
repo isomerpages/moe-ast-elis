@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: English Language Institute of Singapore
+agency_name: the English Language Institute of Singapore
 locations:
   - address:
       - 2 Malan Road
