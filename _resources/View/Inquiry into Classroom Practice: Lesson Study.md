@@ -15,3 +15,9 @@ This video helps you better understand what is involved when inquiring into your
 <a target="_blank" href="https://youtu.be/-fhY3UIL_dk">
 <img alt="" src="/images/inquiry%20into%20classroom%20practice%20lesson%20study.jpg">
 	</a>
+	
+<style>
+a::before {
+content: "" !important;
+}
+</style>
