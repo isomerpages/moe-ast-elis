@@ -50,4 +50,8 @@ third_nav_title: Read
 a::before {
 	content: "" !important
 	}
+	
+	.bp-menu-list a {
+	justify-content: flex-start
+	}
 </style>
