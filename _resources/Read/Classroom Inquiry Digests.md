@@ -11,7 +11,7 @@ third_nav_title: Read
 
 ### Issue 9 , 2018
 
-<p><a href="/files/files/elis%20classroom%20inquiry%20digest%20issue%209_nov%202018.pdf"><img src="/images/issue%209-2018.png" style="width:70%"></a></p>
+<p><a href="/files/elis%20classroom%20inquiry%20digest%20issue%209_nov%202018.pdf"><img src="/images/issue%209-2018.png" style="width:70%"></a></p>
 
 ### Issue 8, 2018
 
