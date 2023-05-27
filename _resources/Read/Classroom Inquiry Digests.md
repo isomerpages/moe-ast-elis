@@ -46,3 +46,9 @@ third_nav_title: Read
 ### Issue 1, 2013
 
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/ebook1-2013/"><img src="/images/issue%201-2013.png" style="width:70%"></a></p>
+
+<style>
+a::before {
+	content: "" !important
+	}
+</style>
