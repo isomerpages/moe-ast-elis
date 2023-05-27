@@ -12,4 +12,6 @@ This video helps you better understand what is involved when inquiring into your
 
 ### Inquiry into Classroom Practice: Lesson Study
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-fhY3UIL_dk" height="315" width="560"></iframe>
+<a target="_blank" href="https://youtu.be/-fhY3UIL_dk">
+<img alt="" src="/images/inquiry%20into%20classroom%20practice%20lesson%20study.jpg">
+	</a>
