@@ -48,10 +48,10 @@ third_nav_title: Read
 
 <style>
 a::before {
-	content: "" !important
+	content: "" !important;
 	}
 	
 	.bp-menu-list a {
-	justify-content: flex-start
+	justify-content: flex-start;
 	}
 </style>
