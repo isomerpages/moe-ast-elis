@@ -17,7 +17,7 @@ This video helps you better understand what is involved when inquiring into your
 	</a>
 	
 <style>
-a::before {
+a::after {
 content: "" !important;
 }
 </style>
