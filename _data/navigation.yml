@@ -10,7 +10,10 @@ links:
       - title: Contact Us
         url: /elis/about-us/contact-us
   - title: Professional Learning
-    collection: professional-learning
+    url: /elis/professional-learning/
+    sublinks:
+      - title: Learning Opportunities
+        url: /elis/professional-learning/professional-learning-opportunities/
   - title: Learning Communities
     url: /elis/learning-communities/
     sublinks:
