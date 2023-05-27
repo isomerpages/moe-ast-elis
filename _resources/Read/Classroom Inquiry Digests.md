@@ -9,10 +9,9 @@ third_nav_title: Read
 <p><a href="/files/elis---el-classroom-inquiry-digest-2020_issue-10.pdf">
 <img src="/images/issue%2010,%202020.png" style="width:70%"></a></p>
 
-
 ### Issue 9 , 2018
 
-<p><a href="/files/elis classroom inquiry digest issue 9\_nov 2018.pdf"><img src="/images/issue%209-2018.png" style="width:70%"></a></p>
+<p><a href="/files/files/elis%20classroom%20inquiry%20digest%20issue%209_nov%202018.pdf"><img src="/images/issue%209-2018.png" style="width:70%"></a></p>
 
 ### Issue 8, 2018
 
