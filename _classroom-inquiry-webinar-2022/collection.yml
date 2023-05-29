@@ -1,5 +1,4 @@
 collections:
   classroom-inquiry-webinar-2022:
     output: true
-    order:
-      - Classroom Inquiry Webinar.md
+    order: []
