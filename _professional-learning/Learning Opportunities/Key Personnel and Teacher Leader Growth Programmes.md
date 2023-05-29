@@ -11,8 +11,8 @@ A range of programmes is offered for Key Personnel, Lead Teachers and Senior Tea
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h4>Lead Teacher-Senior Teacher (LT-ST Growth Programmes)</h4></label>
     <div>
-      <p><a href="/elis/professional-learning/professional-learning-opportunities/clinic-with-master-teachers-el/">Clinic with Master Teachers &amp; EL</a></p>
-			<p><a href="/elis/professional-learning/professional-learning-opportunities/professional-dialogue/">Professional Dialogue with Master Teachers &amp; EL</a></p>
+      <p><a href="/elis/professional-learning/professional-learning-opportunities/clinic-with-master-teachers-el/">Clinic with Master Teachers/EL</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/professional-dialogue/">Professional Dialogue with Master Teachers/EL</a></p>
 			<p><a href="/elis/professional-learning/professional-learning-opportunities/teacher-work-attachment-elis/">Teacher Work Attachment@ELIS</a></p>
     </div>
 	</li>  
