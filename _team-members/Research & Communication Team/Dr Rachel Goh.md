@@ -2,7 +2,7 @@
 title: Dr Rachel Goh
 permalink: /elis/about-us/team-members/research-team/dr-rachel-goh/
 description: ""
-third_nav_title: Research &amp; Communication Team
+third_nav_title: Research & Communication Team
 ---
 <img src="/images/dr%20rachel%20goh.png" style="width:80%">
 		 

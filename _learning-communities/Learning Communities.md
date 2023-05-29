@@ -9,4 +9,3 @@ ELIS facilitates the growth of vibrant learning communities among English Langua
 *   [Instagram](https://www.instagram.com/elis.moe/)
 *   [Special Interest Groups](/elis/learning-communities/special-interest-group)
 *   [Facebook](https://www.facebook.com/elis.singapore.page/)
-

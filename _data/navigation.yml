@@ -10,9 +10,19 @@ links:
       - title: Contact Us
         url: /elis/about-us/contact-us
   - title: Professional Learning
-    collection: professional-learning
+    url: /elis/professional-learning/
+    sublinks:
+      - title: Learning Opportunities
+        url: /elis/professional-learning/professional-learning-opportunities/
   - title: Learning Communities
-    collection: learning-communities
+    url: /elis/learning-communities/
+    sublinks:
+      - title: Singapore Writing Institute
+        url: /elis/learning-communities/swi-alumni/
+      - title: Special Interest Group (SIG)
+        url: /elis/learning-communities/special-interest-group/
+      - title: Teacher Work Attachment
+        url: /elis/learning-communities/teacher-work-attachment/
   - title: Resources
     url: /elis/resources/
     sublinks:

@@ -2,7 +2,7 @@
 title: Dr Caroline Ho
 permalink: /elis/about-us/team-members/research-team/dr-caroline-ho/
 description: ""
-third_nav_title: Research &amp; Communication Team
+third_nav_title: Research & Communication Team
 ---
 <img src="/images/dr%20caroline%20ho.png" style="width:80%">
 		 
