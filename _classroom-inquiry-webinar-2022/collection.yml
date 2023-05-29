@@ -2,4 +2,4 @@ collections:
   classroom-inquiry-webinar-2022:
     output: true
     order:
-      - example-page.md
+      - Classroom Inquiry Webinar.md
