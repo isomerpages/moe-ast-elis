@@ -3,23 +3,23 @@ title: Play
 permalink: /elis/resources/play/
 description: ""
 ---
-### Play the _Let's Talk!_ card game to develop students’ academic discussion skills
+### Play the&nbsp;_Let's Talk!_&nbsp;card game to develop students’ academic discussion skills
 
-<img src="/images/play_banner.png" 
-     style="width:50%">
+<img src="/images/play_banner.png" style="width:50%">
 
-<img src="/images/lesson-2_let's-talk51a7e6e4204a4497bc666bf8e2a3dea4.jpg" 
-     style="width:50%">
+<img src="/images/lesson-2_let's-talk51a7e6e4204a4497bc666bf8e2a3dea4.jpg" style="width:50%">
 		 
-The aim of the _Let’s Talk!_ card game is to motivate students to practise the communication skills needed for productive academic discussion in Mathematics, Science or the Humanities.
+The aim of the&nbsp;_Let’s Talk!_&nbsp;card game is to motivate students to practise the communication skills needed for productive academic discussion in Mathematics, Science or the Humanities.
 
-The cards illustrate ‘talk moves’ students can use to engage in discussion and, on the flip side, provide language scaffolds in the form of sentence stems to help them do this. Each sentence stem represents a specific “academic conversation skill”. (Zwiers & Crawford, 2011).
+The cards illustrate ‘talk moves’ students can use to engage in discussion and, on the flip side, provide language scaffolds in the form of sentence stems to help them do this. Each sentence stem represents a specific “academic conversation skill”. (Zwiers &amp; Crawford, 2011).
 
-Click [here](/files/sl_game-manual_final-(2020-nov-6).pdf) to download the _Let’s Talk!_ card game manual.
+Click&nbsp;[here](/files/sl_game-manual_final-(2020-nov-6).pdf)&nbsp;to download the&nbsp;_Let’s Talk!_&nbsp;card game manual.
 
-Read more about how [CHIJ Our Lady Queen of Peace](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/cs1-300-using-the-lets-talk-card-game-for-learning.pdf?sfvrsn=83a2d528_2) and  [Bedok View Secondary School](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/docs/librariesprovider2/resouces-docs/cs1-301-using-the-lets-talk-card-game-for-learning-at-secondary-level-geography-history.pdf?sfvrsn=b07ef4bb_2) have used the card game in their classrooms.
+Find out how to use the *Let's Talk!* card game in your classroom in [this microlearning unit](https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758).
+
+
 
 **Reference**  
-Zwiers, J. & Crawford, M. (2011). Academic conversations: Classroom talk that fosters critical thinking and content understandings. Portland, MA: Stenhouse.
+Zwiers, J. &amp; Crawford, M. (2011).&nbsp;Academic conversations: Classroom talk that fosters critical thinking and content understandings.&nbsp;Portland, MA: Stenhouse.
 
-To find out more about the Let's Talk card game, please contact MOE\_ELIS\_Academy@moe.gov.sg.
+To find out more about the *Let's Talk!* card game, please contact MOE\_ELIS\_Academy@moe.gov.sg.
