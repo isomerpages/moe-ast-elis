@@ -35,5 +35,3 @@ Prior to the introduction of the ‘Document-Based Lesson’, students had found
 The author believes that the ‘Document-Based Lesson’ helped the students to develop the cognitive tools that allowed them to make meaning through the process of inquiry.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
