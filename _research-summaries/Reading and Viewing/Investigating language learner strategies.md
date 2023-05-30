@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-summaries/reading-viewing/investigating
 description: ""
 third_nav_title: Reading and Viewing
 ---
- Gu, P. Y., Hu, G., & Zhang, L. J. (2005). Investigating language learner strategies among lower primary school pupils in Singapore. Language and Education, 19(4), 281-303.
+Gu, P. Y., Hu, G., & Zhang, L. J. (2005). Investigating language learner strategies among lower primary school pupils in Singapore. Language and Education, 19(4), 281-303.
 
 ### Background
 
@@ -32,5 +32,3 @@ The authors concluded that it was possible to use the think-aloud protocol to ga
 
 
 _**Original article retrieved from Google Scholar.**_   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
