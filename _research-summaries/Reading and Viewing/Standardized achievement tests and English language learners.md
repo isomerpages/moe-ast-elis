@@ -31,5 +31,3 @@ The results suggested that the ELLs performed significantly lower than the non-E
 The author highlighted that, where there was a high level of language complexity in the assessment tool, there would be a greater performance difference between ELLs and non-ELLs. The linguistically complex structures of the test items in content-based assessments for non-native speakers of English might weaken the reliability and validity of the tests. The author called for attention to be paid to the linguistic complexity of test items unrelated to the content that was being assessed in an effort to reduce the confounding effects of language difficulty.
 
 _**Original article retrieved from Google Scholar.**_   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
