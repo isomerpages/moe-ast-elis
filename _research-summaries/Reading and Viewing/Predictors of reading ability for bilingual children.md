@@ -30,5 +30,4 @@ Consistent with prior research on monolingual children, phonological awareness w
 
 The authors attributed the lack of a statistically significant memory contribution to the assessment task. They proposed that future work measure short-term and working memory separately with assessment tools such as nonsense word repetition and listening comprehension, respectively. Conversely, the lack of predictive power observed for vocabulary was speculated to be the result of bilingual participants’ adeptness at guessing word meanings. Finally, the authors also proposed the need to conduct a longitudinal study to establish a causal relationship between phonological awareness and grammar, and reading accuracy and comprehension ability among bilingual boys and girls, or an intervention study so as to establish if a programme designed to improve phonological awareness and grammar does indeed result in better reading accuracy and reading comprehension skills.
 
-_**Original article retrieved from Taylor & Francis Online.**_  
-
+_**Original article retrieved from Taylor & Francis Online.**_
