@@ -35,5 +35,4 @@ However, the results also indicated that how ICT was being implemented in school
 The authors emphasized the importance of the support of pedagogical strategies to promote the use of computing devices or even one-to-one computing. The use of ICT was still relatively rare and studies would need to look at the strategies to be used in different subjects as these would vary according to the needs of the subjects.
 
 
-_**Original article retrieved from Taylor & Francis.**_ 
-
+_**Original article retrieved from Taylor & Francis.**_
