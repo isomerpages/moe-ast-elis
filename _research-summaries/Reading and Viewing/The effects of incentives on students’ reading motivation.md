@@ -31,4 +31,3 @@ Results gathered from the Reading Survey and the Parent Survey suggested that th
 The authors proposed the need for teachers and administrators to rethink the time, effort and money invested in providing incentives for students to read. They also urged educators and researchers to explore the effectiveness of other classroom activities (e.g., teacher book talks, book sharing sessions between peers) on students’ reading motivation.
 
 _**Original article retrieved from Taylor and Francis.**_   
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
