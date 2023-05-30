@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/reading-and-viewing/when-read
 description: ""
 third_nav_title: Reading and Viewing
 ---
-
 Lee, S. Y. (2015). Joining the ‘literacy club’: when reading meets blogging. ELT Journal, 69(4), 373-382.
 
 ### Background
@@ -32,4 +31,3 @@ Results showed that most participants were motivated to read and write more afte
 The writer perceived blogging as a platform to provide academic support and facilitate social interaction to help students learn as a community. She thought that blogging motivated students to read more extensively so that they could post their thoughts about the books that they had read. It also promoted a reading culture and helped build a literacy club. However, the writer cautioned against regarding the number of words as a valid measure of the quality of ideas.
 
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
