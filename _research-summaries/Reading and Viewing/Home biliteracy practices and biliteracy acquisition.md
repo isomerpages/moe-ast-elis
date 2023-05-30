@@ -31,4 +31,4 @@ The parents’ attitudes towards parenting and home literacy varied with their e
 
 The author suggested that schools should build on family literacy practices, and that immigrant parents should actively involve themselves in the community and school.  
   
-Original article retrieved from NIE Digital Repository.
+**_Original article retrieved from [NIE Digital Repository](https://repository.nie.edu.sg/)._**
