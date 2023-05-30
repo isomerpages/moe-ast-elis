@@ -30,5 +30,4 @@ The authors found that adequate comprehenders applied critical text processes su
 
 The authors recommended that teachers pay attention to text difficulty and genre when planning comprehension instruction. They suggested that students might benefit from instruction in inference generation and paraphrasing in grade-level texts before progressing to more difficult narratives and informational texts. Teachers of poor comprehenders should also consider providing background knowledge related to information texts, using audiovisual resources or photographs, prior to students reading the texts.  
   
-_**Original article retrieved from Wiley Online Library.**_  
-
+_**Original article retrieved from Wiley Online Library.**_
