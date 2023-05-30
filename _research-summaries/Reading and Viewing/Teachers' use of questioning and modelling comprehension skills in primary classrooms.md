@@ -29,4 +29,3 @@ The author highlighted that a substantial proportion of the observed classroom p
 
 _**Original article retrieved from Taylor and Francis online. Please consult our online guide**_ 
 
-**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/f22d6750-9439-44fb-8038-132a73f61255 "Accessing e-Resources")**_**to find out how to access library resources.**_
