@@ -4,11 +4,11 @@ permalink: /elis/resources/read/research-summaries/reading-and-viewing/using-qar
 description: ""
 third_nav_title: Reading and Viewing
 ---
-Kinniburgh, L. H., & Prew, S. S. (2010). Question answer relationships (QAR) in the primary grades: Laying the foundation for reading comprehension. International Journal of Early Childhood Special Education, 2(1), 31-44.
+Kinniburgh, L. H., & Prew, S. S. (2010). Question Answer Relationships (QAR) in the primary grades: Laying the foundation for reading comprehension. International Journal of Early Childhood Special Education, 2(1), 31-44.
 
 ### Background
 
-Question Answer Relationships (QAR) is an instructional strategy which can be used to categorise and answer a variety of reading comprehension questions. Its use has been widely researched and documented at upper primary level, but very little has been studied regarding using QAR at lower primary level. This action research study resulted from a training session where kindergarten and lower primary teachers expressed reservations about the application of QAR at their level.
+'Question Answer Relationships' (QAR) is an instructional strategy which can be used to categorise and answer a variety of reading comprehension questions. Its use has been widely researched and documented at upper primary level, but very little has been studied regarding using QAR at lower primary level. This action research study resulted from a training session where kindergarten and lower primary teachers expressed reservations about the application of QAR at their level.
 
 ### Aims
 
@@ -31,5 +31,3 @@ The authors reported their findings for each teacher and students at their respe
 The authors highlighted that using QAR in combination with a variety of instructional materials motivated the students to use the strategy. They suggested that QAR could be applied successfully at kindergarten, and lower primary levels with appropriate professional support, and could result in improvement in reading comprehension.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
