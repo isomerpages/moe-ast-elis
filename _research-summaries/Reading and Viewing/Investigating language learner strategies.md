@@ -31,4 +31,4 @@ The excerpts of the learners’ verbal reports indicated to some extent that, wh
 The authors concluded that it was possible to use the think-aloud protocol to gather meaningful data pertaining to children’s use of LLS in task-specific language learning events if researchers took care in handling children and had good probing skills in strategy elicitation.
 
 
-_**Original article retrieved from Google Scholar.**_   
+_**Original article retrieved from Google Scholar.**_
