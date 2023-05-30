@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/ict/role-of-exploratory-talk-
 description: ""
 third_nav_title: ICT
 ---
-
 Knight, S., & Mercer, N. (2015). The role of exploratory talk in classroom search engine tasks. Technology, Pedagogy and Education, 24(3), 303-309. doi: 10.1080/1475939X.2014.931884
 
 
@@ -33,4 +32,3 @@ The authors found that the students who engaged most in exploratory talk were th
 The authors recommended that teachers encourage more collaborative discussion in their classrooms when they have students engage in tasks that involve searching for information online. They recommended that the objectives of these tasks be used to encourage students to explore misconceptions, discuss whether the search results were useful, and share information-seeking strategies.
 
 _**Original article retrieved from Talyor and Francis.**_  
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/ict/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
