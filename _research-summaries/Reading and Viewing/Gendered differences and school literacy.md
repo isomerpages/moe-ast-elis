@@ -35,4 +35,4 @@ The writing task showed that narratives written by the girls contained features 
 The author concluded that boys appeared to be comparatively disadvantaged in the school literacy curriculum due to their gendered positioning towards reading and writing. However, she cautioned against knee-jerk reactions and advocated further research to reach a better solution.
 
 
-Original article retrieved from NIE Digital Repository.
+**_Original article retrieved from [NIE Digital Repository](https://repository.nie.edu.sg/)._**
