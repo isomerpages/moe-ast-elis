@@ -31,5 +31,3 @@ The authors showed that there was an advantage in targeting a small part of the 
 The authors asserted a need to reintroduce the Reading Systems Framework to guide more specific hypotheses about comprehension and differences in comprehension skill. They cited the long history of reading comprehension research, and suggested that a closer view of the interaction between the word identification system and the comprehension system within the Reading Systems Framework be considered.  
   
 _**Original article retrieved from Google Scholar.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
