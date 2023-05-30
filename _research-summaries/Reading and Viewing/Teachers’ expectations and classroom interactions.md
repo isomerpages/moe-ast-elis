@@ -31,5 +31,3 @@ Teacher expectations were significantly higher than the actual reading achieveme
 Differing expectations could result from the stereotyping of students. The theorising of a sustaining expectation effect explained the limited progress of Maori students. For Pacific Island, Asian and New Zealand European students, positive self-fulfilling prophecies may be operating. The study called for teachers to examine their beliefs and consequent expectations to see if these could be variables that significantly influence students’ opportunity to learn.  
   
 _**Retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
