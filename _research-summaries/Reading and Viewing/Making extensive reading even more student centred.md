@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-summaries/reading-viewing/make-extensiv
 description: ""
 third_nav_title: Reading and Viewing
 ---
- Jacobs, G., & Renandya, W. (2015). Making extensive reading even more student- centred. Indonesian Journal of Applied Linguistics, 4(2), 102-112. Retrieved from [http://ejournal.upi.edu/index.php/IJAL/article/viewFile/691/499](http://ejournal.upi.edu/index.php/IJAL/article/viewFile/691/499)
+Jacobs, G., & Renandya, W. (2015). Making extensive reading even more student- centred. Indonesian Journal of Applied Linguistics, 4(2), 102-112. Retrieved from [http://ejournal.upi.edu/index.php/IJAL/article/viewFile/691/499](http://ejournal.upi.edu/index.php/IJAL/article/viewFile/691/499)
 
 ### Background
 
@@ -32,4 +32,3 @@ The authors believed that the shift to the adoption of SCL in ER would take care
 
 _**Original article retrieved from Google Scholar.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
