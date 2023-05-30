@@ -32,5 +32,3 @@ Although the observed caregivers might not have had formal instruction in the co
 
 
 **_Original article retrieved from [NIE Digital Repository](https://repository.nie.edu.sg/)._**   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
