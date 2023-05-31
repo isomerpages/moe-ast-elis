@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: English Language Institute of Singapore
-      background: /images/hero-banner.png
+      background: /images/homepage.png
   - infopic:
       title: Professional Learning Opportunities 2023
       description: Interested in professional learning opportunities offered to
