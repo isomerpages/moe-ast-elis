@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-summaries/grammar/learning-study-as-an-
 description: ""
 third_nav_title: Grammar
 ---
- Siu, I. Y. M. (2008). Learning study as an approach to teacher development in two primary schools. The Asia-Pacific Education Researcher, 17(1), 99–108.
+Siu, I. Y. M. (2008). Learning study as an approach to teacher development in two primary schools. The Asia-Pacific Education Researcher, 17(1), 99–108.
 
 ### Background
 
@@ -33,5 +33,3 @@ The study pointed to the challenge faced by teams who needed to grapple with the
 
 
 _**Original article retrieved from Google Scholar.**_   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
