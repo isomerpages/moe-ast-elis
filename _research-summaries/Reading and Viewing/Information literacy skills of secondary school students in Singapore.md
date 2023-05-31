@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/reading-viewing/information-l
 description: ""
 third_nav_title: Reading and Viewing
 ---
-
 Foo, S., Majid, S., Azura Mokhtar, I., Zhang, X., Chang, Y. K., Luyt, B., & Theng, Y. L. (2014). Information literacy skills of secondary school students in Singapore. Aslib Journal of Information Management, 66(1), 54-76.
 
 ### Background
@@ -33,5 +32,3 @@ The author highlighted that the students rarely visited and used resources in pu
 
 
 _**Original article retrieved from Google Scholar.**_ 
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

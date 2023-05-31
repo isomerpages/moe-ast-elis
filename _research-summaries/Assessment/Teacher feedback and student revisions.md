@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/assessment/teacher-feedback-a
 description: ""
 third_nav_title: Assessment
 ---
-
 Silver, R., & Lee, S. (2007). What does it take to make a change. English Teaching: Practice and Critique, 6(1), 25-49. Retrieved from http://education.waikato.ac.nz/research/files/etpc/2007v6n1art.pdf
 
 ### Background
@@ -35,4 +34,3 @@ The authors recommended that students be trained on understanding the intent of 
 
 
 Original article retrieved from Google Scholar.  
-Please consult our online guide [Accessing e-Resources](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp-stg.sg/docs/librariesprovider2/resouces-docs/accessing-e-resources.pdf?sfvrsn=669bb0ad_2) to find out how to access library resources.

@@ -4,8 +4,6 @@ permalink: /elis/resources/read/research-summaries/reading-and-viewing/a-classro
 description: ""
 third_nav_title: Reading and Viewing
 ---
-
-
 Varga, A. (2017). Metacognitive perspectives on the development of reading comprehension: A classroom study of literary text-talks, Literacy 51(1), 19-25.
 
 ### Background
@@ -51,4 +49,3 @@ The study provided teachers with useful tools to develop students’ reading and
 
 _**Original article retrieved from EBSCOHost.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

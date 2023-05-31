@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/reading-viewing/evaluation-of
 description: ""
 third_nav_title: Reading and Viewing
 ---
- 
 Shegar, C. (2009). Buddy Reading in a Singaporean primary school: Implications for training and research. RELC Journal, 40(2), 133-148.
 
 ### Background
@@ -34,4 +33,3 @@ Findings suggested that children have the potential to be as effective as older 
 
 _**Original article retrieved from Sage Journals.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

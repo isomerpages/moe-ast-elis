@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-summaries/assessment/developing-writing
 description: ""
 third_nav_title: Assessment
 ---
- Pella, S. (2011). A situative perspective on developing writing pedagogy in a teacher professional learning community. Teacher Education Quarterly, 38, 107-125.
+Pella, S. (2011). A situative perspective on developing writing pedagogy in a teacher professional learning community. Teacher Education Quarterly, 38, 107-125.
 
 ### Background
 
@@ -33,4 +33,3 @@ The author called for more research to focus on the socio-cultural settings and 
 
 _**Original article retrieved from Google scholar.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/assessment/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

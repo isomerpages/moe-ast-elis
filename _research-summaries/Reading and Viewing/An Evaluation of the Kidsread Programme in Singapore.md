@@ -31,5 +31,3 @@ The results indicated that there was a significant increase in the positive resp
 The authors highlighted that although this was a small scale study, it showed that reading for pleasure had produced great benefits. As school-based reading emphasized highly structured texts and decoding and word identification, it would be necessary to balance this instruction with a more pleasure-oriented reading instruction that centred on motivating children to read and creating platforms for them to experience various emotional responses. This would allow these children to rediscover themselves in reading and develop positive attitudes towards reading, which in turn would lead to a deeper understanding and enhanced perception of the self as a reader.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

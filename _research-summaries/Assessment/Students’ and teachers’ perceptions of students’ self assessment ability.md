@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/assessment/students-perceptio
 description: ""
 third_nav_title: Assessment
 ---
-
 Rubie‐Davies, C., Hattie, J., & Hamilton, R. (2006). Expecting the best for students: Teacher expectations and academic outcomes. British Journal of Educational Psychology, 76(3), 429-444.
 
 ### Background
@@ -34,4 +33,3 @@ Differing expectations could result from the stereotyping of students. The theor
 
 _**Retrieved from EBSCOHost.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/assessment/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

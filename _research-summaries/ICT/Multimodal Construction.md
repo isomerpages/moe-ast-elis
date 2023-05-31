@@ -33,4 +33,3 @@ Course writers and teachers need to unpack the different subtle meanings that ar
 
 _**Original article retrieved from Taylor & Francis Online.**_  
 
-_**Please consult our online guide ‘**_[**_Accessing e-Resources(.pdf, 2.2 MB)_**](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/ict/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_**’ to find out how to access library resources.**_

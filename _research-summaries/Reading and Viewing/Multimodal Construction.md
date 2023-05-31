@@ -31,5 +31,3 @@ The students’ difficulties with the concept of work-energy included its abstra
 Course writers and teachers need to unpack the different subtle meanings that arise from the use of each representation, including language, diagrams, equations and graphs, examining how each representation is interconnected to one another for every concept stated in the syllabus. They must then make explicit the connections among the different representations and help students integrate them seamlessly.
 
 _**Original article retrieved from Taylor & Francis Online.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/reading-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**

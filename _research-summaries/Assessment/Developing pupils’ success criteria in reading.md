@@ -26,4 +26,4 @@ Pupils’ responses demonstrated that they could establish their own success cri
 
 The writers emphasised the importance of an attitudinal shift by all participants which involves greater openness to take risk and to the integral role of AfL. They recommended that teachers needed to perceive their roles as facilitators instead of primary sources of knowledge and expertise and to commit to the participatory roles of AfL. A clearer delineation of how and who to collaborate with was necessary.
 
-_**Original article retrieved from Google scholar. Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/assessment/f22d6750-9439-44fb-8038-132a73f61255 "Accessing e-Resources") to find out how to access library resources.**_
+_**Original article retrieved from Google scholar. 

@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/ict/ict-integration-into-prim
 description: ""
 third_nav_title: ICT
 ---
-
 Tay, L. Y., Lim, S. K., Lim, C. P., & Koh, J. H. L. (2012). Pedagogical approaches for ICT integration into primary school English and mathematics: A Singapore case study. Australasian Journal of Educational Technology, 28(4), 740-754.
 
 ### Background
@@ -34,4 +33,3 @@ The authors highlighted the benefits of using the learning from and learning wit
 
 _**Original article retrieved from Google Scholar.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/ict/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
