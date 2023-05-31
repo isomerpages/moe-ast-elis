@@ -36,6 +36,4 @@ The games provided ‘languaging’ opportunities – talk for metalinguistic un
 
 The authors highlighted that the study confirmed the potential of dialogic teaching in transforming grammar pedagogy in terms of how to introduce concepts, how to successively build and consolidate learners’ understandings as well as how to develop their dispositions towards working with language. However, there was a need to build up descriptions of grammar teaching with students of different ages, in different curriculum contexts and with different grammatical concepts.
 
-_**Original article retrieved from Original article retrieved from Taylor & Francis.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
+_**Original article retrieved from Original article retrieved from Taylor & Francis.**_ 
