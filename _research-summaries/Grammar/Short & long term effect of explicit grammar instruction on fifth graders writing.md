@@ -5,7 +5,6 @@ permalink: /elis/resources/read/research-summaries/grammar/short-long-term-effec
 description: ""
 third_nav_title: Grammar
 ---
-
 Feng, S., & Powers, K. (2005). The short- and long-term effect of explicit grammar instruction on fifth graders’ writing. Reading Improvement, 42(2), 67-72.
 
 ### Background
@@ -35,4 +34,3 @@ The findings of the study support the claim that error-based instruction is an e
 
 _**Original article retrieved from Taylor and Francis online.**_   
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
