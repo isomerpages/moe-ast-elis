@@ -5,7 +5,6 @@ permalink: /elis/resources/read/research-summaries/grammar/the-syntactic-influen
 description: ""
 third_nav_title: Grammar
 ---
-
 Tan, C. (2005). English or Singlish? The syntactic influences of Chinese and Malay on the learning of English in Singapore. Journal of Language and Learning, 3(1), 156-179.
 
 ### Background
@@ -34,5 +33,3 @@ The author highlighted that the significant influences of Chinese and Malay indi
 
 
 _**Original article retrieved from Google Scholar.**_   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/grammar/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
