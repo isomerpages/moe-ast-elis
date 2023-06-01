@@ -33,4 +33,3 @@ The authors attributed the lack of a statistically significant memory contributi
 
 _**Original article retrieved from Taylor & Francis Online.**_  
 
-**_Please consult our online guide [Accessing e-Resources](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp-stg.sg/docs/librariesprovider2/resouces-docs/accessing-e-resources.pdf?sfvrsn=669bb0ad_2) to find out how to access library resources._**
