@@ -42,4 +42,3 @@ Another implication is that the questioning approaches identified in the study c
 
 _**Original article retrieved from Google Scholar.**_  
 
-_**Please consult our online guide**_ _**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/speaking-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")**__**to find out how to access library resources.**_
