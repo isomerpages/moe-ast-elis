@@ -31,4 +31,4 @@ The results indicated that the teachers’ use of sophisticated vocabulary had a
 
 The authors recommended that efforts should be made to enrich the linguistic input for older students’ in terms of sophisticated vocabulary. Students with higher English language proficiency may benefit from teachers’ use of complex language.
 
-**_Original article retrieved from ERIC. Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/speaking-and-representing/f22d6750-9439-44fb-8038-132a73f61255 "Accessing e-Resources") to find out how to access library resources._**
+**_Original article retrieved from ERIC._**
