@@ -4,7 +4,6 @@ permalink: /elis/about-us/team-members/management-team/mr-cedric-leong/
 description: ""
 third_nav_title: Management Team
 ---
-
 <div class="flex">
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Cedric_Use%20for%20website.jpg" class="m-0"></div>
