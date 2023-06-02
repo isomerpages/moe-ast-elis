@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Management Team
 ---
 <div class="flex">
-	<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="flexImg m-0">
+	<div class="imgCrop">
+		<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Ms May Tan </strong></h3>
 		<strong>Academy Principal, ELIS</strong>
@@ -14,7 +15,7 @@ third_nav_title: Management Team
 
 <style>
 	.m-0 {
-		margin: 0;
+		margin: 0 !important;
 	}
 	.flex {
 		display: flex;
@@ -22,7 +23,7 @@ third_nav_title: Management Team
 		align-items: center; 
 		gap: 20px;
 	}
-.flexImg {
+.imgCrop {
     object-fit: cover;
     width: 200px !important;
     aspect-ratio: 5/6;
