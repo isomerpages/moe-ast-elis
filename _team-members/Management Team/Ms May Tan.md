@@ -7,12 +7,15 @@ third_nav_title: Management Team
 <div class="flex">
 	<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="flexImg">
 		<div class="flex-col">
-		<h3><strong>Ms May Tan </strong></h3>
+		<h3 class="m-0"><strong>Ms May Tan </strong></h3>
 		<strong>Academy Principal, ELIS</strong>
 	</div>
 	</div>
 
 <style>
+	.m-0 {
+		margin: 0;
+	}
 	.flex {
 		display: flex;
 		justify-content: center;
