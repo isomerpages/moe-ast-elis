@@ -6,17 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-## ELIS Classroom Inquiry Webinar
-
 The ELIS Classroom Inquiry Webinar was held online in Zoom, on Thursday, 17 February 2022 (2.30 – 4.00 pm). It was attended by 335 participants comprising EL teachers, teacher leaders and teacher educators. The programme comprised talks by the following speakers from ELIS: Dr Paul Grahame Doyle, Deputy Director, Research and Dr Tay May Yin, Principal Master Teacher EL. Teacher leaders, Mdm Yusnita Md Taib, Mdm Sanmuga Malar d/o Rathakrishna and Mdm Norazelin Misnari from the West Zone EL NLC shared their experience working with teachers on classroom inquiry in the context of school PLC, focusing on the teaching of oracy and reading skills.&nbsp; These presentations were followed by a roundtable discussion with primary and secondary teacher inquirers, facilitated by Master Teachers and Specialists from ELIS.
 
-### ELIS Approach to Teacher Inquiry
+### **ELIS Approach to Teacher Inquiry**
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/yufkjuBAp50" height="315" width="560"></iframe></center>
 
 Dr Paul Doyle, Deputy Director, Research, at ELIS gave a talk on the ‘ELIS Approach to Teacher Inquiry’, in which he focused on three questions: Why should teachers engage in inquiry? What does classroom inquiry look like? How can classroom inquiry be carried out? He outlined four basic stages for classroom inquiry, and highlighted the role of teacher leaders in supporting and learning from teacher inquiry.
 
-### The Practice of Teacher Inquiry in Singapore Classrooms
+### **The Practice of Teacher Inquiry in Singapore Classrooms**
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/WOF1IOKX_U4" height="315" width="560"></iframe></center>
 
