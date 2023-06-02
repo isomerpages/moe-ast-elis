@@ -23,7 +23,7 @@ Dr Tay May Yin, Principal Master Teacher/English Language, spoke about the pract
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oegpEEBfzsU" height="315" width="560"></iframe></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IfNnU0q8kv8" height="315" width="560"></iframe></center>
 <center>
-	<a target="_blank" href="https://youtu.be/-wly52tgo-4">
+	<a style="width: 560px; height: 315px" target="_blank" href="https://youtu.be/-wly52tgo-4">
 		<img src="/images/nlc%20part%203.jpg">
 	</a>
 </center>
