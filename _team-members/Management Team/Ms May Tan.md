@@ -24,10 +24,9 @@ third_nav_title: Management Team
 		gap: 20px;
 	}
 .imgCrop {
-    object-fit: cover;
     width: 200px !important;
     aspect-ratio: 5/6;
-    object-position: top;
+	overflow: hidden;
 }
 	.flex-col {
 		display: flex;
