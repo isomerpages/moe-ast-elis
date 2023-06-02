@@ -22,6 +22,17 @@ Dr Tay May Yin, Principal Master Teacher/English Language, spoke about the pract
 
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oegpEEBfzsU" height="315" width="560"></iframe></center>
 <center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IfNnU0q8kv8" height="315" width="560"></iframe></center>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-wly52tgo-4" height="315" width="560"></iframe></center>
+<center>
+	<a target="_blank" href="https://youtu.be/-wly52tgo-4">
+		<img src="">
+	</a>
+</center>
+
 
 Find out how West Zone EL NLC teacher leaders and teachers collaborated with knowledgeable others to inquire into ways to enhance the teaching of oracy and reading.
+
+<style>
+a::before, a::after {
+	content: "" !important;
+}
+</style>
