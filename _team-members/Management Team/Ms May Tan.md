@@ -4,11 +4,9 @@ permalink: /elis/about-us/team-members/management-team/ms-may-tan/
 description: ""
 third_nav_title: Management Team
 ---
-<img src="/images/Ms%20May%20Tan.png" style="width:80%">
-
 <div class="flex">
-	<img src="" class="flexImg">
-	<div class="flex flex-col">
+	<div class="flexImg"><img src="/images/Team%20Members/May_Use%20for%20website.jpg"></div>
+		<div class="flex flex-col">
 		<h4><strong>Ms May Tan <strong></strong></strong></h4><strong><strong>
 		<strong>Academy Principal, ELIS</strong>
 	</strong></strong></div><strong><strong>
@@ -18,7 +16,8 @@ third_nav_title: Management Team
 	.flex {
 		display: flex;
 		justify-content: center;
-		align-items: center;
+		align-items: center; 
+		gap: 10px;
 	}
 	.flexImg {
 		width: 100px !important;
