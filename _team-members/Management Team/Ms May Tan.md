@@ -5,24 +5,26 @@ description: ""
 third_nav_title: Management Team
 ---
 <div class="flex">
-	<div class="flexImg"><img src="/images/Team%20Members/May_Use%20for%20website.jpg"></div>
-		<div class="flex flex-col">
-		<h4><strong>Ms May Tan <strong></strong></strong></h4><strong><strong>
+	<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="flexImg">
+		<div class="flex-col">
+		<h4><strong>Ms May Tan </strong></h4>
 		<strong>Academy Principal, ELIS</strong>
-	</strong></strong></div><strong><strong>
-</strong></strong></div><strong><strong>
+	</div>
+	</div>
 
 <style>
 	.flex {
 		display: flex;
 		justify-content: center;
 		align-items: center; 
-		gap: 10px;
+		gap: 20px;
 	}
-	.flexImg {
-		width: 100px !important;
-		aspect-ratio: 1;
-	}
+.flexImg {
+    object-fit: cover;
+    width: 200px;
+    aspect-ratio: 5/6;
+    object-position: top;
+}
 	.flex-col {
 		display: flex;
 		flex-direction: column;
@@ -30,4 +32,3 @@ third_nav_title: Management Team
 </style>
 		
 May joined the English Language Institute of Singapore (ELIS) as its third Academy Principal in December 2018. She was previously the Principal of Qifa Primary School from 2012 to 2018, and Vice-principal of Fairfield Methodist School (Secondary) from 2010 to 2012.&nbsp; She taught English Language, History and Social Studies at the secondary level. She also worked in the Curriculum and Examinations divisions in the Ministry of Education (MOE).&nbsp; May completed the Master of Education on Curriculum, Pedagogy and Assessment at the Institute of Education, University of London under the MOE Postgraduate Scholarship in 2010.
-</strong></strong>
