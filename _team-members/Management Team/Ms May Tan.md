@@ -9,6 +9,7 @@ third_nav_title: Management Team
 <div class="flex">
 	<img src="" class="flexImg">
 	<div class="flex flex-col">
+		<h4>Ms May Tan</h4>
 		<strong>Academy Principal, ELIS</strong>
 	</div>
 </div>
