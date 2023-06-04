@@ -78,3 +78,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodca
 </a></p><center><a href="/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part3/"><b>Learning from Inquiry as a Zonal Networked Learning Community (NLC) (Part 3)
 </b></a></center><a href="/podcast-series/classroom-inquiry/learning-from-inquiry-as-a-zonal-nlc-part3/">
 </a>
+
+<p><a href="/podcast-series/classroom-inquiry/using-drama-techniques-to-improve-student-writing/">
+<img style="width:40%" src="/images/ci%208%20malinda.png">
+</a></p><center><a href="/podcast-series/classroom-inquiry/using-drama-techniques-to-improve-student-writing/"><b>Using Drama Techniques to Improve Student Writing
+</b></a></center><a href="/podcast-series/classroom-inquiry/using-drama-techniques-to-improve-student-writing/">
+</a>

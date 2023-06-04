@@ -29,4 +29,3 @@ The authors recommended that efforts should be made to enrich the linguistic inp
 
 _**Original article retrieved from ERIC.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/vocabulary/f22d6750-9439-44fb-8038-132a73f61255 "Accessing e-Resources") to find out how to access library resources._**

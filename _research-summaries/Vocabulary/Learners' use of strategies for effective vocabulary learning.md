@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/vocabulary/strategies-for-eff
 description: ""
 third_nav_title: Vocabulary
 ---
-
 Moir, J., & Nation, I. S. (2002). Learners' use of strategies for effective vocabulary learning. Prospect, 17(1), 15-35.
 
 ### Background
@@ -34,6 +33,4 @@ The results indicated that the learners were using a limited set of vocabulary-l
 The authors suggested that teachers spend more time with learners to help them decide the reasons for learning vocabulary and what they need to learn. Teachers should also work with individuals in consultations or small group discussions to help them determine their goals and vocabulary strategies to realize those goals. Learners need to constantly practise the strategies learnt and close monitoring of their development by teachers is essential. Learners also need to reflect on and question their own learning behaviour.
 
 
-_**Original article retrieved from Google Scholar.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/vocabulary/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
+_**Original article retrieved from Google Scholar.**_ 

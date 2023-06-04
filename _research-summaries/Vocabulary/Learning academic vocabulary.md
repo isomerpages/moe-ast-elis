@@ -31,6 +31,4 @@ The results indicated that the students learnt verb meanings better in more sema
 The authors suggested that teaching vocabulary in a semantically connected context was effective for primary school students. They recommended providing definitions and synonyms for new vocabulary and embedding them in sentences that contributed to a scenario and that showed the syntactic and semantic constraints of the new words.
 
 
-_**Original article retrieved from Wiley Online Library.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/vocabulary/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
+_**Original article retrieved from Wiley Online Library**_
