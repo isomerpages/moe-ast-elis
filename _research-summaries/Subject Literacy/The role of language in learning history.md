@@ -38,4 +38,3 @@ The author asserts that a focus on text and language is not incompatible with te
 
 _**Original article retrieved from EBSCOHost.**_  
 
-ccessing e-Resources")’ to find out how to access library resources._**
