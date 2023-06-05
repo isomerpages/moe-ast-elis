@@ -35,5 +35,3 @@ These themes emerged from the analysis:
 The author concluded that for L2 learners whose speaking skills are superior to their writing skills, dialogic interactions can potentially bridge the gap between speaking and writing. Secondly, the key to the successful revision of writing may lie in L2 learners’ ability to clarify their ideas through oral verbalisation. Thirdly, the roles of teacher and students must be redefined and renegotiated.
 
 **_Original article retrieved from [http://doi.org/10.1016/j.jslw.2017.11.007.](http://doi.org/10.1016/j.jslw.2017.11.007)_**  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
