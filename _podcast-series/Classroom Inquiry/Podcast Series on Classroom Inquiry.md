@@ -24,7 +24,7 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodca
 
 <p><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3">
 <img style="width:40%" src="/images/adeline-3.jpg">
-</a></p><center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3"><b>Developing Motivation to Write Through Journaling (Part 2)</b></a></center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3">
+</a></p><center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3"><b>Developing Motivation to Write Through Journaling (Part 3)</b></a></center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-3">
 </a>
 
 <p><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-4">
