@@ -31,4 +31,3 @@ The authors found that the use of multiple sources with a focus on content had t
 Using multiple texts helps students learn content better than a single textbook. Further research is needed on the teaching of heuristics as students in this study tended to have problems with the contextualization heuristic they were taught.  
   
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
