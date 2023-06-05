@@ -31,4 +31,3 @@ The authors found differences between the approaches of experts to reading diffe
 While the authors believe disciplinary literacy will help to raise the literacy skills of all students in the subjects they studied, they feel that further research needs to be carried out before this can be confirmed.  
   
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
