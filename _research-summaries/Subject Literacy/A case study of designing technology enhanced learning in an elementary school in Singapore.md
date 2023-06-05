@@ -36,5 +36,4 @@ An ethnographic case-study approach was adopted to examine the experiences of th
 The authors highlighted that the depth of the students’ learning depended, to a large extent, on how lessons were being designed. Teachers also needed to be cognizant of how ICT was used for teaching and learning for the various subjects and of other contextual factors, such as the technological infrastructure and school administration.
 
 
-_**Original article retrieved from Taylor & Francis.**_   
-
+_**Original article retrieved from Taylor & Francis.**_
