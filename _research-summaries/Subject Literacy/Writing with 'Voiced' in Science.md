@@ -31,5 +31,3 @@ The 11 more clearly voiced texts showed students using a first-person point of v
 The author conceded that while her students’ science knowledge and argumentative writing had developed from the unit, their argumentation was outside the disciplinary boundaries of scientific writing. Their authorial and aggressive voice would undermine their persuasiveness within the field of science. She thus highlighted the need for language and subject teachers to coordinate instruction to ensure that students understood both general and discipline-specific models of argumentative writing.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**

@@ -33,4 +33,3 @@ For this teacher, the intervention led to a new approach to the unit on Singapor
 With careful planning and understanding, teachers of different subjects could plan lessons that involve students in critical reviews of their course content.  
   
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**

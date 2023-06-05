@@ -27,5 +27,3 @@ The results indicated that there were significant differences between the teache
 The results implied that the accuracy of the students’ self-assessment would be affected by their lack of confidence, and the lack of practice and training in the use of self-assessment. The students’ self-awareness of their needing more practice also implied their receptiveness to using self-assessment.
 
 _**Original article retrieved from Taylor & Francis online.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/subject-literacy/f22d6750-9439-44fb-8038-132a73f61255 "Accessing e-Resources") to find out how to access library resources._**
