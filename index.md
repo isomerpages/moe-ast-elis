@@ -41,3 +41,10 @@ sections:
       image: /images/podcast.png
       alt: podcast
 ---
+
+
+<style>
+.bp-hero-body {
+  background: transparent;
+}
+</style>
