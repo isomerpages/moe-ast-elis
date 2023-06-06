@@ -45,6 +45,6 @@ sections:
 
 <style>
 .bp-hero-body {
-  background: transparent;
+  background: transparent !important;
 }
 </style>
