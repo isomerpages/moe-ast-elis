@@ -20,17 +20,3 @@ Dr Paul Doyle, Deputy Director, Research, at ELIS gave a talk on the ‘ELIS App
 
 Dr Tay May Yin, Principal Master Teacher/EL, spoke about the practice of teacher inquiry in Singapore classrooms. She discussed how such inquiry impacts students’ learning outcomes and teachers’ professional growth. She highlighted three examples of teacher inquiry undertaken by teachers and teacher leaders at the primary and secondary levels. The inquiries focused on engaging high progress learners in the English Language classroom, video reflections on taking the anxiety out of classroom observations, and learner strategies for academic reading.
 
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/oegpEEBfzsU" height="315" width="560"></iframe></center>
-<center><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/IfNnU0q8kv8" height="315" width="560"></iframe></center>
-<center>
-	<a style="width: 560px; height: 315px" target="_blank" href="https://youtu.be/-wly52tgo-4">
-		<img src="/images/nlc%20part%203.jpg">
-	</a>
-</center>
-Find out how West Zone EL NLC teacher leaders and teachers collaborated with knowledgeable others to inquire into ways to enhance the teaching of oracy and reading.
-
-<style>
-a::before, a::after {
-	content: "" !important;
-}
-</style>
