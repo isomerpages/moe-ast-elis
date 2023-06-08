@@ -18,12 +18,6 @@ third_nav_title: EL Pedagogy Team
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
 
-<figure>
-<p><a href="/elis/about-us/team-members/management-team/ms-komathi-govindasamy/">
-<img src="/images/elis-komathi-govindasamy.jpg" style="width:50%">
-</a></p>
-	<figcaption><b>Ms Komathi Govindasamy</b><br>Deputy Director, Pedagogy</figcaption>
-</figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
