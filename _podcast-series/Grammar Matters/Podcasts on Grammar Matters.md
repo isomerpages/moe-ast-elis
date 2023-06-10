@@ -52,7 +52,7 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 
 <center>
 <a href="/elis/resources/listen/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
-<img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
+<img src="/images/cover%20art%20with%20titles%20and%20names%20(5).png" style="width:30%">
 <b>Active and Stative Verbs – The Voicemail</b>
 </a>
 </center>
