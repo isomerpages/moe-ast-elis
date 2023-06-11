@@ -5,24 +5,20 @@ description: ""
 third_nav_title: EL Pedagogy Team
 ---
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop">
-		<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="m-0"></div><a href="/elis/about-us/team-members/management-team/ms-may-tan">
-</a><p></p>
-<figcaption><b>Ms May Tan</b><br>Academy Principal, ELIS</figcaption>
-</figure>
-
-<figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
-<img src="/images/may-yin_2016.jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
+		<img src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
+</a><p></p>
 	<figcaption><b>Dr Tay May Yin</b><br>Principal Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
-<img src="/images/cedric_2015.jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
+		<img src="/images/Team%20Members/Cedric_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
+</a><p></p>
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
 
