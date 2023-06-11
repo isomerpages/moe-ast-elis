@@ -5,6 +5,14 @@ description: ""
 third_nav_title: EL Pedagogy Team
 ---
 <figure>
+<p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop">
+		<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="m-0"></div><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+</a><p></p>
+<figcaption><b>Ms May Tan</b><br>Academy Principal, ELIS</figcaption>
+</figure>
+
+<figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
 <img src="/images/may-yin_2016.jpg" style="width:50%">
 </a></p>
