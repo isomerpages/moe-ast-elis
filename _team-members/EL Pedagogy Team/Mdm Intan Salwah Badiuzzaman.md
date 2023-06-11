@@ -17,7 +17,7 @@ third_nav_title: EL Pedagogy Team
 	.font-bold {
 		font-weight: bold !important;
 		color: black !important;
-		width: 275px;
+		width: min-content;
 	}
 	.m-0 {
 		margin: 0 !important;
