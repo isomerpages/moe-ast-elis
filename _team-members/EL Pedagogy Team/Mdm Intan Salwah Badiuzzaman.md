@@ -17,7 +17,7 @@ third_nav_title: EL Pedagogy Team
 	.font-bold {
 		font-weight: bold !important;
 		color: black !important;
-		width: 300px;
+		width: 275px;
 	}
 	.m-0 {
 		margin: 0 !important;
@@ -38,7 +38,5 @@ third_nav_title: EL Pedagogy Team
 		flex-direction: column;
 	}
 </style>
-
-<img src="/images/mdm%20intan%20salwah%20badiuzzaman.png" style="width:80%">
 
 Prior to joining ELIS, Intan was Head of English Department in a primary school. The connection between reading and writing has always intrigued her and that was one of the areas she focused on when she took up her Master in Education (English) in 2018. She hopes to expand her knowledge on developing writing skills among students and engage in deeper conversations among fellow educators on creating an environment where language learning can flourish. During her downtime, she enjoys cooking and travelling.
