@@ -22,6 +22,7 @@ third_nav_title: Management Team
 		justify-content: center;
 		align-items: center; 
 		gap: 20px;
+	flex-wrap:wrap;
 	}
 .imgCrop {
     width: 200px !important;
