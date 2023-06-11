@@ -5,19 +5,19 @@ description: ""
 third_nav_title: EL Pedagogy Team
 ---
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
+<p><a href="/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/">
 		<img src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/management-team/dr-tay-may-yin/">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/">
 </a><p></p>
 	<figcaption><b>Dr Tay May Yin</b><br>Principal Master Teacher</figcaption>
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
+<p><a href="/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/">
 		<img src="/images/Team%20Members/Cedric_Use%20for%20website.jpg" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/management-team/mr-cedric-leong/">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/">
 </a><p></p>
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
@@ -25,8 +25,10 @@ third_nav_title: EL Pedagogy Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
-<img src="/images/charmaine-tan-60906587f0af043a0a79c54409b5adfcd.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+		<img src="/images/Team%20Members/charmaine_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+</a><p></p>
 	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
