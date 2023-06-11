@@ -33,7 +33,7 @@ third_nav_title: Management Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/">
-</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/">
 		<img src="/images/Team%20Members/Paul_Use%20for%20website.jpg" class="m-0"></a></div>
 <p></p>
 	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, Research</figcaption>
@@ -41,7 +41,7 @@ third_nav_title: Management Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
-</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
 		<img src="/images/Team%20Members/Jeanne__Use%20for%20website.jpg" class="m-0"></a></div>
 <p></p>
 	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
