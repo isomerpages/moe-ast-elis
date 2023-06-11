@@ -62,72 +62,92 @@ third_nav_title: EL Pedagogy Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/">
-<img src="/images/jennifer-l603a2c899d57b4171962f04b6a1547bd8-1.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/">
+		<img src="/images/Team%20Members/Jennifer_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/">
+</a><p></p>
 	<figcaption><b>Ms Jennifer Lim</b><br>Master Teacher</figcaption>
 </figure>
 
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
-<img src="/images/kalpana_2018-(2si).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
+		<img src="/images/Team%20Members/Kalpana_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/">
+</a><p></p>
 	<figcaption><b>Mrs Kalpana Balasubramaniam</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
-<img src="/images/lucy-fernandez-4.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
+		<img src="/images/Team%20Members/Lucy_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
+</a><p></p>
 	<figcaption><b>Dr Lucy Fernandez</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
-<img src="/images/prisca_2018(2si).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
+		<img src="/images/Team%20Members/Prisca_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
+</a><p></p>
 	<figcaption><b>Dr Prisca Chong</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-rita-pillai/">
-<img src="/images/rita_2018(1si).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-rita-pillai/">
+		<img src="/images/Team%20Members/Rita_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-rita-pillai/">
+</a><p></p>
 	<figcaption><b>Ms Rita Pillai</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-serene-lai/">
-<img src="/images/serene_2.gif" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-serene-lai/">
+		<img src="/images/Team%20Members/Serene_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-serene-lai/">
+</a><p></p>
 	<figcaption><b>Ms Serene Lai</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-shakila-vasu/">
-<img src="/images/shakila_2018(2si).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-shakila-vasu/">
+		<img src="/images/Team%20Members/Shakila_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-shakila-vasu/">
+</a><p></p>
 	<figcaption><b>Ms Shakila Vasu</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-solastri-suyot/">
-<img src="/images/solastri_2018(2si).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-solastri-suyot/">
+		<img src="/images/Team%20Members/Solastri_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-solastri-suyot/">
+</a><p></p>
 	<figcaption><b>Ms Solastri Suyot</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-benson-pang/">
-<img src="/images/elis-benson-pang.jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mr-benson-pang/">
+		<img src="/images/Team%20Members/Benson_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mr-benson-pang/">
+</a><p></p>
 	<figcaption><b>Mr Benson Pang</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
-<img src="/images/eunice-6-(1).png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
+		<img src="/images/Team%20Members/Eunice_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mdm-eunice-lim/">
+</a><p></p>
 	<figcaption><b>Mdm Eunice Lim</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
@@ -137,22 +157,28 @@ third_nav_title: EL Pedagogy Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
-<img src="/images/intan-salwah-4.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
+		<img src="/images/Team%20Members/Intan_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
+</a><p></p>
 	<figcaption><b>Mdm Intan Salwah Badiuzzaman</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/">
-<img src="/images/elis_elizabeth-lee-(1).jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/">
+		<img src="/images/Team%20Members/Elizabeth_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/">
+</a><p></p>
 	<figcaption><b>Ms Lee Hui, Elizabeth</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
-<img src="/images/selene-tan-poh-hong.jpg" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
+		<img src="/images/Team%20Members/Selene_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
+</a><p></p>
 	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
 </figure>
 
