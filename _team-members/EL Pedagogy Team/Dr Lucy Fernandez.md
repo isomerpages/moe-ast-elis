@@ -4,8 +4,37 @@ permalink: /elis/about-us/team-members/el-pedagogy/lucyfernandez/
 description: ""
 third_nav_title: EL Pedagogy Team
 ---
-<img src="/images/dr%20lucy%20fernandez.png" 
-     style="width:80%">
+<div class="flex">
+	<div class="imgCrop">
+		<img src="/images/Team%20Members/Lucy_Use%20for%20website.jpg" class="m-0"></div>
+		<div class="flex-col">
+		<h3 class="m-0"><strong>Dr Lucy Fernandez</strong></h3>
+		<strong>Master Teacher</strong>
+	</div>
+	</div>
+
+<style>
+	.m-0 {
+		margin: 0 !important;
+	}
+	.flex {
+		display: flex;
+		justify-content: center;
+		align-items: center; 
+		gap: 20px;
+	}
+.imgCrop {
+    width: 200px !important;
+    aspect-ratio: 5/6;
+	overflow: hidden;
+}
+	.flex-col {
+		display: flex;
+		flex-direction: column;
+	}
+</style>
+
+
 		 
 Prior to joining ELIS (MOE), Dr Lucy Fernandez taught at both the primary and secondary levels as well as at higher education at the National Institute of Education, Singapore. She obtained her BA (Hons) from the University of Otago, New Zealand (English and English Literature) and her MSc in Applied Linguistics and Language Acquisition from the University of Oxford, UK. While at school, Lucy held various positions and was involved in the professional development of teachers in various areas as well as spear-headed numerous initiatives and programmes. In 2009, she was conferred the President’s Award for Teachers.
 
