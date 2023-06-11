@@ -8,12 +8,17 @@ third_nav_title: EL Pedagogy Team
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Kalpana_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
-		<h3 class="m-0"><strong>Mrs Kalpana Balashubramaniam</strong></h3>
+		<h3 class="m-0 font-bold">Mrs Kalpana Balashubramaniam</h3>
 		<strong>Master Teacher/EL</strong>
 	</div>
 	</div>
 
 <style>
+	.font-bold {
+		font-weight: bold;
+		color: black !important;
+		width: min-content;
+	}
 	.m-0 {
 		margin: 0 !important;
 	}
