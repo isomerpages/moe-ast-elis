@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Research & Communication Team
 ---
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/">
+<p><a href="/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/">
 <img src="/images/paul_2016.jpg" style="width:50%">
 </a></p>
 	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, <br>Research and Effective Communication</figcaption>
@@ -66,4 +66,13 @@ third_nav_title: Research & Communication Team
 	.content figure {
 		margin: 2em;
 	}
+	
+	.m-0 {
+		margin: 0 !important;
+	}
+.imgCrop {
+    width: 200px !important;
+    aspect-ratio: 5/6;
+		overflow: hidden;
+}
 </style>
