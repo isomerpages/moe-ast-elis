@@ -164,4 +164,13 @@ third_nav_title: EL Pedagogy Team
 	.content figure {
 		margin: 2em;
 	}
+		
+	.m-0 {
+		margin: 0 !important;
+	}
+.imgCrop {
+    width: 200px !important;
+    aspect-ratio: 5/6;
+		overflow: hidden;
+}
 </style>
