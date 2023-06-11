@@ -12,7 +12,7 @@ third_nav_title: Research & Communication Team
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
+<p><a href="/elis/about-us/team-members/research-team/dr-jeanne-ho//">
 <img src="/images/elis-jeanne-ho.jpg" style="width:50%">
 </a></p>
 	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, <br>Special Projects</figcaption>
