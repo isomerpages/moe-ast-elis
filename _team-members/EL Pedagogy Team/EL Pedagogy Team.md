@@ -35,22 +35,28 @@ third_nav_title: EL Pedagogy Team
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
-<img src="/images/charles-peter-4-jpg.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
+		<img src="/images/Team%20Members/Charles_use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
+</a><p></p>
 	<figcaption><b>Mr Charles Peters</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-emelyn-kuan/">
-<img src="/images/emelyn-kuan-(elis)5d7bb2b9c296e4ad6bd131f00be54d80f.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mrs-emelyn-kuan/">
+		<img src="/images/Team%20Members/Emelyn_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-emelyn-kuan/">
+</a><p></p>
 	<figcaption><b>Mrs Emelyn Kuan</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
-<img src="/images/florence-6.png" style="width:50%">
-</a></p>
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
+		<img src="/images/Team%20Members/Florence_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/dr-florence-lee/">
+</a><p></p>
 	<figcaption><b>Dr Florence Lee</b><br>Master Teacher</figcaption>
 </figure>
 
