@@ -14,5 +14,3 @@ Dr Ian McGrath, our Visiting Teaching Fellow for 2013, delivered the keynote add
 In addition to Dr McGrath’s two sessions, there was also a plenary session on ‘Professional Development@ De La Salle School’ by Mdm Koh Ting Ting, De La Salle School’s School Staff Developer (SSD). In her presentation, Mdm Koh spoke about her school’s three-year journey in understanding and applying Assessment for Learning (AfL), with the support given by Dr Tay May Yin, our Programme Director/ Pedagogy and Principal Master Teacher/ EL, who took the stage as well to introduce the context of her collaboration with the school.
 
 The symposium also offered the participants the opportunity to learn from one another’s practice. There were in total 30 concurrent session presentations focusing on a broad and diverse range of topics relevant in ELT, presented by school teachers as well as our very own colleagues from ELIS.
-
-**You can now download the presentation slides from the Symposium [here](https://academyofsingaporeteachers.moe.edu.sg/elis/events/english-language-symposium-2013)!**
