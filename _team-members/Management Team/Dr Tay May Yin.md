@@ -4,7 +4,6 @@ permalink: /elis/about-us/team-members/management-team/dr-tay-may-yin/
 description: ""
 third_nav_title: Management Team
 ---
-
 <div class="flex">
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg" class="m-0"></div>
@@ -23,6 +22,7 @@ third_nav_title: Management Team
 		justify-content: center;
 		align-items: center; 
 		gap: 20px;
+	flex-wrap:wrap;
 	}
 .imgCrop {
     width: 200px !important;

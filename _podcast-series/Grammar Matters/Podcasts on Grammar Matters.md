@@ -12,45 +12,47 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 <a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
 <img src="/images/gm-episode-1.png" style="width:30%">
 <b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b>
-</a></center><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
+</a>
+</center>
 
-
-</a><p><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-	</a><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-<img src="/images/gm-episode-1.png" style="width:30%">
-
-</a></p><center><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-	</a><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-		<b>Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</b>
-	
-</a><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-
-</a><p><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/">
-	</a><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"></a><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
+<center>
+<a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
 <img src="/images/27.png" style="width:30%">
-</a></p><center><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><b>Definite and Indefinite Articles – A Letter of Complaint</b></a></center><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/">
+<b>Definite and Indefinite Articles – A Letter of Complaint</b>
+</a>
+</center>
 
-</a><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
+<center>
+<a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only-6.png" style="width:30%">
-</a><p></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><b>Collective Nouns - At the Airport</b></a></center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/">
+<b>Collective Nouns - At the Airport</b>
+</a>
+</center>
 
-</a><p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
+<center>
+<a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
 <img src="/images/7-september_tla-and-swi-ci-thumbnails-w-title-only.png" style="width:30%">
-</a></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><b>Adjectives – The Advertisement</b></a></center><b><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
+<b>Adjectives – The Advertisement</b>
+</a>
+</center>
 
-</a><p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
+<center>
+<a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/">
 <img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only.png" style="width:30%">
-</a></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/"><b>Pronouns – The Accident</b></a></center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/">
+<b>Pronouns – The Accident</b>
+</a>
+</center>
 
-
-</a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/pronouns-the-accident/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
+<center>
+<a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
 <img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
-</a><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"></a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b>Transitive and Intransitive Verbs - The Cruise
-</b></a></center><b><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><b><b></b></b></a><b><b><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/">
-	
-</a><a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
-<img src="/images/cover%20art%20with%20titles%20and%20names%20(5).png" style="width:30%">
+<b>Transitive and Intransitive Verbs - The Cruise</b>
+</a>
+</center>
 
-</a><center><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"><b>Active and Stative Verbs – The Voicemail
-</b></a></center><b><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"></a><a href="/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
-	</a></b></b></b></b></b></center>
+<center>
+<a href="/elis/resources/listen/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/">
+<img src="/images/cover%20art%20with%20titles%20and%20names%20(5).png" style="width:30%">
+<b>Active and Stative Verbs – The Voicemail</b>
+</a>
+</center>
