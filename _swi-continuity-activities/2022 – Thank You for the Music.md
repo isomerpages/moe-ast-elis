@@ -14,7 +14,7 @@ Throughout history, music has been used to express emotions, beliefs, and identi
 
 By Adeline Lynn Teo
 
-<a href="https://open.spotify.com/track/2T2jjR1aOFNl8FWqN9JYlT?si=9494623b1f334b3b">Click here to listen to the song, *'Glorious Day*' that inspired this piece of writing</a>
+<a href="https://open.spotify.com/track/2T2jjR1aOFNl8FWqN9JYlT?si=9494623b1f334b3b">Click here to listen to the song, *'Glorious Day*' that inspired this piece of writing.</a>
 
 
 Linked by hearts  
@@ -33,7 +33,7 @@ fine design
 
 By Lynn Loy
 
-<a href="https://open.spotify.com/track/0NH5QIO7wJQctIQQl2Oq5d?si=c9cad77ab2584e97">Click here to listen to the song, '*Joseph's Coat'* that inspired this piece of writing</a>
+<a href="https://open.spotify.com/track/0NH5QIO7wJQctIQQl2Oq5d?si=c9cad77ab2584e97">Click here to listen to the song, '*Joseph's Coat'* that inspired this piece of writing.</a>
 
 
 
@@ -53,7 +53,7 @@ But be comforted and stay enthralled each day
 
 By Emily Wong
 
-<a href="https://open.spotify.com/track/1fo1zdEj5Yhs4WVlfAlpgs?si=1d1334fe891b483f">Click here to listen to the song, *'My Help'* that inspired this piece of writing</a>
+<a href="https://open.spotify.com/track/1fo1zdEj5Yhs4WVlfAlpgs?si=1d1334fe891b483f">Click here to listen to the song, *'My Help'* that inspired this piece of writing.</a>
 
 
 Thank You for the Music
@@ -90,7 +90,7 @@ Thank You, You’re My Music!
 
 By Suhaily Supahan
 
-<a href="https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf?si=b4d7e55066ea4be1">Click here to listen to the song, *'The Man Who Can’t Be Moved'* that inspired this piece of writing</a>
+<a href="https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf?si=b4d7e55066ea4be1">Click here to listen to the song, *'The Man Who Can’t Be Moved'* that inspired this piece of writing.</a>
 
 
 
@@ -110,7 +110,7 @@ In my memory, I see you at the corner of the sofa, laughing, no, guffawing at so
 
 By Richard Koh
 
-<a href="https://open.spotify.com/track/74khaTbiRiLZIc3QKmuHMb?si=d5af13376ab74ca6">Click here to listen to the song, *'Air on a G String'* that inspired this piece of writing</a>
+<a href="https://open.spotify.com/track/74khaTbiRiLZIc3QKmuHMb?si=d5af13376ab74ca6">Click here to listen to the song, *'Air on a G String'* that inspired this piece of writing.</a>
 
 It's been a while since I went to church  
 I'm not moving  
