@@ -7,11 +7,11 @@ third_nav_title: Read
 ### Issue 10, 2020
 
 <p><a href="/files/elis---el-classroom-inquiry-digest-2020_issue-10.pdf">
-<img src="/images/issue%2010,%202020.png" style="width:70%"></a></p>
+<img target="_blank" src="/images/issue%2010,%202020.png" style="width:70%"></a></p>
 
 ### Issue 9 , 2018
 
-<p><a href="/files/elis%20classroom%20inquiry%20digest%20issue%209_nov%202018.pdf"><img src="/images/issue%209-2018.png" style="width:70%"></a></p>
+<p><a href="/files/elis%20classroom%20inquiry%20digest%20issue%209_nov%202018.pdf"><img target="_blank" src="/images/issue%209-2018.png" style="width:70%"></a></p>
 
 ### Issue 8, 2018
 
@@ -47,7 +47,7 @@ third_nav_title: Read
 <p><a href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/ebook1-2013/"><img src="/images/issue%201-2013.png" style="width:70%"></a></p>
 
 <style>
-a::before {
+a::before, a::after {
 	content: "" !important;
 	}
 	
