@@ -31,5 +31,3 @@ Although the learning studies were facilitated by the same researcher, teacher l
 The study pointed to the challenge faced by teams who needed to grapple with the learning study concepts on one hand and to struggle with the implementation on the other hand. The author recommended a separate training session on the central concepts of learning study to take place before teachers are involved in the implementation. She also called for a balance to be kept between language forms and meaning so that natural language use is not compromised.
 
 _**Original article retrieved from Google Scholar.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
