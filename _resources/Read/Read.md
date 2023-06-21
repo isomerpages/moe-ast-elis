@@ -75,7 +75,7 @@ Deepen your understanding through our extensive library of e-publications on ped
 	justify-items: center;
 	}
 	
-	@media only screen (min-width: 768px) {
+@media screen and (max-width: 768px) {
 		.grid {
 			grid-template-columns: repeat(1,1fr) !important;
 	}
