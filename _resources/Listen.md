@@ -16,42 +16,42 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 <div class="grid">
 <div>
 <p><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/">
-<img src="/images/teaching-learning-and-assessment.png" style="width:30%">
+<img src="/images/teaching-learning-and-assessment.png" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/"><b>Teaching, Learning &amp; Assessment</b></a></center><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/">
 </a>
 	</div>
 
 <div>
 <p><a href="/elis/resources/listen/classroom-inquiry-podcasts/">
-<img src="/images/11.png" style="width:30%">
+<img src="/images/11.png" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/classroom-inquiry-podcasts/"><b>Classroom Inquiry</b></a></center><a href="/elis/resources/listen/classroom-inquiry-podcasts/">
 </a>
 	</div>
 
 <div>
 <p><a href="/elis/resources/listen/research-summaries-podcasts/">
-<img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:30%">
+<img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
 </a>
 	</div>
 
 <div>
 <p><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
-<img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:30%">
+<img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/"><b>Singapore Writing Institute</b></a></center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
 </a>
 	</div>
 
 <div>
 <p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
-<img src="/images/final-elis-series-podcast-artwork-2021-1.png" style="width:30%">
+<img src="/images/final-elis-series-podcast-artwork-2021-1.png" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/"><b>Grammar Matters</b></a></center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
 </a>
 	</div>
 
 <div>
 <p><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
-<img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:30%">
+<img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/"><b>Developments in English Language Teaching and Learning in Singapore</b></a></center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 </a>
 </div>
@@ -79,7 +79,7 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 ### Special Highlights
 
 <p><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/">
-<img src="/images/10ba6585b9e2ad4bf7996c448022b9e306.jpg" style="width:30%">
+<img src="/images/10ba6585b9e2ad4bf7996c448022b9e306.jpg" style="width:50%">
 </a></p><center><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/"><b>At the Heart of GP Teaching, Learning and Assessment</b></a></center><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/">
 </a>
 
