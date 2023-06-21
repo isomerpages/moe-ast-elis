@@ -33,4 +33,3 @@ Deep learning was a positive predictor of students’ English test scores while 
 To motivate students, Singapore teachers need to maintain the competitive school and classroom learning environments that value both mastery and performance goals. Teachers and parents can also help students develop a healthy academic self-confidence by encouraging skill development, promoting mastery, fostering an optimistic outlook, and helping students set short-term goals.
 
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
