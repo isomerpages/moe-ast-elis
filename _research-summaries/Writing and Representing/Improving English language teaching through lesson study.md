@@ -31,5 +31,3 @@ The authors reported that the different phases in the lesson study process engag
 This study provides an illustrative case on how teachers’ talk about work practices in lesson study mediated teacher learning in a group context. The study established the importance of an interconnected view of teacher interaction in lesson study that factored in a consideration of the influences at the teachers’ level and at the school’s level that enabled or impeded a broader consideration of practice and richer conditions for the mentoring of novice teachers in the team.
 
 _**Original article retrieved from ProQuest.**_  
-
-_**Please consult our online guide**_ **_[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_** _**to find out how to access library resources.**_
