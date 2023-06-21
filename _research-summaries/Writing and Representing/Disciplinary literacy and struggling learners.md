@@ -35,4 +35,3 @@ Only one of the 12 studies involved content other than reading or writing relate
 The authors assert a need to modify disciplinary literacy instruction to meet the needs of diverse and struggling learners, including those with language disorders. They cite the long history of research that supports general strategy instruction focused on mnemonics, reading, and composition to improve academic performance, and suggest that these general strategies be embedded within teachers' discipline-specific instruction to help struggling learners improve content area knowledge.
 
 _**Original article retrieved through Google Scholar.**_  
-_**Please consult our online guide ‘**__**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")**__**’ to find out how to access library resources.**_
