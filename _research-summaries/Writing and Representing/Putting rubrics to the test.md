@@ -29,14 +29,14 @@ The participants were 116 students in one class in each of seven public schools 
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-zr06" colspan="2">   </th>
+    <th colspan="2" class="tg-zr06">   </th>
     <th class="tg-zr06">     Experimental Group</th>
     <th class="tg-zr06">     Control Group</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-zr06" rowspan="2">English</td>
+    <td rowspan="2" class="tg-zr06">English</td>
     <td class="tg-zr06">     Grade 3</td>
     <td class="tg-zr06">     2</td>
     <td class="tg-zr06">     1</td>
@@ -67,5 +67,4 @@ This study provides support for the hypothesis that having students use model pa
 
 Primary school students should actively engage in critiquing sample pieces of writing, in thinking about the criteria that are in the rubrics by which their writing will be evaluated and in self-assessment of their works in progress.  
   
-_**Original article retrieved from EBSCOHost.**_  
-
+_**Original article retrieved from EBSCOHost.**_
