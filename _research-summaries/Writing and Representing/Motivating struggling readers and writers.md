@@ -31,5 +31,3 @@ The learning clubs were successful because Sharon recognised that struggling rea
 The author recommended that learning clubs be extended to improve students’ digital literacies as students engaged in multimodal literacy events in their daily lives. She also suggested that learning clubs could be formed in content area classrooms to investigate a common concept.
 
 _**Original article retrieved from Academic Search Complete.**_   
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
