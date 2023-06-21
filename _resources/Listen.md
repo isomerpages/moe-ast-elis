@@ -13,36 +13,68 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### Podcast Series
 
-
+<div class="grid">
+<div>
 <p><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/">
 <img src="/images/teaching-learning-and-assessment.png" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/"><b>Teaching, Learning &amp; Assessment</b></a></center><a href="/elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/listen/classroom-inquiry-podcasts/">
 <img src="/images/11.png" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/classroom-inquiry-podcasts/"><b>Classroom Inquiry</b></a></center><a href="/elis/resources/listen/classroom-inquiry-podcasts/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/listen/research-summaries-podcasts/">
 <img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
 <img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/"><b>Singapore Writing Institute</b></a></center><a href="/elis/resources/listen/podcast-series-on-the-singapore-writing-institute/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
 <img src="/images/final-elis-series-podcast-artwork-2021-1.png" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/"><b>Grammar Matters</b></a></center><a href="/elis/resources/listen/podcast-series-on-grammar-matters/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 <img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/"><b>Developments in English Language Teaching and Learning in Singapore</b></a></center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 </a>
+</div>
+</div>
+
+<style>
+
+
+	.grid {
+	  display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	align-items: center;
+	justify-items: center;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.grid {
+			grid-template-columns: repeat(1,1fr) !important;
+	}
+	}
+
+
+</style>
 
 ### Special Highlights
 
