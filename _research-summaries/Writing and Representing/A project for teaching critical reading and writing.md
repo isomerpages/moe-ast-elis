@@ -45,5 +45,3 @@ The results demonstrated that the participants:
 The author highlighted that besides an examination-driven culture that might resist the teaching of critical literacy when such skills are not valued in high-stakes examinations, other factors that could undermine its effective implementation included the common (mis)perception that critical competence is a privilege exclusive to high-ability students. Moreover, critical literacy educators might overemphasize the ‘critical’ at the expense of the ‘literacy’. Anchoring ‘literacy’ firmly in place in a ‘critical literacy’ programme would empower students to become not only critical thinkers but also effective readers and writers.
 
 _**Original article retrieved from Taylor & Francis.**_ 
-
-_**Please consult our online guide**_ _**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")**__**to find out how to access library resources.**_
