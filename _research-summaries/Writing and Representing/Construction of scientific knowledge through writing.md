@@ -35,4 +35,3 @@ The students’ initial texts began congruently – grammar was closely mapped t
 The authors opined that certain types of writing might lead to learning. Also, the specific differences found between professional scientific texts and the students’ journal entries suggest that teachers could consider explicitly teaching writing practices that model those of science experts.  
   
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
