@@ -31,5 +31,3 @@ Some of the concerns were the same for both groups. One important one was that o
 The researchers suggested that there should be more opportunities for private practice (such as older students practising reading by reading to younger children), homework clubs for children who needed them most, training for parents and an emphasis on enjoyment and motivation issues.
 
 _**Original article retrieved from Taylor & Francis Online.**_  
-
-_**Please consult our online guide ‘**__**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")**__**’ to find out how to access library resources.**_
