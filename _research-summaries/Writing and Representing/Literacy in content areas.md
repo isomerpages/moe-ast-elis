@@ -31,5 +31,3 @@ The writer shows that in Mathematics, for example, meaning is often realized thr
 The writer believes that students must be shown not only the differences between how meaning is shared in the different subject areas but also why these differences occur. She emphasizes that these differences are not immutable rules but occur because of affordances of different communication methods. For example, diagrams are good for clearly expressing certain ideas but not others. As conditions change, so may the ways in which the different content areas express meaning. Helping students understand the reasons for the differences will help prepare them for the possibility of such changes.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-_**Please consult our online guide ‘**__**[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")**__**’ to find out how to access library resources.**_
