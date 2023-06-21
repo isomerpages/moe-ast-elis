@@ -15,20 +15,20 @@ third_nav_title: Read
 
 ### Issue 8, 2018
 
-<p><a target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/ebook8-2018/"><img src="/images/issue%208-2018.png" style="width:70%"></a></p>
+<p><a target="_blank" href="/files/classroom-inquiry-digest-2018-Issue-8.pdf"><img src="/images/issue%208-2018.png" style="width:70%"></a></p>
 
 
 ### Issue 7, 2017
 
-<p><a target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/ebook7-2017"><img src="/images/issue%207-2017.png" style="width:70%"></a></p>
+<p><a target="_blank" href="/files/classroom-inquiry-digest-2017-Issue-7.pdf"><img src="/images/issue%207-2017.png" style="width:70%"></a></p>
 
 ### Issue 6, 2017
 
-<p><a target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/ebook6-2017/"><img src="/images/issue%206-2017.png" style="width:70%"></a></p>
+<p><a target="_blank" href="/files/classroom-inquiry-digest-2017-Issue-6.pdf"><img src="/images/issue%206-2017.png" style="width:70%"></a></p>
 
 ### Issue 5, 2016
 
-<p><a target="_blank" href="https://academyofsingaporeteachers.moe.edu.sg/EL-classroom-inq/Eissue5-2016/"><img src="/images/issue%205-2016.png" style="width:70%"></a></p>
+<p><a target="_blank" href="/files/classroom-inquiry-digest-2016-Issue-5.pdf"><img src="/images/issue%205-2016.png" style="width:70%"></a></p>
 
 ### Issue 4, 2015
 
