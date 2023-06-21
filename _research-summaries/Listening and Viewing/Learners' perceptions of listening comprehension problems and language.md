@@ -31,5 +31,3 @@ The findings indicated that the effective strategies that the EFL learners used 
 The listening challenges related to tasks, the message, the speaker and the listener suggested that these problems could be alleviated with focused remediation. Classroom activities could be designed in three stages: pre-listening, listening in progress, and post-listening. The author postulated that these class activities would enhance learners’ understanding of the spoken text. He also recommended future research on different types of listening activities and the impact of listening on the development of other skills such as speaking, reading, and writing.
 
 _**Original article retrieved from Google Scholar.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
