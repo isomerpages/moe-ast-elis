@@ -31,5 +31,3 @@ The paper lists possibilities rather than comes up with findings. The writers no
 The authors feel that the question of learner-talk is relevant to a range of current issues including the differential in participation in education between boys and girls. Because of such concerns, questions with regard to listening and speaking cannot be left to the English classroom but need to be considered across the curriculum. This has become an even greater concern as communication, collaborative learning and group problem-solving have become more established as transferable skills demanded by employers.
 
 _**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
