@@ -29,14 +29,14 @@ The participants were 116 students in one class in each of seven public schools 
 <table class="tg">
 <thead>
   <tr>
-    <th colspan="2" class="tg-zr06">   </th>
+    <th class="tg-zr06" colspan="2">   </th>
     <th class="tg-zr06">     Experimental Group</th>
     <th class="tg-zr06">     Control Group</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td rowspan="2" class="tg-zr06">English</td>
+    <td class="tg-zr06" rowspan="2">English</td>
     <td class="tg-zr06">     Grade 3</td>
     <td class="tg-zr06">     2</td>
     <td class="tg-zr06">     1</td>
@@ -69,4 +69,3 @@ Primary school students should actively engage in critiquing sample pieces of wr
   
 _**Original article retrieved from EBSCOHost.**_  
 
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
