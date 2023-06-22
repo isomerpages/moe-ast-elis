@@ -79,7 +79,7 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 ### Special Highlights
 
 <p><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/">
-<img src="/images/10ba6585b9e2ad4bf7996c448022b9e306.jpg" style="width:50%">
+<img src="/images/10ba6585b9e2ad4bf7996c448022b9e306.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/"><b>At the Heart of GP Teaching, Learning and Assessment</b></a></center><a href="/elis/resources/listen/special-highlights/at-the-heart-of-gp-teaching-learning-and-assessment/">
 </a>
 
