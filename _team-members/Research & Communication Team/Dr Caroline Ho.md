@@ -37,4 +37,4 @@ third_nav_title: Research & Communication Team
 		 
 Caroline is Lead Specialist, English Language with a PhD in Applied Linguistics from the University of Birmingham (UK). She was involved in primary, secondary and pre-university teacher education and research with the National Institute of Education, served as Specialist Inspector EL with the Ministry of Education, and taught for several years at a junior college. Her research interests include discipline-specific communication, design research in new media, writing and argumentation pedagogy. Her work has appeared in&nbsp;_Computers and Education,&nbsp;Computer Assisted Language Learning,&nbsp;Journal of Applied Linguistics,&nbsp;Innovation in Language Learning and Teaching_&nbsp;among other publications.
 
-Click to view publications authored by Caroline.
+Click [here](https://elis.moe.edu.sg/elis/about-us/team-members/staff-publications/caroline-ho/) to view publications authored by Caroline.
