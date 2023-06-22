@@ -13,17 +13,18 @@ sections:
       description: View, read and listen to teachers' experiences in the teaching
         learning and assessment of English Language, Literature and General
         Paper.
-      button: Click here
+      button: Access the e-Digest here
       url: /elis/resources/read/elis-e-digest-new/
       image: /images/elis-e-digest-social-media-poster-(issue-2)a.png
       alt: e-Digest
   - infopic:
-      title: e-Pedagogy in the EL Classroom
-      description: Learn about the philosophy, principles and processes that you
-        should be guided by when designing blended learning experiences.
-      button: Access this MLU on OPAL2.0
-      url: https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2Fconnect%2Fauthorize%2Fcallback%3Fresponse_type%3Dcode%26client_id%3DOpal2WebApp%26state%3DUc6Ghs62DqkbvQvNo98gYDanPVvMFRWOOxmTncu5sia28%26redirect_uri%3Dhttps%253A%252F%252Fwww.opal2.moe.edu.sg%252Fapp%252Findex.html%26scope%3Droles%2520profile%2520cxprofile%2520openid%2520cxDomainInternalApi%26code_challenge%3DGaefzuKJp2qdvx66W6YZTPuTj-BEsEvAT6RXVlxA2wI%26code_challenge_method%3DS256%26nonce%3DUc6Ghs62DqkbvQvNo98gYDanPVvMFRWOOxmTncu5sia28
-      image: /images/el-pedagogy.png
+      title: Professional Learning Resources
+      description: "Access our on-the-go learning resources to cultivate your
+        pedagogical expertise in the teaching, learning and use of the English
+        language. "
+      button: Start learning here
+      url: https://elis.moe.edu.sg/elis/resources/
+      image: /images/resources poster for elis website.png
       alt: Image alt text
   - infopic:
       title: Professional Learning Opportunities 2023
@@ -33,18 +34,4 @@ sections:
       url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/ELIS professional learning opportunities 2023.png
       alt: ELIS learning opportunities
-  - infopic:
-      title: ELIS Podcast
-      description: Learn on-the-go by listening to our podcast episodes
-      button: Listen now
-      url: /elis/resources/listen/
-      image: /images/podcast.png
-      alt: podcast
 ---
-
-
-<style>
-.bp-hero-body {
-  background: transparent !important;
-}
-</style>
