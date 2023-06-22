@@ -22,6 +22,16 @@ third_nav_title: Read
 	.flex > p {
 		margin: 0;
 	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+		}
+		.flex {
+				flex-direction: column;
+		}
+	}
 </style>
 
 <div class="flex">
