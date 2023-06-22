@@ -90,3 +90,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ```
 <div class="sfContentBlock sf-Long-text"><h2></h2><div class="sf-Long-text"><p style="text-align:left;">Click the badges below to stream the ELIS Podcast on your favourite platform.</p><div class="row"><div class="col-sm-4"><center><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&amp;nd=1" target="_blank"><img src="/images/spotify3.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865" target="_blank"><img src="/images/apple podcast.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT" target="_blank"><img src="/images/youtube.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"></div></div></div><div class="accordion"></div></div>
+
+<style>
+	a::before, a::after {
+		content: "";
+	}
+</style>
