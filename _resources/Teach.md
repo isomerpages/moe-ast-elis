@@ -5,9 +5,43 @@ description: ""
 ---
 ### Student Learning Space Resources for EL Teachers
 
+<style>
+	.flex {
+		display: flex;
+		margin-bottom: 30px;
+		gap:30px;
+		align-items: center;
+		justify-content: space-around;
+	}
+	
+	.flex > img {
+		order: 1;
+		transform: scaleX(-1);
+		width: 30% !important;
+	}
+	
+	.flex > p {
+		margin: 0;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+			transform: scaleX(1);
+		}
+		.flex {
+				flex-direction: column;
+				gap: 20px;
+		}
+	}
+</style>
+
+<div class="flex">
 <img src="/images/teach_banner.png" style="width:50%">
 
 Use our resources on the Student Learning Space (SLS) to teach your students learner strategies that they need for learning and using English Language in the various Areas of Language Learning. You will also find suggestions on accompanying lesson activities in these resources.  
+</div>
 
 ### Steps to Access SLS Resources
 
