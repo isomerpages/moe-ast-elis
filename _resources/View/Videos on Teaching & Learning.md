@@ -15,7 +15,6 @@ third_nav_title: View
 	
 	.flex > img {
 		order: 1;
-		transform: scaleX(-1);
 		width: 30% !important;
 	}
 	
@@ -27,7 +26,6 @@ third_nav_title: View
 		.flex > img {
 			width: 50% !important;
 			order: 0;
-			transform: scaleX(1);
 		}
 		.flex {
 				flex-direction: column;
