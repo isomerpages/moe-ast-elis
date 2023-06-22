@@ -33,6 +33,9 @@ description: ""
 				gap: 20px;
 		}
 	}
+	.bp-menu-list a {
+		justify-content: flex-start;
+	}
 </style>
 
 <div class="flex">
