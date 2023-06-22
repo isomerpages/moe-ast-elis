@@ -34,5 +34,3 @@ The author found from the literature that the use of DST improved student compre
 Although DST can be used to engage and motivate learners, it is presently used in K-12 and higher education institutions with an emphasis on technical skills. The writer advocated more effort be put into understanding the subject content, the pedagogical skills and into how DST could address the needs of the learners.  He also emphasized the importance of embarking on research that made the link between greater student engagement and motivation and the effective use of technology.
 
 _**Original article retrieved from Taylor and Francis online**_  
-
-_**Please consult our online guide**_ **_[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_** _**to find out how to access library resources.**_

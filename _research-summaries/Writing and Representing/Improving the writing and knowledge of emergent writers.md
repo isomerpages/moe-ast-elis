@@ -33,4 +33,3 @@ The authors suggested that SRSD instruction could benefit typical Grade 1 studen
 
 _**Original article retrieved from EBSCOHost.**_  
 
-_**Please consult our online guide**_ **_[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_** [](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp-stg.sg/docs/librariesprovider2/resouces-docs/accessing-e-resources.pdf?sfvrsn=669bb0ad_4)_**to find out how to access library resources.**_

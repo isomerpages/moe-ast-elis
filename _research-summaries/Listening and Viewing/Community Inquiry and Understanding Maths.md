@@ -30,5 +30,4 @@ The effect sizes in terms of the growth in student mathematical skills after one
 
 The study showed the importance of following up professional development courses with work in the schools. It also showed the benefits that could be gained by involving students and teachers in a learning community.
 
-_**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
+_**Original article retrieved through Google Scholar.**_ 

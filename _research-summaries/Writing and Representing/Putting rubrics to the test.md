@@ -67,6 +67,4 @@ This study provides support for the hypothesis that having students use model pa
 
 Primary school students should actively engage in critiquing sample pieces of writing, in thinking about the criteria that are in the rubrics by which their writing will be evaluated and in self-assessment of their works in progress.  
   
-_**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
+_**Original article retrieved from EBSCOHost.**_

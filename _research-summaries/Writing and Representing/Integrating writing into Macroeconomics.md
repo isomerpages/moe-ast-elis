@@ -33,5 +33,3 @@ In 2009, the students did better in Assignment B and showed a 15% improvement in
 The study offers evidence that subject lecturers making explicit the writing processes in their discipline help students improve the quality of their analytic writing.  
   
 _**Original article retrieved from Sage Journals.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**

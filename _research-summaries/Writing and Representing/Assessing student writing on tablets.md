@@ -31,5 +31,3 @@ The overall results showed that there were no significant performance difference
 The authors suggested that in deciding what devices to use when assessing students, schools should align instruction with assessment. If assessment modes such as tablets are not used during classroom instruction, they should not be used to assess learners. They highlighted that although a high percentage of students displayed familiarity with touch-screen interfaces, this might not adequately equip them with the skills for using the devices for academic writing.
 
 _**Original article retrieved from Taylor & Francis.**_  
-
-_**Please consult our online guide**_ **_[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_** _**to find out how to access library resources.**_

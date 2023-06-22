@@ -13,13 +13,103 @@ description: ""
 <div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" src="https://player.vimeo.com/video/451210545?h=a568fc9e78&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479/embed"></iframe></div></div>
 </div>
 
+<div class="flex">
+	<h5>Diagnosing Students’ Learning Needs</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Diagnosing Students’ Learning Needs v1" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451877769?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Towards Talk-Rich Teaching and Learning</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" src="https://player.vimeo.com/video/451261045?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479/embed"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Learning to Write, Writing to Learn</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Learning to Write, Writing to Learn in Science" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451257761?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Using Talk to Promote Learning</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Using Talk to Promote Learning at Anderson Primary School" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451256821?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Helping Upper Secondary Students Write Better Explanations in Social Studies</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.21% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Helping Upper Secondary Students Write Better Explanations in Social Studies" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451253251?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Helping Upper Primary Students Write Better Explanations in Science</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Helping Upper Primary Students Write Better Explanations in Science" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451250134?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Helping Students to Talk About Art in the Primary Art Classroom</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Helping Students to Talk About Art in the Primary Art Classroom" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451247431?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>WSA-EC Journey@Keming Primary School</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - WSA-EC Journey@Keming Primary School" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451245454?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>A Curation of Sum Joy-filled GP ACxperiences</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - A Curation of Sum Joy-filled GP ACxperiences" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451243602?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Inspiring in Our Students the Love of English</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Inspiring in Our Students the Love of English" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451242957?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Emotions</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" src="https://player.vimeo.com/video/451241667?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479/embed"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Getting the Questions Right</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Getting the Questions Right" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451238897?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Voices at Play on the Sea of Talk: Learning and Using Talk in CLEARR</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.15% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Voices at Play on the Sea of Talk: Learning and Using Talk in CLEARR" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451235517?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Using Making Thinking Visible Routines</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Using Making Thinking Visible Routines" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451232584?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Using Discussion Skills to Enhance Speaking in the Language Classroom</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Using Discussion Skills to Enhance Speaking in the Language Classroom" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451227825?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Use of Dialogic Teaching to Enhance Inferential Skills in Reading</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Use of Dialogic Teaching to Enhance Inferential Skills in Reading" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451227247?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Teaching Coherence in Writing through Play and Dialogue</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" src="https://player.vimeo.com/video/451224175?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479/embed"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Teaching Close and Critical Reading Skills using Read, Discuss, Synthesise and Present</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Teaching Close and Critical Reading Skills using Read, Discuss, Synthesise and Present (RISE)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451221356?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
 <style>
 .flex {
 	display: flex;
 	flex-direction: column;
-	justify-content: start;
-	align-items:start;
-	text-align:center;
+	justify-content: space-evenly;
+	align-items:center;
+	text-align:left;
 	}
 	.flex > div {
 	width: 100%;
@@ -28,7 +118,7 @@ description: ""
 .content {
 	display: grid !important;
 	grid-template-columns: repeat(2, 1fr) !important;
-gap: 10px;
+gap: 30px;
 	}
 	
 @media screen and (max-width: 576px) {

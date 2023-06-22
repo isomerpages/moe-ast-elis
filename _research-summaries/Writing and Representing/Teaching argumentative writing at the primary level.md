@@ -4,7 +4,6 @@ permalink: /elis/resources/read/research-summaries/writing-and-representing/argu
 description: ""
 third_nav_title: Writing and Representing
 ---
-
 Koh, G. H. (2002). Teaching argumentative writing at the primary level. Review of Educational Research and Advances for Classroom Teachers, 21(1), 57-68.
 
 ### Background
@@ -32,4 +31,3 @@ Students were found to demonstrate an awareness of the demands of the argumentat
 Informal feedback gathered from both the teacher and the students highlighted the value of teaching argumentative writing at the primary level. One recommendation was for teachers to start teaching argumentative writing early so that students could gain familiarity with the genre.
 
 _**Original article retrieved through Google Scholar.**_  
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

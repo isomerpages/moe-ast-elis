@@ -4,7 +4,7 @@ permalink: /elis/resources/read/research-summaries/writing-representing/efficacy
 description: ""
 third_nav_title: Writing and Representing
 ---
- Pajares, F. (2003). Self-efficacy beliefs, motivation, and achievement in writing: A review of the literature. Reading & Writing Quarterly, 19(2), 139-158.
+Pajares, F. (2003). Self-efficacy beliefs, motivation, and achievement in writing: A review of the literature. Reading & Writing Quarterly, 19(2), 139-158.
 
 ### Background
 
@@ -32,4 +32,3 @@ The author recommended that teachers should focus on both students’ perception
 
 
 _**Original article retrieved from Taylor and Francis.**_  
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

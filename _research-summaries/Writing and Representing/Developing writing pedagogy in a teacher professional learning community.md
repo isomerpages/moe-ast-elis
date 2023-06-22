@@ -32,4 +32,3 @@ The author called for more research to focus on the socio-cultural settings and 
 
 _**Original article retrieved from Google scholar.**_
 
-_**Please consult our online guide**_ **_[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")_** _**to find out how to access library resources.**_

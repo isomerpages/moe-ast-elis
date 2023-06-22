@@ -30,6 +30,4 @@ One study the authors looked at indicated that the number of words a child was e
 
 In the pre-school years, children needed a range of experiences including children’s literature, poetry, puppetry, etc. Studies showed that it was important for children to hear the sounds of the language, and games, nursery rhymes, jingles and poems could help in this. The authors concluded that the emphasis in pre-school years should be on oral language exercises as these prepared children to later see the relationship between the written and spoken language. Children should be encouraged to generate ideas using language and other means of communication, to listen to the ideas of others and then to go back and check that the ideas held up against actual experience.
 
-_**Original article retrieved from EBSCOHost.**_  
-
-**_Please consult our online guide ‘[Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/listening-and-viewing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources")’ to find out how to access library resources._**
+_**Original article retrieved from EBSCOHost.**_

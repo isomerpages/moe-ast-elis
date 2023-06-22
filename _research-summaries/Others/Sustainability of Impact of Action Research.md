@@ -35,4 +35,3 @@ The authors assert that teachers take a wider view of the sustainable positive i
 
 _**Original article retrieved from EBSCOHost.**_  
 
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/others/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**

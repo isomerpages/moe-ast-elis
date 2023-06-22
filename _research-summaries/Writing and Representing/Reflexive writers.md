@@ -31,5 +31,3 @@ The author found that the students approached writing in four different reflexiv
 The author suggested that teachers could make students more aware of their writing decisions and how these decisions affected their writing. Teachers could use prompts to help students reflect on their writing samples and other people’s responses to them. As a result, students could ask themselves why they made certain writing decisions and make their decision-making visible. This would help teachers understand and interpret their students’ writing choices before they design instruction to tailor to their students’ writing needs.  
   
 _**Original article retrieved from ScienceDirect.**_  
-
-**_Please consult our online guide [Accessing e-Resources(.pdf, 2.2 MB)](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/research-summaries/writing-and-representing/18e45074-6b1b-4ac7-811f-1a8da16c4f81 "Accessing e-Resources") to find out how to access library resources._**
