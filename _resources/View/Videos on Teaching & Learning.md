@@ -5,18 +5,45 @@ description: ""
 third_nav_title: View
 ---
 <style>
-.flex {
-		display:flex;
+	.flex {
+		display: flex;
+		margin-bottom: 30px;
+		gap:30px;
+		align-items: center;
+		justify-content: space-around;
+	}
+	
+	.flex > img {
+		order: 1;
+		transform: scaleX(-1);
+		width: 30% !important;
+	}
+	
+	.flex > p {
+		margin: 0;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+			transform: scaleX(1);
+		}
+		.flex {
+				flex-direction: column;
+				gap: 20px;
+		}
 	}
 </style>
 
-<p class="flex">
+<div class="flex">
 <img src="/images/watch_banner.png" style="width:50%">
-			 
+<p>
 Watch these videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
   
 Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
-</p>
+	</p>
+</div>
 
 <p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
 <img src="/images/ibl-video-thumbnail.png" style="width:30%">
