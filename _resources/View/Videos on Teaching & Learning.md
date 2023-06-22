@@ -139,35 +139,49 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 
 Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
 
+<div class="grid">
+	<div>
 <p><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
 <img src="/images/collab_prof_learning_o.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
 </a>
+		</div>
 
+<div>
 <p><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
 <img src="/images/extended_suppkimbee.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/"><b>Extended Support for EL Teachers</b></a></center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
 </a>
-
+</div>
+	
+<div>
 <p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
 <img src="/images/classroom_inq_m.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
 <img src="/images/inquiry-classroom.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
 </a>
+</div>
 
+<div>
 <p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
 <img src="/images/shalini_coteaching.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
 </a>
+	</div>
 
+<div>
 <p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 <img src="/images/cedric_sig.jpg" style="width:30%">
 </a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
 </a>
+	</div>
+</div>
 
 ### Microlearning Units
 
