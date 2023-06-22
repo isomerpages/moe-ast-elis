@@ -5,11 +5,44 @@ description: ""
 ---
 ## Podcast Episodes
 
+<style>
+	.flex {
+		display: flex;
+		margin-bottom: 30px;
+		gap:30px;
+		align-items: center;
+		justify-content: space-around;
+	}
+	
+	.flex > img {
+		order: 1;
+		width: 30% !important;
+	}
+	
+	.flex > p {
+		margin: 0;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+		}
+		.flex {
+				flex-direction: column;
+				gap: 20px;
+		}
+	}
+</style>
+
+<div class="flex">
 <img src="/images/listen_banner.png" style="width:40%">
-		 
+		 <div>
 Listen to our podcast episodes on the teaching and learning of English Language, Literature and General Paper.
 
 Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://go.gov.sg/elispodcast)
+	</div>
+</div>
 
 ### Podcast Series
 
