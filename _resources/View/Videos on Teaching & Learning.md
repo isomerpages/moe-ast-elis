@@ -38,11 +38,11 @@ third_nav_title: View
 
 <div class="flex">
 <img src="/images/watch_banner.png" style="width:50%">
-<p>
+<div>
 Watch these videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
   
 Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
-	</p>
+	</div>
 </div>
 
 <p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
