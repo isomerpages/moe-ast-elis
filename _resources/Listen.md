@@ -36,6 +36,11 @@ description: ""
 	.bp-menu-list a {
 		justify-content: flex-start;
 	}
+	
+		.sgds-icon {
+		margin-left: auto;
+	}
+	
 </style>
 
 <div class="flex">
