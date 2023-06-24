@@ -4,7 +4,6 @@ permalink: /elis/resources/read/classroom-inquiry-digests/
 description: ""
 third_nav_title: Read
 ---
-<div class="flex">
 <div>
 
 ### Issue 10, 2020
@@ -75,7 +74,6 @@ third_nav_title: Read
 
 <p><a target="_blank" href="/files/classroom-inquiry-digest-2013-Issue-1.pdf"><img src="/images/issue%201-2013.png" style="width:70%"></a></p>
 </div>
-</div>
 
 <style>
 a::before, a::after {
@@ -88,6 +86,18 @@ a::before, a::after {
 	
 	.sgds-icon {
 		margin-left: auto;
+	}
+	
+.content {
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	gap: 20px;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.content {
+				grid-template-columns: repeat(1,1fr) !important;
+		}
 	}
 	
 </style>
