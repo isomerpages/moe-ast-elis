@@ -103,6 +103,26 @@ description: ""
 <div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Teaching Close and Critical Reading Skills using Read, Discuss, Synthesise and Present (RISE)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451221356?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
 </div>
 
+<div class="flex">
+	<h5>Sparking the Joy of Talk with WICK (Words, Images, Colour and Knowledge)</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Sparking the Joy of Talk with WICK (Words, Images, Colour and Knowledge)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451220316?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Motivating Primary 6 Low Progress Students to Write</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.22% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Motivating Primary 6 Low Progress Students to Write" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451218316?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Harnessing Classroom Talk to Teach Inferential Skills for Reading Narrative Texts</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Harnessing Classroom Talk to Teach Inferential Skills for Reading Narrative Texts" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451216382?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>From Talk to Text</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - From Talk to Text" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451215240?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
 <style>
 .flex {
 	display: flex;
