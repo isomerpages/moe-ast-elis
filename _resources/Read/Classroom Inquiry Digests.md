@@ -98,6 +98,10 @@ a::before, a::after {
 		font-weight: bold;
 	}
 	
+.content p:last-child {
+		margin: 0;
+	}
+	
 	@media only screen and (max-width: 768px) {
 		.content {
 				grid-template-columns: repeat(1,1fr) !important;
