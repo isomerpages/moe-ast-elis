@@ -19,7 +19,7 @@ The cards illustrate ‘talk moves’ students can use to engage in discussion a
 
 Click <a target="_blank" href="/files/sl_game-manual_final-(2020-nov-6).pdf">here</a> to download the <i>Let’s Talk!</i> card game manual.
 
-Find out how to use the *Let's Talk!* card game in your classroom in <a target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758">this microlearning unit</a>.
+Find out how to use the <i>Let’s Talk!</i> card game in your classroom in <a target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758">this microlearning unit</a>.
 </div>
 </div>
 
