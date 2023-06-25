@@ -16,9 +16,9 @@ description: ""
 	The aim of the&nbsp;<i>Let’s Talk!</i>&nbsp;card game is to motivate students to practise the communication skills needed for productive academic discussion in Mathematics, Science or the Humanities.
 
 The cards illustrate ‘talk moves’ students can use to engage in discussion and, on the flip side, provide language scaffolds in the form of sentence stems to help them do this. Each sentence stem represents a specific “academic conversation skill”. (Zwiers &amp; Crawford, 2011).
-
+<br><br>
 Click <a target="_blank" href="/files/sl_game-manual_final-(2020-nov-6).pdf">here</a> to download the <i>Let’s Talk!</i> card game manual.
-
+<br><br>
 Find out how to use the <i>Let’s Talk!</i> card game in your classroom in <a target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758">this microlearning unit</a>.
 </div>
 </div>
