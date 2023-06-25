@@ -143,6 +143,26 @@ description: ""
 <div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Boosting Generative Conversations through Rich Texts" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451203647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
 </div>
 
+<div class="flex">
+	<h5>SWI - Dialoguing as Part of the Writing Process</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Dialoguing as Part of the Writing Process" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451199826?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - 'Discursive Writing' as a Process: Fresh ideas</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - 'Discursive Writing' as a Process: Fresh ideas" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451197922?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Making Writing Meaningful - For Who? For What? For When?</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Making Writing Meaningful - For Who? For What? For When?" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451194800?h=83ad311dfb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - The Voices in Writing: The role of peer feedback in the writing process</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - The Voices in Writing: The role of peer feedback in the writing process" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451192324?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
 <style>
 .flex {
 	display: flex;
