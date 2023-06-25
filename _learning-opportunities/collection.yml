@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Classroom Inquiry/.keep
       - Literature/Developing Literary Response in Literature.md
       - Literature/.keep
       - SkillsFuture for Educators/.keep
