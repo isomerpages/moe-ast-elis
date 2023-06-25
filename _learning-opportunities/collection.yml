@@ -2,10 +2,6 @@ collections:
   learning-opportunities:
     output: true
     order:
-      - Classroom Inquiry/Classroom Inquiry for EL and Literature Teachers.md
-      - Classroom Inquiry/.keep
-      - Literature/Developing Literary Response in Literature.md
-      - Literature/.keep
       - SkillsFuture for Educators/.keep
       - SkillsFuture for Educators/Differentiating Instruction in the Primary
         English Language Classroom.md
@@ -61,12 +57,16 @@ collections:
       - Leader Growth Programmes/Clinic with Master Teachers／EL.md
       - Leader Growth Programmes/Professional Dialogue with Master Teachers／EL.md
       - Leader Growth Programmes/Teacher Work Attachment@ELIS.md
+      - STP PLM/.keep
       - STP PLM/Skilful Questioning to Deepen Learning in the English Language.md
       - STP PLM/Designing Effective Lessons in English Language.md
-      - STP PLM/.keep
+      - Literature/.keep
+      - Literature/Developing Literary Response in Literature.md
       - Item Setting/.keep
       - Item Setting/Item Setting for P5 and P6 School–based Summative EL
         Assessment.md
+      - Classroom Inquiry/.keep
+      - Classroom Inquiry/Classroom Inquiry for EL and Literature Teachers.md
       - Communicating Effectively/.keep
       - Communicating Effectively/Language and Literacy Across the Curriculum.md
       - Communicating Effectively/Facilitating Productive Academic Discussion.md
