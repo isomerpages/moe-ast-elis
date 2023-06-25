@@ -123,6 +123,26 @@ description: ""
 <div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - From Talk to Text" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451215240?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
 </div>
 
+<div class="flex">
+	<h5>Dialogic Conversations: Promoting Critical Thinking</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Dialogic Conversations: Promoting Critical Thinking" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451214056?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Developing Students' Discussion Skills in English Language and Mathematics Classrooms</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Developing Students' Discussion Skills in English Language and Mathematics Classrooms" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451211689?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Developing Strategic Listeners through Metacognitive Instruction</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Developing Strategic Listeners through Metacognitive Instruction" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451210545?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Boosting Generative Conversations through Rich Texts</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Boosting Generative Conversations through Rich Texts" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451203647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
 <style>
 .flex {
 	display: flex;
