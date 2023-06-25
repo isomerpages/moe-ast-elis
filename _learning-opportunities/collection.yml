@@ -2,7 +2,6 @@ collections:
   learning-opportunities:
     output: true
     order:
-      - STP PLM/.keep
       - SkillsFuture for Educators/.keep
       - SkillsFuture for Educators/Differentiating Instruction in the Primary
         English Language Classroom.md
@@ -58,6 +57,7 @@ collections:
       - Leader Growth Programmes/Clinic with Master Teachers／EL.md
       - Leader Growth Programmes/Professional Dialogue with Master Teachers／EL.md
       - Leader Growth Programmes/Teacher Work Attachment@ELIS.md
+      - STP PLM/.keep
       - Item Setting, STP & Literature/.keep
       - Item Setting, STP & Literature/Item Setting for P5 and P6 School–based
         Summative EL Assessment.md
@@ -69,7 +69,7 @@ collections:
         the English Language.md
       - Item Setting, STP & Literature/Classroom Inquiry for EL and Literature
         Teachers.md
+      - Communicating Effectively/.keep
       - Communicating Effectively/Language and Literacy Across the Curriculum.md
       - Communicating Effectively/Facilitating Productive Academic Discussion.md
       - Communicating Effectively/Using Talk to Support Writing.md
-      - Communicating Effectively/.keep
