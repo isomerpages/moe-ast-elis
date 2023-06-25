@@ -3,8 +3,6 @@ title: Play
 permalink: /elis/resources/play/
 description: ""
 ---
-
-
 ### Play the&nbsp;_Let's Talk!_&nbsp;card game to develop students’ academic discussion skills
 
 <div class="flex">
@@ -19,9 +17,9 @@ description: ""
 
 The cards illustrate ‘talk moves’ students can use to engage in discussion and, on the flip side, provide language scaffolds in the form of sentence stems to help them do this. Each sentence stem represents a specific “academic conversation skill”. (Zwiers &amp; Crawford, 2011).
 
-Click&nbsp;[here](/files/sl_game-manual_final-(2020-nov-6).pdf)&nbsp;to download the&nbsp;_Let’s Talk!_&nbsp;card game manual.
+Click <a target="_blank" href="/files/sl_game-manual_final-(2020-nov-6).pdf">here</a> to download the <i>Let’s Talk!</i> card game manual.
 
-Find out how to use the *Let's Talk!* card game in your classroom in [this microlearning unit](https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758).
+Find out how to use the *Let's Talk!* card game in your classroom in <a target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a5650cf8-ce27-4a5e-913f-eef049c60758">this microlearning unit</a>.
 </div>
 </div>
 
@@ -63,5 +61,9 @@ To find out more about the *Let's Talk!* card game, please contact MOE\_ELIS\_Ac
 				flex-direction: column;
 				gap: 20px;
 		}
+	}
+	
+	a::before, a::after {
+		content: "" !important;
 	}
 </style>
