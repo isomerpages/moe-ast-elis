@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Classroom Inquiry/Classroom Inquiry for EL and Literature Teachers.md
       - Classroom Inquiry/.keep
       - Literature/Developing Literary Response in Literature.md
       - Literature/.keep
