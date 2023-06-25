@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - STP PLM/.keep
       - SkillsFuture for Educators/.keep
       - SkillsFuture for Educators/Differentiating Instruction in the Primary
         English Language Classroom.md
