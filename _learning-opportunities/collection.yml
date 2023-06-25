@@ -2,6 +2,7 @@ collections:
   learning-opportunities:
     output: true
     order:
+      - Literature/Developing Literary Response in Literature.md
       - Literature/.keep
       - SkillsFuture for Educators/.keep
       - SkillsFuture for Educators/Differentiating Instruction in the Primary
