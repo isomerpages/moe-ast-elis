@@ -63,7 +63,7 @@ To find out more about the *Let's Talk!* card game, please contact MOE\_ELIS\_Ac
 		}
 	}
 	
-	a::before, a::after {
+	.content > a::before, a::after {
 		content: "" !important;
 	margin: 0;
 	}
