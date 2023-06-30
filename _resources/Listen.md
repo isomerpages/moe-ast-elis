@@ -5,11 +5,52 @@ description: ""
 ---
 ## Podcast Episodes
 
+<style>
+	.flex {
+		display: flex;
+		margin-bottom: 30px;
+		gap:30px;
+		align-items: center;
+		justify-content: space-around;
+	}
+	
+	.flex > img {
+		order: 1;
+		width: 30% !important;
+	}
+	
+	.flex > p {
+		margin: 0;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+		}
+		.flex {
+				flex-direction: column;
+				gap: 20px;
+		}
+	}
+	.bp-menu-list a {
+		justify-content: flex-start;
+	}
+	
+		.sgds-icon {
+		margin-left: auto;
+	}
+	
+</style>
+
+<div class="flex">
 <img src="/images/listen_banner.png" style="width:40%">
-		 
+		 <div>
 Listen to our podcast episodes on the teaching and learning of English Language, Literature and General Paper.
 
 Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://go.gov.sg/elispodcast)
+	</div>
+</div>
 
 ### Podcast Series
 
@@ -84,4 +125,15 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 </a>
 
 
-<div class="sfContentBlock sf-Long-text"><h2>How to Listen</h2><div class="sf-Long-text"><p style="text-align:left;">Click the badges below to stream the ELIS Podcast on your favourite platform.</p><div class="row"><div class="col-sm-4"><center><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&amp;nd=1" target="_blank"><img src="/images/spotify3.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865" target="_blank"><img src="/images/apple podcast.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT" target="_blank"><img src="/images/youtube.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"></div></div></div><div class="accordion"></div></div>
+
+
+```
+
+```
+<div class="sfContentBlock sf-Long-text"><h2></h2><div class="sf-Long-text"><p style="text-align:left;">Click the badges below to stream the ELIS Podcast on your favourite platform.</p><div class="row"><div class="col-sm-4"><center><a href="https://open.spotify.com/show/1rUQ04YMfrAllq54uQZ48I?si=QhE5IdftRJeRpa32HbRtjQ&amp;nd=1" target="_blank"><img src="/images/spotify3.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://podcasts.apple.com/sg/podcast/elis-podcast/id1494072865" target="_blank"><img src="/images/apple podcast.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"><center><a href="https://www.youtube.com/playlist?list=PLGfKhR4f3-MhCLcE9WDBF6JX-6C3mqJMT" target="_blank"><img src="/images/youtube.png" style="width:100%;height:100%;"></a></center></div><div class="col-sm-4"></div></div></div><div class="accordion"></div></div>
+
+<style>
+	a::before, a::after {
+		content: "" !important;
+	}
+</style>

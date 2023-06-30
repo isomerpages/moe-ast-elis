@@ -2,7 +2,7 @@
 title: Skilful Questioning to Deepen Learning in the English Language
 permalink: /elis/professional-learning/professional-learning-opportunities/skilful-questioning-deepen-learning/
 description: ""
-third_nav_title: Item Setting, STP & Literature
+third_nav_title: STP PLM
 ---
 <em>How can I use questions to deepen my students’ learning in the English Language (EL) classroom? What should I consider when planning key questions, using questions to deepen learning, checking for understanding and providing feedback to enable my students to attain the intended learning outcomes?</em>
 

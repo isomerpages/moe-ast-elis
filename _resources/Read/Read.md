@@ -4,10 +4,43 @@ permalink: /elis/resources/read/
 description: ""
 third_nav_title: Read
 ---
-<img src="/images/read__banner.png" style="width:50%">
+<style>
+	.flex {
+		display: flex;
+		margin-bottom: 30px;
+		gap:30px;
+		align-items: center;
+		justify-content: space-around;
+	}
+	
+	.flex > img {
+		order: 1;
+		transform: scaleX(-1);
+		width: 30% !important;
+	}
+	
+	.flex > p {
+		margin: 0;
+	}
+	
+	@media only screen and (max-width: 768px) {
+		.flex > img {
+			width: 50% !important;
+			order: 0;
+			transform: scaleX(1);
+		}
+		.flex {
+				flex-direction: column;
+				gap: 20px;
+		}
+	}
+</style>
+
+<div class="flex">
+	<img src="/images/read__banner.png" style="width:50%">
 		 
 Deepen your understanding through our extensive library of e-publications on pedagogy, research, and classroom inquiry.
-
+</div>
 
 
 

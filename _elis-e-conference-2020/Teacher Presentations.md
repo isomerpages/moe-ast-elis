@@ -103,6 +103,97 @@ description: ""
 <div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Teaching Close and Critical Reading Skills using Read, Discuss, Synthesise and Present (RISE)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451221356?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
 </div>
 
+<div class="flex">
+	<h5>Sparking the Joy of Talk with WICK (Words, Images, Colour and Knowledge)</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Sparking the Joy of Talk with WICK (Words, Images, Colour and Knowledge)" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451220316?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Motivating Primary 6 Low Progress Students to Write</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.22% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Motivating Primary 6 Low Progress Students to Write" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451218316?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Harnessing Classroom Talk to Teach Inferential Skills for Reading Narrative Texts</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Harnessing Classroom Talk to Teach Inferential Skills for Reading Narrative Texts" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451216382?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>From Talk to Text</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - From Talk to Text" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451215240?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Dialogic Conversations: Promoting Critical Thinking</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Dialogic Conversations: Promoting Critical Thinking" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451214056?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Developing Students' Discussion Skills in English Language and Mathematics Classrooms</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Developing Students' Discussion Skills in English Language and Mathematics Classrooms" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451211689?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Developing Strategic Listeners through Metacognitive Instruction</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Developing Strategic Listeners through Metacognitive Instruction" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451210545?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>Boosting Generative Conversations through Rich Texts</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - Boosting Generative Conversations through Rich Texts" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451203647?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Dialoguing as Part of the Writing Process</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Dialoguing as Part of the Writing Process" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451199826?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - 'Discursive Writing' as a Process: Fresh ideas</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - 'Discursive Writing' as a Process: Fresh ideas" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451197922?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Making Writing Meaningful - For Who? For What? For When?</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Making Writing Meaningful - For Who? For What? For When?" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451194800?h=83ad311dfb&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - The Voices in Writing: The role of peer feedback in the writing process</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - The Voices in Writing: The role of peer feedback in the writing process" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451192324?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - The Reading-Writing Connection : The value of mentor texts in pre-writing</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - The Reading-Writing Connection : The value of mentor texts in pre-writing" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451189688?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Empowering Student Writers to Generate Ideas Using Learner Strategies within the Writing Process Cycle</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Empowering Student Writers to Generate Ideas Using Learner Strategies within the Writing Process Cycle" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451184801?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Getting Students to Revise their Writing through the Use of Writer's Craft</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Getting Students to Revise their Writing through the Use of Writer's Craft" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451182063?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+
+<div class="flex">
+	<h5>SWI - Trust the Process</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Trust the Process" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451179333?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Looking at Students' Writing</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Looking at Students' Writing" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451175637?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
+<div class="flex">
+	<h5>SWI - Generation of Ideas for Writing and Representing : How are we teaching it?</h5>
+<div style="padding:56.25% 0 0 0;position:relative;"><div style="padding:56.25% 0 0 0;position:relative;"><iframe title="ELIS e-Conference - SWI - Generation of Ideas for Writing and Representing : How are we teaching it?" style="position:absolute;top:0;left:0;width:100%;height:100%;" allowfullscreen="" allow="autoplay; fullscreen; picture-in-picture" frameborder="0" src="https://player.vimeo.com/video/451172225?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div></div>
+</div>
+
 <style>
 .flex {
 	display: flex;

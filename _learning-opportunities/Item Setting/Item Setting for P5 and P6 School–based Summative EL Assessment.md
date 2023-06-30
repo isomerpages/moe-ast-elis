@@ -2,7 +2,7 @@
 title: Item Setting for P5 and P6 School–based Summative EL Assessment
 permalink: /elis/professional-learning/professional-learning-opportunities/item-setting-for-p5-and-p6/
 description: ""
-third_nav_title: Item Setting, STP & Literature
+third_nav_title: Item Setting
 ---
 <em>How do I set quality items to assess a range of language skills at Primary 5 and 6? What should I take into consideration to ensure the validity of summative assessment tasks?</em>
 

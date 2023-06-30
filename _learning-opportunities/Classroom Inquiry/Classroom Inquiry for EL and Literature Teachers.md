@@ -2,7 +2,7 @@
 title: Classroom Inquiry for EL and Literature Teachers
 permalink: /elis/professional-learning/professional-learning-opportunities/classroom-inquiry-for-el-literature/
 description: ""
-third_nav_title: Item Setting, STP & Literature
+third_nav_title: Classroom Inquiry
 ---
 <em>How can I turn my curiosity and concerns about my students’ learning into a focused classroom inquiry? How do I design the classroom inquiry to answer the questions I have? What methods can I use to collect and analyse evidence? How can I communicate my findings clearly and convincingly to others?</em>
 

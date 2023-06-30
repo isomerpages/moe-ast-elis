@@ -3,7 +3,6 @@ title: Tay May Yin
 permalink: /elis/about-us/team-members/staff-publications/tay-may-yin/
 description: ""
 ---
-
 ### PUBLICATIONS AUTHORED BY DR TAY MAY YIN
 
 1.  Ang-Tay, M. Y. (2000). Developments in the English Language curriculum in Singapore. _Teaching of English Language & Literature Journal_, _16_(2), 3-8.

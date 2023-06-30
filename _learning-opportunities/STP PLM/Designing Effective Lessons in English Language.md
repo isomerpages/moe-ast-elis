@@ -2,7 +2,7 @@
 title: Designing Effective Lessons in English Language
 permalink: /elis/professional-learning/professional-learning-opportunities/designing-effective-english-lessons/
 description: ""
-third_nav_title: Item Setting, STP & Literature
+third_nav_title: STP PLM
 ---
 <em>How can I design English Language (EL) lessons that are aligned with both the EL Syllabus 2020 and the Singapore Teaching Practice (STP)? What considerations should I take into account when selecting a teaching approach and strategies to enable my students to achieve the lesson objectives?</em>
 
