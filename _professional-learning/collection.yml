@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Professional Learning.md
+      - Learning Opportunities/Example Title.md
       - Learning Opportunities/.keep
       - Learning Opportunities/Professional Learning Opportunities.md
       - Learning Opportunities/SkillsFuture for Educators (SFEd).md
