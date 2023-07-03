@@ -1,6 +1,6 @@
 ---
-title: Courses on Item Setting
-permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-item-setting/
+title: Courses on STP-PLM
+permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-stp-plm/
 description: ""
 third_nav_title: Learning Opportunities
 ---

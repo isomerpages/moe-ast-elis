@@ -1,6 +1,6 @@
 ---
-title: Courses on Item Setting
-permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-item-setting/
+title: Courses on Classroom Inquiry
+permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/
 description: ""
 third_nav_title: Learning Opportunities
 ---

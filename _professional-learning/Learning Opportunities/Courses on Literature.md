@@ -1,6 +1,6 @@
 ---
-title: Courses on Item Setting
-permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-item-setting/
+title: Courses on Literature
+permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-literature/
 description: ""
 third_nav_title: Learning Opportunities
 ---
