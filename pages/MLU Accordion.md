@@ -3,55 +3,21 @@ title: MLU Accordion
 permalink: /permalink/
 description: ""
 ---
+### Sample MLU Accordion
+
 <ul class="jekyllcodex_accordion">
 	<li>
-		<input id="accordion1" type="checkbox">
-		<label for="accordion1">Simple</label>
-			<div>
-				<p>This is a simple one line item</p>
-			</div>
-	</li>
-	<li>
-			<input id="accordion2" type="checkbox">
-			<label for="accordion2">Multi-line Block</label>
-			<div>
-				<p>This is line 1</p>
-				<p>This is line 2<br>This is line 3</p>
-			</div>
-	</li>
-	<li>
-		<input id="accordion3" type="checkbox">
-		<label for="accordion3">Multi-line Folded</label>
-		<div>
-			<p>This is all going to become just one line\\n even though there are multiple lines</p>
-		</div>
-	</li>
-	<li>
-		<input id="accordion4" type="checkbox">
-		<label for="accordion4">Ordered List</label>
+		<input id="EnsureThatItIsSameAndUNIQUE" type="checkbox">
+		<label for="EnsureThatItIsSameAndUNIQUE">Insert Title</label>
 		<div>
 			<ol>
-				<li>Item 1</li>
+				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a></li>
 				<li>Item 2</li>
 				<li>Item 3</li>
 			</ol>
 		</div>
 	</li>
-	<li>
-		<input id="accordion5" type="checkbox">
-		<label for="accordion5">Unordered List</label>
-		<div>
-			<ul>
-				<li>Item 1</li>
-				<li>Item 2</li>
-				<li>Item 3</li>
-			</ul>
-		</div>
-	</li>
 </ul>
-
-
-
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -269,3 +235,52 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+### SAMPLE ACCORDION
+
+<ul class="jekyllcodex_accordion">
+	<li>
+		<input id="accordion5" type="checkbox">
+		<label for="accordion5">Simple</label>
+			<div>
+				<p>This is a simple one line item</p>
+			</div>
+	</li>
+	<li>
+			<input id="accordion2" type="checkbox">
+			<label for="accordion2">Multi-line Block</label>
+			<div>
+				<p>This is line 1</p>
+				<p>This is line 2<br>This is line 3</p>
+			</div>
+	</li>
+	<li>
+		<input id="accordion3" type="checkbox">
+		<label for="accordion3">Multi-line Folded</label>
+		<div>
+			<p>This is all going to become just one line\\n even though there are multiple lines</p>
+		</div>
+	</li>
+	<li>
+		<input id="accordion4" type="checkbox">
+		<label for="accordion4">Ordered List</label>
+		<div>
+			<ol>
+				<li>Item 1</li>
+				<li>Item 2</li>
+				<li>Item 3</li>
+			</ol>
+		</div>
+	</li>
+	<li>
+		<input id="accordion5" type="checkbox">
+		<label for="accordion5">Unordered List</label>
+		<div>
+			<ul>
+				<li>Item 1</li>
+				<li>Item 2</li>
+				<li>Item 3</li>
+			</ul>
+		</div>
+	</li>
+</ul>
