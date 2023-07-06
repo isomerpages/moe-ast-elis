@@ -3,15 +3,6 @@ title: MLU Accordion
 permalink: /permalink/
 description: ""
 ---
-<div class="carousel__track">
-      <ul>
-          <li style="background-image: url('https://elis.moe.edu.sg/images/ELIS%20professional%20learning%20opportunities%202023.png');" class="carousel__slide">
-            <a href="/" style="text-decoration:none;display:block;width:100%;height:100%;">test</a>
-          </li>
-      </ul>
-    </div>
-
-
 <ul class="jekyllcodex_accordion">
 	<li>
 		<input id="accordion1" type="checkbox">
