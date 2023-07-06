@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - Test Redirect.md
       - Example Title.md
