@@ -36,3 +36,5 @@ links:
         url: /elis/resources/play/
   - title: Events
     url: /events/
+  - title: test
+    collection: test
