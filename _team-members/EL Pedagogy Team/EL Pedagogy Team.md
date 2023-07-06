@@ -29,7 +29,7 @@ third_nav_title: EL Pedagogy Team
 		<img src="/images/Team%20Members/charmaine_Use%20for%20website.jpg" class="m-0">
 	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
 </a><p></p>
-	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+	<figcaption><b>Ms Charmaine Tan</b><br>Assistant Director, Pedagogy</figcaption>
 </figure>
 
 
