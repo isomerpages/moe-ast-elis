@@ -10,11 +10,11 @@ Instructions
 2. Change the Title
 3. ensure the "id" in the input is the same as the label's "for"
 4. create `<li></li>` elements for each link
-5. copy and paste the `<a>` tag from the table below into the `</a><li><a>` tags 
+5. copy and paste the `<a></a>` tag from the table below into the `<li></li>` tags 
 
 ##### Sample
 
-</a><ul class="jekyllcodex_accordion"><a>
+<ul class="jekyllcodex_accordion"><a>
 	</a><li><a>
 		<input id="EnsureThatItIsSameAndUNIQUE" type="checkbox">
 		<label for="EnsureThatItIsSameAndUNIQUE">Insert Title</label>
@@ -292,4 +292,4 @@ Instructions
 			</ul>
 		</div>
 	</li>
-</ul></li>
+</ul>
