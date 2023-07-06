@@ -5,15 +5,24 @@ description: ""
 ---
 ### Sample MLU Accordion
 
-<ul class="jekyllcodex_accordion">
-	<li>
+Instructions
+1. need the jekyllcodex_accordion class
+2. Change the Title
+3. ensure the "id" in the input is the same as the label's "for"
+4. create `<li></li>` elements for each link
+5. copy and paste the `<a>` tag from the table below into the `</a><li><a>` tags '
+
+##### Sample
+
+</a><ul class="jekyllcodex_accordion"><a>
+	</a><li><a>
 		<input id="EnsureThatItIsSameAndUNIQUE" type="checkbox">
 		<label for="EnsureThatItIsSameAndUNIQUE">Insert Title</label>
-		<div>
-			<ol>
-				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a></li>
-				<li>Item 2</li>
-				<li>Item 3</li>
+		</a><div><a>
+			</a><ol style="font-size: 1rem;"><a>
+				</a><li><a></a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf1"><span style="color:#CA2126;background-color:transparent">What is Differentiated Instruction &amp; Why Does it Matter?</span></a></li>
+				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a></li>
+				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12"><span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span></a></li>
 			</ol>
 		</div>
 	</li>
@@ -283,4 +292,4 @@ description: ""
 			</ul>
 		</div>
 	</li>
-</ul>
+</ul></li>
