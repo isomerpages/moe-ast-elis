@@ -17,8 +17,8 @@ Instructions
 <ul class="jekyllcodex_accordion">
 	<li>
 		<a>
-			<input id="EnsureThatItIsSameAndUNIQUE" type="checkbox">
-			<label for="EnsureThatItIsSameAndUNIQUE">Insert Title</label>
+			<input id="test" type="checkbox">
+			<label for="test">Insert Title</label>
 		</a>
 		<div>
 			<ol style="font-size: 1rem;">
