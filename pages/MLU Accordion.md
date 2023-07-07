@@ -14,6 +14,8 @@ Instructions
 
 ##### Sample
 
+
+
 <ul class="jekyllcodex_accordion">
 	<li>
 		<a>
@@ -23,14 +25,26 @@ Instructions
 		<div>
 			<ol style="font-size: 1rem;">
 				<li>
-					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf1"><span style="color:#CA2126;background-color:transparent">What is Differentiated Instruction &amp; Why Does it Matter?</span></a>
+					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf1">
+						<span style="color:#CA2126;background-color:transparent">What is Differentiated Instruction &amp; Why Does it Matter?</span>
+					</a>
 				</li>
-				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a></li>
-				<li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12"><span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span></a></li>
+				<li>
+					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7">
+						<span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span>
+					</a>
+				</li>
+				<li>
+					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">
+						<span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span>
+					</a>
+				</li>
 			</ol>
 		</div>
 	</li>
 </ul>
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
