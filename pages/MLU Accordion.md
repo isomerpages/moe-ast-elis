@@ -15,6 +15,20 @@ Instructions
 ##### Sample
 
 
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="accordion4" type="checkbox">
+    <label for="accordion4">Ordered List</label>
+    <div>
+      <ol>
+        <li>Item 1</li>
+        <li>Item 2</li>
+        <li>Item 3</li>
+      </ol>
+    </div>
+  </li>
+</ul>
+
 
 <ul class="jekyllcodex_accordion">
 	<li>
