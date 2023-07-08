@@ -20,7 +20,7 @@ Instructions
     <input id="SameUnique" type="checkbox">
     <label for="SameUnique">Insert Title</label>
     <div>
-      <ol>
+      <ol style="font-size: 1rem;">
         <li>
 					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf1"><span style="color:#CA2126;background-color:transparent">What is Differentiated Instruction &amp; Why Does it Matter?</span></a>
 				</li>
