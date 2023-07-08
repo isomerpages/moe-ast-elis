@@ -14,6 +14,13 @@ Instructions
 
 ##### Sample
 
+if you want to make the text smaller, can change the font-size the default one from isomer is 20px [1.25rem] [1rem = 16px]. Then you should include the style thing when u copy over!
+
+<style>
+    .jekyllcodex_accordion div > ol > li {
+        font-size: 1rem;
+    }
+</style>
 
 <ul class="jekyllcodex_accordion">
   <li>
