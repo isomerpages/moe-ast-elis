@@ -69,6 +69,11 @@ a::before, a::after {
 	content: "" !important;
 	}
 	
+	a[href=".pdf"] {
+    position: relative;
+   margin-left: 0;
+}
+	
 	.bp-menu-list a {
 	justify-content: flex-start;
 	}
