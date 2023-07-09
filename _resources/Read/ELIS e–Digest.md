@@ -69,7 +69,7 @@ a::before, a::after {
 	content: "" !important;
 	}
 	
-	a[href=".pdf"] {
+	a[href$=".pdf"] {
     position: relative;
    margin-left: 0;
 }
