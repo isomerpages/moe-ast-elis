@@ -122,7 +122,7 @@ a::before, a::after {
 		margin: 0;
 	}
 	
-		a[href=".pdf"] {
+		a[href$=".pdf"] {
     position: relative;
    margin-left: 0;
 }
