@@ -122,6 +122,11 @@ a::before, a::after {
 		margin: 0;
 	}
 	
+		a[href=".pdf"] {
+    position: relative;
+   margin-left: 0;
+}
+	
 	@media only screen and (max-width: 768px) {
 		.content {
 				grid-template-columns: repeat(1,1fr) !important;
