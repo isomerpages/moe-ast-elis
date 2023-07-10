@@ -4,6 +4,29 @@ permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
 ---
+
+<style>
+	
+		@media only screen and (max-width: 768px) {
+			.grid {
+		display: grid;
+		grid-template-columns: repeat(1, 1fr) !important;
+		gap: 10px;
+	}
+	}
+	
+	.grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+	gap: 10px;
+	}
+	
+	.grid img {
+		width: 100% !important;
+	}
+</style>
+
+
 <style>
 	.flex {
 		display: flex;
@@ -31,24 +54,9 @@ third_nav_title: View
 				flex-direction: column;
 				gap: 20px;
 		}
-		.grid {
-		display: grid;
-		grid-template-columns: repeat(1, 1fr) !important;
-	gap: 10px;
-	}
-	}
-	
-	.grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-	gap: 10px;
-	}
-	
-	.grid img {
-		width: 100% !important;
 	}
 </style>
-
+		
 <div class="flex">
 <img src="/images/watch_banner.png" style="width:50%">
 <div style="display: flex; flex-direction: column; gap: 25px;">
