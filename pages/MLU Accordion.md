@@ -3,9 +3,6 @@ title: MLU Accordion
 permalink: /permalink/
 description: ""
 ---
-<a target="_blank" href="/files/elis-research-digest-vol-6-issue-1.pdf">Click here</a>
-
-
 ### Sample MLU Accordion
 
 Instructions
@@ -37,7 +34,8 @@ if you want to make the text smaller, can change the font-size the default one f
         <li>
 					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a>
 				</li>
-        <li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12"><span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span></a></li>
+        <li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12"><span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span></a>
+				</li>
       </ol>
     </div>
   </li>
