@@ -3,6 +3,25 @@ title: MLU Accordion
 permalink: /permalink/
 description: ""
 ---
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="a1" type="checkbox">
+    <label for="a1">MLU Part 1</label>
+    <div>
+      <ol>
+        <li>
+					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c"><span style="color:#CA2126;background-color:transparent">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</span></a>
+				</li>
+        <li>
+					<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7"><span style="color:#CA2126;background-color:transparent">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</span></a>
+				</li>
+        <li><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12"><span style="color:#CA2126;background-color:transparent">How can EL Departments Build a Culture that Supports Differentiated Instruction?</span></a>
+				</li>
+      </ol>
+    </div>
+  </li>
+</ul>
+
 ### Sample MLU Accordion
 
 Instructions
@@ -283,7 +302,7 @@ if you want to make the text smaller, can change the font-size the default one f
 		<input id="accordion3" type="checkbox">
 		<label for="accordion3">Multi-line Folded</label>
 		<div>
-			<p>This is all going to become just one line\\n even though there are multiple lines</p>
+			<p>This is all going to become just one line<br> even though there are multiple lines</p>
 		</div>
 	</li>
 	<li>
