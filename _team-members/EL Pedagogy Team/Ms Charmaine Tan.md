@@ -9,7 +9,7 @@ third_nav_title: EL Pedagogy Team
 		<img src="/images/Team%20Members/charmaine_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Ms Charmaine Tan</strong></h3>
-		<strong>Senior Academy Officer (Pedagogy)</strong>
+		<strong>Assistant Director (Pedagogy)</strong>
 	</div>
 	</div>
 
