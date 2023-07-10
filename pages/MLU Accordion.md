@@ -3,6 +3,9 @@ title: MLU Accordion
 permalink: /permalink/
 description: ""
 ---
+<a target="_blank" href="/files/elis-research-digest-vol-6-issue-1.pdf">Click here</a>
+
+
 ### Sample MLU Accordion
 
 Instructions
