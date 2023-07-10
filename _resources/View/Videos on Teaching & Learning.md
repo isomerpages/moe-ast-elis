@@ -4,7 +4,6 @@ permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
 ---
-
 <style>
 	
 		@media only screen and (max-width: 768px) {
