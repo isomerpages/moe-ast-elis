@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Read
 ---
 <div>
-	
 <img src="/images/edigest5.jpg" style="width:75%">
 	
 <a target="_blank" href="link here">ELIS e-Digest Issue 5</a><br>
 	
 In this issue, ‘Teacher as Inquirer: Impacting Student Learning’, you will listen to and read about teachers who undertake classroom inquiry. They inquire into their pedagogical practices and consider ways to improve the quality of their teaching decisions so as to enhance student motivation and learning. You will also find out what classroom inquiry involves, why classroom inquiry is of value to teachers and students, and how to design and carry out classroom inquiry.
-	</div>
+</div>
 	
-	<div>						
+<div>						
 <img src="/images/digest4.png" style="width:75%">
 		 
 <a target="_blank" href="/files/learning-by-inquiring.pdf">ELIS e-Digest Issue 4</a><br>
