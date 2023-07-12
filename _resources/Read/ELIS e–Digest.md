@@ -13,7 +13,7 @@ In this issue, ‘Teacher as Inquirer: Impacting Student Learning’, you will l
 </div>
 	
 <div>						
-<img src="/images/digest4.png" style="width:75%">
+<img src="/images/digest4.png" style="width:79%">
 		 
 <a target="_blank" href="/files/learning-by-inquiring.pdf">ELIS e-Digest Issue 4</a><br>
 
