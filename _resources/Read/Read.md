@@ -47,7 +47,7 @@ Deepen your understanding through our extensive library of e-publications on ped
 <div class="grid">
 		<div>
 <p><a href="/elis/resources/read/elis-e-digest-new/">
-<img src="/images/elis-e-digest-social-media-poster-(issue-3).png" style="width:50%">
+<img src="/images/edigest5.jpg" style="width:60%">
 </a></p><center><a href="/elis/resources/read/elis-e-digest-new/"><b>ELIS e–Digest</b></a></center><a href="/elis/resources/read/elis-e-digest-new/">
 </a>
 	</div>
