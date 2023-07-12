@@ -15,13 +15,13 @@ sections:
         Paper.
       button: Access the e-Digest here
       url: /elis/resources/read/elis-e-digest-new/
-      image: /images/elis-e-digest-social-media-poster-(issue-2)a.png
+      image: /images/edigest5.jpg
       alt: e-Digest
   - infopic:
       title: Professional Learning Resources
-      description: "Access our on-the-go learning resources to cultivate your
+      description: Access our on-the-go learning resources to cultivate your
         pedagogical expertise in the teaching, learning and use of the English
-        language. "
+        language.
       button: Start learning here
       url: https://elis.moe.edu.sg/elis/resources/
       image: /images/resources poster for elis website.png
