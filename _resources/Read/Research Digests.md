@@ -4,6 +4,68 @@ permalink: /elis/resources/read/research-digests/
 description: ""
 third_nav_title: Read
 ---
+<style>
+
+a::before, a::after {
+
+content: "" !important;
+
+}
+
+.bp-menu-list a {
+
+justify-content: flex-start;
+
+}
+
+.sgds-icon {
+
+margin-left: auto;
+
+}
+
+.content {
+
+display: grid;
+
+grid-template-columns: repeat(2,1fr);
+
+gap: 20px;
+
+}
+
+h3 {
+
+font-weight: bold;
+
+}
+
+.content p:last-child {
+
+margin: 0;
+
+}
+
+a\[href$=".pdf"\] {
+
+    position: relative;
+
+   margin-left: 0;
+
+}
+
+@media only screen and (max-width: 768px) {
+
+.content {
+
+grid-template-columns: repeat(1,1fr) !important;
+
+}
+
+}
+
+</style>
+
 <div>
 	
 <h4><b><font color="#BB342F">Volume 6, 2019</font></b></h4>
@@ -94,43 +156,3 @@ third_nav_title: Read
 <p><a href="/files/elis-research-digest-vol-1-issue-6.pdf"><b><font color="#6DB1C2">6. Frameworks for Disciplinary Literacy</font></b></a></p>
 
 </div>
-	
-<style>
-a::before, a::after {
-	content: "" !important;
-	}
-	
-	.bp-menu-list a {
-	justify-content: flex-start;
-	}
-	
-	.sgds-icon {
-		margin-left: auto;
-	}
-	
-.content {
-	display: grid;
-	grid-template-columns: repeat(2,1fr);
-	gap: 20px;
-	}
-	
-	h3 {
-		font-weight: bold;
-	}
-	
-.content p:last-child {
-		margin: 0;
-	}
-	
-		a[href$=".pdf"] {
-    position: relative;
-   margin-left: 0;
-}
-	
-	@media only screen and (max-width: 768px) {
-		.content {
-				grid-template-columns: repeat(1,1fr) !important;
-		}
-	}
-	
-</style>
