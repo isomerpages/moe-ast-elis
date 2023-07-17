@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Read
 ---
 <div>
-<img src="/images/edigest5.jpg" style="width:75%">
+<img src="/images/edigest517jul.jpg" style="width:75%">
 	
 <a target="_blank" href="/files/e-digest-issue-5.pdf">ELIS e-Digest Issue 5</a><br>
 	
