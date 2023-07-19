@@ -83,4 +83,10 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodca
 <img style="width:40%" src="/images/ci%208%20malinda.png">
 </a></p><center><a href="/podcast-series/classroom-inquiry/using-drama-techniques-to-improve-student-writing/"><b>Using Drama Techniques to Improve Student Writing
 </b></a></center><a href="/podcast-series/classroom-inquiry/using-drama-techniques-to-improve-student-writing/">
-</a>
+	</a>
+	
+<p><a href="/podcast-series/classroom-inquiry/helping-primary-two-students-to-write-better-stories/">
+<img style="width:40%" src="/images/classroom%20inquiry%209.png">
+</a></p><center><a href="/podcast-series/classroom-inquiry/helping-primary-two-students-to-write-better-stories/"><b>Helping Primary Two Students to Write Better Stories
+</b></a></center><a href="/podcast-series/classroom-inquiry/helping-primary-two-students-to-write-better-stories/">
+	</a>
