@@ -15,7 +15,7 @@ In this issue, ‘Teacher as Inquirer: Impacting Student Learning’, you will l
 <div>						
 <img src="/images/digest4.png" style="width:79%">
 		 
-<a target="_blank" href="/files/learning-by-inquiring.pdf">ELIS e-Digest Issue 4</a><br>
+<a target="_blank" href="/files/edigest4-19jul.pdf">ELIS e-Digest Issue 4</a><br>
 
 The focus of this issue, 'Learning by Inquiring', is on how teachers can promote active student learning by engaging students in Inquiry-Based Learning (IBL). Read on to find out how students can learn by inquiring as they engage in dialogic talk, apply metacognitive learner strategies and find answers to their own questions.
 
@@ -25,7 +25,7 @@ The focus of this issue, 'Learning by Inquiring', is on how teachers can promote
 	
 <img src="/images/elis-e-digest-social-media-poster-(issue-3).png" style="width:75%">
 		 
-<a target="_blank" href="/files/making-writing-and-representing-meaningful.pdf">ELIS e-Digest Issue 3</a><br>
+<a target="_blank" href="/files/edigest3-19jul.pdf">ELIS e-Digest Issue 3</a><br>
 	
 In this issue, ‘Making Writing and Representing Meaningful', you can learn about creating meaningful writing and representing experiences for students and how to engage them as writers.&nbsp;  
   
@@ -37,7 +37,7 @@ Explore the classroom practices and resources featured in this issue, which aim 
 
 <img src="/images/elis-e-digest-social-media-poster-(issue-2)a.png" style="width:75%">
 		 
-<a href="/files/'learning-about-our-learners'-elis-e-digest-jan-22.pdf">ELIS e-Digest Issue 2</a><br>
+<a href="/files/edigest2-19jul.pdf">ELIS e-Digest Issue 2</a><br>
 	
 In this issue, ‘Learning about our Learners’, you will learn about what it means to place learners at the heart of the teaching, learning and assessment process.&nbsp;  
   
@@ -49,7 +49,7 @@ Explore the classroom practices and resources featured in this issue to enable y
 	
 <img src="/images/elis-e-digest-social-media-poster-(issue-1).png" style="width:75%">
 		 
-<a target="_blank" href="/files/'let's-talk-about-talk'-elis-e-digest-july-2021.pdf">ELIS e-Digest Inaugural Issue </a><br>
+<a target="_blank" href="/files/edigest1-19jul.pdf">ELIS e-Digest Inaugural Issue </a><br>
 
 In this issue, ‘Let’s Talk about Talk’, you will learn about the what, why and how of classroom talk.&nbsp;&nbsp;  
   
