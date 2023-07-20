@@ -15,6 +15,6 @@ Luo, W., Hogan, D., &amp; Paris, S. G. (2011). Predicting Singapore students' ac
   
 [Link to Research Summary](https://elis.moe.edu.sg/elis/resources/read/research-summaries/listening-viewing/impact-of-classroom-practices-on-students)
 
-[Link to all Research Summary](https://elis.moe.edu.sg/elis/resources/read/research-summaries/vocabulary/academic-conversations)
+[Link to all Research Summaries](https://elis.moe.edu.sg/elis/resources/read/research-summaries/vocabulary/academic-conversations)
 
 <em>Episode published 28 Jul 2021.</em>
