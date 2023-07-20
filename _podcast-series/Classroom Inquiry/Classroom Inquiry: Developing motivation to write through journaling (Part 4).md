@@ -14,6 +14,6 @@ The ‘Developing Motivation to Write through Journalling’ episodes focus on a
 
 Link to their Research Report ‘[Developing motivation to write through journaling](/files/de-la-salle-primary-school-final-report.pdf)’ (.pdf, 512.51 KB).&nbsp;  
   
-Link to&nbsp;[ELIS Research Fund Reports](https://staging.d1wti0p44mqune.amplifyapp.com/elis/resources/read/elis-research-fund-reports)
+Link to&nbsp;[ELIS Research Fund Reports](https://elis/resources/read/elis-research-fund-reports)
 
 <em>Episode published 2 Jun 2021.</em>
