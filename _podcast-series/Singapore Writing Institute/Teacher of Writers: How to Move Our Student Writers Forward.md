@@ -4,16 +4,15 @@ permalink: /elis/resources/listen/teacher-of-writers-how-to-move-our-student-wri
 description: ""
 third_nav_title: Singapore Writing Institute
 ---
-<img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only-(1).png" 
-     style="width:50%">
+<img src="/images/final-tla-and-swi-ci-and-gm-thumbnails-w-title-only-(1).png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/5N5nzTC8FM7hxO2Spn3lyb">Click here to listen to the podcast</a>
 
-This is the third episode of our Singapore Writing Institute (SWI) podcast series. 
+This is the third episode of our Singapore Writing Institute (SWI) podcast series.&nbsp;
 
-Listen to the alumni of the Singapore Writing Institute, Rafeah Yahya and Angelina Tang, speak about their experiences as teacher writers and how their experiences influenced their teaching of writing.  Enjoy listening to them read a piece of their own writing, compiled in the SWI publication, SWIrl. You will also listen to Audrey Lee and Eunice Lim from ELIS, who together with Rafeah and Angelina, discuss how teachers can move student writers forward in their writing.
+Listen to the alumni of the Singapore Writing Institute, Rafeah Yahya and Angelina Tang, speak about their experiences as teacher writers and how their experiences influenced their teaching of writing.&nbsp; Enjoy listening to them read a piece of their own writing, compiled in the SWI publication, SWIrl. You will also listen to Audrey Lee and Eunice Lim from ELIS, who together with Rafeah and Angelina, discuss how teachers can move student writers forward in their writing.
 
-Find out more about SWI [here](https://staging.d1wti0p44mqune.amplifyapp.com/elis/learning-communities/swi-alumni).
+Find out more about SWI&nbsp;[here](https://elis.moe.edu.sg/elis/learning-communities/swi-alumni).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
