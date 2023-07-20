@@ -63,7 +63,9 @@ You can listen to the views of Mr Wong Siew Hoong, Director-General of Education
 		
 Your feedback is valuable to us.
 
-Please click&nbsp;[here](https://go.gov.sg/elisedigestfeedback)&nbsp;to provide your feedback on the ELIS e-Digest.
+Please click [here](https://go.gov.sg/elisedigestfeedback) to provide your feedback on the ELIS e-Digest.
+
+
 	
 </div>
 

@@ -4,4 +4,4 @@ permalink: /elis/professional-learning/professional-learning-opportunities/cours
 description: ""
 third_nav_title: Learning Opportunities
 ---
-*   [Developing Literary Response in Literature (Secondary)](/elis/professional-learning/professional-learning-opportunities/classroom-inquiry-for-el-literature/)
+*   [Developing Literary Response in Literature (Secondary)](/elis/professional-learning/professional-learning-opportunities/developing-literary-responses/)
