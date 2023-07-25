@@ -6,7 +6,7 @@ third_nav_title: EL Pedagogy Team
 ---
 <div class="flex">
 	<div class="imgCrop">
-		<img src="/images/Team%20Members/Elizabeth_Use%20for%20website.jpg" class="m-0"></div>
+		<img src="/images/Team%20Members/madeleine_use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Ms Madeleine Tan </strong></h3>
 		<strong>Academy Officer, Pedagogy</strong>
