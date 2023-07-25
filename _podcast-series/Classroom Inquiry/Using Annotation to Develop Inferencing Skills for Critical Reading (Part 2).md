@@ -4,7 +4,7 @@ permalink: /elis/resources/listen/classroom-inquiry-podcasts/inquiring-into-stud
 description: ""
 third_nav_title: Classroom Inquiry
 ---
-![](/images/299.png)
+<img src="/images/299.png" style="width:50%">
 
 <a href="https://open.spotify.com/episode/22LXTQgrMrp19WBpLuZsH9?si=193y1yBkQA6Vsg7V4THfKw">Click here to listen to the podcast</a>
 

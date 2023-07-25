@@ -12,7 +12,7 @@ This is the fourth episode of our Singapore Writing Institute (SWI) podcast seri
 
 Listen to the alumni of the Singapore Writing Institute, Sudhesh Vasu Dash and Khoo Lilin, speak about their experiences as teacher leaders and how they have led and inspired their colleagues in the teaching of Writing and Representing.&nbsp; You will also listen to Tay May Yin and Darren Nonis from ELIS, who together with Sudhesh and Lilin, discuss how teacher leaders can build a community of shared practice and support others in improving the teaching, learning and assessment of Writing and Representing.
 
-Find out more about SWI&nbsp;[here](https://staging.d1wti0p44mqune.amplifyapp.com/elis/learning-communities/swi-alumni).
+Find out more about SWI&nbsp;[here](https://elis.moe.edu.sg/elis/learning-communities/swi-alumni).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}

@@ -1,5 +1,5 @@
 ---
-title: Special Interest Group (SIG)
+title: Special Interest Group
 permalink: /elis/learning-communities/special-interest-group/
 description: ""
 ---
@@ -12,4 +12,4 @@ Questions for you to think about while viewing the video:
 1.  Which particular area of language teaching and learning would you like to work on in order to develop your teaching practice?
 2.  How can an SIG help you to improve your teaching practice?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u20OqrCincQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/u20OqrCincQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>

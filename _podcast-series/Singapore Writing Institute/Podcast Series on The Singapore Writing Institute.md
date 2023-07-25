@@ -26,5 +26,5 @@ Listen to&nbsp;our Singapore Writing Institute (SWI) podcast episodes featuring 
 <p><a href="/podcast-series/singapore-writing-institute/teacher-as-leader-leading-from-the-classroom/">
 <img src="/images/podcast%20swi%204.png" style="width:30%">
 
-</a></p><center><a href="/podcast-series/singapore-writing-institute/teacher-as-leader-leading-from-the-classroom//"><b>Teacher as Leader: Leading from the Classroom</b></a></center><a href="/podcast-series/singapore-writing-institute/teacher-as-leader-leading-from-the-classroom/">
+</a></p><center><a href="/podcast-series/singapore-writing-institute/teacher-as-leader-leading-from-the-classroom/"><b>Teacher as Leader: Leading from the Classroom</b></a></center><a href="/podcast-series/singapore-writing-institute/teacher-as-leader-leading-from-the-classroom/">
 </a>

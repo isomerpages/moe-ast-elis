@@ -4,16 +4,15 @@ permalink: /elis/resources/listen/teacher-as-inquirer-nurturing-voice-in-student
 description: ""
 third_nav_title: Singapore Writing Institute
 ---
-<img src="/images/22.png" 
-     style="width:50%">
+<img src="/images/22.png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/4u9AsQ2eOC6cKmIUG1Nqse">Click here to listen to the podcast</a>
 
-This is the second episode of our Singapore Writing Institute (SWI) podcast series. 
+This is the second episode of our Singapore Writing Institute (SWI) podcast series.&nbsp;
 
 Listen to the alumni of the Singapore Writing Institute, Choo Ruofei and Grace Wang, speak about their experiences as teacher inquirers and how their experiences influenced their teaching of writing. Enjoy listening to them read a piece of their own writing, compiled in the SWI publication, SWIrl. You will also listen to Serene Lai and Audrey Ang from ELIS, who together with Grace and Ruofei, discuss why nurturing voice in students' writing is important.
 
-Find out more about SWI [here](https://staging.d1wti0p44mqune.amplifyapp.com/elis/learning-communities/swi-alumni).
+Find out more about SWI&nbsp;[here](https://elis.moe.edu.sg/elis/learning-communities/swi-alumni).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -46,4 +45,3 @@ Find out more about SWI [here](https://staging.d1wti0p44mqune.amplifyapp.com/el
 </table>
 
 <em>Episode published on 23 March 2022.</em>
-
