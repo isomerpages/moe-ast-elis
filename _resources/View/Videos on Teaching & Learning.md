@@ -436,7 +436,7 @@ CLLIPS and ACoLADE</h4></label>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a">  How can We Instruct Explicitly in the EL Classroom?</a></p>
     </div>
 	</li>  
-	<li>
+	</ul>
 
 
 ### e-Conference Resources
@@ -451,4 +451,3 @@ a:has(span) {
 	}
 </style>
 
-</li></ul>
