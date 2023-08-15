@@ -249,65 +249,77 @@ Watch these videos on how to strengthen our pedagogical practices through collab
     <td class="tg-d1dx">10</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/67519c16-ce40-4643-a9f1-c2fe1afa37e4"><span style="color:#CA2126;background-color:transparent">What does Diagnosing Students' Learning Needs Involve?</span></a></td>
   </tr>
-  <tr>
+	  <tr>
     <td class="tg-d1dx">11</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a71689f4-1a87-433c-b5cb-8a97fc904754"><span style="color:#CA2126;background-color:transparent">How can English Language Teachers Diagnose Students' Learning Needs to Plan for Teaching and Learning</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/486562ce-ca8e-430c-aa68-8a41de533586"><span style="color:#CA2126;background-color:transparent">Diagnosing Students’ Learning Needs – Frequently Asked Questions</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">12</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Raise Awareness in the EL Classroom?</span></a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"> </a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"><span style="color:#CA2126;background-color:transparent"> </span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a71689f4-1a87-433c-b5cb-8a97fc904754"><span style="color:#CA2126;background-color:transparent">How can English Language Teachers Diagnose Students' Learning Needs to Plan for Teaching and Learning</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">13</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d664ac06-b2a9-45d8-8e5e-e6d90e8d1da7"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Structure Consolidation in the EL Classroom?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Raise Awareness in the EL Classroom?</span></a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"> </a><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"><span style="color:#CA2126;background-color:transparent"> </span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">14</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4c15a045-b251-4157-8d85-506e3a0727c0"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Facilitate Assessment for Learning (AfL) in the EL Classroom? </span></a><br></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d664ac06-b2a9-45d8-8e5e-e6d90e8d1da7"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Structure Consolidation in the EL Classroom?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">15</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff0cbf5a-5cd1-44d7-8380-85d5fbc30d14"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Enable Application in the EL Classroom?</span></a><br></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4c15a045-b251-4157-8d85-506e3a0727c0"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Facilitate Assessment for Learning (AfL) in the EL Classroom? </span></a><br></td>
   </tr>
   <tr>
     <td class="tg-d1dx">16</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8f4ad335-1a5e-42ac-92b1-5e36c212cb7e"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Guide Discovery in the EL Classroom?</span></a><br></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff0cbf5a-5cd1-44d7-8380-85d5fbc30d14"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Enable Application in the EL Classroom?</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-d1dx">17</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Instruct Explicitly in the EL Classroom?</span></a><br></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8f4ad335-1a5e-42ac-92b1-5e36c212cb7e"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How Can We Guide Discovery in the EL Classroom?</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-d1dx">18</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadfc435-d0be-4411-8ba6-7a32a9140810"><span style="color:#CA2126;background-color:transparent">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a"><span style="color:#CA2126;background-color:transparent">Applying ACoLADE - How can We Instruct Explicitly in the EL Classroom?</span></a><br></td>
   </tr>
   <tr>
     <td class="tg-d1dx">19</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2"><span style="color:#CA2126;background-color:transparent">What are Quality Questions?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadfc435-d0be-4411-8ba6-7a32a9140810"><span style="color:#CA2126;background-color:transparent">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">20</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2"><span style="color:#CA2126;background-color:transparent">What are Quality Questions?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">21</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/54e968f7-6d1c-4be0-907c-d506fae4a150" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">How to Select Texts?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f"><span style="color:#CA2126;background-color:transparent">How Can English Language Teachers Sequence Their Questions Effectively?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">22</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/77935d85-e1e5-4a55-b291-3554870a2a42"><span style="color:#CA2126;background-color:transparent">How to Adapt Texts?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/54e968f7-6d1c-4be0-907c-d506fae4a150" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">How to Select Texts?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">23</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b8b52e5-c137-4699-9b37-522fa75b97fe" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Why Select and Adapt Texts?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/77935d85-e1e5-4a55-b291-3554870a2a42"><span style="color:#CA2126;background-color:transparent">How to Adapt Texts?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">24</td>
-    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/846f11c8-2577-40a4-a511-b7b71b7d2b3b"><span style="color:#CA2126;background-color:transparent">What Should EL Teachers be Guided by in the Design of Blended Learning Experiences?</span></a></td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b8b52e5-c137-4699-9b37-522fa75b97fe" target="_blank" rel="noopener noreferrer"><span style="color:#CA2126;background-color:transparent">Why Select and Adapt Texts?</span></a></td>
   </tr>
   <tr>
     <td class="tg-d1dx">25</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/846f11c8-2577-40a4-a511-b7b71b7d2b3b"><span style="color:#CA2126;background-color:transparent">What Should EL Teachers be Guided by in the Design of Blended Learning Experiences?</span></a></td>
+  </tr>
+  <tr>
+    <td class="tg-d1dx">26</td>
     <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9ae5e67e-3a70-412d-97b0-03b6ecb908b2"><span style="color:#CA2126;background-color:transparent">What Should EL Teachers Consider When Drawing Up a Design Map to Plan Learning Experiences?</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-d1dx">27</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d678f719-4d80-46d4-a658-82d8698294e0"><span style="color:#CA2126;background-color:transparent">How to Grow Creative Inquirers in the EL Classroom? - Planning</span></a></td>
+  </tr>
+	<tr>
+    <td class="tg-d1dx">28</td>
+    <td class="tg-eya1"><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45"><span style="color:#CA2126;background-color:transparent">How to Grow Creative Inquirers in the EL Classroom? – Enacting</span></a></td>
   </tr>
 </tbody>
 </table><br>
