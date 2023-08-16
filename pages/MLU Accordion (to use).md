@@ -45,7 +45,18 @@ CLLIPS and ACoLADE</h4></label>
 </a></p>
     </div>
 	</li>  
+		<li>
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h4>Assessment for Learning</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ed68e7d8-eae3-473a-beb6-ff6b9858d9ce">Why is it Important to Diagnose Students' Learning Needs?</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/67519c16-ce40-4643-a9f1-c2fe1afa37e4">What does Diagnosing Students' Learning Needs Involve?</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a71689f4-1a87-433c-b5cb-8a97fc904754">How can English Language Teachers Diagnose Students' Learning Needs to Plan for Teaching and Learning</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/486562ce-ca8e-430c-aa68-8a41de533586">Diagnosing Students’ Learning Needs – Frequently Asked Questions</a></p>
+    </div>
+	</li>  
 </ul>
+
 
 
 
