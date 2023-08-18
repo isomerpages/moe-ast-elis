@@ -111,7 +111,7 @@ CLLIPS and ACoLADE</h4></label>
     <label for="accordion9"><h4>Classroom Inquiry</h4></label>
     <div>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm">Learning Path: Classroom Inquiry</a></p>
-		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191">Using the Frayer Model strategy to learn subject-specific vocabulary</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a">Crafting Inquiry Questions</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282">Using the Concept Circle strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
 			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f">Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary</a></p>
