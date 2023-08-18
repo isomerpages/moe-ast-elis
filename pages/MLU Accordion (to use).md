@@ -126,11 +126,10 @@ CLLIPS and ACoLADE</h4></label>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f0173309-2eb6-41fc-9cd0-fae5eae89745">How do I Determine the Word Class of a Word?</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d4f447ae-2b96-4d4b-bb74-e73f7af150b3">What are the Different Forms of Verbs and How do I Describe Them?</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0be7158b\-29f1\-45f6\-8697\-fca6d9845157">What is a Noun Phrase and Why Teach it?</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
-			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f">Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary</a></p>
-		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="">What are Adverbials? Why and How do I Use Them?</a></p>
+			    <p><a href="">What is Subject-Verb Agreement and How do I identify the Subject and the Verb?</a></p>
+		<p><a href="">How can I Use Grammatical Devices to Make Texts Cohesive?</a></p>
+			   <p><a href="">How can I Use Lexical Devices to Make Texts&nbsp; More Cohesive?</a></p>
 </div>
 	</li>
 </ul>
