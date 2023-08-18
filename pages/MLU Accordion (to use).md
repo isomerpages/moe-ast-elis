@@ -104,4 +104,37 @@ CLLIPS and ACoLADE</h4></label>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</a></p>
-</div></li></ul>
+</div>
+	</li>
+				<li>
+    <input type="checkbox" id="accordion9">
+    <label for="accordion9"><h4>Classroom Inquiry</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm">Learning Path: Classroom Inquiry</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191">Using the Frayer Model strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282">Using the Concept Circle strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
+			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f">Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
+			</div>
+	</li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
