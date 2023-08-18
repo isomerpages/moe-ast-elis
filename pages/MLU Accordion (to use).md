@@ -83,11 +83,13 @@ CLLIPS and ACoLADE</h4></label>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f">How Can English Language Teachers Sequence Their Questions Effectively?</a></p>
     </div>
 	</li>  
+	<li>
+    <input type="checkbox" id="accordion7">
+    <label for="accordion7"><h4>Selecting and Adapting Texts</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/54e968f7-6d1c-4be0-907c-d506fae4a150">How to Select Texts?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/77935d85-e1e5-4a55-b291-3554870a2a42">How to Adapt Texts?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b8b52e5-c137-4699-9b37-522fa75b97fe">Why Select and Adapt Texts?</a></p>
+    </div>
+	</li>  
 </ul>
-
-
-
-
-
-
-
