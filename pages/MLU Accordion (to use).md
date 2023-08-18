@@ -92,4 +92,16 @@ CLLIPS and ACoLADE</h4></label>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b8b52e5-c137-4699-9b37-522fa75b97fe">Why Select and Adapt Texts?</a></p>
     </div>
 	</li>  
-</ul>
+			<li>
+    <input type="checkbox" id="accordion8">
+    <label for="accordion8"><h4>Effective Communication for Learning</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/ead8543c-175f-47b1-b01b-8aef366c2c65/fromlmm">Learning Path: Providing Language and Literacy Support in Subject Classrooms</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191">Using the Frayer Model strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a71689f4-1a87-433c-b5cb-8a97fc904754">How can English Language Teachers Diagnose Students' Learning Needs to Plan for Teaching and Learning</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/486562ce-ca8e-430c-aa68-8a41de533586">Diagnosing Students’ Learning Needs – Frequently Asked Questions</a></p>
+			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm">Learning Path: Big Ideas of Effective Feedback</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc">Big Ideas of Feedback (2) – Motivating Students</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/e1842bbd-e411-4905-9aba-79393b4adb55">Big Ideas of Feedback (3) – Self-directed Learners</a></p>
+</div></li></ul>
