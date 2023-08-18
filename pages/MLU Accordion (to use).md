@@ -75,5 +75,19 @@ CLLIPS and ACoLADE</h4></label>
 </a></p>
     </div>
 	</li>  
+			<li>
+    <input type="checkbox" id="accordion6">
+    <label for="accordion6"><h4>Using Questions to Deepen Learning</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2">What are Quality Questions?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f">How Can English Language Teachers Sequence Their Questions Effectively?</a></p>
+    </div>
+	</li>  
 </ul>
+
+
+
+
+
+
 
