@@ -63,8 +63,17 @@ CLLIPS and ACoLADE</h4></label>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/486562ce-ca8e-430c-aa68-8a41de533586">NOT DONE</a></p>
     </div>
 	</li>  
+		<li>
+    <input type="checkbox" id="accordion5">
+    <label for="accordion5"><h4>e-Pedagogy and Blended Learning</h4></label>
+    <div>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/846f11c8-2577-40a4-a511-b7b71b7d2b3b">What should EL Teachers be Guided by in the Design of Blended Learning Experiences?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9ae5e67e-3a70-412d-97b0-03b6ecb908b2">What should EL Teachers Consider When Drawing Up a Design Map to Plan Learning Experiences?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can DL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
+			      <p><a href="">NO URL -How can Teachers use ICT Tools Purposefully to Teach Receptive-Productive Skills in English Language?</a></p>
+			      <p><a href="">FAQ
+</a></p>
+    </div>
+	</li>  
 </ul>
-
-
-
 
