@@ -100,8 +100,8 @@ CLLIPS and ACoLADE</h4></label>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191">Using the Frayer Model strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282">Using the Concept Circle strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
-			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm">Learning Path: Big Ideas of Effective Feedback</a></p>
-		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc">Big Ideas of Feedback (2) – Motivating Students</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/e1842bbd-e411-4905-9aba-79393b4adb55">Big Ideas of Feedback (3) – Self-directed Learners</a></p>
+			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f">Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary</a></p>
+		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</a></p>
 </div></li></ul>
