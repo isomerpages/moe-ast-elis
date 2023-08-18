@@ -112,29 +112,11 @@ CLLIPS and ACoLADE</h4></label>
     <div>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/cf04d53c-10e7-4314-a652-f7a149b90fb2/fromlmm">Learning Path: Classroom Inquiry</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/01d0945f-f654-4044-bb90-30855330c21a">Crafting Inquiry Questions</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282">Using the Concept Circle strategy to learn subject-specific vocabulary</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
-			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8813cbef-bcf6-402a-abd0-cc9a81b1304f">Using the K.I.M. (Key Term, Information, Memory) strategy to learn subject-specific vocabulary</a></p>
-		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0ea24868-19c6-40c4-af00-354a818b6033">Collecting Qualitative Data</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d5b42c63-2fda-40ea-ae8f-9638387cb26c">Analysing Qualitative Data</a></p>
+			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a0461416-04a0-4f5d-a172-c7a8a24f4f50">Communicating Inquiry</a></p>
+		<p><a href="https://elis.moe.edu.sg/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">(THIS IS A VIDEO) Inquiry into Classroom Practice: Action Research</a></p>
+			   <p><a href="https://elis.moe.edu.sg/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">(THIS IS A VIDEO) Inquiry into Classroom Practice: Lesson Study </a></p>
 			</div>
 	</li>
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
