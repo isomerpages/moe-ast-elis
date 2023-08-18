@@ -99,7 +99,7 @@ CLLIPS and ACoLADE</h4></label>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/ead8543c-175f-47b1-b01b-8aef366c2c65/fromlmm">Learning Path: Providing Language and Literacy Support in Subject Classrooms</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2233a34f-e9e4-4b69-acb3-a28defa51191">Using the Frayer Model strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/96d8dd3f-3270-4357-b1c1-1c925bab5282">Using the Concept Circle strategy to learn subject-specific vocabulary</a></p>
-			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/486562ce-ca8e-430c-aa68-8a41de533586">Diagnosing Students’ Learning Needs – Frequently Asked Questions</a></p>
+			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c3615c4e-d64d-420a-9f46-0bf9e395cf71">Using the Semantic Feature Analysis strategy to learn subject-specific vocabulary</a></p>
 			    <p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/e715a49b-7d3c-4f18-9e03-fb9c5c3c4f12/fromlmm">Learning Path: Big Ideas of Effective Feedback</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc">Big Ideas of Feedback (2) – Motivating Students</a></p>
