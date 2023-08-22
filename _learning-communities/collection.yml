@@ -2,9 +2,9 @@ collections:
   learning-communities:
     output: true
     order:
-      - Teacher Work Attachment/TWA@ELIS Experience.md
-      - Teacher Work Attachment/TWA@ELIS.md
       - Teacher Work Attachment/.keep
+      - Teacher Work Attachment/TWA@ELIS.md
+      - Teacher Work Attachment/TWA@ELIS Experience.md
       - Learning Communities.md
       - Singapore Writing Institute/.keep
       - Singapore Writing Institute/The Singapore Writing Institute (SWI).md
