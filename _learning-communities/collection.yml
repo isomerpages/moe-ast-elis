@@ -2,6 +2,7 @@ collections:
   learning-communities:
     output: true
     order:
+      - Teacher Work Attachment/Teacher Work Attachment.md
       - Teacher Work Attachment/.keep
       - Learning Communities.md
       - Singapore Writing Institute/.keep
