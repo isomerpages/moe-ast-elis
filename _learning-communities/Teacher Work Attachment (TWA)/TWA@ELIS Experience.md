@@ -10,5 +10,5 @@ Participants will inquire into and apply andragogical principles to design, revi
 
 Participants can also look forward to time and space for consolidating their knowledge and reflecting critically on their practice as EL teachers and Teacher Leaders.
 
-  
 Read the reflection of one of our TWA@ELIS participants on her learning.
+![](/images/beji's%20reflection%202.png)
