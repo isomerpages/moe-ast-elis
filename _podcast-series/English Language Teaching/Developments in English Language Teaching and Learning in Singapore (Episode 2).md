@@ -12,7 +12,7 @@ This is a four-part series on the developments in English Language teaching and 
   
 In this episode, Tay May Yin, Principal Master Teacher, highlights through her conversation with Mrs Cecile Tan, the importance of oracy development in the teaching and learning of English Language in Singapore from the 1950s to the present.  
 
-To read the ‘Monograph on 50 Years of Developments in English Language Teaching and Learning in Singapore’ referred to in this episode, please visit&nbsp;[go.gov.sg/50years](http://go.gov.sg/50years).&nbsp;
+To read the ‘Monograph on 50 Years of Developments in English Language Teaching and Learning in Singapore’ referred to in this episode, please visit&nbsp;[this link](/files/Read/50-years-monograph.pdf).&nbsp;  
 
 &nbsp;[Link to Episode 1:](https://elis.moe.edu.sg/elis/resources/listen/developments-in-english-language-teaching-and-learning-in-singapore-episode-1)&nbsp;
 
