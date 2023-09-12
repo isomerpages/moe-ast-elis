@@ -15,7 +15,7 @@ I’d tell them about Hock Swee Leong
 I’d tell them about bright red palms   
 Red from carrying two stainless steel pots   
 One on the left for _Kopi ‘o’_, the other   
-On the right for _Kopi_.  Always from the same
+On the right for _Kopi_.&nbsp; Always from the same
 Hainanese stall at Cuppage Centre.
 
 I’d tell them about nuts and bolts, gears and wheels,
@@ -37,14 +37,5 @@ to waste it on mind-numbing past times.
 
 I’d tell them I was once a kid growing up in a bicycle shop.
 
-
-
-
-
-
-
-
-
-
-
+<img style="width:70%" src="/images/tell%20your%20children.jpg">
 
