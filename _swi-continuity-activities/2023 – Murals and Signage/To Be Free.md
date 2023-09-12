@@ -14,4 +14,6 @@ Then I ask my bundle of fur, a Golden Retriever, “What does freedom mean to yo
 
 For me, the tunnel is still long. Duties and responsibilities bind us and keep us steady on the road. Yet I believe when the time to soar comes, I will become the young child again, eager to discover new beginnings. 
 
-Longing to be free or to soar isn’t easy if we don’t know how to soar or when our wings have been clipped over the years due to the responsibilities that tie us down. Yet, seeing the tenacity of my dog to try and bounce back to his energetic self despite his handicap teaches me to break free from the restrictions that I have imposed on myself. And for people like me, it is a matter of perseverance that we learn to soar or break free from the human clutches. 
+Longing to be free or to soar isn’t easy if we don’t know how to soar or when our wings have been clipped over the years due to the responsibilities that tie us down. Yet, seeing the tenacity of my dog to try and bounce back to his energetic self despite his handicap teaches me to break free from the restrictions that I have imposed on myself. And for people like me, it is a matter of perseverance that we learn to soar or break free from the human clutches.
+
+<img style="width:70%" src="/images/to%20be%20free.jpg">
