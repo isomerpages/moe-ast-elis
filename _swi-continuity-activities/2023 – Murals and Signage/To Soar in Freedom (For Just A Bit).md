@@ -15,3 +15,5 @@ Now that I have the thought, where should I fly to? Which destination should I e
 I want to travel far and wide. Alone, with no responsibilities and no worries about what has yet to be done. I just want to wander where my feet can take me. No end point. No end time.  No “Mom, when will you be back?”.
 
 That day will probably not come that soon. But it’s okay. Today, I am content. I am a bird from western Singapore, freshly uncaged, and sticking my head out the cage door to explore an area unfamiliar to me — Katong. Just for a day, I get to practise my flight with a small friendly flock as I discover quaint corners hidden within busy places. I am free.
+
+<img style="width:70%" src="/images/to%20soar%20in%20freedom.jpg">
