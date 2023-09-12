@@ -11,6 +11,7 @@ Throughout the year, SWI team members and alumni organise professional continuit
 <img src="/images/swi%20writing%20marathon%202023.png" style="width:50%">
 </a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2023-murals-and-signage/"><b>SWI Writing Marathon 2023</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2023-murals-and-signage/">
 </a>
+
 <p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-thank-you-for-the-music/">
 <img src="/images/swi-writing-marathon-thumbnail-(1).png" style="width:50%">
 </a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-thank-you-for-the-music/"><b>SWI Writing Marathon 2022</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-thank-you-for-the-music/">
