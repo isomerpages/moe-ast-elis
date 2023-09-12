@@ -6,7 +6,7 @@ third_nav_title: 2023 – Murals and Signage
 ---
 Angelina Tang
   
-# Rollin' Good Times
+**Rollin' Good Times**
 
 Wheels a rollin'  
 Not the car  
@@ -43,17 +43,3 @@ stop
 I soar  
 Rollin' on the hubs of good times  
 I soared
-
-
-
-
-
-
-
-
-
-
-
-
-
-
