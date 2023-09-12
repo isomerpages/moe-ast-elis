@@ -4,3 +4,32 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
+Florence Lee
+
+**To Joo Chiat**
+
+Get the cat    
+out of the bookstore   
+Joo would never have guessed –    
+traipsing, trading places   
+snatches of conversations   
+in a back alley    
+that the footsteps    
+make sense only if you are present.   
+Step in the shade    
+with philosophers, coffee, tea,    
+giant cats and healing sunflowers    
+mutt ado about nothing.
+
+
+
+
+
+
+
+
+
+
+
+
+
