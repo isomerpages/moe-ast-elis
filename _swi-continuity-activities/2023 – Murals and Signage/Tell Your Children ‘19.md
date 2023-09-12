@@ -6,7 +6,7 @@ third_nav_title: 2023 – Murals and Signage
 ---
 Ng Kwang Ming David
 
-# Tell Your Children ‘19
+**Tell Your Children ‘19**
 
 
 What would I tell my children?
@@ -38,4 +38,3 @@ to waste it on mind-numbing past times.
 I’d tell them I was once a kid growing up in a bicycle shop.
 
 <img style="width:70%" src="/images/tell%20your%20children.jpg">
-
