@@ -6,7 +6,7 @@ third_nav_title: 2023 – Murals and Signage
 ---
 Adeline Lynn Quek  
 
-# Artful Strokes 
+**Artful Strokes** 
 
 Murals dance  
 in gay-light sparkles  
