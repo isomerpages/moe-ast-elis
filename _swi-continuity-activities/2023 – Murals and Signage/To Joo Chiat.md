@@ -8,28 +8,17 @@ Florence Lee
 
 **To Joo Chiat**
 
-Get the cat    
+Get the cat&nbsp;   
 out of the bookstore   
-Joo would never have guessed –    
+Joo would never have guessed –&nbsp;   
 traipsing, trading places   
 snatches of conversations   
 in a back alley    
 that the footsteps    
-make sense only if you are present.   
+make sense&nbsp;only if you are present.   
 Step in the shade    
 with philosophers, coffee, tea,    
 giant cats and healing sunflowers    
 mutt ado about nothing.
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img style="width:70%" src="/images/to%20joo%20chiat.jpg">
