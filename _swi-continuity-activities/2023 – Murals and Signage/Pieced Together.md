@@ -6,7 +6,7 @@ third_nav_title: 2023 – Murals and Signage
 ---
 Arthur Kok
 
-# Pieced Together
+**Pieced Together**
 
 My life feels like a constant process of being broken into pieces and being put back together again; sort of like a fracture that heals – the breach becoming stronger for the breaking.
 
