@@ -253,7 +253,7 @@ CLLIPS and ACoLADE</h4></label>
     <div>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/846f11c8-2577-40a4-a511-b7b71b7d2b3b">What should EL Teachers be Guided by in the Design of Blended Learning Experiences?</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9ae5e67e-3a70-412d-97b0-03b6ecb908b2">What should EL Teachers Consider When Drawing Up a Design Map to Plan Learning Experiences?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can DL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
     </div>
 	</li>  
 			<li>
