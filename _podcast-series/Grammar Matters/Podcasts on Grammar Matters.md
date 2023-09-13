@@ -84,3 +84,10 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 <b>Tenses - Remembering Weddings</b>
 </a>
 	</center>
+
+<center>
+<a href="/elis/resources/listen/podcast-series/grammar-matters/tenses-sequence-the-embarrassment/">
+<img src="/images/grammar%20matters%2012.png" style="width:30%">
+<b>Tense Sequence - The Embarrassment</b>
+</a>
+	</center>
