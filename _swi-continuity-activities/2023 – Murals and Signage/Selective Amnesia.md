@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Joshua Sng Jianming
-
 **Selective Amnesia**
+
+By Joshua Sng Jianming
 
 I don’t remember much about my childhood. 
 
