@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Shanti Marion Prakash
-
 **Cheaters Never Prosper**
+
+By Shanti Marion Prakash
 
 *I had a bird named Gale.    
 Who was a male.   
@@ -19,10 +19,4 @@ I wanted adulation of my own. So, I brought this poem home and passed it off as 
 
 Strangely, the affirmation that I was so generously given did not give me the satisfying high I had expected to feel. I was perturbed. What I felt instead was an empty echoey sensation in the pit of my tummy that dragged me deep into a chasm of guilt and shame.
 
-And I learnt that very day that accolades make you feel like a winner only if you’ve actually run the race. Because Cheaters Never Prosper. 
-
-
-
-
-
-
+And I learnt that very day that accolades make you feel like a winner only if you’ve actually run the race. Because Cheaters Never Prosper.
