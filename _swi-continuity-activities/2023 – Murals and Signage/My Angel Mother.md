@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Ho Wai Leng Irene
-
 **My Angel Mother**
+
+By Ho Wai Leng Irene
 
 My mother’s passing in 2019 left an indelible mark on me. I had thought I would not be able to survive without my beloved mother as she was my closest confidante and my strongest pillar of strength.
 
