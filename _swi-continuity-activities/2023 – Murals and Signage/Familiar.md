@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Vara Hariharan
-
 **Familiar **
+
+By Vara Hariharan
 
 It felt familiar. Placing my left hand between the cloth napkin and the soft belly of my baby, holding steady despite the tiny legs kicking furiously, feeling for the tip of the nappy pin through the folds of cloth and placing my finger there so that when the pin pierces through, it would not prick my baby. It felt familiar. Knowing how to cradle the neck of my baby and not let her head loll. How to hold the tiny body on my shoulder and pat her back until the soft burp came. 
 

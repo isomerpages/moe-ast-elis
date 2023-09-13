@@ -4,10 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Ng Kwang Ming David
-
 **Tell Your Children ‘19**
 
+By Ng Kwang Ming David
 
 What would I tell my children?
 

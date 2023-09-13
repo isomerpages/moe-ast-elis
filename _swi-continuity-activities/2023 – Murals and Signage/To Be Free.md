@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Sakunthalai Surian
-
 **To Be Free**
+
+By Sakunthalai Surian
 
 Freedom. Soaring high. What do these words mean to different people? What do these words mean to me at this stage of my life? They remind me of Grace Chua’s poem ‘Countdown.’ It is about a mother who is constantly on the run, fulfilling her tasks and shaping her identity through the roles she plays, yet longing to be somewhere beyond time’s gravity. That’s exactly me, I think. For a long time, I have wondered, when can I break free from the shackles of responsibilities, do things that I desire, learn things I had always wanted to learn and most importantly, enjoy the simple pleasures of life.
 

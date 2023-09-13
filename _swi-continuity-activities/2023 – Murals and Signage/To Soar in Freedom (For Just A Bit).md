@@ -4,9 +4,9 @@ permalink: /elis/learning-communities/swi-continuity-activities/murals-and-signa
 description: ""
 third_nav_title: 2023 – Murals and Signage
 ---
-Suhaily Supahan
-
 **To Soar in Freedom (For Just A Bit)**
+
+By Suhaily Supahan
 
 I am grounded. Feet firmly stuck on the ground, chained, almost, to the dreary routines of life. It seems that I have forgotten, after ten weeks of the school term, that I do have the option to fly. Like a caged bird, I do flap my wings, albeit cautiously, but I seem to have forgotten now, how to soar up high above the expectations of my different roles in life as a mother, wife, daughter, teacher… 
 
