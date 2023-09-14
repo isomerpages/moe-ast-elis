@@ -4,7 +4,8 @@ permalink: /elis/learning-communities/swi-alumni/
 description: ""
 third_nav_title: Singapore Writing Institute
 ---
-<img src="/images/swi-day_20218dfb0ba258044485bafa79d62618c03c.png" style="width:80%">
+<img src="/images/swi2023.jpg" style="width:100%">
+
 
 The Singapore Writing Institute (SWI) is a professional learning opportunity on the teaching of writing and representing. This programme is available for EL Key Personnel (KP), Teacher Leaders (TLs) and potential KP/TLs in primary and secondary schools in Singapore.
 
