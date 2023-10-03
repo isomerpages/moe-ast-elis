@@ -4,8 +4,14 @@ permalink: /elis/learning-communities/swi-alumni/swi-alumni/
 description: ""
 third_nav_title: Singapore Writing Institute
 ---
-
 Read the reflections of SWI participants by clicking on the respective photographs below.
+
+<figure>
+<p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2023">
+<img src="/images/swi%202023.jpg" style="width:40%">
+</a></p>
+	<figcaption><b>SWI 2023</b></figcaption>
+</figure>
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2021">
@@ -62,4 +68,3 @@ Read the reflections of SWI participants by clicking on the respective photograp
 </a></p>
 	<figcaption><b>SWI 2014</b></figcaption>
 </figure>
-
