@@ -2,6 +2,7 @@ collections:
   singapore-writing-institute:
     output: true
     order:
+      - SWI Alumni/Example Title.md
       - SWI Alumni/.keep
       - SWI Alumni/SWI 2021.md
       - SWI Alumni/SWI 2019.md
