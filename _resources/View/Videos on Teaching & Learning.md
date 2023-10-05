@@ -245,6 +245,10 @@ CLLIPS and ACoLADE</h4></label>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/7189e152-5787-4589-adf8-1c7585960e97">Big Ideas of Feedback (1) - Find and Fix Learning Gaps</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1f0a252-f62e-4680-9058-bdfa580e93cc">Big Ideas of Feedback (2) – Motivating Students</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/e1842bbd-e411-4905-9aba-79393b4adb55">Big Ideas of Feedback (3) – Self-directed Learners</a></p>
+			<p><a href="https://go.gov.sg/pedagogy-of-feedback">Learning Path: A Pedagogy of Feedback</a></p>
+				<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/05f9db93-9bf7-492b-bf91-75b6d5b46317">Feeding Up: Help Students Understand Expectations of Learning</a></p>
+					<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fbc4b6b4-7060-44e3-ab2f-a93aa3157dc8">Promoting Dialogic Feedback: Help Students to Actively Seek Feedback</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151">Feeding Forward: Help Students to Apply Feedback</a></p>
     </div>
 	</li>  
 		<li>
