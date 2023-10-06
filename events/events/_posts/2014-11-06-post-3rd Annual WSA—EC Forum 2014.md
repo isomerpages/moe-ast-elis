@@ -54,6 +54,11 @@ Click on the links below to download the slides made available by presenters fro
     <td class="tg-rhd3"><a href="/files/1-2a-wsa-ec-innovations-at-plmgss.pdf"><span style="color:#CA2126;background-color:transparent">1.2a WSA-EC innovations at PLMGSS<br><br>(.pdf, 540.78 KB)</span></a></td>
   </tr>
   <tr>
+    <td class="tg-ag2m">1.2b: </td>
+    <td class="tg-ag2m">WSA-EC innovations @ Pasir Ris Crest Secondary School</td>
+    <td class="tg-dewj"><a href="/files/1-2b-wsa-ec-innovations-at-pasir-ris-crest-secondary.pdf"><span style="color:#CA2126;background-color:transparent">1.2b WSA-EC innovations at Pasir Ris Crest <br><br>Secondary(.pdf, 4.16 MB)</span></a></td>
+  </tr>
+  <tr>
     <td class="tg-rfng">1.3a:</td>
     <td class="tg-rfng">Structuring Reasoning Process in a Science Explanation through the Use of Multiple Representations (Northbrooks Secondary School and NIE)</td>
     <td class="tg-rhd3"><a href="/files/1-3a-reasoning-process-in-a-science-explanation-through-the-use-of-multiple-representations.pdf"><span style="color:#CA2126;background-color:transparent">1.3a Structuring Reasoning Process in a Science <br><br>Explanation through the Use of Multiple Representations(.pdf, 759.35 KB)</span></a></td>
