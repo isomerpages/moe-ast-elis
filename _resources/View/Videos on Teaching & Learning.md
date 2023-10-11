@@ -309,6 +309,8 @@ CLLIPS and ACoLADE</h4></label>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f0173309-2eb6-41fc-9cd0-fae5eae89745">How do I Determine the Word Class of a Word?</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d4f447ae-2b96-4d4b-bb74-e73f7af150b3">What are the Different Forms of Verbs and How do I Describe Them?</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0be7158b\-29f1\-45f6\-8697\-fca6d9845157">What is a Noun Phrase and Why Teach it?</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3f44cd48-1500-471f-ac70-77748e4da739">What are Adverbials? Why and How do I Use Them?</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3415e6d9-d9f7-440f-aad6-6e3f6dcd308d">Subject-Verb Agreement: What Else Is There to Know?</a></p>
 </div>
 	</li>
 </ul>
