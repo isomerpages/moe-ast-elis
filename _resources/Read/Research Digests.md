@@ -74,7 +74,7 @@ grid-template-columns: repeat(1,1fr) !important;
 		 
 <p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="#C96D6B">1. Assessment that impacts hearing</font></b></a></p>
 
-<p><a href="/files/elis-research-digest-vol-6-issue-1.pdf"><b><font color="#6DB1C2">2. Talk for learning across the curriculum : Exploring its relationship to formative assessment</font></b></a></p>
+<p><a href="/files/elis-research-digest-vol-6-issue-2.pdf"><b><font color="#6DB1C2">2. Talk for learning across the curriculum : Exploring its relationship to formative assessment</font></b></a></p>
 
 </div>
 
