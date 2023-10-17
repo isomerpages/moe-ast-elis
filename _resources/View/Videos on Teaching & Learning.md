@@ -209,7 +209,7 @@ CLLIPS and ACoLADE</h4></label>
 	</li>  
 	<li>
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h4>Pedagogical Emphases: Inquiry-based Learning</h4></label>
+    <label for="accordion2"><h4>Inquiry-based Learning</h4></label>
     <div>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d678f719-4d80-46d4-a658-82d8698294e0">How to Grow Creative Inquirers in the EL classroom? – Planning</a></p>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45">  How to Grow Creative Inquirers in the EL classroom? – Enacting</a></p>
