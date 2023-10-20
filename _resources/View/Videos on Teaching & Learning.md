@@ -199,7 +199,7 @@ Watch these videos on how to strengthen our pedagogical practices through collab
 Teaching Principles and Processes:  
 CLLIPS and ACoLADE</h4></label>
     <div><p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadfc435-d0be-4411-8ba6-7a32a9140810">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</a></p>
-			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216"> How can We Raise Awareness in the EL Classroom?</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0a3f2b6b-9403-469a-a584-e8860ab1108b"> How can We Raise Awareness in the EL Classroom?</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d664ac06-b2a9-45d8-8e5e-e6d90e8d1da7">  How can We Structure Consolidation in the EL Classroom?</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4c15a045-b251-4157-8d85-506e3a0727c0">How can We Facilitate Assessment for Learning</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff0cbf5a-5cd1-44d7-8380-85d5fbc30d14"> How can We Enable Application in the EL Classroom?</a></p>
