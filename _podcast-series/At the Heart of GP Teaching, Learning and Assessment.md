@@ -7,7 +7,7 @@ description: ""
 		 
 <a href="https://open.spotify.com/episode/3W1TLCHL6pdiLVDLG6KHzD">Click here to listen to the podcast</a>
 
-This podcast was co-developed with the Curriculum Planning and Development Division in conjunction with the launch of the General Paper Syllabus 2022. In this podcast, Dr Tay May Yin, Principal Master Teacher of the English Language Institute of Singapore, shares her thoughts on what is at the heart of GP teaching, learning and assessment. She offers three ways through which GP teachers can continuously grow in order to meet the evolving needs of their students.
+This podcast was co-developed with the Curriculum Planning and Development Division in conjunction with the launch of the General Paper Syllabus 2023. In this podcast, Dr Tay May Yin, Principal Master Teacher of the English Language Institute of Singapore, shares her thoughts on what is at the heart of GP teaching, learning and assessment. She offers three ways through which GP teachers can continuously grow in order to meet the evolving needs of their students.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
