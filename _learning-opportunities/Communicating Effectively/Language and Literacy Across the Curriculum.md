@@ -30,7 +30,7 @@ English-medium Subject Teachers and English Language Teachers interested in lear
 ### Registration
 
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[**SLI-000012**](https://www.opal2.moe.edu.sg/app/learner/detail/course/387e08ce-9252-499f-ae92-e38a12112efd).  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from 22 Dec 2023:&nbsp;[**SLI-000012**](https://www.opal2.moe.edu.sg/app/learner/detail/course/387e08ce-9252-499f-ae92-e38a12112efd).  
 Closing date for registration: Thu, 4 Jan
 
 ### For enquiries, please contact:
