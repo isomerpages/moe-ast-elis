@@ -21,7 +21,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-![](/images/llac_ec.PNG)
+![](/images/llac_ec1.PNG)
 		 
 ### Target Participants
 
