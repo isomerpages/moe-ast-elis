@@ -13,7 +13,9 @@ How can I communicate my findings clearly and convincingly to others?
 
 ### Overview
 
-This course introduces you to classroom-based, teacher-led inquiry for the teaching, learning and assessment of EL and Literature. You will explore ways of understanding your pedagogical practices in order to improve your students’ learning. The course is a blend of in-person and online asynchronous and synchronous learning sessions. You will have an opportunity to apply your learning during the course by designing a classroom inquiry.
+This course introduces you to classroom-based, teacher-led inquiry for the teaching, learning and assessment of English Language and Literature in English. In the course, you will learn how to design an inquiry that will help you understand the effects of your classroom practices on students’ learning. You will identify an inquiry focus relevant to your students’ learning and develop focused questions to guide your inquiry. You will learn how to collect evidence of students’ learning as data that will help you answer your inquiry questions. You will explore ways to analyse such data, and how to develop and communicate your inquiry findings.
+
+The course is a blend of in-person and online asynchronous learning sessions. You will have opportunities to apply your learning during the course while designing a classroom inquiry.
 
 ### Learning Goals
 
@@ -30,7 +32,7 @@ By the end of this course, you will be able to:
 		 
 ### Target Participants
 
-*    Teachers and TLs of EL and Literature who would like to build their research literacy with a view to engage in classroom-based inquiry
+*    Teachers and Teacher Leaders of English Language and Literature in English&nbsp;who would like to build their research literacy with a view to engage in classroom-based inquiry.
 
 ### Registration
 
