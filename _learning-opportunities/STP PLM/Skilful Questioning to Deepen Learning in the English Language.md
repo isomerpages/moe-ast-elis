@@ -3,6 +3,7 @@ title: Skilful Questioning to Deepen Learning in the English Language
 permalink: /elis/professional-learning/professional-learning-opportunities/skilful-questioning-deepen-learning/
 description: ""
 third_nav_title: STP PLM
+variant: markdown
 ---
 <em>  How can I use questions to deepen my students’ learning in the EL classroom? What should I consider when planning key questions, using questions to deepen learning, checking for understanding and providing feedback to enable my students to attain the intended learning outcomes?</em>
 
@@ -30,7 +31,7 @@ EL KP, TLs and Teachers who teach at the primary and secondary levels, and EL Te
 ### Registration
 
 Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**EL-000144**] from Fri, 22 Dec 2023. (https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741).  
-Closing date for registration: Thu, 23 Feb
+Closing date for registration: Mon, 26 Feb
 
 ### For enquiries, please contact:
 Mr Benson Pang (Academy Officer/Pedagogy) at 
