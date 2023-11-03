@@ -23,7 +23,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%202.png" style="width:70%">
+![](/images/fpad_ec.PNG)
 		 
 ### Target Participants
 
