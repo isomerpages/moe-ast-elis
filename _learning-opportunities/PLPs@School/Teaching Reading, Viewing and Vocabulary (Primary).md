@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Reading and Viewing between the Lines
 
-<em>What learner strategies do my students n-eed to strengthen their reading and vocabulary? How can I use various teaching approaches, including in blended learning contexts, to enable my students to become effective and discerning readers and viewers?</em>
+<em>What learner strategies do my students need to strengthen their reading and vocabulary? How can I use various teaching approaches, including in blended learning contexts, to enable my students to become effective and discerning readers and viewers?</em>
 
 ### Overview
 
