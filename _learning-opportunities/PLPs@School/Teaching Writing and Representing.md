@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### Nurturing Creative, Critical and Purposeful Writers
 
-<em>How do I support my students develop a positive disposition towards writing and representing? How do I enable them to write creatively and critically for a variety of purposes, audiences, contexts and cultures? What do I need to do to plan and teach engaging and effective writing lessons that meet my students’ readiness to learn, interests and learning profiles? How can I teach writing and representing effectively, including in blended learning contexts?</em>
+<em>How do I support my students to develop a positive disposition towards writing and representing? How do I enable them to write creatively and critically for a variety of purposes, audiences, contexts and cultures? What do I need to do to plan and teach engaging and effective writing lessons that meet my students’ readiness to learn, interests and learning profiles? How can I teach writing and representing effectively, including in blended learning contexts?</em>
 
 ### Overview
 
