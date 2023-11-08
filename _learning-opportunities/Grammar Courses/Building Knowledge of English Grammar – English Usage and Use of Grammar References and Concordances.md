@@ -54,7 +54,7 @@ By the end of this course, you will be able to:
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;EL-000256. <br> 
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;EL-000256. <br> 
 Closing date for registration: Mon, 10 Jun
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
