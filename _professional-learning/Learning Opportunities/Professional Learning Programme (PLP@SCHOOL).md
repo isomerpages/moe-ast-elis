@@ -3,6 +3,7 @@ title: Professional Learning Programme (PLP@SCHOOL)
 permalink: /elis/professional-learning/professional-learning-opportunities/professional-learning-programme/
 description: ""
 third_nav_title: Learning Opportunities
+variant: markdown
 ---
 The Professional Learning Programmes (PLPs) are designed to enable teachers to deepen their knowledge, skills and classroom practice in the areas of language learning. Teachers can also learn how their application of e-pedagogy and blended learning can be guided by sound understanding of the principles and processes of English Language teaching and learning.
 
@@ -12,7 +13,8 @@ The Professional Learning Programmes (PLPs) are designed to enable teachers to d
     <label for="accordion1"><h4>Overview and Programme Structure</h4></label>
     <div>
 			<h3>Overview</h3>
-			<p>As Key Personnel and Teacher Leaders of the English Language (EL) department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.<br><br>
+			<p>As Key Personnel and Teacher Leaders of the EL department of a school, you will co-decide and co-select the shared learning focus for your department from ELIS’s suite of flagship PLPs@School. PLPs@School are designed to enable all in your EL department to teach EL more effectively. You will co-lead your department in applying the learning and inquiring into classroom application.
+<br><br>
 There are three areas of support your EL department can look forward to from a Master Teacher/EL (MTT/EL):</p>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -34,8 +36,9 @@ There are three areas of support your EL department can look forward to from a M
 
 <p>Your EL department will choose&nbsp;<strong><u>one</u></strong>&nbsp;of the following two areas of learning, (a) or (b):</p>
 <p>a.  learning about e-pedagogy and blended learning for the enactment of participatory, connected and reflective EL classrooms  </p>
-<p>Your EL department members will deepen their understanding of the principles of e-pedagogy and blended learning. They will learn about the practice of teaching with technology to design lessons for students to achieve the intended learning outcomes in blended learning contexts.  </p>
-<p>You can refer to page 39 for the details on this area of learning.</p>
+<p>Your EL department members will deepen their understanding of the principles of e-pedagogy and blended learning for the teaching, learning and assessment of EL. They will learn about the practice of teaching with educational technology to design lessons for students to achieve the intended learning outcomes in blended learning contexts.&nbsp;
+</p>
+<p>You can refer to page 26 for the details on this area of learning.</p>
 <p><strong style="color:#46859d;">OR</strong></p>
 <p>b.  <strong><u>one</u></strong>&nbsp;area of language learning to be selected from the following:</p>
 <ol>
@@ -48,8 +51,9 @@ There are three areas of support your EL department can look forward to from a M
 <li><p>Teaching Extensive Reading and Viewing (Primary/Secondary)</p>
 </li>
 <li><p>Teaching Writing and Representing (Primary/Secondary)</p>
-<p>For any area of language learning that you select, your EL department members will deepen their knowledge of it. They will also consider ways of using technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.  </p>
-<p>You can refer to pages 40 to 48 for the details on the areas of language learning listed above.</p>
+<p>For any area of language learning that you select, your EL department members will deepen their knowledge of it. They will also consider ways of using educational technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.
+</p>
+<p>You can refer to pages 27 to 35 for the details on the areas of language learning listed above.</p>
 </li>
 </ol>
 <style type="text/css">
@@ -65,7 +69,8 @@ There are three areas of support your EL department can look forward to from a M
 <thead>
   <tr>
     <td style="text-align:center;" class="tg-k35i">2</td>
-    <td style="text-align:center;" class="tg-03jt">Support in forming and guiding Professional Learning Teams (PLTs) in your department to deepen the teachers’ knowledge, skills and classroom practice in the area of learning your department decides on; and</td>
+    <td style="text-align:center;" class="tg-03jt">Support in forming and guiding PLTs in your department to deepen the teachers’ knowledge, skills and classroom practice in the area of learning your department decides on; and
+</td>
   </tr>
 </thead>
 </table><br>
@@ -83,7 +88,7 @@ There are three areas of support your EL department can look forward to from a M
 <thead>
   <tr>
     <td style="text-align:center;" class="tg-k35i">3</td>
-    <td style="text-align:center;" class="tg-03jt">Guidance in the growth of teacher leadership. You will learn to lead and guide your colleagues in planning and enacting classroom inquiry into the impact of their application of learning on student learning outcomes.
+    <td style="text-align:center;" class="tg-03jt">Guidance in the growth of teacher leadership. You will learn to lead and guide your colleagues in planning and inquiring into the impact of their application of learning on student learning outcomes.
         </td>
   </tr>
 </thead>
@@ -102,7 +107,7 @@ img {
   
 <br>
 
- <style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -118,34 +123,27 @@ img {
   <tr>
     <th style="border: 1px solid white" class="tg-kduf">Mode of Learning</th>
     <th style="border: 1px solid white" class="tg-7gif"><img style="width:47px" alt="Picture7" src="/images/picture7.png"></th>
-    <th style="border: 1px solid white" class="tg-kduf">Option A<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
-    <th style="border: 1px solid white" class="tg-kduf">Option B<br><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
+    <th style="border: 1px solid white" class="tg-kduf"><img style="width:55px" alt="Picture8" src="/images/picture8.png"></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 1)</td>
+   <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 1)</td>
     <td style="border: 1px solid white" class="tg-ftkq">3 hours</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Thu, 24 Mar –<br>Thu, 7 Apr</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Wed, 30 Mar –<br>Wed, 13 Apr</td>
+    <td rowspan="4" style="border: 1px solid white" class="tg-ftkq">The KP, TLs and MTT/EL will co-plan the schedule for the learning sessions by the end of January 2024.
+</td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 1)</td>
     <td style="border: 1px solid white" class="tg-ftkq">2 hours</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Thu, 14 Apr<br>(P.M.)</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Wed, 20 Apr<br>(P.M.)</td>
   </tr>
   <tr>
-    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 2)</td>
+   <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning (Period 2)</td>
     <td style="border: 1px solid white" class="tg-ftkq">3 hours</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Mon, 18 Apr –<br>Fri, 13 May</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Thu, 21 Apr –<br>Wed, 18 May</td>
   </tr>
   <tr>
-    <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 2)</td>
+     <td style="border: 1px solid white" class="tg-2u06"><img style="width:55px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning (Session 2)</td>
     <td style="border: 1px solid white" class="tg-ftkq">2 hours</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Thu, 19 May<br>(P.M.)</td>
-    <td style="border: 1px solid white" class="tg-ftkq">Wed, 25 May<br>(P.M.)</td>
   </tr>
 </tbody>
 </table>
@@ -154,7 +152,7 @@ img {
 
 <p>Please write to Ms Charmaine Tan (Assistant Director/Pedagogy) at <br>
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg</a>.  </p>
-<p>Closing date for application:&nbsp;<strong>Wed, 23 Nov 2022</strong></p>
+<p>Closing date for application:&nbsp;<strong>Tue, 21 Nov 2023</strong></p>
     </div>
 	</li>  
 	<li>
