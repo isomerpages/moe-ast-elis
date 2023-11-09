@@ -36,8 +36,42 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
+<style>
+	.table2 {
+		background: #f8dad3 !important;
+		width: 50% !important;
+		border: 1px solid white !important;
+		text-align:center !important;
+		vertical-align:middle !important;
+	}
+	.flex {
+		display: flex;
+		width: 100% !important;
+		height: 100% !important;
+		gap: 10px !important;
+		align-items:center;
+		justify-content: center;
+	}
+</style>
 
-<img src="/images/course%20structure%2026.png" style="width:70%">
+<table>
+	<thead>
+		<tr>
+			<th class="table2"></th>
+			<th class="table2"><span style="font-weight:600;">SFEd e-Pedagogy and Blended Learning (Proficient)</span></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+		<td class="table2 flex"><img style="width:50px" alt="Picture11" src="/images/picture11.png"><span>Please register on <b>OPAL2.0</b> using this code   from Fri, 22 Dec 2023.</span></td>
+			<td class="table2"><a rel="noopener noreferrer"><span style="color:#CA2126">EL-000179</span></a></td>
+		</tr>
+		<tr>
+		<td class="table2 flex"><img style="width:50px" alt="Picture12" src="/images/picture12.png"><span>Closing dates for registration</span></td>
+			<td class="table2">Fri, 24 May</td>
+		</tr>
+	</tbody>
+</table>
 		 
 ### Target Participants
 
