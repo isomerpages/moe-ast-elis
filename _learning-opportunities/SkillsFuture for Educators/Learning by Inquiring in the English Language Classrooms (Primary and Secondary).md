@@ -4,7 +4,7 @@ title: Learning by Inquiring in the English Language Classrooms (Primary and
 permalink: /elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/
 description: ""
 third_nav_title: SkillsFuture for Educators
-variant: tiptap
+variant: markdown
 ---
 ### Overview
 
@@ -12,7 +12,7 @@ In the SFEd courses on Inquiry-Based Learning (IBL), you will:
 
 *   actively inquire into:
 
-	*   your practice of IBL as a teacher of English Language (EL), or
+	*   your enactment of IBL which incorporates the practice of Inquiry through Dialogue (ItD) in the teaching, learning and assessment of (EL), or
 	*   your practice of leading others in their learning about IBL as leaders in the teaching, learning and assessment of EL at the primary level; and
 
 *   learn together with other participants to apply your learning and reflect on your practice, which includes the use of technology to promote active student learning in participatory, connected and reflective classrooms.
