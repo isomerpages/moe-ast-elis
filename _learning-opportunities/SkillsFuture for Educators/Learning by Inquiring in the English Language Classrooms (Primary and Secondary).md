@@ -83,13 +83,13 @@ By the end of this course, you will be able to:
 
 By the end of this course, you will be able to:
 
-*   lead and mentor peers/teachers in the practice of IBL in the areas of language learning to improve classroom practice by demonstrating:
+*   lead and mentor peers/teachers in the practice of IBL including ItDin the areas of language learning, by demonstrating:
 
 	*   the application of principles of EL teaching and learning (CLLIPS), the teaching processes (ACoLADE) and e-pedagogy,
-	*   ongoing review of and critical inquiry into the practice of IBL, and
-	*   adaptiveness in the practice of IBL to customise learning for students in the EL classroom; and
+	*   ongoing review of and critical inquiry into the practice of IBL including ItD;
+	*   adaptiveness in the practice of IBL including ItD to customise learning for students in EL classroom; and
 
-*   plan with the aim of facilitating professional learning about IBL in the EL classroom in the following contexts: a Professional Learning Team, Professional Learning Community and/or Networked Learning Community at school/cluster levels.
+*   plan with the aim of facilitating professional learning about IBL including ItD in EL classrooms in the following contexts: a PLT, PLC and/or NLC at school/cluster levels.
 
 
 ### Course Structure
