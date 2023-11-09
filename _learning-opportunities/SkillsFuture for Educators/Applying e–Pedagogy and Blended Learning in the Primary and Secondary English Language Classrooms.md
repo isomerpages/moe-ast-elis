@@ -4,21 +4,33 @@ title: Applying e–Pedagogy and Blended Learning in the Primary and Secondary
 permalink: /elis/professional-learning/professional-learning-opportunities/primary-secondary/applying-epedagogy/
 description: ""
 third_nav_title: SkillsFuture for Educators
+variant: markdown
 ---
 ### Overview
 
-In the SFEd course on e-Pedagogy and Blended Learning (Proficient Level of Practice), you will:
+In the SFEd course on e-Pedagogy and Blended Learning, you will:
 
-*   actively inquire as a teacher of English Language (EL) into:
+*   actively inquire into:
 
-	*   your practice of harnessing technology effectively to foster active student learning in a blend of in-person and online learning contexts, and
-	*   your design of lessons, and selection and use of information and communication technology tools in these contexts; and
+	*   your practice of harnessing educational technology effectively to foster active student learning in a blend of in-person and online learning contexts; 
+	*   your design of lessons, and the selection and use of educational technology tools in these contexts; and
 
-*   learn together with other participants to apply your learning about e-pedagogy and blended learning to promote active student learning in participatory, connected and reflective classrooms
+*   apply your learning about e-pedagogy and blended learning to promote active student learning in participatory, connected and reflective classrooms
 
 ### Levels of Practice and Learning Goals
 
 <img src="/images/proficient%205.png" style="width:70%">
+
+### Levels of Practice and Learning Goals
+
+<b><font color="#D35E71">Proficient</font></b>&nbsp;Level of Practice: Does independently
+
+*Select this course at the Proficient Level of Practice if you:*
+
+*   wish to have fundamental understanding of and become independent in your practice of harnessing educational technology to foster active student learning in a blend of in-person and online learning contexts; 
+*    would like to be able to, on an ongoing basis, reflect on your practice of e-pedagogy and blended learning to improve student learning of EL; and
+*    plan to apply your learning of e-pedagogy and blended learning as you participate in the course.
+
 		 
 ### Course Structure
 
