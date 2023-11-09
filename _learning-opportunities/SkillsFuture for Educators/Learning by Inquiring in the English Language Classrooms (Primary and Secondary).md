@@ -23,14 +23,14 @@ There are courses at three Levels of Practice that you can choose from:
 		 
 To decide on the most appropriate Level of Practice to meet your learning needs, please refer to the information for each of the three Levels of Practice below.
 
-### Levels of Practice
+### Levels of Practice and Learning Goals
 
 <b><font color="#D35E71">Proficient</font></b>&nbsp;Level of Practice: Does independently
 
-Select this course at the Proficient Level of Practice if you:
+*Select this course at the Proficient Level of Practice if you:*
 
-*   wish to have fundamental understanding of IBL, and would like to become skilful and independent in your practice of IBL in the EL classroom;
-*   would like to be able to, on an ongoing basis, reflect on your practice of IBL to improve student learning of EL; and
+*   wish to have fundamental understanding of IBL, including ItD, and would like to become skilful and independent in your practice of IBL in EL classrooms;
+*   would like to be able to, on an ongoing basis, reflect on your practice of IBL including ItD to improve student learning of EL; and
 *   plan to apply your learning as you participate in the course.
 
 #### Learning Goals 
@@ -38,9 +38,9 @@ Select this course at the Proficient Level of Practice if you:
 By the end of this course, you will be able to:
 
 <ul>
-<li>demonstrate understanding of IBL and its rationale in the teaching, learning and assessment in the EL classroom;</li>
-<li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL in the EL classroom; and</li>
-<li>make appropriate choices, including the use of technology, to support IBL in the EL classroom, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
+<li>demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;</li>
+<li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL    including ItD; and</li>
+<li>make appropriate choices, including the use of educational technology, to support the practice of IBL including ItD, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
 </ul>
 
 
@@ -51,22 +51,27 @@ By the end of this course, you will be able to:
 
 <b><font color="#C7394B">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
 
-Select this course at the Accomplished Level of Practice if you:
+*Select this course at the Accomplished Level of Practice if you:*
 
-*   are skilful and independent in your practice of IBL in the EL classroom;
-*   would like to become adaptive in your practice of IBL, by being able to customise and/or personalise learning for your students as you enact your EL lessons; and
-*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves reviewing a lesson for adaptive practice of IBL in the EL classroom.
+*   are skilful and independent in your practice of IBL including ItD, in the teaching, learning and assessment of EL;
+*   would like to become adaptive in your practice of IBL including ItD, by being able to customise learning for your students as you enact your EL lessons; and
+*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves reviewing a lesson for adaptive practice of IBL including ItD in EL classrooms.
 
 #### Learning Goals
 
 By the end of this course, you will be able to:
 
-*   customise EL lessons, incorporating the use of technology, that support IBL based on:
+<ul>
+<li>demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;</li>
+	
+	
+
+*   incorporating the use of educational technology, that support the practice of IBL including ItD based on:
 
 	*   principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE), and
 	*   knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
 
-*   demonstrate adaptiveness in facilitating IBL in the enactment of lessons through prompting, posing questions, and supporting the collaborative process by which students learn about skills and learner strategies in the areas of language learning.
+*   demonstrate adaptiveness in enacting IBL including ItD through prompting, posing questions, and supporting the collaborative process by which students learn the skills and learner strategies in the areas of language learning.
 
 ---
 
@@ -181,4 +186,4 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 Ms Selene Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
 OR  
-Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.sg">eunice_lim@moe.gov.sg.</a>
+Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.sg">eunice_lim@moe.gov.sg.</a></ul>
