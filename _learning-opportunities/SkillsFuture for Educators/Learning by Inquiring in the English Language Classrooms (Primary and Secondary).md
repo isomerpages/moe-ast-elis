@@ -62,14 +62,10 @@ By the end of this course, you will be able to:
 By the end of this course, you will be able to:
 
 <ul>
-<li>demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;</li>
+<li>customise EL lessons, incorporating the use of educational technology, that support the practice of IBL including ItD based on: </li>
 	
-	
-
-*   incorporating the use of educational technology, that support the practice of IBL including ItD based on:
-
-	*   principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE), and
-	*   knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
+* principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE); 
+* knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
 
 *   demonstrate adaptiveness in enacting IBL including ItD through prompting, posing questions, and supporting the collaborative process by which students learn the skills and learner strategies in the areas of language learning.
 
