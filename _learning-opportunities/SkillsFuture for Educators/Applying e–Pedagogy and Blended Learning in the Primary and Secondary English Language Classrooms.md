@@ -19,10 +19,6 @@ In the SFEd course on e-Pedagogy and Blended Learning, you will:
 
 ### Levels of Practice and Learning Goals
 
-<img src="/images/proficient%205.png" style="width:70%">
-
-### Levels of Practice and Learning Goals
-
 <b><font color="#D35E71">Proficient</font></b>&nbsp;Level of Practice: Does independently
 
 *Select this course at the Proficient Level of Practice if you:*
@@ -31,6 +27,12 @@ In the SFEd course on e-Pedagogy and Blended Learning, you will:
 *    would like to be able to, on an ongoing basis, reflect on your practice of e-pedagogy and blended learning to improve student learning of EL; and
 *    plan to apply your learning of e-pedagogy and blended learning as you participate in the course.
 
+#### Learning Goals 
+
+By the end of this course, you will be able to:
+*   demonstrate understanding of the principles of e-pedagogy and blended learning;
+*   apply your understanding to harness educational technology to design learning and formative assessment experiences that enable students to experience participatory, connected and reflective learning in blended learning contexts; and
+*   explain your lesson design decisions based on the principles of e-pedagogy and blended learning, the principles of EL teaching and learning (CLLIPS) and&nbsp; EL teaching processes (ACoLADE).
 		 
 ### Course Structure
 
