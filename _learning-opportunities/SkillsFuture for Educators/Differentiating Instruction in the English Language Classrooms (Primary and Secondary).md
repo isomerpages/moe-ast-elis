@@ -4,18 +4,18 @@ title: Differentiating Instruction in the English Language Classrooms (Primary
 permalink: /elis/professional-learning/professional-learning-opportunities/primary/differentiating-instruction/
 description: ""
 third_nav_title: SkillsFuture for Educators
-variant: tiptap
+variant: markdown
 ---
 ### Overview
 
-In the SFEd courses on Differentiated Instruction (DI), you will:
+In the SFEd courses on Differentiated Instruction (DI) in EL Classrooms, you will:
 *   actively inquire into:
-	*   your practice of DI as a teacher of English Language (EL), or
-	*   your practice of leading others in their learning about DI as leaders in the teaching, learning and assessment of EL at the primary level; and
+	*   your practice of DI in the teaching, learning and assessment of EL, or
+	*   your practice of leading others in their learning about DI; and
 
-*   learn together with other participants to apply your learning and reflect on your practice, which includes the use of technology to promote active student learning in participatory, connected and reflective classrooms.
+*   apply your learning and reflect on your practice, which includes the use of educational technology to promote active student learning in participatory, connected and reflective classrooms.
 
-There are courses at three Levels of Practice that you can choose from:
+There are three Levels of Practice that you can choose from:
 
 <img src="/images/picture.png" style="width:70%">
 
