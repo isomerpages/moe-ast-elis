@@ -18,18 +18,20 @@ The SFEd Differentiated Instruction courses enable English Language teachers to 
     </div>
 	</li>  
 	<li>
+		<a href="/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">
     <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h4>Secondary</h4></label>
-    <div>
-      <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/differentiate-instruction/">Differentiating Instruction in the Secondary English Language Classroom</a></p>
+    <label for="accordion2"><h4>Learning by Inquiring in English Language Classrooms </h4></label> </a><a href="/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">
+    </a><div><a href="/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/">
+      </a><p><a href="/elis/professional-learning/professional-learning-opportunities/primary/learning-by-inquiring/"></a><a href="/elis/professional-learning/professional-learning-opportunities/secondary/differentiate-instruction/">Differentiating Instruction in the Secondary English Language Classroom</a></p>
 		<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/learning-by-inquiring/">Learning by Inquiring in the Secondary English Language Classroom</a></p>
     </div>
 	</li>  
 	<li>
     <input type="checkbox" id="accordion3">
-    <label for="accordion3"><h4>Primary/Secondary</h4></label>
+    <label for="accordion3"><h4>   
+
+<a href="/elis/professional-learning/professional-learning-opportunities/primary-secondary/applying-epedagogy">Enacting E-Pedagogy and Blended Learning in English Language Classrooms</a></h4></label><a href="/elis/professional-learning/professional-learning-opportunities/primary-secondary/applying-epedagogy">
     <div>
-      <p><a href="/elis/professional-learning/professional-learning-opportunities/primary-secondary/applying-epedagogy">Applying e–Pedagogy and Blended Learning in the Primary and Secondary English Language Classrooms</a></p>
-    </div>
-	</li>  
-</ul>
+    
+  
+</div></a></li></ul>
