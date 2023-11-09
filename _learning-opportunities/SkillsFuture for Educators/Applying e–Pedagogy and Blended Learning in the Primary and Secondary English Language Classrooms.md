@@ -36,6 +36,8 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
+### Course Structure
+
 <style>
 	.table2 {
 		background: #f8dad3 !important;
