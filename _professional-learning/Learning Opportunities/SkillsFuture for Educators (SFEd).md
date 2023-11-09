@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning Opportunities
 variant: markdown
 ---
-The SFEd Differentiated Instruction courses enable English Language teachers to better respond to variation in students’ learning readiness, interests and learning profiles. The SFEd Inquiry-Based Learning courses enable teachers to guide students in exploring, coconstructing and inquiring into ideas and issues, and engaging in metacognitive learning processes.
+The SFEd Differentiated Instruction course enables English Language (EL) teachers to better respond to variation in students’ learning readiness, interests and learning profiles. The SFEd Inquiring Through Dialogue course enables teachers to guide students in exploring, co-constructing and inquiring into ideas and issues, and engaging in metacognitive learning processes. The SFEd E-Pedagogy and Blended Learning course enables teachers to harness educational technology effectively to foster active student learning.
 
    
 
