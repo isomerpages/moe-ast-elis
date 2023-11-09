@@ -176,4 +176,4 @@ Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.s
 
 OR 
 
-Ms Madeleine Tan (Academy Officer/Pedagogy) at <a href="mailto:madeleine_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
+Ms Madeleine Tan (Academy Officer/Pedagogy) at <a href="mailto:madeleine_tan@moe.gov.sg">madeleine_tan@moe.gov.sg</a>
