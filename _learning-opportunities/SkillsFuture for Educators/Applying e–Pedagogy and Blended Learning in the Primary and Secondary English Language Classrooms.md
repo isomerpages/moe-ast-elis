@@ -33,8 +33,9 @@ By the end of this course, you will be able to:
 *   demonstrate understanding of the principles of e-pedagogy and blended learning;
 *   apply your understanding to harness educational technology to design learning and formative assessment experiences that enable students to experience participatory, connected and reflective learning in blended learning contexts; and
 *   explain your lesson design decisions based on the principles of e-pedagogy and blended learning, the principles of EL teaching and learning (CLLIPS) and&nbsp; EL teaching processes (ACoLADE).
-		 
+
 ### Course Structure
+
 
 <img src="/images/course%20structure%2026.png" style="width:70%">
 		 
@@ -81,6 +82,6 @@ EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary leve
 	</tbody>
 </table>
 		 
-### For enquiries, please contact:
-Ms Selene Tan (Senior Academy Officer/Pedagogy) at
-<a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg.</a>
+### For enquiries, please contact: 
+
+Ms Elizabeth Lee (Academy Officer/Pedagogy) at elizabeth_h_lee@moe.gov.sg.
