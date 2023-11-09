@@ -73,11 +73,11 @@ By the end of this course, you will be able to:
 
 <b><font color="#8A2735">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
 
-Select this course at the Leading Level of Practice if you:
+*Select this course at the Leading Level of Practice if you:*
 
-*   are skilful, independent and adaptive in your practice of IBL in the EL classroom; 
-*   would like to be able to lead effectively and mentor others in their professional learning and practice of IBL; and
-*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves planning a professional learning session to lead and guide peers/teachers in their practice of IBL in the EL classroom.
+*   are skilful, independent and adaptive in your practice of IBL including ItD in  EL classrooms; 
+*   would like to be able to lead effectively and mentor others in their professional learning and practice of IBL including ItD; and
+*   plan to apply and, on an ongoing basis, reflect on your learning as you participate in the course, which involves planning a professional learning session to lead and guide peers/teachers in their practice of IBL including ItD in EL classrooms.
 
 #### Learning Goals
 
