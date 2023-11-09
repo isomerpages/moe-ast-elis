@@ -118,17 +118,17 @@ By the end of this course, you will be able to:
 <tbody>
   <tr>
     <td style="border: 1px solid white" class="tg-ylnx"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period</td>
-    <td style="border: 1px solid white" class="tg-he1f">3 hours</td>
-    <td style="border: 1px solid white" class="tg-he1f">Fri, 17 Feb – Fri, 3 Mar</td>
-    <td style="border: 1px solid white" class="tg-he1f">Wed, 22 Mar – Wed, 5 Apr</td>
-    <td style="border: 1px solid white" class="tg-he1f">Fri, 24 Mar – Mon, 10 Apr</td>
+    <td style="border: 1px solid white" class="tg-he1f">4 hours</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 25 Jan – Mon, 19 Feb</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 21 Mar – Fri, 12 Apr</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 28 Mar – Thu, 18 Apr</td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-ylnx"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session</td>
     <td style="border: 1px solid white" class="tg-he1f">3 hours</td>
-    <td style="border: 1px solid white" class="tg-he1f">Thu, 9 Mar (P.M.)</td>
-    <td style="border: 1px solid white" class="tg-he1f">Wed, 12 Apr (P.M.)</td>
-    <td style="border: 1px solid white" class="tg-he1f">Fri, 14 Apr (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-he1f">Mon, 26 Feb (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 18 Apr (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-he1f">Thu, 25 Apr (P.M.)</td>
   </tr>
 </tbody>
 </table>
@@ -162,16 +162,16 @@ EL Key Personnel, Teacher Leaders and Teachers
 </thead>
 <tbody>
   <tr>
-    <td style="border: 1px solid white" class="tg-933g"><img style="width:50px" alt="Picture11" src="/images/picture11.png">Please register on<br>OPAL2.0 using<br>these codes.</td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a8e753d0-aaa9-4b53-8acc-99e775e9631e"><span style="color:#CA2126">EL000172</span></a></td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/be8e5690-eaea-4b2a-ad4a-e77f84b986a4"><span style="color:#CA2126">EL000101</span></a></td>
-    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer" target="_blank" href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b59caa3a-1020-4e7a-878d-7f314449cc63"><span style="color:#CA2126">EL000100</span></a></td>
+    <td style="border: 1px solid white" class="tg-933g"><img style="width:50px" alt="Picture11" src="/images/picture11.png">Please register on<br>OPAL2.0 using<br>these codes from  Fri, 22 Dec 2023.</td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer"><span style="color:#CA2126">EL000172</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer"><span style="color:#CA2126">EL000101</span></a></td>
+    <td style="border: 1px solid white" class="tg-chv6"><a rel="noopener noreferrer"><span style="color:#CA2126">EL000105</span></a></td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-933g"><img style="width:50px" alt="Picture12" src="/images/picture12.png">Closing dates<br>for registration</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Tue, 31 Jan</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Wed, 1 Mar</td>
-    <td style="border: 1px solid white" class="tg-7vt8">Fri, 3 Mar</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Thu, 4 Jan</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Wed, 21 Feb</td>
+    <td style="border: 1px solid white" class="tg-7vt8">Wed, 28 Feb</td>
   </tr>
 </tbody>
 </table>
@@ -180,6 +180,6 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ##### For enquiries, please contact:
 
-Ms Selene Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:selene_tan@moe.gov.sg">selene_tan@moe.gov.sg</a>
+Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.sg">eunice_lim@moe.gov.sg.</a>			
 OR  
-Ms Eunice Lim (Academy Officer/Pedagogy) at <a href="mailto:eunice_lim@moe.gov.sg">eunice_lim@moe.gov.sg.</a></ul>
+Ms Madeleine Tan (Senior Academy Officer/Pedagogy) at <a href="mailto:madeleine_tan@moe.gov.sg">madeleine_tan@moe.gov.sg</a></ul>
