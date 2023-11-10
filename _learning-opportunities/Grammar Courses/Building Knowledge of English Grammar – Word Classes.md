@@ -3,12 +3,12 @@ title: Building Knowledge of English Grammar – Word Classes
 permalink: /elis/professional-learning/professional-learning-opportunities/word-classes/
 description: ""
 third_nav_title: Grammar Courses
-variant: tiptap
+variant: markdown
 ---
 <em>What are word classes in the English language? How do I know if a word is a verb, a noun, an adjective, an adverb, or something else? How can I explain why a word is sometimes a verb and sometimes an adjective? Why should I know about the form, function and meaning of words? Why do all these questions matter to my students and me?</em>
 
 ### Overview
-In this course, you will attain clearer understanding of word classes in the English language. You will be able to apply your understanding to teach word classes accurately and effectively. You will consider ways to use technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. You will also learn how to enable your students to use their understanding of word classes to listen, read, view, speak, write and represent more effectively. To make your learning meaningful and relevant, you will have the opportunity to apply your understanding through analysing and responding to your students’ work.
+In this course, you will attain clearer understanding of word classes in the English language. You will be able to apply your understanding to teach word classes accurately and enable your students to use their understanding of word classes to listen, read, view, speak, write and represent more effectively. You will also consider ways to use educational technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. For your learning to be meaningful and relevant, you will have the opportunity to apply your understanding through analysing and responding to your students’ work.
 
 ### Learning Goals&nbsp;
 By the end of this course, you will be able to:
@@ -41,13 +41,13 @@ By the end of this course, you will be able to:
 <tbody>
   <tr>
     <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
-    <td style="border: 1px solid white" class="tg-y050">2 hours</td>
-    <td style="border: 1px solid white" class="tg-y050">Tue, 7 Feb – Tue, 21 Feb</td>
+    <td style="border: 1px solid white" class="tg-y050">3 hours</td>
+    <td style="border: 1px solid white" class="tg-y050">Wed, 17 Jan – Mon, 5 Feb</td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
-    <td style="border: 1px solid white" class="tg-y050">2 hours</td>
-    <td style="border: 1px solid white" class="tg-y050">Tue, 28 Feb (P.M.)</td>
+    <td style="border: 1px solid white" class="tg-y050">2.5 hours</td>
+    <td style="border: 1px solid white" class="tg-y050">Thu, 15 Feb (P.M.)</td>
   </tr>
 </tbody>
 </table>
@@ -57,11 +57,10 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000086](https://www.opal2.moe.edu.sg/app/learner/detail/course/55321491-9fc5-4c0c-8308-3b5351a0cf41) <br>
-Closing date for registration: Thu, 26 Jan
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[EL-000091] <br>
+Closing date for registration: Thu, 4 Jan
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
 
 ##### For enquiries, please contact:
-Ms Intan Salwah Badiuzzaman (Senior Academy Officer/Pedagogy) at
-<a href="mailto:intan_salwah_badiuzzaman@moe.gov.sg">intan_salwah_badiuzzaman@moe.gov.sg</a>
+Mr Benson Pang (Academy Officer/Pedagogy) at benson_pang@moe.gov.sg.
