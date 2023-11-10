@@ -1,21 +1,19 @@
 ---
-title: Building Knowledge of English Grammar – Noun Phrases (Secondary)
-permalink: /elis/professional-learning/professional-learning-opportunities/secondary/noun-phrases/
+title: Building Knowledge of English Grammar – Time, Tense and Aspect (Secondary)
+permalink: /elis/professional-learning/professional-learning-opportunities/secondary/time-tense-and-aspect/
 description: ""
-third_nav_title: Grammar Courses
 ---
-<em>What are noun phrases made up of? How long should a noun phrase be? How can I explain when a noun phrase has been correctly or incorrectly constructed? Why do all these questions matter to my students and me?</em>
+<em>What are time, tense and aspect in the English language? How can I explain when to use the past tense and when to use the past perfect? How do I know when one is more appropriate than the other? How can I explain exceptions to the rule? Why do all these questions matter to my students and me?</em>
 
 ### Overview
-In this course, you will attain clearer understanding of noun phrases, including the head noun and pre- and post-modification, in the English language. You will be able to apply your understanding to teach noun phrases accurately and effectively. You will consider ways to use technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. You will also learn how to enable your students to use their understanding of noun phrases to listen, read, view, speak, write and represent appropriately and more effectively. To make your learning meaningful and relevant, you will have the opportunity to apply your understanding through analysing and responding to your students’ work.
+In this course, you will attain clearer understanding of the concepts of time, tense and aspect in the English language. You will be able to apply your understanding to teach these concepts accurately and effectively. You will consider ways to use technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. You will also learn how you can enable your students to use their understanding of time, tense and aspect to listen, read, view, speak, write and represent more effectively. To make your learning meaningful and relevant, you will have the opportunity to apply your understanding through analysing and responding to your students’ work
 
 ### Learning Goals
-
 By the end of this course, you will be able to:
 
-*   demonstrate understanding of noun phrases in the English Language Syllabus 2020;
-*   apply your understanding to interpret your students’ questions and answers on noun phrases, teach noun phrases to your students, and explore the use of a variety of grammar references; and
-*   explain how you will know when your students have constructed noun phrases appropriately and effectively.
+*   demonstrate understanding of time, tense and aspect in the English Language Syllabus 2020;
+*   apply your understanding to interpret your students’ questions and answers on these concepts, teach time, tense and aspect to your students, and explore the use of a variety of grammar references; and
+*   explain how you will know when your students have used tense and aspect accurately and effectively.
 
 ### Course Structure
 
@@ -42,13 +40,13 @@ By the end of this course, you will be able to:
   <tr>
     <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
     <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
-    <td style="border: 1px solid white" class="tg-alvu">Thu, 20 Apr – Mon, 8 May
+    <td style="border: 1px solid white" class="tg-alvu">Tue, 2 May – Tue, 16 May
 </td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-5p3q"><img style="width:50px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
     <td style="border: 1px solid white" class="tg-alvu">2 hours</td>
-    <td style="border: 1px solid white" class="tg-alvu">Thu, 11 May (P.M.)
+    <td style="border: 1px solid white" class="tg-alvu">Tue, 23 May (P.M.)
 </td>
   </tr>
 </tbody>
@@ -59,8 +57,8 @@ EL Key Personnel, Teacher Leaders and Teachers
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000170](https://www.opal2.moe.edu.sg/app/learner/detail/course/cdd14d5f-a714-48e3-9926-83269d11563b).<br>
-Closing date for registration: Thu, 23 Mar
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[EL-000104](https://www.opal2.moe.edu.sg/app/learner/detail/course/9a9885b5-c0f2-41cb-a466-1838b04db551).<br>
+Closing date for registration: Tue, 4 Apr
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
 

@@ -2,7 +2,6 @@
 title: Building Knowledge of English Grammar – Adverbials (Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/secondary/adverbials/
 description: ""
-third_nav_title: Grammar Courses
 ---
 <em>What are adverbials? Why do students need to know how to use them? How are adverbials connected with cohesion and coherence in the English language? How can I explain this relationship accurately to my students? Why do all these questions matter to my students and me?</em>
 

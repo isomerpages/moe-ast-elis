@@ -3,6 +3,7 @@ title: Teaching Writing and Representing (Primary)
 permalink: /elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/
 description: ""
 third_nav_title: PLPs@School
+variant: markdown
 ---
 ### Nurturing Creative, Critical, and Purposeful Writers
 
@@ -10,7 +11,7 @@ third_nav_title: PLPs@School
 
 ### Overview
 
-This learning programme aims to provide you with a deeper understanding of the processes of writing and representing. You will have opportunities to explore, practise and reflect on how to teach writing and representing. You will consider ways to use technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.
+This learning programme aims to provide you with a deeper understanding of the processes of writing and representing. You will have opportunities to explore, practise and reflect on how to teach writing and representing. You will consider ways to use educational technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.
 
 ### Learning Goals
 By the end of this&nbsp;learning programme&nbsp;, you will be able to:

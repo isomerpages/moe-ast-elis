@@ -2,7 +2,6 @@
 title: Building Knowledge of English Grammar – Word Classes (Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/secondary/word-classes/
 description: ""
-third_nav_title: Grammar Courses
 ---
 <em>How do I know if a word is a verb, a noun, an adjective, an adverb, or something else? How can I explain why a word is sometimes an adverb and sometimes a preposition? Why should I know about the form, function and meaning of words? Why do all these questions matter to my students and me?</em>
 

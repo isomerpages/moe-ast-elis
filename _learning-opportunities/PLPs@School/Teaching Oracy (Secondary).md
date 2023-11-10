@@ -3,6 +3,7 @@ title: Teaching Oracy (Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/
 description: ""
 third_nav_title: PLPs@School
+variant: markdown
 ---
 ### Growing Inquirers through Dialogue
 
@@ -10,7 +11,7 @@ third_nav_title: PLPs@School
 
 ### Overview
 
-This learning programme aims to provide you with a deeper understanding of the processes of listening and viewing, and speaking and representing. You will be able to apply the knowledge of spoken grammar and vocabulary to teach pronunciation, prosodic features and oral interaction skills more effectively. You will consider ways to use technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. You will also learn how to use multimodal texts to teach oral communication skills.
+This learning programme aims to provide you with a deeper understanding of the processes of listening and viewing, and speaking and representing. You will be able to apply the knowledge of spoken grammar and vocabulary to teach pronunciation, prosodic features and oral interaction skills more effectively. You will consider ways to use educational technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms. You will also learn how to use multimodal texts to teach oral communication skills.
 
 ### Learning Goals
 By the end of this learning programme, you will be able to:

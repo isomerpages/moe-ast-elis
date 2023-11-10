@@ -3,8 +3,11 @@ title: Language and Literacy Across the Curriculum
 permalink: /elis/professional-learning/professional-learning-opportunities/language-literacy-across-curriculum/
 description: ""
 third_nav_title: Communicating Effectively
+variant: markdown
 ---
-<em>What role does language play in the teaching and learning of my subject? How can I provide support for students who struggle with the language and literacy demands in my subject?</em>
+<em>What role does language play in the teaching and learning of my subject? 
+	
+How can I provide support for students who struggle with the language and literacy demands in my subject?</em>
 
 ### Overview
 This online course helps you to develop an awareness of the language and literacy demands for the English-medium subjects taught at the primary and secondary levels.
@@ -18,18 +21,18 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
-<img src="/images/course%20structure%203.png" style="width:70%">
+![](/images/llac_ec1.PNG)
 		 
 ### Target Participants
 
-English-medium Subject Teachers and English Language Teachers interested in learning how to provide support for students who struggle with the language and literacy demands in their subjects
+English-medium Subject Teachers and English Language Teachers interested in learning how to provide support for students who struggle with the language and literacy demands in their subjects.
 
 ### Registration
 
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code:&nbsp;[**SLI-000012**](https://www.opal2.moe.edu.sg/app/learner/detail/course/387e08ce-9252-499f-ae92-e38a12112efd).  
-Closing date for registration: Fri, 20 Jan
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from 22 Dec 2023:&nbsp;[**SLI-000012**](https://www.opal2.moe.edu.sg/app/learner/detail/course/387e08ce-9252-499f-ae92-e38a12112efd).  
+Closing date for registration: Thu, 4 Jan
 
 ### For enquiries, please contact:
-Dr Darren Nonis (Senior Academy Officer/Research) at
-<a href="mailto:darren_anthonio_marino_nonis@moe.gov.sg.">darren_anthonio_marino_nonis@moe.gov.sg</a>
+Dr Alison Tan (Lead Specialist/EL) at
+<a href="mailto:alison_tan@moe.gov.sg.">alison_tan@moe.gov.sg</a>

@@ -2,7 +2,6 @@
 title: Building Knowledge of English Grammar – Subject–Verb Agreement (Primary)
 permalink: /elis/professional-learning/professional-learning-opportunities/primary/subject-verb-agreement/
 description: ""
-third_nav_title: Grammar Courses
 ---
 <em>What is subject-verb agreement in the English language? Why do some verbs in a sentence need to agree with their subjects while others do not? How do I explain exceptions to the rule? Why do all these questions matter to my students and me?</em>
 
