@@ -20,6 +20,7 @@ By the end of this course, you will be able to:
 
 ### Course Structure
 
+
 <img src="/images/course%20structure%206.png" style="width:70%">
 		 
 ### Target Participants
