@@ -53,7 +53,7 @@ By the end of this course, you will be able to:
 </table>
 		 
 ### Target Participants
-EL Key Personnel, Teacher Leaders and Teachers
+EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary levels
 
 ### Registration
 
