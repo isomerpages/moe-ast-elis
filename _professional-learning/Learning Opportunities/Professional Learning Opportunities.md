@@ -43,4 +43,6 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
   color: black;
 }
 </style>
+![](/images/1__EP2024_cover.png)
+
 ![](/images/2024__eP_cover.PNG)
