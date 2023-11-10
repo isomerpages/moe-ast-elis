@@ -14,7 +14,7 @@ As the ability to distinguish between word classes is foundational to building k
     <input type="checkbox" id="accordion1">
     <label for="accordion1"><h4>Primary and Secondary</h4></label>
     <div>
-						<p><a href="/elis/professional-learning/professional-learning-opportunities/word-classes/">Building Knowledge of English Grammar – Word Classes)</a></p>
+						<p><a href="/elis/professional-learning/professional-learning-opportunities/word-classes/">Building Knowledge of English Grammar – Word Classes</a></p>
 			<p><a href="/elis/professional-learning/professional-learning-opportunities/primary/noun-phrases/">Building Knowledge of English Grammar – Noun Phrases (Primary)</a></p>
 			<p><a href="/elis/professional-learning/professional-learning-opportunities/primary/subject-verb-agreement/">Building Knowledge of English Grammar – Subject–Verb Agreement (Primary)</a></p>
 		 <p><a href="/elis/professional-learning/professional-learning-opportunities/primary/time-tense-and-aspect/">Building Knowledge of English Grammar – Time, Tense and Aspect (Primary)</a></p>
