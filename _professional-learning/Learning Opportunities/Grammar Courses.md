@@ -3,6 +3,7 @@ title: Grammar Courses
 permalink: /elis/professional-learning/professional-learning-opportunities/grammar-courses/
 description: ""
 third_nav_title: Learning Opportunities
+variant: markdown
 ---
 The grammar courses are designed to enable English Language teachers to attain clearer understanding of English grammar and apply this understanding to teach grammar more accurately and effectively to their students.  
   
