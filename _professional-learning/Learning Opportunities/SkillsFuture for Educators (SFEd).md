@@ -10,7 +10,7 @@ The SFEd Differentiated Instruction course enables English Language (EL) teacher
 
    
 
-#
+
 
 * [Differentiating Instruction in English Language Classrooms](/elis/professional-learning/professional-learning-opportunities/differentiating-instruction/)
 * [Inquiring Through Dialogue in English Language Classrooms](/elis/professional-learning/professional-learning-opportunities/learning-by-inquiring/)
