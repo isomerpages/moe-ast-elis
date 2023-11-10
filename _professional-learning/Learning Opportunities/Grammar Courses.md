@@ -9,14 +9,10 @@ The grammar courses are designed to enable English Language teachers to attain c
   
 As the ability to distinguish between word classes is foundational to building knowledge about English grammar, teachers may consider registering for the course on Word Classes before participating in the other grammar courses.
 
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h4>Primary and Secondary</h4></label>
-    <div>
-						<p><a href="/elis/professional-learning/professional-learning-opportunities/word-classes/">Building Knowledge of English Grammar – Word Classes</a></p>
-			<p><a href="/elis/professional-learning/professional-learning-opportunities/time-tense-and-aspect/">Building Knowledge of English Grammar – Time, Tense and Aspect</a></p>
-			<p><a href="/learning-opportunities/grammar-courses/sentence/">Building Knowledge of English Grammar – Sentence Structures, Cohesion and Coherence</a></p>
-		 <p><a href="/learning-opportunities/grammar-courses/englishusage/">Building Knowledge of English Grammar – English Usage and Use of Grammar References and Concordances</a></p>
-	
-	</div></li></ul>
+* <a href="/elis/professional-learning/professional-learning-opportunities/word-classes/">Building Knowledge of English Grammar – Word Classes</a>
+
+* <a href="/elis/professional-learning/professional-learning-opportunities/time-tense-and-aspect/">Building Knowledge of English Grammar – Time, Tense and Aspect</a>
+
+* <a href="/learning-opportunities/grammar-courses/englishusage/">Building Knowledge of English Grammar – English Usage and Use of Grammar References and Concordances</a>
+
+* <a href="/learning-opportunities/grammar-courses/sentence/">Building Knowledge of English Grammar – Sentence Structures, Cohesion and Coherence</a>
