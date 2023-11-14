@@ -9,7 +9,7 @@ variant: markdown
 
 ### Overview
 
-This online course focuses on teachers’ use of classroom talk to develop students’ written communication skills. The course examines how teacher talk strategies can be used to help students understand writing tasks, and scaffold students’ thinking and language use during the writing process. You will learn through a blend of in-person and online asynchronous learning sessions.
+This course focuses on teachers’ use of classroom talk to develop students’ written communication skills. The course examines how teacher talk strategies can be used to help students understand writing tasks, and scaffold students’ thinking and language use during the writing process. You will learn through a blend of in-person learning and online asynchronous learning sessions.
 
 ### Learning Goals
 
