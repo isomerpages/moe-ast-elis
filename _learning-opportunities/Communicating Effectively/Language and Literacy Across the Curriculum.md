@@ -10,7 +10,7 @@ variant: markdown
 How can I provide support for students who struggle with the language and literacy demands in my subject?</em>
 
 ### Overview
-This online course helps you to develop an awareness of the language and literacy demands for the English-medium subjects taught at the primary and secondary levels.
+This online course helps you to develop an awareness of the language and literacy demands of the English Language and English-medium subjects taught at the primary and secondary levels. The course highlights the importance of helping students to develop the academic language for learning the concepts, skills and processes of these subjects. It introduces a variety of literacy strategies and examples of how to use them in different subject areas.
 
 ### Learning Goals
 

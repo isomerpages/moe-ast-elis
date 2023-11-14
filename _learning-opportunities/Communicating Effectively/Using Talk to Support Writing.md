@@ -5,19 +5,19 @@ description: ""
 third_nav_title: Communicating Effectively
 variant: markdown
 ---
-<em>How can I use classroom talk to help my students improve their writing in my subject?</em>
+<em>How can I use classroom talk to help my students improve their writing in my subject? How do I use talk to enable students to understand their writing tasks and guide their thinking during writing?</em>
 
 ### Overview
 
-This online course focuses on teachers’ use of classroom talk to develop students’ written communication skills. The course examines how teachers can use talk strategies to help students understand writing tasks, and scaffold students’ thinking and language use during the writing process.
+This online course focuses on teachers’ use of classroom talk to develop students’ written communication skills. The course examines how teacher talk strategies can be used to help students understand writing tasks, and scaffold students’ thinking and language use during the writing process. You will learn through a blend of in-person and online asynchronous learning sessions.
 
 ### Learning Goals
 
 By the end of this course, you will:
 
 *   be aware of the literacy demands of writing tasks;
-*   learn classroom talk strategies to scaffold students’ writing; and
-*   plan a lesson that applies the strategies to help students produce effective written responses.
+*   learn talk strategies to scaffold students’ writing; a
+*   plan a lesson that applies these strategies to help students produce effective written responses.
 
 ### Course Structure
 
