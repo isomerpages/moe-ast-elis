@@ -38,7 +38,6 @@ There are three areas of support your EL department can look forward to from a M
 <p>a.  learning about e-pedagogy and blended learning for the enactment of participatory, connected and reflective EL classrooms  </p>
 <p>Your EL department members will deepen their understanding of the principles of e-pedagogy and blended learning for the teaching, learning and assessment of EL. They will learn about the practice of teaching with educational technology to design lessons for students to achieve the intended learning outcomes in blended learning contexts.&nbsp;
 </p>
-<p>You can refer to page 26 for the details on this area of learning.</p>
 <p><strong style="color:#46859d;">OR</strong></p>
 <p>b.  <strong><u>one</u></strong>&nbsp;area of language learning to be selected from the following:</p>
 <ol>
@@ -52,8 +51,7 @@ There are three areas of support your EL department can look forward to from a M
 </li>
 <li><p>Teaching Writing and Representing (Primary/Secondary)</p>
 <p>For any area of language learning that you select, your EL department members will deepen their knowledge of it. They will also consider ways of using educational technology in blended learning contexts to support active learning in participatory, connected and reflective classrooms.
-</p>
-<p>You can refer to pages 27 to 35 for the details on the areas of language learning listed above.</p>
+	</p>
 </li>
 </ol>
 <style type="text/css">
