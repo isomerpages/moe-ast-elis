@@ -6,7 +6,7 @@ third_nav_title: Communicating Effectively
 variant: markdown
 ---
 <em>What is a productive academic discussion? 
-	How can I carry out a productive academic discussion in my classroom? </em>
+	How can I carry out a productive academic discussion in my classroom?</em>
 
 ### Overview
 
