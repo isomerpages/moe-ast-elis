@@ -15,6 +15,7 @@ By the end of SWI, you will:
 *   demonstrate awareness of
 
 *   the purposes for writing and representing, and
+
 *   the processes of writing and representing;
 
 *   develop an understanding of current research and theoretical perspectives regarding writing and representing, and how such an understanding can inform the teaching of writing and representing;
@@ -23,7 +24,7 @@ By the end of SWI, you will:
 
 *   consider the use of appropriate formative assessment tools to assess your students’ development in writing and representing;
 
-*   design and undertake an inquiry, and;
+*   design and undertake an inquiry, and
 
 *   lead others in learning about writing and representing.
 
