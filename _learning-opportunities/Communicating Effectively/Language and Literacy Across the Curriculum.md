@@ -6,7 +6,6 @@ third_nav_title: Communicating Effectively
 variant: markdown
 ---
 <em>What role does language play in the teaching and learning of my subject? 
-	
 How can I provide support for students who struggle with the language and literacy demands in my subject?</em>
 
 ### Overview
