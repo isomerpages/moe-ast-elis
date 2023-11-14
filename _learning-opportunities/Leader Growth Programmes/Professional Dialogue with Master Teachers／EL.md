@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: Leader Growth Programmes
 ---
 ### Overview
-The Professional Dialogue with MTTs/EL is offered to support KP and teachers who aspire to progress along the Teaching Track.
+The Professional Dialogue with MTTs/EL is offered to support EL KP and teachers who aspire to progress along the Teaching Track.
 
 ### Learning Goals
 
@@ -21,7 +21,7 @@ This Professional Dialogue will:
 		 
 ### Target Participants
 
-EL, Literature and GP KP,TLs and Teachers nominated for ST/LT/MTT appointments.
+EL KP and Teachers aspiring to progress along the Teaching Track
 
 ### Registration
 Please register on&nbsp;OPAL2.0&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000095**]()
