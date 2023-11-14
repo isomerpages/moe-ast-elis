@@ -26,7 +26,7 @@ By the end of the course, participants will be able to:
 
 		 
 ### Target Participants
-EL KP, TLs and Teachers who teach at the primary and secondary levels, and EL Teachers at the primary and secondary levels who have participated in ELIS’s SFEd courses on Differentiating Instruction and Inquiring Through Dialogue in Primary and Secondary EL Classrooms
+EL KP, TLs and Teachers who teach at the primary and secondary levels
 
 ### Registration
 
