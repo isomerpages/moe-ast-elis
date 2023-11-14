@@ -6,7 +6,7 @@ variant: markdown
 third_nav_title: Leader Growth Programmes
 ---
 ### Overview
-The Clinic with MTTs/EL is offered to support KP, TLs and teachers who have been nominated for TL appointments.
+The Clinic with MTTs/EL is offered to support EL KP, TLs and teachers who have been nominated for TL appointments.
 
 ### Learning Goals
 
@@ -17,8 +17,7 @@ This Clinic provides you with personalised guidance in preparing your profession
 <img src="/images/clinic%20with%20master%20teachers.png" style="width:70%">
 		 
 ### Target Participants
-
-EL, Literature and GP KP,TLs and Teachers nominated for ST/LT/MTT appointments
+EL&nbsp;KP,TLs and Teachers nominated for ST/LT/MTT appointments
 
 ### Registration
 Register on&nbsp;OPAL2.0 &nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000096**]().  
