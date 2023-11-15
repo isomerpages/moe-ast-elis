@@ -178,7 +178,7 @@ img {
       <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-grammar/">Teaching Grammar (Secondary)</a></p>
 			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/">Teaching Oracy (Secondary)</a></p>
 			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/">Teaching Reading, Viewing and Vocabulary (Secondary)</a></p>
-			<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teach-writing-representing/">Teaching Writing and Representing (Secondary)</a></p>
+			<p><a href="/elis/professional-learning/professional-learning-opportunities/sec/teach-writing-representing/">Teaching Writing and Representing (Secondary)</a></p>
     </div>
 	</li>  
 </ul>
