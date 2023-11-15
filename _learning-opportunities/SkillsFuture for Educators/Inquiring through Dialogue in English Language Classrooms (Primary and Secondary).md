@@ -8,7 +8,7 @@ variant: markdown
 ---
 ### Overview
 
-In the SFEd courses on Inquiry-Based Learning (IBL), you will:
+In the SFEd courses on Inquiry-Based Learning (IBL) to enable students to become inquirers who explore, discover, make real-world connections and problem-solve in EL Classrooms, you will:
 
 *   actively inquire into:
 
