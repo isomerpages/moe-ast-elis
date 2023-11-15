@@ -40,7 +40,6 @@ By the end of this course, you will be able to:
 * apply the principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE) to support IBL including ItD; and
 <li>make appropriate choices, including the use of educational technology, to support the practice of IBL including ItD, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
 
-
 ---
 
 <b><font color="#C7394B">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
@@ -55,8 +54,7 @@ By the end of this course, you will be able to:
 
 By the end of this course, you will be able to:
 
-<ul>
-<li>customise EL lessons, incorporating the use of educational technology, that support the practice of IBL including ItD based on: </li>
+* customise EL lessons, incorporating the use of educational technology, that support the practice of IBL including ItD based on:
 	
 * principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE); 
 * knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
@@ -181,4 +179,3 @@ Mdm Intan Salwah Bte Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salw
 OR
 
 Mr Benson Pang (Academy Officer/Pedagogy) at benson_pang@moe.gov.sg.
-</ul>
