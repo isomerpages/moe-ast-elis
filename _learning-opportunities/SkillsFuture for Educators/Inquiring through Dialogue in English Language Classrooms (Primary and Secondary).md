@@ -36,15 +36,10 @@ To decide on the most appropriate Level of Practice to meet your learning needs,
 #### Learning Goals 
 
 By the end of this course, you will be able to:
-
-<ul>
-<li>demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;</li>
-<li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL    including ItD; and</li>
+* demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;
+* apply the principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE) to support IBL including ItD; and
 <li>make appropriate choices, including the use of educational technology, to support the practice of IBL including ItD, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
-</ul>
 
-
-<p style="font-size:14px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
 
 
 ---
