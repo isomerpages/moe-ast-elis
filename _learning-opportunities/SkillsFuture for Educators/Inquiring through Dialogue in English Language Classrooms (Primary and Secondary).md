@@ -1,14 +1,14 @@
 ---
-title: Learning by Inquiring in the English Language Classrooms (Primary and
+title: Inquiring through Dialogue in English Language Classrooms (Primary and
   Secondary)
-permalink: /elis/professional-learning/professional-learning-opportunities/learning-by-inquiring/
+permalink: /elis/professional-learning/professional-learning-opportunities/inquiring/
 description: ""
 third_nav_title: SkillsFuture for Educators
 variant: markdown
 ---
 ### Overview
 
-In the SFEd courses on Inquiry-Based Learning (IBL), you will:
+In the SFEd courses on Inquiry-Based Learning (IBL) to enable students to become inquirers who explore, discover, make real-world connections and problem-solve in EL Classrooms, you will:
 
 *   actively inquire into:
 
@@ -36,16 +36,9 @@ To decide on the most appropriate Level of Practice to meet your learning needs,
 #### Learning Goals 
 
 By the end of this course, you will be able to:
-
-<ul>
-<li>demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;</li>
-<li>apply the principles of EL teaching and learning (CLLIPS*) and teaching processes (ACoLADE<sup>#</sup>) to support IBL    including ItD; and</li>
+* demonstrate understanding of IBL including ItD and its rationale in the teaching, learning and assessment in EL classrooms;
+* apply the principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE) to support IBL including ItD; and
 <li>make appropriate choices, including the use of educational technology, to support the practice of IBL including ItD, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
-</ul>
-
-
-<p style="font-size:14px;">*CLLIPS:&nbsp;<strong>C</strong>ontextualisation,&nbsp;<strong>L</strong>earner-centredness,&nbsp;<strong>L</strong>earning-focused Interactions,&nbsp;<strong>I</strong>ntegration,&nbsp;<strong>P</strong>rocess Orientation,&nbsp;<strong>S</strong>piral Progression<br>#ACoLADE: Raising&nbsp;<strong>A</strong>wareness, Structuring&nbsp;<strong>Co</strong>nsolidation, Facilitating Assessment for&nbsp;<strong>L</strong>earning, Enabling&nbsp;<strong>A</strong>pplication, Guiding&nbsp;<strong>D</strong>iscovery, Instructing&nbsp;<strong>E</strong>xplicitly</p>
-
 
 ---
 
@@ -61,17 +54,18 @@ By the end of this course, you will be able to:
 
 By the end of this course, you will be able to:
 
-<ul>
-<li>customise EL lessons, incorporating the use of educational technology, that support the practice of IBL including ItD based on: </li>
+* customise EL lessons, incorporating the use of educational technology, that support the practice of IBL including ItD based on:
 	
 * principles of EL teaching and learning (CLLIPS) and teaching processes (ACoLADE); 
+
 * knowledge of learners, acquired through sound use of assessment information on students’ learning readiness, interests and learning profiles, collected before, during and after instruction; and
 
-*   demonstrate adaptiveness in enacting IBL including ItD through prompting, posing questions, and supporting the collaborative process by which students learn the skills and learner strategies in the areas of language learning.
+* demonstrate adaptiveness in enacting IBL including ItD through prompting, posing questions, and supporting the collaborative process by which students learn the skills and learner strategies in the areas of language learning.
 
 ---
 
 <b><font color="#8A2735">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
+	
 
 *Select this course at the Leading Level of Practice if you:*
 
@@ -186,4 +180,3 @@ Mdm Intan Salwah Bte Badiuzzaman (Senior Academy Officer/Pedagogy) at intan_salw
 OR
 
 Mr Benson Pang (Academy Officer/Pedagogy) at benson_pang@moe.gov.sg.
-</ul>

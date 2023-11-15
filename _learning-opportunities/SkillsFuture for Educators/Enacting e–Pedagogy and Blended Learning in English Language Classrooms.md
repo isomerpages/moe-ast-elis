@@ -1,6 +1,5 @@
 ---
-title: Applying e–Pedagogy and Blended Learning in the Primary and Secondary
-  English Language Classrooms
+title: Enacting e–Pedagogy and Blended Learning in English Language Classrooms
 permalink: /elis/professional-learning/professional-learning-opportunities/epedagogy/
 description: ""
 third_nav_title: SkillsFuture for Educators
