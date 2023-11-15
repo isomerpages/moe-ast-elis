@@ -3,13 +3,14 @@ title: Dr Florence Lee
 permalink: /elis/about-us/team-members/el-pedagogy/dr-florence-lee/
 description: ""
 third_nav_title: EL Pedagogy Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Florence_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Florence Lee</strong></h3>
-		<strong>Senior Academy Officer, Pedagogy</strong>
+		<strong>Master Teacher/EL</strong>
 	</div>
 	</div>
 

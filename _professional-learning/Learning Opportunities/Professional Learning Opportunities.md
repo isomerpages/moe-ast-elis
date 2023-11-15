@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning Opportunities
 variant: markdown
 ---
-### Professional Learning Opportunities 2024 (Coming soon!)
+### Professional Learning Opportunities 2024 
 
 
 
@@ -38,4 +38,10 @@ variant: markdown
   color: black;
 }
 </style>
+
+Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.  
+<div class="center">  
+<a class="btn" href="/files/eprospectus2024.pdf" target="\_blank">Download the ELIS e-Prospectus 2024 here </a>  
+&nbsp; &nbsp; &nbsp; &nbsp; </div>
+				
 ![](/images/ELIS_cover_final__2_.png)
