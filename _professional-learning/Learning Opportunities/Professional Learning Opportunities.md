@@ -41,7 +41,7 @@ variant: markdown
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.  
 <div class="center">  
-<a class="btn" href="/files/eprospectus2024.pdf" target="\_blank">&nbsp; Download the ELIS e-Prospectus 2024 here </a>  
+<a class="btn" href="/files/eprospectus2024.pdf" target="\_blank">Download the ELIS e-Prospectus 2024 here </a>  
 &nbsp; &nbsp; &nbsp; &nbsp; </div>
 				
 ![](/images/ELIS_cover_final__2_.png)
