@@ -41,7 +41,6 @@ By the end of this course, you will be able to:
 <li>make appropriate choices, including the use of educational technology, to support the practice of IBL including ItD, based on knowledge of learners, the EL Syllabus 2020 and the EL curriculum.</li>
 
 
-
 ---
 
 <b><font color="#C7394B">Accomplished</font></b>&nbsp;Level of Practice: Adapts Skilfully
@@ -67,6 +66,7 @@ By the end of this course, you will be able to:
 ---
 
 <b><font color="#8A2735">Leading</font></b>&nbsp;Level of Practice: Leads others effectively
+	
 
 *Select this course at the Leading Level of Practice if you:*
 
