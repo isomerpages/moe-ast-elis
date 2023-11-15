@@ -1,5 +1,5 @@
 ---
-title: Course on Item Setting
+title: Item Setting for P5 and P6 School–based Summative EL Assessment
 permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-item-setting/
 description: ""
 third_nav_title: Learning Opportunities
@@ -42,6 +42,6 @@ Closing date for registration:
 <img src="/images/item%20setting2.png" style="width:70%">
 
 		 
-### For enquiries, please contact:* 
+### For enquiries, please contact: 
 Ms Charmaine Tan (Senior Academy Officer/Pedagogy) at 
 <a href="mailto:charmaine_tan@moe.gov.sg">charmaine_tan@moe.gov.sg.</a>
