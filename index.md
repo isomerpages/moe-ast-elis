@@ -27,11 +27,11 @@ sections:
       image: /images/resources poster for elis website.png
       alt: Image alt text
   - infopic:
-      title: Professional Learning Opportunities 2023
+      title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
       button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
-      image: /images/ELIS professional learning opportunities 2023.png
+      image: /images/epros24homepage_final.png
       alt: ELIS learning opportunities
 ---
