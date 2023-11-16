@@ -32,6 +32,6 @@ sections:
         English Language, Literature and English-medium subject teachers?
       button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
-      image: /images/epros24homepage_final.png
+      image: /images/epros24_full_homepage.png
       alt: ELIS learning opportunities
 ---
