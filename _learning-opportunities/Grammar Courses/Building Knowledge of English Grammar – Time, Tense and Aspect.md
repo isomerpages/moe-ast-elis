@@ -46,7 +46,7 @@ By the end of this course, you will be able to:
   <tr>
     <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture9" src="/images/picture9.png">Asynchronous Online Learning Period           </td>
     <td style="border: 1px solid white" class="tg-y050">3 hours</td>
-    <td style="border: 1px solid white" class="tg-y050">Tue, 12 Mar – Mon, 15 Apr</td>
+    <td style="border: 1px solid white" class="tg-y050">Mon, 25 Mar – Mon, 15 Apr</td>
   </tr>
   <tr>
     <td style="border: 1px solid white" class="tg-ta8k"><img style="width:60px" alt="Picture10" src="/images/picture10.png">Synchronous Online Learning Session           </td>
