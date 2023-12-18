@@ -101,7 +101,9 @@ EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary leve
 	<tbody>
 		<tr>
 		<td class="table2 flex"><img style="width:50px" alt="Picture11" src="/images/picture11.png"><span>Please register on <b>OPAL2.0</b> using this code   from Fri, 22 Dec 2023.</span></td>
-			<td class="table2">[EL-000179](https://www.opal2.moe.edu.sg/app/learner/detail/course/0db86f5c-f88a-4113-8b63-b7deb25390a8)</td>
+			<td class="table2">
+<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0db86f5c-f88a-4113-8b63-b7deb25390a8">EL-000179</a>
+</td>
 		</tr>
 		<tr>
 		<td class="table2 flex"><img style="width:50px" alt="Picture12" src="/images/picture12.png"><span>Closing dates for registration</span></td>
