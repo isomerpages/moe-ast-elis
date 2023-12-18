@@ -58,7 +58,7 @@ By the end of this course, you will be able to:
 		
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;EL-000094 <br>
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp; [EL-000094](https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51)<br>
 Closing date for registration: Mon, 12 Feb
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
