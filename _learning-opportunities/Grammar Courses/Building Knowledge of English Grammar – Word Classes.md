@@ -57,7 +57,7 @@ EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary leve
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[EL-000091] <br>
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp; [EL-000091](https://www.opal2.moe.edu.sg/app/learner/detail/course/7aa46a81-7a42-4980-b800-259f4716200e).<br>
 Closing date for registration: Thu, 4 Jan
 
 <img align="left" style="width:7%" src="/images/picture17.png"><br>
