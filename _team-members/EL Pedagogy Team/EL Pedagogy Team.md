@@ -174,13 +174,14 @@ variant: markdown
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy-team/ms-madeleine-tan/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy-team/ms-madeleine-tan/">
+<p><a href="/elis/team-members/el-pedagogy-team/ms-madeleine-tan/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/team-members/el-pedagogy-team/ms-madeleine-tan/">
 		<img src="/images/Team%20Members/madeleine_use%20for%20website.jpg" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy-team/ms-madeleine-tan/">
+	</a></div><a href="/elis/team-members/el-pedagogy-team/ms-madeleine-tan/">
 </a><p></p>
 	<figcaption><b>Ms Madeleine Tan</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
