@@ -24,7 +24,7 @@ This Professional Dialogue will:
 EL KP and Teachers aspiring to progress along the Teaching Track
 
 ### Registration
-Please register on&nbsp;OPAL2.0&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000095**]()
+Please register on&nbsp;OPAL2.0&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000095**](https://www.opal2.moe.edu.sg/app/learner/detail/course/1fe55709-435c-4060-912d-79ae42db6e30).
 	    
 Closing date for registration: Tue, 27 Feb
 
