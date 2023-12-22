@@ -35,7 +35,7 @@ Registration for the course is limited to a maximum of three participants from e
 
 ### Registration
 
-Register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000092**]((https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c)).
+Register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000092**](https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c).
 
 Closing date for registration:
 
