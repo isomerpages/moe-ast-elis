@@ -20,7 +20,7 @@ This Clinic provides you with personalised guidance in preparing your profession
 EL KP, TLs and Teachers nominated for ST/LT/MTT appointments
 
 ### Registration
-Register on&nbsp;OPAL2.0 &nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000096**]().  
+Register on&nbsp;OPAL2.0 &nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**EL-000096**](https://www.opal2.moe.edu.sg/app/learner/detail/course/f48b5157-f4d0-4267-ae74-7e7290cc4115). 
 
 Closing date for registration: Thu, 4 Jan
 		 

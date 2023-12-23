@@ -3,6 +3,7 @@ title: EL Pedagogy Team
 permalink: /elis/about-us/team-members/el-pedagogy/
 description: ""
 third_nav_title: EL Pedagogy Team
+variant: markdown
 ---
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/">
@@ -82,11 +83,13 @@ third_nav_title: EL Pedagogy Team
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
-		<img src="/images/Team%20Members/Lucy_Use%20for%20website.jpg" class="m-0">
+		<img src="/images/PHOTO_2023_12_22_11_03_07.jpg" class="m-0">
 	</a></div><a href="/elis/about-us/team-members/el-pedagogy/lucyfernandez/">
 </a><p></p>
 	<figcaption><b>Dr Lucy Fernandez</b><br>Master Teacher</figcaption>
 </figure>
+
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/">
@@ -152,9 +155,6 @@ third_nav_title: EL Pedagogy Team
 </figure>
 
 
-
-
-
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/intansalwah/">
@@ -181,6 +181,8 @@ third_nav_title: EL Pedagogy Team
 </a><p></p>
 	<figcaption><b>Ms Madeleine Tan</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
+
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
