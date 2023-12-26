@@ -29,8 +29,7 @@ English Language and English-medium Subject Teachers who want to learn how to us
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**SLI-000016**]
-(https://www.opal2.moe.edu.sg/app/learner/detail/course/d6182fbc-890d-4311-b52e-98114cec018a).  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**SLI-000016**](https://www.opal2.moe.edu.sg/app/learner/detail/course/d6182fbc-890d-4311-b52e-98114cec018a).  
 Closing date for registration: Tue, 4 Jun
 
 ### For enquiries, please contact:
