@@ -31,8 +31,7 @@ English-medium Subject Teachers and English Language Teachers interested in unde
 
 ### Registration
 
-Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**SLI-000019**]
-(https://www.opal2.moe.edu.sg/app/learner/detail/course/ac03bad0-8837-4cd7-be16-17caefdfbcb7).  
+Please register on&nbsp;**OPAL2.0**&nbsp;using this code from Fri, 22 Dec 2023:&nbsp;[**SLI-000019**](https://www.opal2.moe.edu.sg/app/learner/detail/course/ac03bad0-8837-4cd7-be16-17caefdfbcb7).  
 Closing date for registration: Mon, 15 Jan
 
 ### For enquiries, please contact:
