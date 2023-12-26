@@ -30,7 +30,7 @@ EL KP, TLs and Teachers who teach at the primary and secondary levels, and EL Te
 
 ### Registration
 
-Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**EL-000144**] from Fri, 22 Dec 2023. (https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741).  
+Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;[**EL-000144**](https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741) from Fri, 22 Dec 2023. 
 Closing date for registration: Mon, 26 Feb
 
 ### For enquiries, please contact:
