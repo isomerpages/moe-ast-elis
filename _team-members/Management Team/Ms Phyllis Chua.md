@@ -5,35 +5,4 @@ description: ""
 third_nav_title: Management Team
 variant: tiptap
 ---
-<div class="flex">
-	<div class="imgCrop">
-		<img src="/images/Team%20Members/May_Use%20for%20website.jpg" class="m-0"></div>
-		<div class="flex-col">
-		<h3 class="m-0"><strong>Ms May Tan </strong></h3>
-		<strong>Academy Principal, ELIS</strong>
-	</div>
-	</div>
-
-<style>
-	.m-0 {
-		margin: 0 !important;
-	}
-	.flex {
-		display: flex;
-		justify-content: center;
-		align-items: center; 
-		gap: 20px;
-	flex-wrap:wrap;
-	}
-.imgCrop {
-    width: 200px !important;
-    aspect-ratio: 5/6;
-	overflow: hidden;
-}
-	.flex-col {
-		display: flex;
-		flex-direction: column;
-	}
-</style>
-		
-May joined the English Language Institute of Singapore (ELIS) as its third Academy Principal in December 2018. She was previously the Principal of Qifa Primary School from 2012 to 2018, and Vice-principal of Fairfield Methodist School (Secondary) from 2010 to 2012.&nbsp; She taught English Language, History and Social Studies at the secondary level. She also worked in the Curriculum and Examinations divisions in the Ministry of Education (MOE).&nbsp; May completed the Master of Education on Curriculum, Pedagogy and Assessment at the Institute of Education, University of London under the MOE Postgraduate Scholarship in 2010.
+<h3></h3><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2024_01_05_at_1_23_16_PM__1_.jpeg"></div><h3><strong>Ms Phyllis Chua</strong></h3><p><strong>Academy Principal, ELIS</strong></p><p>Phyllis joins the English Language Institute of Singapore as Academy Principal in December 2023.&nbsp;Prior to joining ELIS, Phyllis was Principal of Catholic Junior College (CJC).</p><p>Upon joining the Education Service in 1993, Phyllis began her journey in education as a General Paper and Geography teacher in Victoria Junior College. In the years since then, shehas&nbsp;helmed schools as Vice Principal of Gan Eng Seng School (2003-2005), Principal of Tanjong Katong Girls’ School (2005-2011) and Principal of CJC (2017-2023). Besides school leadership, she&nbsp;has&nbsp;served as Director in the Ministry of Education covering various aspects of education over the years such as Special Education, Psychological Services and Organisation Development.</p><p>Phyllis has a keen interest in the professional development of teachers as she believes strongly in teachers as role-models for positive learning dispositions and life-long learning. She has a keen interest in organisational development and finds fulfilment in coaching officers and building staff capacity. She has worked with teams in MOE and beyond to facilitate organisational learning and change management.</p><p>Phyllis believes in continuous learning and enjoys reading to broaden her perspectives on leadership and organisational development. A mother of three teenagers, her hobbies include developing new recipes for family meals, attending culinary courses and travelling to different countries to explore new cultures and culinary experiences.</p>
