@@ -3,7 +3,16 @@ title: ELIS e–Digest
 permalink: /elis/resources/read/elis-e-digest-new/
 description: ""
 third_nav_title: Read
+variant: markdown
 ---
+<div>
+<img src="ELIS_e_Digest_6_040123_page_0001.jpg" style="width:75%">
+
+<a target="_blank" href="/files/edigest6.pdf">ELIS e-Digest Issue 6</a><br>
+	
+In this issue, ‘Active Learning with Educational Technology’, you will listen to and read about teachers who use educational technology to enhance teaching and learning. Learn how to design blended learning experiences and leverage technology to promote active student learning. Explore SLS resources that support English Language, Literature in English and General Paper learning.
+</div>
+
 <div>
 <img src="/images/edigest517jul.jpg" style="width:75%">
 	
