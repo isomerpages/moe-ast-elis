@@ -3,6 +3,7 @@ title: Read
 permalink: /elis/resources/read/
 description: ""
 third_nav_title: Read
+variant: markdown
 ---
 <style>
 	.flex {
@@ -47,7 +48,7 @@ Deepen your understanding through our extensive library of e-publications on ped
 <div class="grid">
 		<div>
 <p><a href="/elis/resources/read/elis-e-digest-new/">
-<img src="/images/edigest517jul.jpg" style="width:60%">
+<img src="/images/ELIS_e_Digest_6_040123_page_0001.jpg" style="width:60%">
 </a></p><center><a href="/elis/resources/read/elis-e-digest-new/"><b>ELIS e–Digest</b></a></center><a href="/elis/resources/read/elis-e-digest-new/">
 </a>
 	</div>
