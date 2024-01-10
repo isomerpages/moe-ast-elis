@@ -3,6 +3,7 @@ title: Videos on Teaching & Learning
 permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
+variant: markdown
 ---
 <style>
 	
@@ -225,7 +226,7 @@ CLLIPS and ACoLADE</h4></label>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b30f27c2-aab2-4de5-9b52-06781597777b">How does Differentiated Instruction Work in a Large EL Class? –Determining Lesson Objectives</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4fd2abdd-e1f7-4cd3-bc31-5d169be74fa6">How does Differentiated Instruction Work in a Large EL Class? –Selecting and Adapting Lesson Resources
 </a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f9498f4a-43a8-4605-99e3-88831b0b1af8">How does Differentiated Instruction Work in a Large EL Class? –Managing Learners and Learning
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f9498f4a-43a8-4605-99e3-88831b0b1af8">How does Differentiated Instruction Work in a Large EL Class? – Managing Learners and Learning
 </a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2faa2b19-a8b5-41a6-9f11-c2d973330a06">How does Differentiated Instruction Work in a Large EL Class? –Small Group Instruction
 </a></p>
@@ -311,6 +312,8 @@ CLLIPS and ACoLADE</h4></label>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0be7158b-29f1-45f6-8697-fca6d9845157">What is a Noun Phrase and Why Teach it?</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3f44cd48-1500-471f-ac70-77748e4da739">What are Adverbials? Why and How do I Use Them?</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3415e6d9-d9f7-440f-aad6-6e3f6dcd308d">Subject-Verb Agreement: What Else Is There to Know?</a></p>
+				<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a592f6ab-2bc0-44b9-8332-b03535eabd84">How can We Make Texts Cohesive?  – Using Grammatical Cohesive Devices</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/bf77f4bb-eac7-4b1f-8da7-bf6ca31c719a">How can We Make Texts Cohesive?  – Using Lexcial Cohesive Devices</a></p>
 </div>
 	</li>
 </ul>
