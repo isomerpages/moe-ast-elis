@@ -23,7 +23,7 @@ sections:
         Paper.
       button: Access the e-Digest here
       url: /elis/resources/read/elis-e-digest-new/
-      image: /images/edigest517jul.jpg
+      image: /images/ELIS_e_Digest_6_040123_page_0001.jpg
       alt: e-Digest
   - infopic:
       title: Professional Learning Resources
