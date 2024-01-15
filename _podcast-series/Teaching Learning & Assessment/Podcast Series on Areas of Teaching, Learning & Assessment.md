@@ -3,6 +3,7 @@ title: Podcast Series on Areas of Teaching, Learning & Assessment
 permalink: /elis/resources/listen/podcast-series-on-areas-of-teaching-learning-assessment/
 description: ""
 third_nav_title: Teaching Learning & Assessment
+variant: markdown
 ---
 <img src="/images/teaching-learning-and-assessment.png" style="width:40%">
 		 
@@ -37,6 +38,14 @@ Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Th
 </a></p><center><a href="/elis/resources/listen/student-groupings-for-productive-interaction/"><b>Inquiry Through Dialogue – Facilitating Productive Interaction in Groups
 </b></a></center><a href="/elis/resources/listen/student-groupings-for-productive-interaction/">
 </a>
+
+<p><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-reading-and-viewing/">
+<img src="/images/Cover_Art_with_titles_and_names__8_.png" style="width:40%">
+</a></p><center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-reading-and-viewing/"><b>Inquiry Through Dialogue in Teaching Reading &amp; Viewing
+</b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-reading-and-viewing/">
+</a>
+
+
 
 ### Metacognition
 
