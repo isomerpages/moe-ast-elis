@@ -185,12 +185,12 @@ variant: markdown
 
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
-		<img src="/images/Team%20Members/Selene_Use%20for%20website.jpg" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mdm-selene-tan/">
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
+		<img src="/images/5.png" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
 </a><p></p>
-	<figcaption><b>Mdm Selene Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+	<figcaption><b>Ms Ynez Lim</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
 
 <style>
