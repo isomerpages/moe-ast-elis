@@ -48,6 +48,14 @@ variant: markdown
 	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/management-team/dr-jeanne-ho/">
+</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-audrey-koh/">
+		<img src="/images/Team%20Members/Audrey.png" class="m-0"></a></div>
+<p></p>
+	<figcaption><b>Dr Audrey Koh</b><br>Deputy Director, Pedagogy </figcaption>
+</figure>
+
 <style>
 .content {
 	display: grid !important;
