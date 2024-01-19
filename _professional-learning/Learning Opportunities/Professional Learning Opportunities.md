@@ -41,7 +41,8 @@ variant: markdown
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.  
 <div class="center">  
-<a class="btn" href="https://go.gov.sg/elis-e-prospectus-2024" target="\_blank">Download the ELIS e-Prospectus 2024 here </a>  
+<a class="btn" href="https://go.gov.sg/elis-e-prospectus-19jan2024" target="\_blank">Download the ELIS e-Prospectus 2024 here<br>
+	<span style="font-weight: normal;">Updated as of 19 Jan 2024</span></a>  
 &nbsp; &nbsp; &nbsp; &nbsp; </div>
 				
 ![](/images/ELIS_cover_final__2_.png)
