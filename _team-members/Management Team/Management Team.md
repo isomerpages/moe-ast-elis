@@ -8,7 +8,7 @@ variant: markdown
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua/">
-		<img src="/images/ms-phyllis-chua.jpeg" class="m-0"></a></div><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
+		<img src="/images/Phyllis__1_.png" class="m-0"></a></div><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 </a><p></p>
 <figcaption><b>Ms Phyllis Chua</b><br>Academy Principal, ELIS</figcaption>
 </figure>
