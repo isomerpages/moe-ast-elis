@@ -24,10 +24,10 @@ variant: markdown
 </figure>
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
+<p><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/">
 		<img src="/images/Team%20Members/Audrey.png" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
+	</a></div><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/">
 </a><p></p>
 	<figcaption><b>Dr Audrey Koh</b><br>Deputy Director, Pedagogy</figcaption>
 </figure>
@@ -193,10 +193,10 @@ variant: markdown
 
 
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
+<p><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-ynez-lim/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-ynez-lim/">
 				<img src="/images/Team%20Members/ynez%20lim.png" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
+	</a></div><a href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-ynez-lim/">
 </a><p></p>
 	<figcaption><b>Ms Ynez Lim</b><br>Academy Officer, Pedagogy</figcaption>
 </figure>
