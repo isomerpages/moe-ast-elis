@@ -187,7 +187,7 @@ variant: markdown
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
-		<img src="/images/5.png" class="m-0">
+				<img src="/images/Team%20Members/ynez%20lim.png" class="m-0">
 	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-ynez-lim/">
 </a><p></p>
 	<figcaption><b>Ms Ynez Lim</b><br>Academy Officer, Pedagogy</figcaption>
