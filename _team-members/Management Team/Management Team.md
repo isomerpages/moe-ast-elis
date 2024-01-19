@@ -6,7 +6,7 @@ third_nav_title: Management Team
 variant: markdown
 ---
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+<p><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua/">
 		<img src="/images/Phyllis__1_.png" class="m-0"></a></div><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 </a><p></p>
