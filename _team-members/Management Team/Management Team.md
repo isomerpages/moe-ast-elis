@@ -6,7 +6,7 @@ third_nav_title: Management Team
 variant: markdown
 ---
 <figure>
-<p><a href="/elis/about-us/team-members/management-team/ms-may-tan">
+<p><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua/">
 		<img src="/images/Phyllis__1_.png" class="m-0"></a></div><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 </a><p></p>
@@ -31,6 +31,13 @@ variant: markdown
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
 
+<figure>
+<p><a href="/elis/about-us/team-members/management-team/dr-audrey-koh/">
+</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/dr-audrey-koh/">
+		<img src="/images/Team%20Members/Audrey.png" class="m-0"></a></div>
+<p></p>
+	<figcaption><b>Dr Audrey Koh</b><br>Deputy Director, Pedagogy </figcaption>
+</figure>
 
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/">
@@ -47,6 +54,8 @@ variant: markdown
 <p></p>
 	<figcaption><b>Dr Jeanne Ho Pau Yuen</b><br>Deputy Director, Special Projects</figcaption>
 </figure>
+
+
 
 <style>
 .content {
