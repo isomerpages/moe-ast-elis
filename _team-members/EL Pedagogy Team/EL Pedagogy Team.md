@@ -23,16 +23,14 @@ variant: markdown
 	<figcaption><b>Mr Cedric Leong</b><br>Principal Master Teacher</figcaption>
 </figure>
 
-
 <figure>
-<p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
-	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
-		<img src="/images/Team%20Members/charmaine_Use%20for%20website.jpg" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+<p><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
+		<img src="/images/Team%20Members/Audrey.png" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/dr-audrey-koh/">
 </a><p></p>
-	<figcaption><b>Ms Charmaine Tan</b><br>Assistant Director, Pedagogy</figcaption>
+	<figcaption><b>Dr Audrey Koh</b><br>Deputy Director, Pedagogy</figcaption>
 </figure>
-
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-charles-peters/">
@@ -135,6 +133,16 @@ variant: markdown
 </a><p></p>
 	<figcaption><b>Ms Solastri Suyot</b><br>Master Teacher</figcaption>
 </figure>
+
+<figure>
+<p><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+		<img src="/images/Team%20Members/charmaine_Use%20for%20website.jpg" class="m-0">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/">
+</a><p></p>
+	<figcaption><b>Ms Charmaine Tan</b><br>Senior Academy Officer, Pedagogy</figcaption>
+</figure>
+
 
 <figure>
 <p><a href="/elis/about-us/team-members/el-pedagogy/mr-benson-pang/">
