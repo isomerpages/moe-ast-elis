@@ -3,6 +3,7 @@ title: SWI Alumni
 permalink: /elis/learning-communities/swi-alumni/swi-alumni/
 description: ""
 third_nav_title: Singapore Writing Institute
+variant: markdown
 ---
 Read the reflections of SWI participants by clicking on the respective photographs below.
 
@@ -36,35 +37,35 @@ Read the reflections of SWI participants by clicking on the respective photograp
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2018/">
-<img src="/images/2018-swi-moe-hc-group-1.jpg" style="width:40%">
+<img src="/images/SWI/2018-swi-moe-hc-group-1.jpg" style="width:40%">
 </a></p>
 	<figcaption><b>SWI 2018 (HC)</b></figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2017/">
-<img src="/images/2017-swi_1.gif" style="width:40%">
+<img src="/images/SWI/2017-swi_1.gif" style="width:40%">
 </a></p>
 	<figcaption><b>SWI 2017</b></figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2016/">
-<img src="/images/2016-swi.gif" style="width:40%">
+<img src="/images/SWI/2016-swi.gif" style="width:40%">
 </a></p>
 	<figcaption><b>SWI 2016</b></figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2015/">
-<img src="/images/2015-swi.gif" style="width:40%">
+<img src="/images/SWI/2015-swi.gif" style="width:40%">
 </a></p>
 	<figcaption><b>SWI 2015</b></figcaption>
 </figure>
 
 <figure>
 <p><a href="/elis/learning-communities/swi-alumni/swi-alumni/swi-2014/">
-<img src="/images/2014-swi.gif" style="width:40%">
+<img src="/images/SWI/2014-swi.gif" style="width:40%">
 </a></p>
 	<figcaption><b>SWI 2014</b></figcaption>
 </figure>
