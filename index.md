@@ -9,6 +9,17 @@ sections:
   - hero:
       background: /images/homepage.png
   - infopic:
+      title: Inspiring Teacher of English Award 2024
+      subtitle: Add an image and text
+      id: infopic
+      description: The Inspiring Teacher of English Award recognises teachers who have
+        been key in igniting a passion for English and are effective in teaching
+        good communication.
+      button: Nominate your English teacher today!
+      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
+      image: /images/ITEA_2024.jpg
+      alt: Image alt text
+  - infopic:
       title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
