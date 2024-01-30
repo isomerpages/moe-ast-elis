@@ -10,7 +10,6 @@ sections:
       background: /images/homepage.png
   - infopic:
       title: Inspiring Teacher of English Award 2024
-      subtitle: Add an image and text
       id: infopic
       description: The Inspiring Teacher of English Award recognises teachers who have
         been key in igniting a passion for English and are effective in teaching
