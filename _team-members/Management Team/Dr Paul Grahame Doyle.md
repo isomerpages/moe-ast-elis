@@ -3,10 +3,11 @@ title: Dr Paul Grahame Doyle
 permalink: /elis/about-us/team-members/management-team/dr-paul-grahame-doyle/
 description: ""
 third_nav_title: Management Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
-		<img src="/images/Team%20Members/Paul_Use%20for%20website.jpg" class="m-0"></div>
+		<img src="/images/PODCAST/Paul_2.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Paul Grahame Doyle</strong></h3>
 		<strong>Deputy Director (Research)</strong>
