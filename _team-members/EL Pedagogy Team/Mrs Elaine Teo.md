@@ -7,13 +7,10 @@ third_nav_title: EL Pedagogy Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/IMG_9405__1_.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5__smaller_file_size_.png">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/5__smaller_file_size_.png">
 </div>
 <h3><strong>Mrs Elaine Teo</strong></h3>
-<p><strong>Master Teacher, English Language</strong>
+<p><strong>Master Teacher/EL</strong>
 </p>
 <p></p>
 <p>Elaine started as a primary school teacher in 1992 and through the years
