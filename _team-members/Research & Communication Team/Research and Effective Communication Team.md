@@ -3,11 +3,12 @@ title: Research and Effective Communication Team
 permalink: /elis/about-us/team-members/research-team/
 description: ""
 third_nav_title: Research & Communication Team
+variant: markdown
 ---
 <figure>
 <p><a href="/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/">
 </a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/">
-		<img src="/images/Team%20Members/Paul_Use%20for%20website.jpg" class="m-0">
+		<img src="/images/PODCAST/Paul_2.jpg" class="m-0">
 	</a></div><a href="/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/">
 </a><p></p>
 	<figcaption><b>Dr Paul Grahame Doyle</b><br>Deputy Director, <br>Research and Effective Communication</figcaption>
