@@ -13,11 +13,7 @@ third_nav_title: Grammar Matters
 <p><a href="https://open.spotify.com/episode/4AVmNQpJIRowsZfqskbtwk?si=e7ff564123dc4f0e" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
 <p>Listen to Dr Paul Doyle, Deputy Director, Research, talk about the formation
-of questions and answers in this episode of Grammar Matters.&nbsp;
-<br>
-</p>
-<p>For full show notes, visit our website at <a href="http://go.gov.sg/elispodcast" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/elispodcast</a>
-</p>
+of questions and answers in this episode of Grammar Matters.&nbsp;</p>
 <p>Grammar Matters is a podcast series which aims to create more awareness
 of areas of English language use in Singapore that differ from standard
 English. The series is based on the '<a href="https://www.relc.org.sg/facilities/resources/publications" rel="noopener noreferrer nofollow" target="_blank">Grammar Matters</a>'
