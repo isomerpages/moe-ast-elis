@@ -93,7 +93,8 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 2 Jul – Tue, 23 Jul</p>
+<p>Tue, 2 Jul –</p>
+<p>Tue, 23 Jul</p>
 </td>
 </tr>
 <tr>
