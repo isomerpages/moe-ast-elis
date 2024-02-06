@@ -84,9 +84,6 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture9" src="/images/picture9.png">
-</div>
 <p>Asynchronous Online Learning Period</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,9 +96,6 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture10" src="/images/picture10.png">
-</div>
 <p>Synchronous Online Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
