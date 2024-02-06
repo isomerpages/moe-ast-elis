@@ -72,14 +72,10 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>Mode of Learning</p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
-</div>
+<p></p>
 </th>
 </tr>
 <tr>
