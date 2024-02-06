@@ -72,10 +72,10 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>Mode of Learning</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Date</p>
 </th>
 </tr>
 <tr>
@@ -145,4 +145,7 @@ Dec 2023.</p>
 </tbody>
 </table>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at elizabeth_h_lee@moe.gov.sg.</p>
+<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>
+</p>
+<p></p>
+<p></p>
