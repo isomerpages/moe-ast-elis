@@ -45,9 +45,9 @@ variant: markdown
 <p><a href="/elis/about-us/team-members/el-pedagogy/mrs-emelyn-kuan/">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/el-pedagogy/mrs-elaine-teo/">
 		<img src="/images/5__smaller_file_size_.png" class="m-0">
-	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-elaine-teo/">
+	</a></div><a href="/elis/about-us/team-members/el-pedagogy/mrs-elaine-yeo/">
 </a><p></p>
-	<figcaption><b>Mrs Elaine Teo</b><br>Master Teacher</figcaption>
+	<figcaption><b>Mrs Elaine Yeo</b><br>Master Teacher</figcaption>
 </figure>
 
 <figure>

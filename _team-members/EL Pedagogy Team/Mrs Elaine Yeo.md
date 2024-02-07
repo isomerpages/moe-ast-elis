@@ -1,6 +1,6 @@
 ---
-title: Mrs Elaine Teo
-permalink: /elis/about-us/team-members/el-pedagogy/mrs-elaine-teo/
+title: Mrs Elaine Yeo
+permalink: /elis/about-us/team-members/el-pedagogy/mrs-elaine-yeo/
 variant: tiptap
 description: ""
 third_nav_title: EL Pedagogy Team
@@ -9,7 +9,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-image-wrapper">
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/5__smaller_file_size_.png">
 </div>
-<h3><strong>Mrs Elaine Teo</strong></h3>
+<h3><strong>Mrs Elaine Yeo</strong></h3>
 <p><strong>Master Teacher/EL</strong>
 </p>
 <p></p>
