@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__2_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__2_.png">
 </div>
 <p><a href="https://open.spotify.com/episode/4jEE8peuhvpIqfDTBseYGS?si=a5aa48e1266644dc" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
