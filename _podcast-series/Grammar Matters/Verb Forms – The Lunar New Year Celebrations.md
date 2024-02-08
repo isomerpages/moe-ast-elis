@@ -5,13 +5,17 @@ description: ""
 third_nav_title: Grammar Matters
 variant: tiptap
 ---
-<img src="/images/grammar%20matters%209.png" style="width:50%">
-
-		 
-<a href="https://open.spotify.com/episode/4jEE8peuhvpIqfDTBseYGS?si=a5aa48e1266644dc">Click here to listen to the podcast</a>
-
-Listen to Dr Paul Doyle, Deputy Director, Research, talk about the use of subject-verb agreement in this episode of Grammar Matters.
-
-Grammar Matters is a podcast series which aims to create more awareness of areas of English language use in Singapore that differ from standard English. The series is based on the '[Grammar Matters](https://www.relc.org.sg/facilities/resources/publications)' booklets by SEAMEO RELC.
-
-*Episode published on 10 July 2023.*
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__2_.png">
+</div>
+<p><a href="https://open.spotify.com/episode/4jEE8peuhvpIqfDTBseYGS?si=a5aa48e1266644dc" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
+</p>
+<p>Listen to Dr Paul Doyle, Deputy Director, Research, talk about the use
+of verb forms in this episode of Grammar Matters.</p>
+<p>Grammar Matters is a podcast series which aims to create more awareness
+of areas of English language use in Singapore that differ from standard
+English. The series is based on the '<a href="https://www.relc.org.sg/facilities/resources/publications" rel="noopener noreferrer nofollow" target="_blank">Grammar Matters</a>'
+booklets by SEAMEO RELC.</p>
+<p><em>Episode published on 10 July 2023.</em>
+</p>
