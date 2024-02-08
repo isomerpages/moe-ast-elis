@@ -66,9 +66,9 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 	</center>
 	
 <center>
-<a href="/elis/resources/listen/podcast-series/grammar-matters/subject-verb-agreement-lunar-new-year/">
-<img src="/images/grammar%20matters%209.png" style="width:30%">
-<b>Subject-Verb Agreement – The Lunar New Year Celebrations</b>
+<a href="/elis/resources/listen/podcast-series/grammar-matters/verb-forms-lunar-new-year/">
+<img src="/Cover_Art_with_titles_and_names__2_.png" style="width:30%">
+<b>Verb Forms – The Lunar New Year Celebrations</b>
 </a>
 	</center>
 	
