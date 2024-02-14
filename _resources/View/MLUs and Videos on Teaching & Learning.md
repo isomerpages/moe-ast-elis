@@ -61,7 +61,7 @@ variant: markdown
 <img src="/images/watch_banner.png" style="width:50%">
 <div style="display: flex; flex-direction: column; gap: 25px;">
 	<div>
-Watch these videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
+View these MLUs and videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
   </div>
 	<div>
 Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
