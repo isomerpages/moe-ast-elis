@@ -61,7 +61,7 @@ variant: markdown
 <img src="/images/watch_banner.png" style="width:50%">
 <div style="display: flex; flex-direction: column; gap: 25px;">
 	<div>
-View these MLUs and videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
+View these Microlearning Units (MLUs) and videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
   </div>
 	</div>
 </div>
