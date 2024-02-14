@@ -61,131 +61,8 @@ variant: markdown
 <img src="/images/watch_banner.png" style="width:50%">
 <div style="display: flex; flex-direction: column; gap: 25px;">
 	<div>
-View these MLUs and videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
+View these Microlearning Units (MLUs) and videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
   </div>
-	<div>
-Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
-	</div>
-	</div>
-</div>
-
-<div class="grid">
-	<div>
-<p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
-<img src="/images/ibl-video-thumbnail.png" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
-<img src="/images/cllips-and-acolades_b.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/cllips-and-acolade/"><b>CLLIPS and ACoLADE</b></a></center><a href="/elis/resources/watch/videos/cllips-and-acolade/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
-<img src="/images/text-selection-adaptation-thumb.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/"><b>Text Selection and Adaptation</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiated-instruction/">
-<img src="/images/differentiated-ins1b.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction/"><b>Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
-<img src="/images/differentiating-instruction1s.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/"><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
-<img src="/images/selecting-and-designing-english-language-lessons-for-differentiated-instruction.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/"><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
-<img src="/images/whatsapp-image-2021-03-25-at-18-59-5612a8567afe0b420db4c6eac237e21833.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/"><b>How does Differentiated Instruction Work in a Large English Language Class?</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
-<img src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
-<img src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
-<img src="/images/quality-question_seq.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
-</a>
-</div>
-</div>
-	
-### Videos on Support for Teachers
-
-Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
-
-<div class="grid">
-	<div>
-<p><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
-<img src="/images/collab_prof_learning_o.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
-</a>
-		</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
-<img src="/images/extended_suppkimbee.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/"><b>Extended Support for EL Teachers</b></a></center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
-<img src="/images/classroom_inq_m.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
-<img src="/images/inquiry-classroom.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
-</a>
-</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
-<img src="/images/shalini_coteaching.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
-<img src="/images/cedric_sig.jpg" style="width:30%">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
-</a>
 	</div>
 </div>
 
@@ -318,6 +195,135 @@ CLLIPS and ACoLADE</h4></label>
 	</li>
 </ul>
 
+### Videos on Teaching and Learning
+
+<div class="flex">
+<div style="display: flex; flex-direction: column; gap: 25px;">
+	<div>
+Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
+	</div>
+	</div>
+</div>
+
+<div class="grid">
+	<div>
+<p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
+<img src="/images/ibl-video-thumbnail.png" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
+<img src="/images/cllips-and-acolades_b.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/cllips-and-acolade/"><b>CLLIPS and ACoLADE</b></a></center><a href="/elis/resources/watch/videos/cllips-and-acolade/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
+<img src="/images/text-selection-adaptation-thumb.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/"><b>Text Selection and Adaptation</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/differentiated-instruction/">
+<img src="/images/differentiated-ins1b.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction/"><b>Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction/">
+</a>
+</div>
+	
+<div>
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
+<img src="/images/differentiating-instruction1s.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/"><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
+<img src="/images/selecting-and-designing-english-language-lessons-for-differentiated-instruction.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/"><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
+</a>
+</div>
+	
+<div>
+<p><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
+<img src="/images/whatsapp-image-2021-03-25-at-18-59-5612a8567afe0b420db4c6eac237e21833.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/"><b>How does Differentiated Instruction Work in a Large English Language Class?</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
+<img src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+<img src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
+</a>
+</div>
+	
+<div>
+<p><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
+<img src="/images/quality-question_seq.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
+</a>
+</div>
+</div>
+	
+### Videos on Support for Teachers
+
+Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
+
+<div class="grid">
+	<div>
+<p><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
+<img src="/images/collab_prof_learning_o.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
+</a>
+		</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
+<img src="/images/extended_suppkimbee.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/"><b>Extended Support for EL Teachers</b></a></center><a href="/elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/">
+</a>
+</div>
+	
+<div>
+<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
+<img src="/images/classroom_inq_m.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+<img src="/images/inquiry-classroom.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+</a>
+</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
+<img src="/images/shalini_coteaching.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
+</a>
+	</div>
+
+<div>
+<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+<img src="/images/cedric_sig.jpg" style="width:30%">
+</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
+</a>
+	</div>
+</div>
 
 ### e-Conference Resources
 
