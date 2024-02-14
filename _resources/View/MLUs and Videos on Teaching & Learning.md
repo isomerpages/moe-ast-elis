@@ -190,7 +190,7 @@ CLLIPS and ACoLADE</h4></label>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3f44cd48-1500-471f-ac70-77748e4da739">What are Adverbials? Why and How do I Use Them?</a></p>
 			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3415e6d9-d9f7-440f-aad6-6e3f6dcd308d">Subject-Verb Agreement: What Else Is There to Know?</a></p>
 				<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a592f6ab-2bc0-44b9-8332-b03535eabd84">How can We Make Texts Cohesive?  – Using Grammatical Cohesive Devices</a></p>
-			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/bf77f4bb-eac7-4b1f-8da7-bf6ca31c719a">How can We Make Texts Cohesive?  – Using Lexcial Cohesive Devices</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/bf77f4bb-eac7-4b1f-8da7-bf6ca31c719a">How can We Make Texts Cohesive?  – Using Lexical Cohesive Devices</a></p>
 </div>
 	</li>
 </ul>
