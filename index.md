@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ELIS_Website_Banner_2024__new_.gif
+      background: /images/ELIS_Website_Banner_2024__new___1_.gif
   - infopic:
       title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
