@@ -70,7 +70,7 @@ View these Microlearning Units (MLUs) and videos to understand and apply the pri
 <div class="flex">
 <div style="display: flex; flex-direction: column; gap: 25px;">
 	<div>
-		<center><img src="/images/images/MLU_Pics.png" style="width:30%"><br><b><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524">Encouraging Student Talk in the Classroom</a></b></center>
+		<center><img src="/images/MLU_Pics.png" style="width:30%"><br><b><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524">Encouraging Student Talk in the Classroom</a></b></center>
 	Classroom interaction is an essential component of learning that comprises both teacher talk and student talk. Through talk, teachers guide students to respond to questions, express their ideas and engage with each other to deepen understanding of subject content. In this microlearning unit, we look at 1) why student talk is important and 2) what factors inhibit student talk.
 	</div>
 	</div>
