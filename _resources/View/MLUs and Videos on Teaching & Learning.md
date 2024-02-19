@@ -66,6 +66,16 @@ View these Microlearning Units (MLUs) and videos to understand and apply the pri
 	</div>
 </div>
 
+### New Resources
+<div class="flex">
+<div style="display: flex; flex-direction: column; gap: 25px;">
+	<div>
+		<center><img src="/images/MLU_Pics.png" style="width:80%"><br><b><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524">Encouraging Student Talk in the Classroom</a></b></center>
+	Classroom interaction is an essential component of learning that comprises both teacher talk and student talk. Through talk, teachers guide students to respond to questions, express their ideas and engage with each other to deepen understanding of subject content. In this microlearning unit, we look at 1) why student talk is important and 2) what factors inhibit student talk.
+	</div>
+	</div>
+</div>
+
 ### Microlearning Units
 
 
@@ -167,6 +177,7 @@ CLLIPS and ACoLADE</h4></label>
 		<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b2fe0452-ee04-484a-9a8b-ef7c21b0fb11">Using the Word Wall strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/751bc0f8-0276-495d-ba16-b774b26247dd">Using the Annotating Texts strategy to learn subject-specific vocabulary</a></p>
 			   <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ffc9cbed-04cb-4fe1-a6a5-4b465782a79c">Using the Sequencing a Jumbled-Text strategy to learn subject-specific vocabulary</a></p>
+			<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524">Encouraging Student Talk in the classroom</a></p>
 </div>
 	</li>
 				<li>
