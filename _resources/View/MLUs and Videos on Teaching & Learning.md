@@ -109,7 +109,7 @@ CLLIPS and ACoLADE</h4></label>
     <div>
       <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf">What is Differentiated Instruction and Why does it Matter?</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can DL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b30f27c2-aab2-4de5-9b52-06781597777b">How does Differentiated Instruction Work in a Large EL Class? –Determining Lesson Objectives</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4fd2abdd-e1f7-4cd3-bc31-5d169be74fa6">How does Differentiated Instruction Work in a Large EL Class? –Selecting and Adapting Lesson Resources
 </a></p>
