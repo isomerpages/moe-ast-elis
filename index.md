@@ -8,6 +8,23 @@ notification: ""
 sections:
   - hero:
       background: /images/ELIS_Website_Banner_2024__new_.gif
+  - textcards:
+      title: Happenings at ELIS
+      subtitle: NEWS & HIGHLIGHTS
+      id: textcards
+      cards:
+        - title: New MLU
+          description: Encouraging Student Talk in the Classroom
+          linktext: Learn more
+          url: https://elis.moe.edu.sg/elis/resources/view/
+        - title: Upcoming Programmes
+          description: SkillsFuture for Educators (SFEd)
+          linktext: Learn more
+          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
+        - title: New Podcast
+          description: Giving Commands and Instructions
+          linktext: Learn more
+          url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
       title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
@@ -44,21 +61,4 @@ sections:
       url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2024.jpg
       alt: Image alt text
-  - textcards:
-      title: Happenings at ELIS
-      subtitle: NEWS & HIGHLIGHTS
-      id: textcards
-      cards:
-        - title: New MLU
-          description: Encouraging Student Talk in the Classroom
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/resources/view/
-        - title: Upcoming Programmes
-          description: SkillsFuture for Educators (SFEd)
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
-        - title: New Podcast
-          description: Giving Commands and Instructions
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/resources/listen/
 ---
