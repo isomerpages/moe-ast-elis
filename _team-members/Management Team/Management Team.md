@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Management Team
 variant: markdown
 ---
+<img src="/images/Team%20Members/Exco.png" style="width:300%">
+<p></p>
+
 <figure>
 <p><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua">
 	</a></p><div style="width: 50%;margin: 0 auto;" class="imgCrop"><a href="/elis/about-us/team-members/management-team/ms-phyllis-chua/">
