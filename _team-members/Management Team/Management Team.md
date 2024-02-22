@@ -5,7 +5,8 @@ description: ""
 third_nav_title: Management Team
 variant: markdown
 ---
-<img src="/images/Team%20Members/Exco.png" style="width:300%">
+<figure>
+<img src="/images/Team%20Members/Exco.png" style="width:400%">
 <p></p>
 
 <figure>
@@ -89,4 +90,4 @@ variant: markdown
     aspect-ratio: 5/6;
 		overflow: hidden;
 }
-</style>
+</style></figure>
