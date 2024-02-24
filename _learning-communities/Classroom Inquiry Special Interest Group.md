@@ -5,27 +5,18 @@ description: ""
 variant: tiptap
 ---
 <p></p>
-<p>A Special Interest Group (SIG) consists of like-minded teachers with a
-similar passion, collaborating to develop a valuable repertoire of ideas,
-practices and instructional resources. Any group of three or more teachers
-can come together and form an SIG. Members of an SIG may be from the same
-or different school. The SIGs are supported by MTTs/ EL, and Academy Officers
-(AOs/ Pedagogy) from ELIS.</p>
-<p>This video helps you understand better what a Special Interest Group is
-and what you can expect if you want to set up an SIG. It highlights an
-SIG’s passion to learn how to apply Marzano’s 6 Steps to Vocabulary Instruction
-to help students.</p>
-<p>Questions for you to think about while viewing the video:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Which particular area of language teaching and learning would you like
-to work on in order to develop your teaching practice?</p>
-</li>
-<li>
-<p>How can an SIG help you to improve your teaching practice?</p>
-</li>
-</ol>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/u20OqrCincQ"></iframe>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Special Interest Group" src="/images/SIG/CI_SIG_Support_Header.png">
 </div>
+<p>Members of the SIG benefit from the support of ELIS Specialists, as they:</p>
+<p>•engage in examining their classroom practice and</p>
+<p>•build professional knowledge, skills and dispositions that support students'
+learning.</p>
+<p>SIG members have access to the Classroom Inquiry SIG Social Collaboration
+Space in <a href="https://www.opal2.moe.edu.sg/csl/s/sig-classroom-inquiry/wiki/page/view?title=Welcome+to+the+ELIS+Classroom+Inquiry+SIG+" rel="noopener noreferrer nofollow" target="_blank">OPAL2.0. </a>They
+can network, download resources, attend events and seek advice from the
+learning community.</p>
+<p>If you would like to be part of the ELIS Classroom Inquiry SIG, contact
+Dr Rachel Goh at&nbsp;<a href="https://www.opal2.moe.edu.sg/csl/s/sig-classroom-inquiry/wiki/page/view?title=Welcome+to+the+ELIS+Classroom+Inquiry+SIG+" rel="noopener noreferrer nofollow" target="_blank"><u>rachel_goh@moe.gov.sg</u></a>
+</p>
 <p></p>
