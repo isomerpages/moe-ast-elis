@@ -84,3 +84,5 @@ the revision of writing.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch Reflections" src="/images/SIG/CI_SIG_Support_Temasek.png">
 </div>
 <p></p>
+<p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
+more teachers’ personal accounts of conducting classroom inquiry.</p>
