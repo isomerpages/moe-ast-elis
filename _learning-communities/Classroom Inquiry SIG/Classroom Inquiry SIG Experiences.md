@@ -57,9 +57,6 @@ the revision of writing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_Sch.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec.png">
-</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -75,8 +72,6 @@ the revision of writing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_Teacher_Reflections.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/CI_SIG_Support__1_.png">
-</div>
+<p></p>
 <p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
 more teachers’ personal accounts of conducting classroom inquiry.</p>
