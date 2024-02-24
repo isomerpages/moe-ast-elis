@@ -49,6 +49,18 @@ were working on.</p>
 the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
 the revision of writing.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <table>
 <tbody>
