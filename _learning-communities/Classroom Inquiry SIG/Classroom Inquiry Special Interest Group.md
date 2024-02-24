@@ -20,9 +20,9 @@ learning.</p>
 </li>
 </ul>
 <p>SIG members have access to the Classroom Inquiry SIG Social Collaboration
-Space in <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=553879" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a>
-<a href="https://www.opal2.moe.edu.sg/csl/s/sig-classroom-inquiry/wiki/page/view?title=Welcome+to+the+ELIS+Classroom+Inquiry+SIG+" rel="noopener noreferrer nofollow" target="_blank"></a>They can network, download resources, attend events and seek advice
-from the learning community.</p>
+Space in <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=553879" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0</a> They
+can network, download resources, attend events and seek advice from the
+learning community.</p>
 <p>If you would like to be part of the ELIS Classroom Inquiry SIG, contact
 Dr Rachel Goh at rachel_goh@moe.gov.sg</p>
 <p></p>
