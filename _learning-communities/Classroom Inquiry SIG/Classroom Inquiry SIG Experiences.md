@@ -45,10 +45,11 @@ in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
 joined the SIG to gain support from ELIS for the classroom inquiry project
 that she and her colleagues in her Professional Learning Community (PLC)
 were working on.</p>
-<p>Dr Rachel Goh worked with Ms Idriarty and her PLC as they inquired into
+<p>Dr Rachel Goh worked with Ms Idriary and her PLC as they inquired into
 the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
 the revision of writing.</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -60,10 +61,16 @@ the revision of writing.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch" src="/images/SIG/Temasek_Sec_with_Rachel.jpg">
+</div>
 </th>
 </tr>
 </tbody>
 </table>
+<p>Ms Idriaty binte Sabari (centre) in discussion with her PLC. Consulting
+with Dr Rachel Goh (third from left).</p>
+<p></p>
 <p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
 </p>
 <div class="isomer-image-wrapper">
