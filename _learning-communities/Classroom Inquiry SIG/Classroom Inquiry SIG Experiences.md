@@ -49,7 +49,21 @@ were working on.</p>
 the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
 the revision of writing.</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
 </p>
