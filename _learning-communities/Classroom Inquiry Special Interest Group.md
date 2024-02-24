@@ -9,9 +9,15 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Special Interest Group" src="/images/SIG/CI_SIG_Support_Header.png">
 </div>
 <p>Members of the SIG benefit from the support of ELIS Specialists, as they:</p>
-<p>•engage in examining their classroom practice and</p>
-<p>•build professional knowledge, skills and dispositions that support students'
+<ul data-tight="true" class="tight">
+<li>
+<p>engage in examining their classroom practice and</p>
+</li>
+<li>
+<p>build professional knowledge, skills and dispositions that support students'
 learning.</p>
+</li>
+</ul>
 <p>SIG members have access to the Classroom Inquiry SIG Social Collaboration
 Space in <a href="https://www.opal2.moe.edu.sg/csl/s/sig-classroom-inquiry/wiki/page/view?title=Welcome+to+the+ELIS+Classroom+Inquiry+SIG+" rel="noopener noreferrer nofollow" target="_blank">OPAL2.0. </a>They
 can network, download resources, attend events and seek advice from the
