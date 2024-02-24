@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
-<h4>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</h4>
+<h4>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG',                      15 November 2023</h4>
 <table>
 <tbody>
 <tr>
