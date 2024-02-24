@@ -20,7 +20,7 @@ learning.</p>
 </li>
 </ul>
 <p>SIG members have access to the Classroom Inquiry SIG Social Collaboration
-Space in <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=553879" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0.</a> 
+Space in <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=553879" rel="noopener noreferrer nofollow" target="_blank">OPAL 2.0.</a>
 </p>
 <p>They can network, download resources, attend events and seek advice from
 the learning community.</p>
