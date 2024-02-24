@@ -40,33 +40,47 @@ third_nav_title: Classroom Inquiry SIG
 </table>
 <p></p>
 <h4>Experiences of Temasek Secondary School Teachers</h4>
-<p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>&nbsp;course
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course
 in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
 joined the SIG to gain support from ELIS for the classroom inquiry project
 that she and her colleagues in her Professional Learning Community (PLC)
 were working on.</p>
-<p>Dr Rachel Goh worked with Ms Idriarty and her PLC as they inquired into
-the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
-things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
-the revision of writing.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch" src="/images/SIG/Temasek_Sec.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <table>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch" src="/images/SIG/Temasek_Sec.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch" src="/images/SIG/Temasek_Sec_with_Rachel.jpg">
 </div>
-<p>Ms Idriaty (centre) in discussion with her PLC.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry: Temasek Sec Sch with Rachel" src="/images/SIG/Temasek_Sec_with_Rachel.jpg">
-</div>
-<p>Dr Rachel Goh (third from left) supporting the teachers in their inquiry.</p>
+<p>Dr Rachel Goh worked with Ms Idriarty and her PLC as they inquired into
+the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
+things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
+the revision of writing.</p>
 </th>
 </tr>
 </tbody>
 </table>
+<p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch Reflections" src="/images/SIG/CI_SIG_Support_Temasek.png">
+</div>
 <p></p>
