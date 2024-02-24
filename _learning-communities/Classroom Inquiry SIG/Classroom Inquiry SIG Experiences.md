@@ -60,14 +60,10 @@ the revision of writing.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_with_Rachel.jpg">
-</div>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>Ms Idriaty binte Sabari (centre) in discussion with her PLC. Consulting
 with Dr Rachel Goh (third from left).</p>
 <p></p>
