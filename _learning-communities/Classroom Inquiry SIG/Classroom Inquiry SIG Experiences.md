@@ -73,3 +73,7 @@ the revision of writing.</p>
 <p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
 more teachers’ personal accounts of conducting classroom inquiry.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_Reflections.png">
+</div>
+<p></p>
