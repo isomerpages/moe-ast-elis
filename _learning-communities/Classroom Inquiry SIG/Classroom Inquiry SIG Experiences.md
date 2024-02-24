@@ -60,6 +60,9 @@ the revision of writing.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_with_Rachel.png">
+</div>
 </th>
 </tr>
 </tbody>
@@ -67,6 +70,6 @@ the revision of writing.</p>
 <p></p>
 <p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
 </p>
-<p></p>
 <p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
 more teachers’ personal accounts of conducting classroom inquiry.</p>
+<p></p>
