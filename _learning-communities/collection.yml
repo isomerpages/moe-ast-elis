@@ -2,6 +2,7 @@ collections:
   learning-communities:
     output: true
     order:
+      - Classroom Inquiry SIG/Classroom Inquiry Special Interest Group.md
       - Classroom Inquiry SIG/.keep
       - Learning Communities.md
       - Singapore Writing Institute/.keep
