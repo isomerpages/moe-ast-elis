@@ -49,29 +49,10 @@ were working on.</p>
 the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
 the revision of writing.</p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Ms Idriaty binte Sabari (centre) in discussion with her PLC. Consulting
-with Dr Rachel Goh (third from left).</p>
 <p></p>
 <p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch Reflections" src="/images/SIG/CI_SIG_Support_Temasek.png">
-</div>
 <p></p>
 <p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
 more teachers’ personal accounts of conducting classroom inquiry.</p>
