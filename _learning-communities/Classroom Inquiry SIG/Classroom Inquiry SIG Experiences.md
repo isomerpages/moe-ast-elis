@@ -22,6 +22,10 @@ third_nav_title: Classroom Inquiry SIG
 </div>
 </th>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -38,7 +42,6 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<p></p>
 <h4>Experiences of Temasek Secondary School Teachers</h4>
 <p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>&nbsp;course
 in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
