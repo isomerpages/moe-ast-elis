@@ -51,7 +51,7 @@ were working on.</p>
 <p>Dr Rachel Goh worked with Ms Idriaty and her PLC as they inquired into
 the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
-the revision of writing.</p>
+the revision of writing through peer feedback.</p>
 <table>
 <tbody>
 <tr>
