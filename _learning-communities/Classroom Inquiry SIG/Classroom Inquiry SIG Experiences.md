@@ -50,8 +50,8 @@ that she and her colleagues in her Professional Learning Community (PLC)
 were working on.</p>
 <p>Dr Rachel Goh worked with Ms Idriaty and her PLC as they inquired into
 the use of the STAR revision strategy (<strong>S</strong>ubstitute, <strong>T</strong>ake
-things out, <strong>A</strong>dd, <strong>R</strong>earrange) to support
-the revision of writing through peer feedback.</p>
+things out, <strong>A</strong>dd, <strong>R</strong>earrange) for peer feedback
+to support the revision of writing.</p>
 <table>
 <tbody>
 <tr>
