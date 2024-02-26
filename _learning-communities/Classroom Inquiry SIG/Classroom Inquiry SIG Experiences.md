@@ -49,8 +49,8 @@ joined the SIG to gain support from ELIS for the classroom inquiry project
 that she and her colleagues in her Professional Learning Community (PLC)
 were working on.</p>
 <p>Dr Rachel Goh worked with Ms Idriaty and her PLC as they inquired into
-the use of the STAR revision strategies (<strong>S</strong>ubstitute, <strong>T</strong>ake
-things out, <strong>A</strong>dd and <strong>R</strong>earrange) to support
+the use of the STAR revision strategy (<strong>S</strong>ubstitute, <strong>T</strong>ake
+things out, <strong>A</strong>dd, <strong>R</strong>earrange) to support
 the revision of writing through peer feedback.</p>
 <table>
 <tbody>
