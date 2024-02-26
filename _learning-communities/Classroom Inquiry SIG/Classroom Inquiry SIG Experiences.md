@@ -70,7 +70,7 @@ the revision of writing.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Temasek Secondary School Teachers’ reflection on their learning</strong>
+<p><strong>Temasek Secondary School teachers’ reflection on their learning</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SIG/Temasek_Sec_Teacher_Reflections.png">
