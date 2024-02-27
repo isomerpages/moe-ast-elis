@@ -16,11 +16,11 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
     <label for="accordion1"><h4>   
 
 Talking About Things</h4></label>
-    <div><p><a href="elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</a></p>
-			<p><a href="elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint"> Definite and Indefinite Articles – A Letter of Complaint</a></p>
-			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport">Collective Nouns – At the Airport</a></p>
-			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Adjectives – The Advertisement</a></p>
-			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Pronouns – The Accident</a></p>
+    <div><p><a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</a></p>
+			<p><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint"> Definite and Indefinite Articles – A Letter of Complaint</a></p>
+			<p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport">Collective Nouns – At the Airport</a></p>
+			<p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Adjectives – The Advertisement</a></p>
+			<p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Pronouns – The Accident</a></p>
     </div>
 	</li>  
 	<li>
