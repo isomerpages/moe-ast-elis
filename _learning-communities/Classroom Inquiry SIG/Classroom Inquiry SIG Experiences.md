@@ -23,18 +23,22 @@ third_nav_title: Classroom Inquiry SIG
 </div>
 </td>
 </tr>
+</tbody>
+</table>
+<table>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec Sch" src="/images/SIG/3a.png">
+<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/3a.png">
 </div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Paya Lebar MGS" src="/images/SIG/4a.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
