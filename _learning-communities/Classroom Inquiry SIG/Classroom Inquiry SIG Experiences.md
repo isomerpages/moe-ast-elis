@@ -9,35 +9,19 @@ third_nav_title: Classroom Inquiry SIG
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Chongzheng Pri Sch" src="/images/SIG/1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Edgefield Pri Sch" src="/images/SIG/2.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Temasek Sec Sch" src="/images/SIG/3.png">
-</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG: Paya Lebar MGS" src="/images/SIG/4.png">
-</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
