@@ -51,6 +51,7 @@ sections:
       button: Register now!
       url: https://tinyurl.com/RELC58
       image: /images/RELC_Conference_ELIS_landscape_2.jpg
+      alt: RELC 2024
   - infopic:
       title: Professional Learning Resources
       description: Access our on-the-go learning resources to cultivate your
