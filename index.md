@@ -44,7 +44,6 @@ sections:
       alt: e-Digest
   - infopic:
       title: 58th RELC International Conference
-      subtitle: Add an image and text
       id: infopic
       description: The 58th RELC International Conference seeks to provide new
         insights and the latest research in language learning, teaching and
