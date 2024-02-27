@@ -16,22 +16,12 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Phyllis__1_.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Phyllis__1_.png">
 </div>
 <p></p>
-<p><strong>Ms Phyllis Chua</strong>
+<p><strong>Ms Phyllis Chua</strong> 
 <br>Academy Principal, ELIS</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -41,41 +31,41 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg">
 </div>
-<p><strong>Dr Tay May Yin</strong>
+<p><strong>Dr Tay May Yin</strong> 
 <br>Principal Master Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Team%20Members/Cedric_Use%20for%20website.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Cedric_Use%20for%20website.jpg">
 </div>
-<p><strong>Mr Cedric Leong</strong>
+<p><strong>Mr Cedric Leong</strong> 
 <br>Principal Master Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Team%20Members/Audrey.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Audrey.png">
 </div>
-<p><strong>Dr Audrey Koh</strong>
+<p><strong>Dr Audrey Koh</strong> 
 <br>Deputy Director, Pedagogy</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/elis_photoshoot_paul.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/elis_photoshoot_paul.png">
 </div>
-<p><strong>Dr Paul Grahame Doyle</strong>
+<p><strong>Dr Paul Grahame Doyle</strong> 
 <br>Deputy Director, Research</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/Team%20Members/Jeanne__Use%20for%20website.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Jeanne__Use%20for%20website.jpg">
 </div>
-<p><strong>Dr Jeanne Ho Pau Yuen</strong>
+<p><strong>Dr Jeanne Ho Pau Yuen</strong> 
 <br>Deputy Director,</p>
 <p>Special Projects</p>
 </td>
