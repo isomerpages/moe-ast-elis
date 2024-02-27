@@ -43,15 +43,6 @@ sections:
       image: /images/ELIS_e_Digest_6_040123_page_0001.jpg
       alt: e-Digest
   - infopic:
-      title: Professional Learning Resources
-      description: Access our on-the-go learning resources to cultivate your
-        pedagogical expertise in the teaching, learning and use of the English
-        language.
-      button: Start learning here
-      url: https://elis.moe.edu.sg/elis/resources/
-      image: /images/resources poster for elis website.png
-      alt: Image alt text
-  - infopic:
       title: 58th RELC International Conference
       subtitle: Add an image and text
       id: infopic
@@ -61,6 +52,15 @@ sections:
       button: Register now!
       url: https://tinyurl.com/RELC58
       image: /images/RELC_Conference_ELIS_landscape_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Professional Learning Resources
+      description: Access our on-the-go learning resources to cultivate your
+        pedagogical expertise in the teaching, learning and use of the English
+        language.
+      button: Start learning here
+      url: https://elis.moe.edu.sg/elis/resources/
+      image: /images/resources poster for elis website.png
       alt: Image alt text
   - infopic:
       title: Inspiring Teacher of English Award 2024
