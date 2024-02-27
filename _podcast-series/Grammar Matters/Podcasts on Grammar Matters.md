@@ -9,6 +9,29 @@ variant: markdown
 		 
 Listen to our Grammar Matters podcast series, which aims to create more awareness of areas of English language use in Singapore that differ from standard English.
 
+<img src="/images/Cover_Art_with_titles_and_names__12_.png" style="width:30%">
+<ul class="jekyllcodex_accordion">
+  <li>
+    <input id="a1" type="checkbox">
+    <label for="a1">Talking About Things</label>
+    <div>
+      <ol>
+        <li>
+					<a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"><span style="color:#CA2126;background-color:transparent">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</span></a>
+				</li>
+        <li>
+					<a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><span style="color:#CA2126;background-color:transparent">Definite and Indefinite Articles – A Letter of Complaint</span></a>
+				</li>
+        <li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><span style="color:#CA2126;background-color:transparent">Collective Nouns – At the Airport</span></a>
+				</li>
+				<li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Adjectives – The Advertisement</span></a>
+				</li>
+				<li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Pronouns – The Accident</span></a>
+				</li>
+      </ol>
+    </div>
+  </li>
+</ul>
 
 
 ##### Talking About Things     
