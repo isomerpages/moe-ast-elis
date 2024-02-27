@@ -61,4 +61,15 @@ sections:
       url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2024.jpg
       alt: Image alt text
+  - infopic:
+      title: 58th RELC International Conference
+      subtitle: Add an image and text
+      id: infopic
+      description: The 58th RELC International Conference seeks to provide new
+        insights and the latest research in language learning, teaching and
+        assessment for Education 5.0.
+      button: Register now!
+      url: https://tinyurl.com/RELC58
+      image: /images/RELC_Conference_ELIS_landscape_2.jpg
+      alt: Image alt text
 ---
