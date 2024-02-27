@@ -6,7 +6,8 @@ description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
 <p>Learn how the teachers benefitted from their Classroom Inquiry SIG Experiences.</p>
-<h4>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</h4>
+<p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</strong>
+</p>
 <table>
 <tbody>
 <tr>
@@ -43,7 +44,8 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<h4>Experiences of Temasek Secondary School Teachers</h4>
+<p><strong>Experiences of Temasek Secondary School Teachers</strong>
+</p>
 <p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course
 in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
 joined the SIG to gain support from ELIS for the classroom inquiry project
@@ -53,9 +55,8 @@ were working on.</p>
 the use of the STAR revision strategy (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd, <strong>R</strong>earrange) for peer feedback
 to support the revision of writing.</p>
-<p><strong>Temasek Secondary School teachers’ reflection on their learning</strong>
+<p><strong><em>Temasek</em> <em>Secondary School teachers’ reflection on their</em> <em>learning</em></strong>
 </p>
-<p></p>
 <table>
 <tbody>
 <tr>
