@@ -52,16 +52,6 @@ sections:
       image: /images/resources poster for elis website.png
       alt: Image alt text
   - infopic:
-      title: Inspiring Teacher of English Award 2024
-      id: infopic
-      description: The Inspiring Teacher of English Award recognises teachers who have
-        been key in igniting a passion for English and are effective in teaching
-        good communication.
-      button: Nominate your English teacher today!
-      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2024.jpg
-      alt: Image alt text
-  - infopic:
       title: 58th RELC International Conference
       subtitle: Add an image and text
       id: infopic
@@ -71,5 +61,15 @@ sections:
       button: Register now!
       url: https://tinyurl.com/RELC58
       image: /images/RELC_Conference_ELIS_landscape_2.jpg
+      alt: Image alt text
+  - infopic:
+      title: Inspiring Teacher of English Award 2024
+      id: infopic
+      description: The Inspiring Teacher of English Award recognises teachers who have
+        been key in igniting a passion for English and are effective in teaching
+        good communication.
+      button: Nominate your English teacher today!
+      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
+      image: /images/ITEA_2024.jpg
       alt: Image alt text
 ---
