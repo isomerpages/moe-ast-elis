@@ -18,19 +18,14 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
 Talking About Things</h4></label>
     <div><p> </p></div></li><li>
 					<a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"><span style="color:#CA2126;background-color:transparent">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</span></a>
-				</li>
-        <li>
+        </li><li>
 					<a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><span style="color:#CA2126;background-color:transparent">Definite and Indefinite Articles – A Letter of Complaint</span></a>
-				</li>
-        <li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><span style="color:#CA2126;background-color:transparent">Collective Nouns – At the Airport</span></a>
-				</li>
-				<li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Adjectives – The Advertisement</span></a>
-				</li>
-				<li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Pronouns – The Accident</span></a>
-				</li>
+        </li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><span style="color:#CA2126;background-color:transparent">Collective Nouns – At the Airport</span></a>
+				</li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Adjectives – The Advertisement</span></a>
+				</li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Pronouns – The Accident</span></a>
       
     
-  
+  </li>
 </ul>
 
 <img src="/images/Cover_Art_with_titles_and_names__13_.png" style="width:30%">
