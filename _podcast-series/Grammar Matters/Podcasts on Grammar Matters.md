@@ -16,37 +16,14 @@ Listen to our Grammar Matters podcast series, which aims to create more awarenes
     <label for="accordion1"><h4>   
 
 Talking About Things</h4></label>
-    <div><p> </p></div></li><li>
-					<a href="/elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/"><span style="color:#CA2126;background-color:transparent">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</span></a><p></p>
-			<p><a href="/elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/"><span style="color:#CA2126;background-color:transparent">Definite and Indefinite Articles – A Letter of Complaint</span></a>
-        </p></li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><span style="color:#CA2126;background-color:transparent">Collective Nouns – At the Airport</span></a>
-				</li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Adjectives – The Advertisement</span></a><p></p>
-			<p><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Pronouns – The Accident</span></a>
-
-	</p></li>  
-	<li>
-
-<img src="/images/Cover_Art_with_titles_and_names__13_.png" style="width:30%">
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input id="a1" type="checkbox">
-    <label for="a1">Talking About Actions</label>
-    <div>
-      <ol>
-        <li>
-					<a href="/elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/"><span style="color:#CA2126;background-color:transparent">Transitive and Intransitive Verbs – The Cruise</span></a>
-				</li>
-        <li>
-					<a href="/elis/resources/listen/podcast-series/grammar-matters/active-and-stative-verbs-the-voicemail/"><span style="color:#CA2126;background-color:transparent">Active and Stative Verbs – The Voicemail</span></a>
-				</li>
-        <li><a href="/elis/resources/listen/podcast-series/grammar-matters/verbs-with-prepositions-the-email/"><span style="color:#CA2126;background-color:transparent">Verbs with Prepositions – The Email</span></a>
-				</li>
-      </ol>
+    <div><p><a href="elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket">Singular and Plural: Countable and Uncountable Nouns – At the Supermarket</a></p>
+			<p><a href="elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint"> Definite and Indefinite Articles – A Letter of Complaint</a></p>
+			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport">Collective Nouns – At the Airport</a></p>
+			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Adjectives – The Advertisement</a></p>
+			<p><a href="elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement">Pronouns – The Accident</a></p>
     </div>
-  </li>
-</ul>
-
-
+	</li>  
+	<li>
 
 ##### Talking About Things     
 <center>
