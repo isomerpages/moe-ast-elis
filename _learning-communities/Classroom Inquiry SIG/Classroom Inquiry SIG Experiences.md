@@ -54,9 +54,7 @@ were working on.</p>
 <p>Dr Rachel Goh worked with Ms Idriaty and her PLC as they inquired into
 the use of the STAR revision strategy (<strong>S</strong>ubstitute, <strong>T</strong>ake
 things out, <strong>A</strong>dd, <strong>R</strong>earrange) for peer feedback
-to support the revision of writing.</p>
-<p><strong><em>Temasek</em> <em>Secondary School teachers’ reflection on their</em> <em>learning</em></strong>
-</p>
+to support the revision of writin</p>
 <table>
 <tbody>
 <tr>
@@ -79,7 +77,7 @@ to support the revision of writing.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Temasek Secondary School teachers' reflection on their learning</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/Temasek_Sec_Reflections.png">
 </div>
