@@ -23,10 +23,9 @@ Talking About Things</h4></label>
         </li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/collective-nouns-at-the-airport/"><span style="color:#CA2126;background-color:transparent">Collective Nouns – At the Airport</span></a>
 				</li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Adjectives – The Advertisement</span></a>
 				</li><li><a href="/elis/resources/listen/podcast-series-on-grammar-matters/adjectives-the-advertisement/"><span style="color:#CA2126;background-color:transparent">Pronouns – The Accident</span></a>
-      
-    
-  </li>
-</ul>
+
+	</li>  
+	<li>
 
 <img src="/images/Cover_Art_with_titles_and_names__13_.png" style="width:30%">
 <ul class="jekyllcodex_accordion">
@@ -157,4 +156,4 @@ Talking About Things</h4></label>
 <img src="/images/68.png" style="width:30%">
 <b>Giving Commands and Instructions – Ai Ling and First Aid</b>
 </a>
-	</center>
+	</center></li></ul>
