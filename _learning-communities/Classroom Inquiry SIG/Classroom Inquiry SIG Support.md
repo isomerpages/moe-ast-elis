@@ -6,8 +6,18 @@ description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
 <p></p>
+<p>Members of the Classroom Inquiry SIG can look forward to the following
+support:</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG Support" src="/images/SIG/CI_SIG_Support.png">
+<img style="width: 100%" height="auto" width="100%" alt="Calendar of Support" src="/images/SIG/Calendar_of_Support_2.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
