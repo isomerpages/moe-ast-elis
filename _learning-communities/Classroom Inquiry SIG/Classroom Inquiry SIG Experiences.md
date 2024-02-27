@@ -78,7 +78,7 @@ to support the revision of writing.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec Sch" src="/images/SIG/Temasek_Sec_Teachers__Reflections.png">
+<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/Temasek_Sec_Reflections.png">
 </div>
 </td>
 </tr>
