@@ -1,78 +1,51 @@
 ---
 title: Management Team
 permalink: /elis/about-us/team-members/management-team/
+variant: tiptap
 description: ""
 third_nav_title: Management Team
-variant: markdown
 ---
 <p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_27_at_4_03_00_PM.png">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Phyllis__1_.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_02_27_at_4_03_00_PM.png">
 </div>
 <p></p>
-<p><strong>Ms Phyllis Chua</strong> 
-<br>Academy Principal, ELIS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/ms-phyllis-chua/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Phyllis Chua" src="/images/Screenshot_2024_02_28_at_2_27_23_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Phyllis Chua</div><div class="isomer-card-description">Academy Principal, ELIS</div><div class="isomer-card-link">About Phyllis</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/dr-tay-may-yin/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Tay May Yin" src="/images/Screenshot_2024_02_28_at_2_28_21_PM.png">
 </div>
-<p><strong>Dr Tay May Yin</strong> 
-<br>Principal Master Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Tay May Yin</div>
+<div class="isomer-card-description">Principal Master Teacher</div>
+<div class="isomer-card-link">About May Yin</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/mr-cedric-leong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Cedric Leong" src="/images/Screenshot_2024_02_28_at_2_29_08_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Cedric Leong</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About Cedric</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/management-team/dr-audrey-koh/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Cedric_Use%20for%20website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Audrey Koh" src="/images/Screenshot_2024_02_28_at_2_29_46_PM.png">
 </div>
-<p><strong>Mr Cedric Leong</strong> 
-<br>Principal Master Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Audrey Koh</div>
+<div class="isomer-card-description">Deputy Director (Pedagogy)</div>
+<div class="isomer-card-link">About Audrey</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/dr-jeanne-ho/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Jeanne Ho" src="/images/Screenshot_2024_02_28_at_2_30_31_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Jeanne Ho Pau Yuen</div><div class="isomer-card-description">Deputy Director (Special Projects)</div><div class="isomer-card-link">About Jeanne</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/dr-paul-grahame-doyle/" class="isomer-card">
+<div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Audrey.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Paul Grahame Doyle" src="/images/Screenshot_2024_02_28_at_2_31_14_PM.png">
 </div>
-<p><strong>Dr Audrey Koh</strong> 
-<br>Deputy Director, Pedagogy</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/elis_photoshoot_paul.png">
 </div>
-<p><strong>Dr Paul Grahame Doyle</strong> 
-<br>Deputy Director, Research</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" src="/images/Team%20Members/Jeanne__Use%20for%20website.jpg">
+<div class="isomer-card-body">
+<div class="isomer-card-title">Dr Paul Grahame Doyle</div>
+<div class="isomer-card-description">Deputy Director (Research)</div>
+<div class="isomer-card-link">About Paul</div>
 </div>
-<p><strong>Dr Jeanne Ho Pau Yuen</strong> 
-<br>Deputy Director,</p>
-<p>Special Projects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
+</a>
+</div>
 <p></p>
