@@ -42,10 +42,10 @@ Talking About Actions</h4></label>
 <img src="/images/75.png" style="width:30%">
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion1">
-    <label for="accordion1"><h4>   
+    <input type="checkbox" id="accordion3">
+    <label for="accordion3"><h4>   
 
-Talking About Time and Plce</h4></label>
+Talking About Time and Place</h4></label>
     <div><p><a href="/elis/resources/listen/podcast-series/grammar-matters/verb-forms-lunar-new-year/">Verb Forms – The Lunar New Year Celebrations</a></p>
 			<p><a href="/elis/resources/listen/podcast-series/grammar-matters/subject-verb-agreement-the-interview/"> Subject-Verb Agreement – The Interview</a></p>
 			<p><a href="/elis/resources/listen/podcast-series/grammar-matters/tenses-remembering-weddings/">Tenses – Remembering Weddings</a></p>
@@ -57,8 +57,8 @@ Talking About Time and Plce</h4></label>
 <img src="/images/76.png" style="width:30%">
 <ul class="jekyllcodex_accordion">
   <li>
-    <input type="checkbox" id="accordion2">
-    <label for="accordion2"><h4>   
+    <input type="checkbox" id="accordion4">
+    <label for="accordion4"><h4>   
 
 Talking With Others</h4></label>
     <div><p><a href="/elis/resources/listen/podcast-series/grammar-matters/modal-verbs-contacting-mr-tan/">Modal Verbs – Contacting Mr Tan</a></p>
