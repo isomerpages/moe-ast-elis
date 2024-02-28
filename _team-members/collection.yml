@@ -2,6 +2,7 @@ collections:
   team-members:
     output: true
     order:
+      - Management Team (New).md
       - Management Team/.keep
       - Management Team/Management Team.md
       - Management Team/Ms Phyllis Chua.md
