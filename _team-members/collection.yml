@@ -2,14 +2,14 @@ collections:
   team-members:
     output: true
     order:
-      - Management Team/Management Team.md
       - Management Team/.keep
+      - Management Team/Management Team.md
       - Management Team/Ms Phyllis Chua.md
       - Management Team/Dr Tay May Yin.md
       - Management Team/Mr Cedric Leong.md
       - Management Team/Dr Audrey Koh.md
-      - Management Team/Dr Paul Grahame Doyle.md
       - Management Team/Dr Jeanne Ho Pau Yuen.md
+      - Management Team/Dr Paul Grahame Doyle.md
       - EL Pedagogy Team/.keep
       - EL Pedagogy Team/EL Pedagogy Team.md
       - EL Pedagogy Team/Dr Tay May Yin.md
