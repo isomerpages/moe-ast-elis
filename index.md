@@ -43,6 +43,16 @@ sections:
       image: /images/ELIS_e_Digest_6_040123_page_0001.jpg
       alt: e-Digest
   - infopic:
+      title: 58th RELC International Conference
+      id: infopic
+      description: The 58th RELC International Conference seeks to provide new
+        insights and the latest research in language learning, teaching and
+        assessment for Education 5.0.
+      button: Register now!
+      url: https://tinyurl.com/RELC58
+      image: /images/RELC_Conference_ELIS_landscape_2.jpg
+      alt: RELC 2024
+  - infopic:
       title: Professional Learning Resources
       description: Access our on-the-go learning resources to cultivate your
         pedagogical expertise in the teaching, learning and use of the English
