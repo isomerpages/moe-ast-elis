@@ -26,9 +26,7 @@ Talking About Things</h4></label>
 	<li>
 		
 <img src="/images/Cover_Art_with_titles_and_names__13_.png" style="width:30%">
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion2">
+<input type="checkbox" id="accordion2">
     <label for="accordion2"><h4>   
 
 Talking About Actions</h4></label>
@@ -40,9 +38,7 @@ Talking About Actions</h4></label>
 	<li>
 
 <img src="/images/75.png" style="width:30%">
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion3">
+<input type="checkbox" id="accordion3">
     <label for="accordion3"><h4>   
 
 Talking About Time and Place</h4></label>
@@ -55,9 +51,7 @@ Talking About Time and Place</h4></label>
 	<li>
 		
 <img src="/images/76.png" style="width:30%">
-<ul class="jekyllcodex_accordion">
-  <li>
-    <input type="checkbox" id="accordion4">
+<input type="checkbox" id="accordion4">
     <label for="accordion4"><h4>   
 
 Talking With Others</h4></label>
@@ -65,4 +59,4 @@ Talking With Others</h4></label>
 			<p><a href="/elis/resources/listen/podcast-series/grammar-matters/formation-of-questions-and-answers-interview/">Formation of Questions and Answers – Arranging an Interview</a></p>
 			<p><a href="/elis/resources/listen/podcast-series/grammar-matters/giving-commands-and-instructions/">Giving Commands and Instructions – Ai Ling and First Aid</a></p>
     </div>
-	</li> </ul></li></ul></li></ul></li></ul>
+	</li> </ul>
