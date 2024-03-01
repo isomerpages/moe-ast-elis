@@ -22,7 +22,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Principal Master Teacher</div>
 <div class="isomer-card-link">About Cedric</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey" src="/images/audrey (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Audrey Koh</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">About Audrey</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey" src="/images/audrey (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Audrey Koh</div><div class="isomer-card-description">Deputy Director (Pedagogy) </div><div class="isomer-card-link">About Audrey</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-charles-peters/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
