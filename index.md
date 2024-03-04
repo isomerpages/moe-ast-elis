@@ -73,7 +73,7 @@ sections:
       alt: Image alt text
   - infobar:
       id: infobar
-      button: Instagram
+      button: Follow us
       url: https://www.instagram.com/elis.moe/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
@@ -81,4 +81,5 @@ sections:
         data-instgrm-permalink="https://www.instagram.com/elis.moe/"
         data-instgrm-version="14"></blockquote></center><font
         color="ffffff"></font>
+      title: Instagram
 ---
