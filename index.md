@@ -72,9 +72,8 @@ sections:
       image: /images/ITEA_2024.jpg
       alt: Image alt text
   - infobar:
-      title: Instagram
       id: infobar
-      button: Follow us
+      button: Instagram
       url: https://www.instagram.com/elis.moe/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
