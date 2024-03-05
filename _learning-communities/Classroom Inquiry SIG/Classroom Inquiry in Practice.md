@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
-<p>Learn how the teachers benefitted from their Classroom Inquiry SIG Experiences.</p>
+<p></p>
 <p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</strong>
 </p>
 <table>
@@ -44,7 +44,7 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<p><strong>Experiences of Temasek Secondary School Teachers</strong>
+<p><strong>Classroom Inquiry of Temasek Secondary School Teachers</strong>
 </p>
 <p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course
 in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
