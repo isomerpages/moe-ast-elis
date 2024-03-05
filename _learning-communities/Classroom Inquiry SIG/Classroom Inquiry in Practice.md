@@ -31,7 +31,7 @@ third_nav_title: Classroom Inquiry SIG
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/3a.png">
+<img style="width: 100%" height="auto" width="100%" alt="Temasek Secondary School" src="/images/SIG/Celebrating_Learning_2023.png">
 </div>
 <p></p>
 </td>
