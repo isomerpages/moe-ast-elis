@@ -3,9 +3,9 @@ title: Definite and Indefinite Articles – A Letter of Complaint
 permalink: /elis/resources/listen/definite-and-indefinite-articles-a-letter-of-complaint/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/27.png" 
-     style="width:50%">
+<img src="/images/27.png" style="width:30%">
 		 
 <a href="https://open.spotify.com/episode/2ewTRkFpO3Bh3nm0Sgy6HF">Click here to listen to the podcast</a>
 

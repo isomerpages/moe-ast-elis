@@ -3,8 +3,9 @@ title: Tenses – Remembering Weddings
 permalink: /elis/resources/listen/podcast-series/grammar-matters/tenses-remembering-weddings/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/gm%2013%20tenses.png" style="width:50%">
+<img src="/images/gm%2013%20tenses.png" style="width:30%">
 
 		 
 <a href="https://open.spotify.com/episode/1E8Ew6E5AwDv6nIGY82lip?si=0da4b5b705644ebf">Click here to listen to the podcast</a>

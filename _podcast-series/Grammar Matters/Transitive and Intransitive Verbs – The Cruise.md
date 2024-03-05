@@ -3,8 +3,9 @@ title: Transitive and Intransitive Verbs – The Cruise
 permalink: /elis/resources/listen/podcast-series-on-grammar-matters/transitive-and-intransitive-verbs/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/cover-art-with-titles-and-names-2.png" style="width:50%">
+<img src="/images/cover-art-with-titles-and-names-2.png" style="width:30%">
 
 [Click here to listen to the podcast](https://open.spotify.com/episode/6bTPJTaSRem6GNQNjM0FcS?go=1&amp;sp_cid=fb89c5c9cad1419ddb84b19369d51b8f&amp;utm_source=embed_player_p&amp;utm_medium=desktop&amp;nd=1) 
 

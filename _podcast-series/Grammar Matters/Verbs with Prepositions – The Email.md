@@ -3,8 +3,9 @@ title: Verbs with Prepositions – The Email
 permalink: /elis/resources/listen/podcast-series/grammar-matters/verbs-with-prepositions-the-email/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/grammar%20matters%208.png" style="width:50%">
+<img src="/images/grammar%20matters%208.png" style="width:30%">
 
 		 
 <a href="https://open.spotify.com/episode/6olzQkbCVA8BeVqjdmdvtD?si=e9a22405ed454dd7">Click here to listen to the podcast</a>

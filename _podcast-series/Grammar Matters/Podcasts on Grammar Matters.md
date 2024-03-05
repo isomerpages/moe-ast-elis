@@ -9,7 +9,7 @@ variant: markdown
 		 
 Listen to our Grammar Matters podcast series, which aims to create more awareness of areas of English language use in Singapore that differ from standard English.
 
-<img src="/images/Cover_Art_with_titles_and_names__12_.png" style="width:30%">
+
 <ul class="jekyllcodex_accordion">
   <li>
     <input type="checkbox" id="accordion1">
@@ -24,8 +24,6 @@ Talking About Things</h4></label>
     </div>
 	</li>  
 	<li>
-		
-<img src="/images/Cover_Art_with_titles_and_names__13_.png" style="width:30%">
 <input type="checkbox" id="accordion2">
     <label for="accordion2"><h4>   
 
@@ -36,8 +34,6 @@ Talking About Actions</h4></label>
     </div>
 	</li>  
 	<li>
-
-<img src="/images/75.png" style="width:30%">
 <input type="checkbox" id="accordion3">
     <label for="accordion3"><h4>   
 
@@ -49,8 +45,6 @@ Talking About Time and Place</h4></label>
     </div>
 	</li>  
 	<li>
-		
-<img src="/images/76.png" style="width:30%">
 <input type="checkbox" id="accordion4">
     <label for="accordion4"><h4>   
 
