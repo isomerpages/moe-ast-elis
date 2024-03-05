@@ -97,7 +97,10 @@ hear teachers’ personal accounts of conducting classroom inquiry.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/11.png"></a>
+<p></p>
+</td>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/11.png"></a>
+<p></p>
 </td>
 </tr>
 </tbody>
