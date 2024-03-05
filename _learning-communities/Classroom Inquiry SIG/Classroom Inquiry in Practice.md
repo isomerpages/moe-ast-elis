@@ -93,10 +93,7 @@ to support the revision of writing.</p>
 <p>Listen to <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank"><u>podcast episodes</u></a> to
 hear teachers’ personal accounts of conducting classroom inquiry.</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/SIG/Classroom_Inquiry_Podcast.png">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/SIG/Classroom_Inquiry_Podcast_Resized.png"></a>
 </td>
 </tr>
 </tbody>
