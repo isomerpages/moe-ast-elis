@@ -85,5 +85,5 @@ to support the revision of writing.</p>
 </tr>
 </tbody>
 </table>
-<p>Listen to these <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> for
-more teachers’ personal accounts of conducting classroom inquiry.</p>
+<p>Listen to <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank">Podcast episodes</a> to
+hear teachers’ personal accounts of conducting classroom inquiry.</p>
