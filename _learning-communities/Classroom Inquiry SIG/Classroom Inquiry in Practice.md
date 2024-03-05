@@ -96,6 +96,12 @@ hear teachers’ personal accounts of conducting classroom inquiry.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/11.png">
+</div>
+</td>
 </tr>
 </tbody>
 </table>
