@@ -71,4 +71,15 @@ sections:
       url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2024.jpg
       alt: Image alt text
+  - infobar:
+      id: infobar
+      button: Follow us
+      url: https://www.instagram.com/elis.moe/"><center><script async=""
+        src="//www.instagram.com/embed.js"></script><blockquote
+        style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
+        - 2px)" class="instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
+        data-instgrm-version="14"></blockquote></center><font
+        color="ffffff"></font>
+      title: Instagram
 ---

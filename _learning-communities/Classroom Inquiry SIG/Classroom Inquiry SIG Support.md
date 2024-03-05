@@ -6,8 +6,7 @@ description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
 <p></p>
-<p>Members of the Classroom Inquiry SIG can look forward to the following
-support:</p>
+<p>Members of the SIG will get our support throughout the inquiry process:</p>
 <table>
 <tbody>
 <tr>
