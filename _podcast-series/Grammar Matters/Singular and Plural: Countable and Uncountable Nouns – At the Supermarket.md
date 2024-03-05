@@ -3,9 +3,9 @@ title: "Singular and Plural: Countable and Uncountable Nouns – At the Supermar
 permalink: /elis/resources/listen/singular-and-plural-countable-and-uncountable-nouns-at-the-supermarket/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/gm-episode-1.png" 
-     style="width:50%">
+<img src="/images/gm-episode-1.png" style="width:30%">
 		 
 <a href="https://open.spotify.com/episode/5THeWR0b5EvEMvmysmgf7b">Click here to listen to the podcast</a>
 
