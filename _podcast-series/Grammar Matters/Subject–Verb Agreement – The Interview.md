@@ -3,8 +3,9 @@ title: Subject–Verb Agreement – The Interview
 permalink: /elis/resources/listen/podcast-series/grammar-matters/subject-verb-agreement-the-interview/
 description: ""
 third_nav_title: Grammar Matters
+variant: markdown
 ---
-<img src="/images/grammar%20matters%2010.png" style="width:50%">
+<img src="/images/grammar%20matters%2010.png" style="width:30%">
 
 		 
 <a href="https://open.spotify.com/episode/5R1QkMf2w83rJim2OaetTP?si=ee47afc57d594826">Click here to listen to the podcast</a>
