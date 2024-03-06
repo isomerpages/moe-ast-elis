@@ -12,7 +12,9 @@ in leading their teachers in engaging with the inquiry process.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Process" src="/images/Learning Communities/classroom inquiry process.png">
+</div>
 </td>
 </tr>
 </tbody>
@@ -26,8 +28,9 @@ their school-wide Professional Learning Session. In partnership with Ms
 Angeline Ho, Assistant Director/Lead Specialist/ELLB, Rachel supports the
 EL department, guiding teachers who are inquiring into improving their
 assessment feedback practices.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Canberra Secondary School" src="/images/Canberra_Sec.png">
+<img style="width: 100%" height="auto" width="100%" alt="Canberra Secondary School" src="/images/Learning Communities/canberra sec.png">
 </div>
 <p>To find out more about Classroom Inquiry@School, contact Dr Rachel Goh
 at <a href="mailto:rachel_goh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_goh@moe.gov.sg</a>
