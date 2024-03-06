@@ -13,16 +13,10 @@ another and collectively build knowledge and expertise.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Learning Communities@School/Cluster/Zone" src="/images/Learning Communities/Learning_Communities_at_School_Cluster_Zone.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/learning-communities/school-cluster-zone"><img style="width: 100%" height="auto" width="100%" alt="Learning Communities@School/Cluster/Zone" src="/images/Learning Communities/Learning_Communities_at_School_Cluster_Zone.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Literature Subject Chapter" src="/images/Learning Communities/Literature_Subject_Chapter.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/learning-communities/literature-subject-chapter"><img style="width: 100%" height="auto" width="100%" alt="Literature Subject Chapter" src="/images/Learning Communities/Literature_Subject_Chapter.png"></a>
 </td>
 </tr>
 </tbody>
