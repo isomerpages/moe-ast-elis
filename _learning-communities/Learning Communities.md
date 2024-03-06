@@ -25,7 +25,7 @@ another and collectively build knowledge and expertise.</p>
 <li>
 <p><strong><a href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/" rel="noopener noreferrer nofollow" target="_blank"><u>Classroom Inquiry Special Interest Group (SIG)</u></a></strong>
 </p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <p></p>
