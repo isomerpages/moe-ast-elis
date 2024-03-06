@@ -34,30 +34,9 @@ another and collectively build knowledge and expertise.</p>
 <p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/learning-communities/swi-alumni/"><img style="width: 100%" height="auto" width="100%" alt="Singapore Writing Institute" src="/images/Learning Communities/SWI.png"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG" src="/images/Learning Communities/Classroom_Inquiry_SIG.png">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG" src="/images/Learning Communities/Classroom_Inquiry_SIG.png"></a>
 </td>
 </tr>
 </tbody>
 </table>
-<ul data-tight="true" class="tight">
-<li>
-<p><strong>Learning Communities@School/Cluster/Zone</strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://elis.moe.edu.sg/elis/learning-communities/swi-alumni/" rel="noopener noreferrer nofollow" target="_blank"><u>Singapore Writing Institute (SWI)</u></a></strong>
-</p>
-</li>
-<li>
-<p><strong>Literature Subject Chapter</strong>
-</p>
-</li>
-<li>
-<p><strong><a href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/" rel="noopener noreferrer nofollow" target="_blank"><u>Classroom Inquiry Special Interest Group (SIG)</u></a></strong>
-</p>
-</li>
-</ul>
 <p></p>
