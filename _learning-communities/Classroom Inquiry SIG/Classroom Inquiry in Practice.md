@@ -92,10 +92,10 @@ to support the revision of writing.</p>
 hear teachers’ personal accounts of conducting classroom inquiry.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/SIG/Classroom_Inquiry_Podcast_Resized_Final.png">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/CI_Podcast.png">
 </div>
+<p></p>
 </td>
 </tr>
 </tbody>
