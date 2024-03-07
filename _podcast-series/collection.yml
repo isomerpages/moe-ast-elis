@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Teaching Learning & Assessment/Inquiry Through Dialogue in Teaching
+        Oracy.md
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
