@@ -55,9 +55,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/podcast-series/grammar-matters/giving-commands-and-instructions/">
-<img src="/images/68.png" style="width:30%">
-<b>Giving Commands and Instructions – Ai Ling and First Aid</b>
+<a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/">
+<img src="/images/Cover_Art_with_titles_and_names__14_.png" style="width:30%">
+<b>Inquiry Through Dialogue in Teaching Oracy</b>
 </a>
 	</center>
 
