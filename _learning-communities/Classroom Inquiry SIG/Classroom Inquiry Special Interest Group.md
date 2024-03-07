@@ -34,5 +34,6 @@ Space in <a href="https://www.opal2.moe.edu.sg/csl/content/perma?id=553879" rel=
 <p>They can network, download resources, attend events and seek advice from
 the learning community.</p>
 <p>If you would like to be part of the ELIS Classroom Inquiry SIG, contact
-Dr Rachel Goh at rachel_goh@moe.gov.sg</p>
+Dr Rachel Goh at <a href="mailto:rachel_goh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_goh@moe.gov.sg</a> 
+</p>
 <p></p>

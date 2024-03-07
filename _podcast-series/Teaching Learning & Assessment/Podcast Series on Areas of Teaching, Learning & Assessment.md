@@ -45,6 +45,12 @@ Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Th
 </b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-reading-and-viewing/">
 </a>
 
+<p><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/">
+<img src="/images/Cover_Art_with_titles_and_names__14_.png" style="width:40%">
+</a></p><center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/"><b>Inquiry Through Dialogue in Teaching Oracy
+</b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/">
+</a>
+
 
 
 ### Metacognition
