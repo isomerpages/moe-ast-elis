@@ -6,7 +6,14 @@ description: ""
 third_nav_title: REC Team
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Research and Effective Communication Team" src="/images/Team Members/Research_and_Effective_Communication_Team.png">
+<img style="width: 100%" height="auto" width="100%" alt="Research and Effective Communication Team" src="/images/Team Members/Research_and_Effective_Communication_Team_For_Website.png">
+</div>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-body">
+<div class="isomer-card-link"></div>
+</div>
+</div>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Paul" src="/images/paul (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Paul Grahame Doyle</div><div class="isomer-card-description">Deputy Director (Research)</div><div class="isomer-card-link">About Paul</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-jeanne-ho/" class="isomer-card">
