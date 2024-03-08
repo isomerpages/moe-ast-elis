@@ -5,9 +5,18 @@ variant: tiptap
 description: ""
 third_nav_title: Research & Communication Team
 ---
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Research and Effective Communication Team" src="/images/Team Members/REC_Team.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-paul-grahame-doyle/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Paul" src="/images/paul (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Paul Grahame Doyle</div><div class="isomer-card-description">Deputy Director (Research)</div><div class="isomer-card-link">About Paul</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-jeanne-ho/" class="isomer-card">
 <div class="isomer-card-image">
