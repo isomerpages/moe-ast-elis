@@ -3,8 +3,9 @@ title: Exploring Fluency in Oral Communication (Part 2)
 permalink: /elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2/
 description: ""
 third_nav_title: Classroom Inquiry
+variant: markdown
 ---
-<img src="/images/ci-2.png" style="width:50%">
+<img src="/images/35.png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/0NdR5rPTs2awhTZe6H47Ip">Click here to listen to the podcast</a>
 
