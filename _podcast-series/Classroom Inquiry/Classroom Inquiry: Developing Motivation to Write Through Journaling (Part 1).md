@@ -3,8 +3,9 @@ title: "Classroom Inquiry: Developing Motivation to Write Through Journaling (Pa
 permalink: /elis/resources/listen/developing-motivation-to-write-through-journaling-part-1/
 description: ""
 third_nav_title: Classroom Inquiry
+variant: markdown
 ---
-<img src="/images/adeline-1.png" style="width:50%">
+<img src="/images/28.png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/6edaNvdQA170retrcpwTqd">Click here to listen to the podcast</a>
 
