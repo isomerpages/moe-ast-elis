@@ -3,6 +3,7 @@ title: Podcast Series on Classroom Inquiry
 permalink: /elis/resources/listen/classroom-inquiry-podcasts/
 description: ""
 third_nav_title: Classroom Inquiry
+variant: markdown
 ---
 <img style="width:40%" src="/images/11.png">
 
@@ -13,7 +14,7 @@ Listen to teachers' personal accounts of conducting classroom inquiry in these p
 Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodcastseries](http://go.gov.sg/classroominquirypodcastseries)
 
 <p><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1">
-<img style="width:40%" src="/images/adeline-1.png">
+<img style="width:40%" src="/images/28.png">
 </a></p><center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1"><b>Developing Motivation to Write Through Journaling (Part 1)</b></a></center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1">
 </a>
 
@@ -38,13 +39,13 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodca
 </a>
 
 <p><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-1">
-<img style="width:40%" src="/images/ci-1.png">
+<img style="width:40%" src="/images/34.png">
 </a></p><center><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-1"><b>Exploring Fluency in Oral Communication (Part 1)
 </b></a></center><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-1">
 </a>
 
 <p><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2">
-<img style="width:40%" src="/images/ci-2.png">
+<img style="width:40%" src="/images/35.png">
 </a></p><center><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2"><b>Exploring Fluency in Oral Communication (Part 2)
 </b></a></center><a href="/elis/resources/listen/classroom-inquiry-podcasts/exploring-fluency-in-oral-communication-part-2">
 </a>
