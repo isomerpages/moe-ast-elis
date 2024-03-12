@@ -107,9 +107,9 @@ CLLIPS and ACoLADE</h4></label>
     <input type="checkbox" id="accordion3">
     <label for="accordion3"><h4>Differentiated Instruction</h4></label>
     <div>
-      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/583d5b64-b4f2-4081-82ae-5a6f00e3ddf">What is Differentiated Instruction and Why does it Matter?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/27d1d8ec-7991-45e9-89b4-3679fce6a7c7">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4496366c-488f-4adb-80e8-8b084bfb3b0e">What is Differentiated Instruction and Why does It Matter?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/50bba52d-6aa7-4b06-a93a-a1471905419c">How Important are Ongoing Assessment and Flexible Grouping in Differentiated Instruction?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c47806b1-8f0d-4c40-948b-da595fdcd5d7">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b30f27c2-aab2-4de5-9b52-06781597777b">How does Differentiated Instruction Work in a Large EL Class? –Determining Lesson Objectives</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/4fd2abdd-e1f7-4cd3-bc31-5d169be74fa6">How does Differentiated Instruction Work in a Large EL Class? –Selecting and Adapting Lesson Resources
 </a></p>
@@ -152,7 +152,7 @@ CLLIPS and ACoLADE</h4></label>
     <input type="checkbox" id="accordion6">
     <label for="accordion6"><h4>Using Questions to Deepen Learning</h4></label>
     <div>
-      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/15d44d78-d4eb-40f0-949b-b7a5dfde88b2">What are Quality Questions?</a></p>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f69c9275-5f41-4f8f-9b7a-879f02ff921f">What are Quality Questions?</a></p>
 			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3d11cb05-2451-48a4-b2c0-2792946ac91f">How Can English Language Teachers Sequence Their Questions Effectively?</a></p>
     </div>
 	</li>  
@@ -160,9 +160,9 @@ CLLIPS and ACoLADE</h4></label>
     <input type="checkbox" id="accordion7">
     <label for="accordion7"><h4>Selecting and Adapting Texts</h4></label>
     <div>
-      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/54e968f7-6d1c-4be0-907c-d506fae4a150">How to Select Texts?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/77935d85-e1e5-4a55-b291-3554870a2a42">How to Adapt Texts?</a></p>
-			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b8b52e5-c137-4699-9b37-522fa75b97fe">Why Select and Adapt Texts?</a></p>
+      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/1352a063-e418-4322-ad9f-6610bc6b817b">How to Select Texts?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadf7c88-5381-4480-955d-efedf56dd0ff">How to Adapt Texts?</a></p>
+			      <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/990f945a-cc88-4f93-9531-ed7e66460594">Why Select and Adapt Texts?</a></p>
     </div>
 	</li>  
 			<li>
