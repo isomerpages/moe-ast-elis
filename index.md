@@ -13,16 +13,16 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
-        - title: New MLU
-          description: Encouraging Student Talk in the Classroom
+        - title: Classroom Inquiry Special Interest Group
+          description: ""
           linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/resources/view/
+          url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
         - title: Upcoming Programmes
           description: SkillsFuture for Educators (SFEd)
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
-          description: Giving Commands and Instructions
+          description: Inquiry Through Dialogue in Teaching Oracy
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
