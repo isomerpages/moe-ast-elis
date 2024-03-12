@@ -22,7 +22,7 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
-          description: Giving Commands and Instructions
+          description: Inquiry Through Dialogue in Teaching Oracy
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
