@@ -22,7 +22,9 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
-          description: Inquiry Through Dialogue in Teaching Oracy
+          description: |-
+            Coordinating Conjunctions –
+            Overseas and Overworked
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
