@@ -55,8 +55,8 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/podcast-series/grammar-matters/coordinating-conjunctions/">
-<img src="/images/Cover_Art_with_titles_and_names__15_.png" style="width:30%">
+<a href="/elis/resources/listen/subordinating-conjunctions/">
+<img src="/images/GM17.png" style="width:30%">
 <b>Coordinating Conjunctions – Overseas and Overworked</b>
 </a>
 	</center>
