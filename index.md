@@ -23,8 +23,8 @@ sections:
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
           description: |-
-            Coordinating Conjunctions –
-            Overseas and Overworked
+            Subordinating Conjunctions –
+            Going Abroad
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
