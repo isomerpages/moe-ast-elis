@@ -22,9 +22,9 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
-          description: |-
-            Subordinating Conjunctions –
-            Going Abroad
+          description: |
+            Use of Tenses When Linking Ideas and Clauses –
+            A Visit to Australia
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
