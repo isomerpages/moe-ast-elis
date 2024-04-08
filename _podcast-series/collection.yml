@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - Windows on Expertise/.keep
       - Teaching Learning & Assessment/.keep
       - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
         Learning & Assessment.md
