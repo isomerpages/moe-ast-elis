@@ -9,9 +9,10 @@ third_nav_title: Windows on Expertise
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/Winex.png">
 </div>
-<p>Listen to our Windows on Expertise podcast series which features knowledgeable
+<p>Listen to our Windows on Expertise podcast series, which features knowledgeable
 speakers who have classroom and research experience in literacy development
-as well as language teaching, learning and assessment.</p>
+as well as language teaching, learning and assessment. They offer perspectives that highlight the theory-practice nexus for key areas in EL teaching, learning and assessment.
+</p>
 <h4></h4>
 <p></p>
 <p><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
