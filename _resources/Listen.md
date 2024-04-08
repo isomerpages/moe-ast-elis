@@ -55,9 +55,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/use-of-tenses-when-linking-ideas-and-clauses/">
-<img src="/images/GM18.png" style="width:30%">
-<b>Use of Tenses When Linking Ideas and Clauses – A Visit to Australia</b>
+<a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
+<img src="/images/Winex_1.png" style="width:30%">
+<b>Building Multiliteracies in EL Classrooms (Episode 1)</b>
 </a>
 	</center>
 
@@ -105,6 +105,12 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 </a></p><center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/"><b>Developments in English Language Teaching and Learning in Singapore</b></a></center><a href="/elis/resources/listen/podcast-series-on-developments-in-english-language/">
 </a>
 </div>
+	<div>
+<p><a href="/elis/resources/listen/podcasts-on-windows-on-expertise/">
+<img src="/images/Winex.png" style="width:50%">
+</a></p><center><a href="/elis/resources/listen/podcasts-on-windows-on-expertise/"><b>Windows on Expertise</b></a></center><a href="/elis/resources/listen/podcasts-on-windows-on-expertise/">
+</a>
+	</div>
 </div>
 
 <style>
