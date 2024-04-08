@@ -10,15 +10,11 @@ third_nav_title: Windows on Expertise
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Winex_1.png">
 </div>
 <p></p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v2iefM_FOw0?si=ab--01B9_tOBDUQ7" height="315" width="560"></iframe>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/v2iefM_FOw0?si=ab--01B9_tOBDUQ7"></iframe>
+</div>
 <p><a href="https://open.spotify.com/episode/4H8SIcebwbsO3hL7XUUBl7?si=291c6c177d6c472b" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
-<p>The Windows on Expertise podcast series features knowledgeable speakers
-who have classroom and research experience in literacy development as well
-as language teaching, learning and assessment. They offer perspectives
-that highlight the theory-practice nexus for key areas in EL teaching,
-learning and assessment.</p>
-<p></p>
 <p>In this episode, we feature Victor Lim Fei, Associate Professor at the
 National Institute of Education, English Language and Literature Academic
 Group, and Grace Yang, Subject Head/Educational Support at Yio Chu Kang
