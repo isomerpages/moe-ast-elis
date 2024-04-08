@@ -22,9 +22,7 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
         - title: New Podcast
-          description: |
-            Use of Tenses When Linking Ideas and Clauses –
-            A Visit to Australia
+          description: Building Multiliteracies in EL Classrooms (Episode 1)
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
