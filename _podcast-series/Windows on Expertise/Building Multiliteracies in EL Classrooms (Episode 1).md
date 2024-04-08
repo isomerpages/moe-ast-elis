@@ -10,6 +10,7 @@ third_nav_title: Windows on Expertise
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Winex_1.png">
 </div>
 <p></p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/v2iefM_FOw0?si=ab--01B9_tOBDUQ7" height="315" width="560"></iframe>
 <p><a href="https://open.spotify.com/episode/4H8SIcebwbsO3hL7XUUBl7?si=291c6c177d6c472b" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
 <p>The Windows on Expertise podcast series features knowledgeable speakers
