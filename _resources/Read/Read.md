@@ -90,13 +90,6 @@ Deepen your understanding through our extensive library of e-publications on ped
 </a></p><center><a href="/elis/resources/read/subject-literacy-inquiry-digests/"><b>Subject Literacy Inquiry Digests</b></a></center><a href="/elis/resources/read/subject-literacy-inquiry-digests/">
 </a>
 		</div>
-
-<div>
-<p><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/">
-<img src="/images/monography.jpg" style="width:50%">
-</a></p><center><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/"><b>Monograph of EL Teaching and Learning</b></a></center><a href="/elis/resources/read/monograph-of-el-teaching-and-learning/">
-</a>
-	</div>
 		
 </div>
 	
