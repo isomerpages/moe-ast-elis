@@ -18,4 +18,3 @@ third_nav_title: Read
 </div>
 </div>
 <p></p>
-<p></p>
