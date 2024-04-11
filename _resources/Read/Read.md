@@ -26,7 +26,7 @@ on pedagogy, research, and classroom inquiry.</p>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/READ ICONS/e_Digest__Facebook_Post_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/READ ICONS/e_Digest__Facebook_Post___1_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -36,7 +36,7 @@ on pedagogy, research, and classroom inquiry.</p>
 </a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/classroom-inquiry-digests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EL Classroom Inquiry Digest" src="/images/READ ICONS/EL_Digest__Facebook_Post_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EL Classroom Inquiry Digest</div><div class="isomer-card-link">Read</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/classroom-inquiry-digests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EL Classroom Inquiry Digest" src="/images/READ ICONS/EL_Digest__Facebook_Post___2_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EL Classroom Inquiry Digest</div><div class="isomer-card-link">Read</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/subject-literacy-inquiry-digests/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -54,7 +54,7 @@ on pedagogy, research, and classroom inquiry.</p>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-research-fund-reports/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS Research Fund Reports" src="/images/READ ICONS/ERF_Reports_600x400.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ELIS Research Fund Reports" src="/images/READ ICONS/ERF_Reports__Facebook_Post_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
