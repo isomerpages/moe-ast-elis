@@ -45,17 +45,16 @@ third_nav_title: Classroom Inquiry SIG
 <p></p>
 <p><strong>Classroom Inquiry in Schools</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/learning-communities/classroom-inquiry-sig/classroom-inquiry-of-temasek-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Temasek Secondary School Teachers" src="/images/SIG/CI_SIG_Support_Rachel.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Temasek Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/learning-communities/classroom-inquiry-sig/classroom-inquiry-of-teachers-from-school-of-science-and-technology-singapore/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Teachers from School of Science and Technology, Singapore" src="/images/SIG/SST.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">This is a title for your card</div>
-<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-title">Classroom Inquiry of Teachers from School of Science and Technology, Singapore</div>
+<div class="isomer-card-link">Learn about their inquiry</div>
 </div>
 </a>
 </div>
