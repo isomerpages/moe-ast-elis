@@ -1,8 +1,9 @@
 ---
-title: Subject Literacy Inquiry Digests
+title: Subject Literacy Inquiry Digest
 permalink: /elis/resources/read/subject-literacy-inquiry-digests/
 description: ""
 third_nav_title: Read
+variant: tiptap
 ---
 ### Issue 5,2020
 
@@ -33,4 +34,3 @@ third_nav_title: Read
 
 <p><a href="https://go.gov.sg/subject-literacy-issue-1-2016">
 <img src="/images/issue%201.png" alt="Issue 1" style="width:70%"></a></p>
-

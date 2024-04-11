@@ -1,8 +1,9 @@
 ---
-title: Classroom Inquiry Digests
+title: EL Classroom Inquiry Digest
 permalink: /elis/resources/read/classroom-inquiry-digests/
 description: ""
 third_nav_title: Read
+variant: tiptap
 ---
 <div>
 

@@ -1,8 +1,9 @@
 ---
-title: Research Digests
+title: ELIS Research Digest
 permalink: /elis/resources/read/research-digests/
 description: ""
 third_nav_title: Read
+variant: tiptap
 ---
 <style>
 
