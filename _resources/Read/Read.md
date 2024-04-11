@@ -37,20 +37,20 @@ on pedagogy, research, and classroom inquiry.</p>
 </div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/classroom-inquiry-digests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="EL Classroom Inquiry Digest" src="/images/EL_Classroom_Inquiry.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">EL Classroom Inquiry Digest</div><div class="isomer-card-link">Read</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-digests/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/subject-literacy-inquiry-digests/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS Research Digest" src="/images/ELIS_Research_Digest.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Subject Literacy Inquiry Digest" src="/images/Subject_Literacy_Inquiry_Digest.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">ELIS Research Digest</div>
+<div class="isomer-card-title">Subject Literacy Inquiry Digest</div>
 <div class="isomer-card-link">Read</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/subject-literacy-inquiry-digests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Subject Literacy Inquiry Digest" src="/images/Subject_Literacy_Inquiry_Digest.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Subject Literacy Inquiry Digest</div><div class="isomer-card-link">Read</div></div></a>
+</a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Summaries" src="/images/Research_Summaries.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Summaries</div><div class="isomer-card-link">Read</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-digests/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ELIS Research Digest" src="/images/ELIS_Research_Digest.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ELIS Research Digest</div><div class="isomer-card-link">Read</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-research-fund-reports/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -61,6 +61,6 @@ on pedagogy, research, and classroom inquiry.</p>
 <div class="isomer-card-title">ELIS Research Fund Reports</div>
 <div class="isomer-card-link">Read</div>
 </div>
-</a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Summaries" src="/images/Research_Summaries.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Summaries</div><div class="isomer-card-link">Read</div></div></a>
 </div>
 <p></p>
