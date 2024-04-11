@@ -49,10 +49,7 @@ to support the revision of writing.</p>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
+<th rowspan="1" colspan="2">
 <p>Listen to <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank"><u>podcast episodes</u></a> to
 hear teachers’ personal accounts of conducting classroom inquiry.</p>
 </th>
