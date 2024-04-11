@@ -54,34 +54,10 @@ to support the revision of writing.</p>
 hear teachers’ personal accounts of conducting classroom inquiry.</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p></p><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/"><img style="width: 30%;" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/SIG/Classroom_Inquiry_Podcast_Resized_Final.png"></a>
 </th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
