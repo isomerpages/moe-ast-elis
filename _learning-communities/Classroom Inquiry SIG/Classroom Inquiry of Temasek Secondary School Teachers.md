@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
-<p><strong>Classroom Inquiry of Temasek Secondary School Teachers</strong>
+<p><strong>Classroom Inquiry of Temasek Secondary School </strong>
 </p>
 <p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank"><u>Classroom Inquiry for English Language and Literature Teachers </u></a>course
 in 2023, Ms Idriaty binte Sabari, joined the SIG to gain support from ELIS
