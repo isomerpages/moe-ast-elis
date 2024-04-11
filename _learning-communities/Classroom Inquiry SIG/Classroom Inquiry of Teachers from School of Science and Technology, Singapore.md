@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
+<p><strong>Classroom Inquiry of Teachers from School of Science and Technology, Singapore</strong>
+</p>
 <p>Ms Christine Lam, EL Teacher, first observed how her Lower Secondary students
 found critical reading of literary texts challenging. They had difficulties
 answering inferential and evaluation questions based on given texts. She
@@ -30,15 +32,16 @@ Caroline to co-present their findings at the 2024 RELC International Conference.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST.jpg">
 </div>
-<p>Dr Caroline Ho in discussion with Jasvindar Pal Kaur, Han Siu Yin and
-Christine Lam (from left to right)</p>
+<p><em><sub>Dr Caroline Ho in discussion with Jasvindar Pal Kaur, Han Siu Yin and Christine Lam (from left to right)</sub></em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SST" src="/images/SIG/SST2.jpg">
+<img style="width: 71%;" height="auto" width="100%" alt="SST" src="/images/SIG/SST2.jpg">
 </div>
-<p>The teachers with Dr Caroline Ho at the 2024 RELC International Conference</p>
+<p><em><sup>The teachers with Dr Caroline Ho at the 2024 RELC International Conference</sup></em>
+</p>
 </td>
 </tr>
 </tbody>
