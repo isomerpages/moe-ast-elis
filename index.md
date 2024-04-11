@@ -51,16 +51,6 @@ sections:
       url: https://elis.moe.edu.sg/elis/resources/
       image: /images/resources poster for elis website.png
       alt: Image alt text
-  - infopic:
-      title: Inspiring Teacher of English Award 2024
-      id: infopic
-      description: The Inspiring Teacher of English Award recognises teachers who have
-        been key in igniting a passion for English and are effective in teaching
-        good communication.
-      button: Nominate your English teacher today!
-      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2024.jpg
-      alt: Image alt text
   - infobar:
       id: infobar
       button: Follow us
