@@ -11,7 +11,7 @@ third_nav_title: View
 </div>
 <p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0"></iframe>
+
 </div>
 <p></p>
 
