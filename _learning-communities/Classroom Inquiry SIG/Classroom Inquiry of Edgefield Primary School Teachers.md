@@ -27,7 +27,7 @@ for students in accurate letter identification and handwriting.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield_with_Darren.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield_with_Darren_3.jpg">
 </div>
 </td>
 </tr>
