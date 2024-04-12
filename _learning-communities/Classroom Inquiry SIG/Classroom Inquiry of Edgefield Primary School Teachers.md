@@ -9,9 +9,44 @@ third_nav_title: Classroom Inquiry SIG
 </p>
 <p>Mr David Ng is an alumnus of the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>(CIELL)
 course. Leading a dedicated team with Ms Tan Pin Pin Joyce and Mrs Manju
-Manoj, they delved into ways to enhance support for students grappling
+Manoj, they inquired into ways to enhance support for students grappling
 with mixed-case letter identification challenges.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Dr Darren Nonis worked with Mr David Ng’s team to explore the use of visual
 cue cards and the three-line writing template, aiming to provide support
 for students in accurate letter identification and handwriting.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield_with_Darren.jpg">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Listen to&nbsp;<a href="https://safe.menlosecurity.com/https:/elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank"><u>podcast episodes</u></a>&nbsp;to hear teachers’ personal accounts of conducting classroom inquiry.</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/SIG/Classroom_Inquiry_Podcast_Resized_Final.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
