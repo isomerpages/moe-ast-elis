@@ -30,18 +30,14 @@ Caroline to co-present their findings at the 2024 RELC International Conference.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST_SIG.jpg">
 </div>
-<p><em><sub>Dr Caroline Ho in discussion with Jasvindar Pal Kaur, Han Siu Yin and Christine Lam (from left to right)</sub></em>
-</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="SST" src="/images/SIG/SST2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST_RELC.jpg">
 </div>
-<p><em><sup>The teachers with Dr Caroline Ho at the 2024 RELC International Conference</sup></em>
-</p>
 </td>
 </tr>
 </tbody>
