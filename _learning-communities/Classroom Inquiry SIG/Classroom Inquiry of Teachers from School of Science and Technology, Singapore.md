@@ -16,8 +16,8 @@ the language used in literary texts. Ms Han Siu Yin, HOD/EL, was excited
 over an opportunity to support Christine in helping her students. She encouraged
 her colleagues from the EL Department, Ms Christine Lam and Ms Jasvindar
 Pal Kaur, to embark on a classroom inquiry after attending the&nbsp;
-<a href="https://safe.menlosecurity.com/https:/elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers&nbsp;</a>(CIELL)
-Course in 2022.</p>
+<a href="https://safe.menlosecurity.com/https:/elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers&nbsp;</a>course
+in 2022.</p>
 <p>The three teachers, with support from Dr Caroline Ho, Lead Specialist/EL,
 investigated how the use of selected reader roles from the Four Resources
 Model (Freebody &amp; Luke, 1999) affected their students’ critical reading
