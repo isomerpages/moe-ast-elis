@@ -27,7 +27,7 @@ understanding of subject content. In this microlearning unit, we look at
 <li>
 <p>Teaching Principles and Processes:
 <br>CLLIPS and ACoLADE</p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadfc435-d0be-4411-8ba6-7a32a9140810" rel="noopener noreferrer nofollow" target="_blank">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0a3f2b6b-9403-469a-a584-e8860ab1108b" rel="noopener noreferrer nofollow" target="_blank">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</a>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0a3f2b6b-9403-469a-a584-e8860ab1108b" rel="noopener noreferrer nofollow" target="_blank">How can We Raise Awareness in the EL Classroom?</a>
 </p>
