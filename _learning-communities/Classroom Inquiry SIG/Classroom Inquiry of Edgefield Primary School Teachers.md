@@ -7,14 +7,15 @@ third_nav_title: Classroom Inquiry SIG
 ---
 <p><strong>Classroom Inquiry of Edgefield Primary School Teachers</strong>
 </p>
-<p>Mr David Ng is an alumnus of the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>(CIELL)
-course. He teamed up with his colleagues, Ms Tan Pin Pin Joyce and Mrs
-Manju Manoj, to inquire into how they could support their students grappling
-with mixed-case letter identification.</p>
+<p>Mr David Ng is an alumnus of the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course.
+He teamed up with his colleagues, Ms Tan Pin Pin Joyce and Mrs Manju Manoj,
+to inquire into how they could support their students who experienced difficulty
+recognising and distinguishing between uppercase and lowercase letters
+in the alphabet (mixed-case letter identification).</p>
 <p>Dr Darren Nonis, Senior Academy Officer at ELIS, worked with Mr David
 Ng’s team to investigate how visual cue cards and the three-line writing
 template might help students with mixed-case letter identification and
-handwriting.</p>
+handwriting</p>
 <table>
 <tbody>
 <tr>
