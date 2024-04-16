@@ -15,7 +15,7 @@ in the alphabet (mixed-case letter identification).</p>
 <p>Dr Darren Nonis, Senior Academy Officer at ELIS, worked with Mr David
 Ng’s team to investigate how visual cue cards and the three-line writing
 template might help students with mixed-case letter identification and
-handwriting</p>
+handwriting.</p>
 <table>
 <tbody>
 <tr>
