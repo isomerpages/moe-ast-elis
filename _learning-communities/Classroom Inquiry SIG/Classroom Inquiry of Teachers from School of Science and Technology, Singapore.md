@@ -30,13 +30,13 @@ Caroline to co-present their findings at the 2024 RELC International Conference.
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST_SIG.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SIG_SST.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SST_RELC.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SST" src="/images/SIG/SIG_SST_2.jpg">
 </div>
 </td>
 </tr>
