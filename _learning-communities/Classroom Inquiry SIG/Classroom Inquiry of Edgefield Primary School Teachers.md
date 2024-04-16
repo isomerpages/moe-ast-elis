@@ -22,13 +22,13 @@ handwriting.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIG" src="/images/SIG/SIG_Edgefield.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Edgefield Primary School" src="/images/SIG/Edgefield_with_Darren_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="SIG" src="/images/SIG/SIG_Edgefield_2.jpg">
 </div>
 </td>
 </tr>
