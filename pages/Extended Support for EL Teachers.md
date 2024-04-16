@@ -2,7 +2,6 @@
 title: Extended Support for EL Teachers
 permalink: /elis/resources/watch/videos/extended-support-is-offered-to-el-teachers/
 description: ""
-third_nav_title: View
 ---
 Extended Support is offered to English Language (EL) teachers as part of a Professional Learning Programme (PLP) with ELIS. This video informs you about the various forms of Extended Support provided by ELIS’s Master Teachers and Academy Officers. Questions for you to think about while viewing the video:
 

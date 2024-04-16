@@ -42,54 +42,23 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<p><strong>Classroom Inquiry of Temasek Secondary School Teachers</strong>
+<p></p>
+<p><strong>Classroom Inquiry in Schools</strong>
 </p>
-<p>After attending the <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course
-in 2023, Ms Idriaty binte Sabari, (Form Teacher/Temasek Secondary School)
-joined the SIG to gain support from ELIS for the classroom inquiry project
-that she and her colleagues in her Professional Learning Community (PLC)
-were working on.</p>
-<p>Dr Rachel Goh worked with Ms Idriaty and her PLC as they inquired into
-the use of the STAR revision strategy (<strong>S</strong>ubstitute, <strong>T</strong>ake
-Things Out, <strong>A</strong>dd, <strong>R</strong>earrange) for peer feedback
-to support the revision of writing.</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/learning-communities/classroom-inquiry-sig/classroom-inquiry-of-temasek-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Temasek Secondary School Teachers" src="/images/SIG/Temasek_Cover_5_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Temasek Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/classroom-inquiry-of-teachers-from-school-of-science-and-technology-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Teachers from School of Science and Technology, Singapore" src="/images/SIG/SST_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Teachers from School of Science and Technology, Singapore</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/classroom-inquiry-of-edgefield-primary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Edgefield Primary School Teachers" src="/images/SIG/Edgefield_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Edgefield Primary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+</div>
 <table>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/TSS.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Secondary School" src="/images/SIG/TSS_with_Rachel.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>The Temasek Secondary School teachers reflect on their learning</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Sec" src="/images/SIG/Temasek_Sec_Reflections.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Listen to <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank"><u>podcast episodes</u></a> to
-hear teachers’ personal accounts of conducting classroom inquiry.</p>
+<p><strong>Listen to <a href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/" rel="noopener noreferrer nofollow" target="_blank"><u>podcast episodes</u></a> to hear teachers’ personal accounts of conducting classroom inquiry.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/elis/resources/listen/classroom-inquiry-podcasts/"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Podcast" src="/images/CI_Podcast.png"></a>
 <p></p>
