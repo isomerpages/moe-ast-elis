@@ -11,12 +11,12 @@ third_nav_title: Read
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Monograph_50 Years" src="/images/READ ICONS/Monograph_50_years_Read_Icon.jpg">
+<img style="width: 93%;" height="auto" width="100%" alt="Monograph_50 Years" src="/images/READ ICONS/Monograph_50_years_Read_Icon.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Monograph_Classroom Talk, Dialogic Teaching and Inquiry through Dialogue" src="/images/READ ICONS/Monographs_Classroom_Talk.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Talk, Dialogic Teaching and Inquiry through Dialogue" src="/images/READ ICONS/Monographs_Classroom_Talk.jpg">
 </div>
 </td>
 </tr>
