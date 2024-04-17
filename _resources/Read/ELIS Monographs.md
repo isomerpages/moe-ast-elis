@@ -24,16 +24,6 @@ third_nav_title: Read
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d20udr5muow6uk.amplifyapp.com/files/50_years_monograph.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>50 Years of Developments in English Language Teaching and Learning in Singapore</u></a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://staging-lite.d20udr5muow6uk.amplifyapp.com/files/Monograph_on_Classroom_Talk__Dialogic_Teaching_Publish.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Classroom Talk, Dialogic Teaching and Inquiry through Dialogue</u></a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
