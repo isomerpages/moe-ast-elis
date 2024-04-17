@@ -21,13 +21,13 @@ to support the revision of writing.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Temasek Secondary School" src="/images/SIG/TSS.png">
+<img style="width: 100%" height="auto" width="100%" alt="Temasek" src="/images/SIG/SIG_Temasek_2.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Dr Rachel Goh supporting Temasek Secondary School Teachers in their inquiry" src="/images/SIG/TSS_with_Rachel.png">
+<img style="width: 100%" height="auto" width="100%" alt="Dr Rachel Goh and Temasek Secondary School Teachers" src="/images/SIG/SIG_Temasek.jpg">
 </div>
 </td>
 </tr>
