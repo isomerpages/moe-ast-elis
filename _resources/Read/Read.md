@@ -22,7 +22,7 @@ on pedagogy, research, and classroom inquiry.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/monographs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ELIS Monographs" src="/images/READ ICONS/Monographs__Facebook_Post_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ELIS Monographs</div><div class="isomer-card-link">Read</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/monographs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ELIS Monographs" src="/images/READ ICONS/Monographs__Facebook_Post__Final.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ELIS Monographs</div><div class="isomer-card-link">Read</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
