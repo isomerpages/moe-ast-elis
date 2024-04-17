@@ -11,12 +11,8 @@ third_nav_title: Read
 <tbody>
 <tr>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/files/50_years_monograph.pdf"><img style="width: 100%" height="auto" width="100%" alt="Monograph_50 Years" src="/images/READ ICONS/Monograph_50_years_Read_Icon.jpg"></a>
-<p><a href="https://staging-lite.d20udr5muow6uk.amplifyapp.com/files/50_years_monograph.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>50 Years of Developments in English Language Teaching and Learning in Singapore</u></a>
-</p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://elis.moe.edu.sg/files/Monograph_on_Classroom_Talk__Dialogic_Teaching_Publish.pdf"><img style="width: 100%" height="auto" width="100%" alt="Monograph_Classroom Talk, Dialogic Teaching and Inquiry through Dialogue" src="/images/READ ICONS/Monographs_Classroom_Talk.jpg"></a>
-<p><a href="https://staging-lite.d20udr5muow6uk.amplifyapp.com/files/Monograph_on_Classroom_Talk__Dialogic_Teaching_Publish.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>Classroom Talk, Dialogic Teaching and Inquiry through Dialogue</u></a>
-</p>
 </td>
 </tr>
 <tr>
