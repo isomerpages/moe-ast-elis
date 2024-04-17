@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - View/Microlearning Units (MLUs).md
       - View/.keep
       - View/MLUs and Videos on Teaching & Learning.md
       - "View/ELIS Masterclass: Diagnosing Students’ Learning Needs.md"
