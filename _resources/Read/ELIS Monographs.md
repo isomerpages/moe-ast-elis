@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Read
 ---
 <p></p>
-<p></p>
 <table>
 <tbody>
 <tr>
