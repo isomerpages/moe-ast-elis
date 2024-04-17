@@ -84,15 +84,15 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 </a></p><center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
 </a>
 	</div>
-          
+        
 
 <div>
 
-<p><a href="/elis/resources/view/elis-masterclass-diagnosing-students-learning-needs/">
+<p><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
 
 <img style="width:30%" src="/images/masterclass.png">
 
-</a></p><center><a href="/elis/resources/view/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center><a href="/elis/resources/view/elis-masterclass-diagnosing-students-learning-needs/">
+</a></p><center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
 
 </a>
 
@@ -100,15 +100,16 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 
 <div>
 
-<p><a href="/elis/resources/view/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
+<p><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
 
 <img style="width:30%" src="/images/masterclass2.png">
 
-</a></p><center><a href="/elis/resources/view/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"><b>When Teaching Strategies Talk with SCK</b></a></center><a href="/elis/resources/view/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
+</a></p><center><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"><b>When Teaching Strategies Talk with SCK</b></a></center><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
 
 </a>
 
-</div>
+</div>          
+
 	
 <div>
 <p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
