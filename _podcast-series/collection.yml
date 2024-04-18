@@ -2,6 +2,8 @@ collections:
   podcast-series:
     output: true
     order:
+      - Windows on Expertise/Building Multiliteracies in EL Classrooms (Episode
+        2).md
       - Windows on Expertise/Podcasts on Windows on Expertise.md
       - Windows on Expertise/Building Multiliteracies in EL Classrooms (Episode
         1).md
