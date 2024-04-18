@@ -10,6 +10,9 @@ third_nav_title: Windows on Expertise
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WinEx2.png">
 </div>
 <p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CZBvANPlQHs?si=SbN-jh_vRLQAfp_9"></iframe>
+</div>
 <p><a href="https://open.spotify.com/episode/3doQwToe3nREE7GKNxJUXh?si=a932d6ada5484564" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
 <p>In this episode, we feature Csilla Weninger, Associate Professor and Head
