@@ -43,13 +43,10 @@ sections:
       image: /images/ELIS_e_Digest_6_040123_page_0001.jpg
       alt: e-Digest
   - infopic:
-      title: Professional Learning Resources
-      description: Access our on-the-go learning resources to cultivate your
-        pedagogical expertise in the teaching, learning and use of the English
-        language.
+      title: ELIS Masterclass
       button: Start learning here
       url: https://elis.moe.edu.sg/elis/resources/
-      image: /images/resources poster for elis website.png
+      image: /images/1.png
       alt: Image alt text
   - infobar:
       id: infobar
