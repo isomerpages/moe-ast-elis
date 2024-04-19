@@ -37,7 +37,7 @@ sections:
       title: ELIS Masterclass
       button: Start learning here
       url: https://elis.moe.edu.sg/elis/resources/view/
-      image: /images/1.png
+      image: /images/Publicity_for_PMTTs__Masterclass.png
       alt: Image alt text
   - infopic:
       title: ELIS e-Digest
