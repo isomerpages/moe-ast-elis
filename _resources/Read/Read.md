@@ -22,11 +22,11 @@ on pedagogy, research, and classroom inquiry.</p>
 </tbody>
 </table>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/monographs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ELIS Monographs" src="/images/READ ICONS/Monographs__Facebook_Post__Final.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ELIS Monographs</div><div class="isomer-card-link">Read</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/monographs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="ELIS Monographs" src="/images/READ ICONS/Monograph_Read_Icon_1__Facebook_Post_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">ELIS Monographs</div><div class="isomer-card-link">Read</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/READ ICONS/e_Digest_Facebook_Post__Final.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/READ ICONS/E_digest_Read_Icon_3__Facebook_Post_.jpg">
 </div>
 </div>
 <div class="isomer-card-body">
@@ -61,6 +61,6 @@ on pedagogy, research, and classroom inquiry.</p>
 <div class="isomer-card-title">ELIS Research Fund Reports</div>
 <div class="isomer-card-link">Read</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Summaries" src="/images/READ ICONS/Research_Summaries__Facebook_Post_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Summaries</div><div class="isomer-card-link">Read</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/research-summaries/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Research Summaries" src="/images/READ ICONS/Research_Summaries_Read_Icon_3__Facebook_Post_.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Research Summaries</div><div class="isomer-card-link">Read</div></div></a>
 </div>
 <p></p>
