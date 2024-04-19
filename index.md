@@ -45,7 +45,7 @@ sections:
   - infopic:
       title: ELIS Masterclass
       button: Start learning here
-      url: https://elis.moe.edu.sg/elis/resources/
+      url: https://elis.moe.edu.sg/elis/resources/view/
       image: /images/1.png
       alt: Image alt text
   - infobar:
