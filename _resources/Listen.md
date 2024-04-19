@@ -55,9 +55,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
-<img src="/images/Winex_1.png" style="width:30%">
-<b>Building Multiliteracies in EL Classrooms (Episode 1)</b>
+<a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/">
+<img src="/images/WinEx2.png" style="width:30%">
+<b>Building Multiliteracies in EL Classrooms (Episode 2)</b>
 </a>
 	</center>
 
