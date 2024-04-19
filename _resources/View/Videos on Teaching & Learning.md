@@ -88,11 +88,11 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 
 <div>
 
-<p><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
+<p><a href="/elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/">
 
 <img style="width:30%" src="/images/masterclass.png">
 
-</a></p><center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
+</a></p><center><a href="/elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center><a href="/elis.moe.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/">
 
 </a>
 
