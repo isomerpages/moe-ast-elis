@@ -34,6 +34,12 @@ sections:
       image: /images/epros24_full_homepage.png
       alt: ELIS learning opportunities
   - infopic:
+      title: ELIS Masterclass
+      button: Start learning here
+      url: https://elis.moe.edu.sg/elis/resources/view/
+      image: /images/Publicity_for_PMTTs__Masterclass.png
+      alt: Image alt text
+  - infopic:
       title: ELIS e-Digest
       description: View, read and listen to teachers' experiences in the teaching
         learning and assessment of English Language, Literature and General
@@ -42,15 +48,6 @@ sections:
       url: /elis/resources/read/elis-e-digest-new/
       image: /images/ELIS_e_Digest_6_040123_page_0001.jpg
       alt: e-Digest
-  - infopic:
-      title: Professional Learning Resources
-      description: Access our on-the-go learning resources to cultivate your
-        pedagogical expertise in the teaching, learning and use of the English
-        language.
-      button: Start learning here
-      url: https://elis.moe.edu.sg/elis/resources/
-      image: /images/resources poster for elis website.png
-      alt: Image alt text
   - infobar:
       id: infobar
       button: Follow us

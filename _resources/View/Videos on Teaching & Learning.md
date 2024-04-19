@@ -86,29 +86,7 @@ Watch the videos individually or as a team to collaboratively inquire into how t
 	</div>
         
 
-<div>
-
-<p><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
-
-<img style="width:30%" src="/images/masterclass.png">
-
-</a></p><center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center><a href="/elis/elis-masterclass-diagnosing-students-learning-needs/">
-
-</a>
-
-</div>
-
-<div>
-
-<p><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
-
-<img style="width:30%" src="/images/masterclass2.png">
-
-</a></p><center><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"><b>When Teaching Strategies Talk with SCK</b></a></center><a href="/elis/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/">
-
-</a>
-
-</div>          
+<div> <p><a href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/"> <img style="width:30%" src="/images/masterclass.png"> </a></p> <center><a href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center> </div> <div> <p><a href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"> <img style="width:30%" src="/images/masterclass2.png"> </a></p> <center><a href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"><b>When Teaching Strategies Talk with SCK</b></a></center> </div>
 
 	
 <div>
