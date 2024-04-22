@@ -7,7 +7,7 @@ variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
-		<img src="/images/Team%20Members/Rachel_Goh_Use_for_Website.jpg" class="m-0"></div>
+		<img src="/images/Team%20Members/Rachel_Goh_Use_for_Website_Cropped.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Rachel Goh</strong></h3>
 		<strong>Senior Specialist, English Language</strong>
