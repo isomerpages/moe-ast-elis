@@ -32,7 +32,7 @@ third_nav_title: REC Team
 <div class="isomer-card-description">Lead Specialist, English Language</div>
 <div class="isomer-card-link">About Alison</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-rachel-goh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Rachel" src="/images/Screenshot_2024_03_01_at_2_43_19_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Rachel Goh</div><div class="isomer-card-description">Senior Specialist, English Language</div><div class="isomer-card-link">About Rachel</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-rachel-goh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Rachel Goh" src="/images/Team Members/Rachel_Goh_Use_for_Website.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Rachel Goh</div><div class="isomer-card-description">Senior Specialist, English Language</div><div class="isomer-card-link">About Rachel</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/research-team/dr-darren-nonis/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
