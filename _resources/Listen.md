@@ -55,9 +55,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/">
-<img src="/images/WinEx2.png" style="width:30%">
-<b>Building Multiliteracies in EL Classrooms (Episode 2)</b>
+<a href="/elis/resources/listen/effective-communication-for-learning/">
+<img src="/images/EC1.png" style="width:30%">
+<b>Effective Communication for Learning</b>
 </a>
 	</center>
 
@@ -111,7 +111,14 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 </a></p><center><a href="/elis/resources/listen/podcasts-on-windows-on-expertise/"><b>Windows on Expertise</b></a></center><a href="/elis/resources/listen/podcasts-on-windows-on-expertise/">
 </a>
 	</div>
+		<div>
+<p><a href="/elis/resources/listen/podcasts-on-effective-communication/">
+<img src="/images/ECcover.png" style="width:50%">
+</a></p><center><a href="/elis/resources/listen/podcasts-on-effective-communication/"><b>Effective Communication</b></a></center><a href="/elis/resources/listen/podcasts-on-effective-communication/">
+</a>
+	</div>
 </div>
+
 
 <style>
 
