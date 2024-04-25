@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - Effective Communication/Effective Communication for Learning.md
       - Effective Communication/.keep
       - Windows on Expertise/.keep
       - Windows on Expertise/Podcasts on Windows on Expertise.md
