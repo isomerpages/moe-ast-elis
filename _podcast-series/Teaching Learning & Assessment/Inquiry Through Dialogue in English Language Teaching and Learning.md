@@ -3,9 +3,9 @@ title: Inquiry Through Dialogue in English Language Teaching and Learning
 permalink: /elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/
 description: ""
 third_nav_title: Teaching Learning & Assessment
+variant: markdown
 ---
-<img src="/images/ep-21-tla-11-my.png" 
-     style="width:50%">
+<img src="/images/ep-21-tla-11-my.png" style="width:50%">
 		 
 <a href="https://open.spotify.com/episode/5xVRwDXLCkHtEURJpBDnLf">Click here to listen to the podcast</a>
 
@@ -13,7 +13,7 @@ The podcast episodes in the area of Inquiry Through Dialogue (ITD) offer a range
 
 In this episode, Principal Master Teacher Tay May Yin gives an overview of ITD in the context of teaching and learning English Language.
 
-To read the ‘Monograph on 50 Years of Developments in English Language Teaching and Learning in Singapore’ mentioned in this episode, please visit [go.gov.sg/50years](https://academyofsingaporeteachers-moe-edu-sg-admin.cwp.sg/elis/resources/read/monograph-of-el-teaching-and-learning)
+To read the ‘Monograph on 50 Years of Developments in English Language Teaching and Learning in Singapore’ mentioned in this episode, please visit [this page](https://elis.moe.edu.sg/monographs/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,4 +40,3 @@ To read the ‘Monograph on 50 Years of Developments in English Language Teachin
 </table>
 
 <em>Episode published 3 Nov 2021.</em>
-		 
