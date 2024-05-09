@@ -55,9 +55,9 @@ Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://g
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/effective-communication-for-learning/">
-<img src="/images/EC1.png" style="width:30%">
-<b>Effective Communication for Learning</b>
+<a href="/elis/resources/listen/understanding-subject-literacy/">
+<img src="/images/EC2.png" style="width:30%">
+<b>Understanding Subject Literacy</b>
 </a>
 	</center>
 
