@@ -2,10 +2,10 @@ collections:
   podcast-series:
     output: true
     order:
-      - Effective Communication/Understanding Subject Literacy.md
+      - Effective Communication/.keep
       - Effective Communication/Podcasts on Effective Communication.md
       - Effective Communication/Effective Communication for Learning.md
-      - Effective Communication/.keep
+      - Effective Communication/Understanding Subject Literacy.md
       - Windows on Expertise/.keep
       - Windows on Expertise/Podcasts on Windows on Expertise.md
       - Windows on Expertise/Building Multiliteracies in EL Classrooms (Episode
