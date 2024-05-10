@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - Resources.md
+      - View/The Place of Subject Content Knowledge (SCK) in English Language
+        Teaching, Learning and Assessment.md
       - View/Microlearning Units (MLUs).md
       - View/.keep
       - View/Videos on Teaching & Learning.md
