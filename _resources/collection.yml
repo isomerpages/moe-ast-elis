@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - View/View.md
       - View/Microlearning Units (MLUs).md
       - View/.keep
       - View/Videos on Teaching & Learning.md
