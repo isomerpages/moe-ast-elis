@@ -32,7 +32,7 @@ Language, Literature and General Paper.</p>
 <img style="width:60%" height="auto" width="100%" src="/images/MLU_Pics.png">
 </div>
 <p>
-<br><strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524" rel="noopener noreferrer nofollow" target="_blank">Encouraging Student Talk in the Classroom</a></strong> 
+<br><strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524" rel="noopener noreferrer nofollow" target="_blank">Encouraging Student Talk in the Classroom</a></strong>
 </p>
 <p>Classroom interaction is an essential component of learning that comprises
 both teacher talk and student talk. Through talk, teachers guide students
@@ -57,7 +57,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8f4ad335-1a5e-42ac-92b1-5e36c212cb7e" rel="noopener noreferrer nofollow" target="_blank">How can We Guide Discovery in the EL Classroom?</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a" rel="noopener noreferrer nofollow" target="_blank">How can We Instruct Explicitly in the EL Classroom?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a" rel="noopener noreferrer nofollow" target="_blank">How can We Instruct Explicitly in the EL Classroom?</a> 
 <br>
 </p>
 <p></p>
@@ -67,7 +67,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d678f719-4d80-46d4-a658-82d8698294e0" rel="noopener noreferrer nofollow" target="_blank">How to Grow Creative Inquirers in the EL classroom? – Planning</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45" rel="noopener noreferrer nofollow" target="_blank">How to Grow Creative Inquirers in the EL classroom? – Enacting</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45" rel="noopener noreferrer nofollow" target="_blank">How to Grow Creative Inquirers in the EL classroom? – Enacting</a> 
 <br>
 </p>
 <p></p>
@@ -89,7 +89,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2faa2b19-a8b5-41a6-9f11-c2d973330a06" rel="noopener noreferrer nofollow" target="_blank">How does Differentiated Instruction Work in a Large EL Class? –Small Group Instruction</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f6c47bcb-d94c-46d5-9bdd-d4b70b370b3d" rel="noopener noreferrer nofollow" target="_blank">How Do We Select and Design EL Lessons for Differentiated Instruction?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f6c47bcb-d94c-46d5-9bdd-d4b70b370b3d" rel="noopener noreferrer nofollow" target="_blank">How Do We Select and Design EL Lessons for Differentiated Instruction?</a> 
 <br>
 </p>
 <p></p>
@@ -119,7 +119,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fbc4b6b4-7060-44e3-ab2f-a93aa3157dc8" rel="noopener noreferrer nofollow" target="_blank">Promoting Dialogic Feedback: Help Students to Actively Seek Feedback</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a> 
 <br>
 </p>
 <p></p>
@@ -131,7 +131,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/9ae5e67e-3a70-412d-97b0-03b6ecb908b2" rel="noopener noreferrer nofollow" target="_blank">What should EL Teachers Consider When Drawing Up a Design Map to Plan Learning Experiences?</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12" rel="noopener noreferrer nofollow" target="_blank">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12" rel="noopener noreferrer nofollow" target="_blank">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a> 
 <br>
 </p>
 <p></p>
@@ -154,7 +154,7 @@ student talk.</p>
 </p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadf7c88-5381-4480-955d-efedf56dd0ff" rel="noopener noreferrer nofollow" target="_blank">How to Adapt Texts?</a>
 </p>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/990f945a-cc88-4f93-9531-ed7e66460594" rel="noopener noreferrer nofollow" target="_blank">Why Select and Adapt Texts?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/990f945a-cc88-4f93-9531-ed7e66460594" rel="noopener noreferrer nofollow" target="_blank">Why Select and Adapt Texts?</a> 
 <br>
 </p>
 <p></p>
