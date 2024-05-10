@@ -3,206 +3,119 @@ title: Videos on Teaching & Learning
 permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
-variant: markdown
+variant: tiptap
 ---
----
-<style>
-	
-		@media only screen and (max-width: 768px) {
-			.grid {
-		display: grid;
-		grid-template-columns: repeat(1, 1fr) !important;
-		gap: 10px;
-	}
-	}
-	
-	.grid {
-		display: grid;
-		grid-template-columns: repeat(3, 1fr);
-	gap: 10px;
-	}
-	
-	.grid img {
-		width: 100% !important;
-	}
-</style>
-
-
-<style>
-	.flex {
-		display: flex;
-		margin-bottom: 30px;
-		gap:30px;
-		align-items: center;
-		justify-content: space-around;
-	}
-	
-	.flex > img {
-		order: 1;
-		width: 30% !important;
-	}
-	
-	.flex > p {
-		margin: 0;
-	}
-	
-	@media only screen and (max-width: 768px) {
-		.flex > img {
-			width: 50% !important;
-			order: 0;
-		}
-		.flex {
-				flex-direction: column;
-				gap: 20px;
-		}
-	}
-</style>
-		
-<div class="flex">
-<img style="width:50%" src="/images/watch_banner.png">
-<div style="display: flex; flex-direction: column; gap: 25px;">
-	<div>
-View these videos to understand and apply the principles, teaching processes and pedagogical approaches to the teaching of English Language, Literature and General Paper.  
-  </div>
-	</div>
+<hr>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>View these videos to understand and apply the principles, teaching processes
+and pedagogical approaches to the teaching of English Language, Literature
+and General Paper.</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_10_at_3_44_42_PM.png">
 </div>
-
-### Videos on Teaching and Learning
-
-<div class="flex">
-<div style="display: flex; flex-direction: column; gap: 25px;">
-	<div>
-Watch the videos individually or as a team to collaboratively inquire into how to more effectively meet the learning needs of students in these subjects.
-	</div>
-	</div>
-</div>
-
-<div class="grid">
-	<div>
-<p><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
-<img style="width:30%" src="/images/ibl-video-thumbnail.png">
-</a></p><center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/"><b>Support Inquiry-Based Learning in the EL Classroom</b></a></center><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/">
-</a>
-	</div>
-        
-
-<div> <p><a href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/"> <img style="width:30%" src="/images/masterclass.png"> </a></p> <center><a href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/"><b>Diagnosing Students’ Learning Needs</b></a></center> </div> <div> <p><a href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"> <img style="width:30%" src="/images/masterclass2.png"> </a></p> <center><a href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/"><b>When Teaching Strategies Talk with SCK</b></a></center> </div>
-
-	
-<div>
-<p><a href="/elis/resources/watch/videos/cllips-and-acolade/">
-<img style="width:30%" src="/images/cllips-and-acolades_b.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/cllips-and-acolade/"><b>CLLIPS and ACoLADE</b></a></center><a href="/elis/resources/watch/videos/cllips-and-acolade/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
-<img style="width:30%" src="/images/text-selection-adaptation-thumb.jpg">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/"><b>Text Selection and Adaptation</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiated-instruction/">
-<img style="width:30%" src="/images/differentiated-ins1b.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction/"><b>Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
-<img style="width:30%" src="/images/differentiating-instruction1s.jpg">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/"><b>Differentiating Instruction: Planning... Enacting... Reviewing...</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
-<img style="width:30%" src="/images/selecting-and-designing-english-language-lessons-for-differentiated-instruction.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/"><b>Selecting and Designing English Language Lessons for Differentiated Instruction</b></a></center><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
-<img style="width:30%" src="/images/whatsapp-image-2021-03-25-at-18-59-5612a8567afe0b420db4c6eac237e21833.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/"><b>How does Differentiated Instruction Work in a Large English Language Class?</b></a></center><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
-<img style="width:30%" src="/images/edf81ccc-ab6f-460a-a9c7-0afe85b84139.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/"><b>Differentiating by Process through Flexible Grouping</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
-<img style="width:30%" src="/images/55d5cc40-ecf3-4706-aac6-ce1ae4637753.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/"><b>Differentiating Instruction in Response to Student Readiness for a Literature Lesson</b></a></center><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/">
-</a>
-</div>
-	
-<div>
-<p><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
-<img style="width:30%" src="/images/quality-question_seq.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/"><b>Quality Questions &amp; Question Sequences</b></a></center><a href="/elis/resources/watch/videos/quality-questions-question-sequences/">
-</a>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
+<h3>Videos on Teaching and Learning</h3>
+<p>Watch the videos individually or as a team to collaboratively inquire
+into how to more effectively meet the learning needs of students in these
+subjects.</p>
+<p></p>
+<p></p>
+<div class="isomer-card-grid">
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="SCK PK" src="/images/Screenshot_2024_05_10_at_4_12_39_PM.png">
 </div>
 </div>
-	
-### Videos on Support for Teachers
-
-Watch these videos on how to strengthen our pedagogical practices through collaborative professional learning, and how ELIS can support the learning process.
-
-<div class="grid">
-	<div>
-<p><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
-<img style="width:30%" src="/images/collab_prof_learning_o.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/collaborative-professional-learning/"><b>Collaborative Professional Learning</b></a></center><a href="/elis/resources/watch/videos/collaborative-professional-learning/">
-</a>
-		</div>
-
-
-<div>
-<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
-<img style="width:30%" src="/images/classroom_inq_m.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/"><b>Inquiry into Classroom Practice: Lesson Study</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
-<img style="width:30%" src="/images/inquiry-classroom.jpg">
-</a></p><center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/"><b>Inquiry into Classroom Practice: Action Research</b></a></center><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/">
+<div class="isomer-card-body">
+<div class="isomer-card-title">The Place of Subject Content Knowledge (SCK) in English Language Teaching,
+Learning and Assessment</div>
+</div>
+</div><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Screenshot_2024_05_10_at_4_22_36_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
 </a>
 </div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
-<img style="width:30%" src="/images/shalini_coteaching.jpg">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/"><b>What is Co-Teaching?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/">
-</a>
-	</div>
-
-<div>
-<p><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
-<img style="width:30%" src="/images/cedric_sig.jpg">
-</a></p><center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/"><b>What is a Special Interest Group (SIG)?</b></a></center><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/">
-</a>
-	</div>
+<p><strong><a href="/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/" rel="noopener noreferrer nofollow" target="_blank">Support Inquiry-Based Learning in the EL Classroom</a></strong>
+</p>
+<p></p>
+<p><strong><a href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/" rel="noopener noreferrer nofollow" target="_blank">Diagnosing Students’ Learning Needs</a></strong>
+</p>
+<p></p>
+<p><strong><a href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/" rel="noopener noreferrer nofollow" target="_blank">When Teaching Strategies Talk with SCK</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/cllips-and-acolade/" rel="noopener noreferrer nofollow" target="_blank">CLLIPS and ACoLADE</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/" rel="noopener noreferrer nofollow" target="_blank">Text Selection and Adaptation</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/differentiated-instruction/" rel="noopener noreferrer nofollow" target="_blank">Differentiated Instruction</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/" rel="noopener noreferrer nofollow" target="_blank">Differentiating Instruction: Planning... Enacting... Reviewing...</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/" rel="noopener noreferrer nofollow" target="_blank">Selecting and Designing English Language Lessons for Differentiated Instruction</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/" rel="noopener noreferrer nofollow" target="_blank">How does Differentiated Instruction Work in a Large English Language Class?</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/differentiating-instruction-in-a-literature-classroom/" rel="noopener noreferrer nofollow" target="_blank">Differentiating by Process through Flexible Grouping</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/differentiating-instruction-in-response-to-student-readiness-literature/" rel="noopener noreferrer nofollow" target="_blank">Differentiating Instruction in Response to Student Readiness for a Literature Lesson</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/quality-questions-question-sequences/" rel="noopener noreferrer nofollow" target="_blank">Quality Questions &amp; Question Sequences</a></strong>
+</p>
+<h3>Videos on Support for Teachers</h3>
+<p>Watch these videos on how to strengthen our pedagogical practices through
+collaborative professional learning, and how ELIS can support the learning
+process.</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/collaborative-professional-learning/" rel="noopener noreferrer nofollow" target="_blank">Collaborative Professional Learning</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-lesson-study/" rel="noopener noreferrer nofollow" target="_blank">Inquiry into Classroom Practice: Lesson Study</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos/inquiry-into-classroom-practice-action-research/" rel="noopener noreferrer nofollow" target="_blank">Inquiry into Classroom Practice: Action Research</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-co-teaching/" rel="noopener noreferrer nofollow" target="_blank">What is Co-Teaching?</a></strong>
+</p>
+<p></p>
+<p><strong><a href="/elis/resources/watch/videos-on-teaching-learning/what-is-a-special-interest-group/" rel="noopener noreferrer nofollow" target="_blank">What is a Special Interest Group (SIG)?</a></strong>
+</p>
+<h3>e-Conference Resources</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/elis2020.png">
 </div>
-
-### e-Conference Resources
-
-![](/images/elis2020.png)
-
-Click [here](/elis/events/event/elisconference2020/) to find out more!
-
-<style>
-a:has(span) {
-	color: #CA2126 !important;
-	}
-</style>
+<p>Click <a href="/elis/events/event/elisconference2020/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+find out more!</p>
