@@ -23,9 +23,6 @@ and General Paper.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIEW ICONS/view main icon.png">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Screenshot_2024_05_10_at_3_44_42_PM.png">
-</div>
 </th>
 </tr>
 </tbody>
