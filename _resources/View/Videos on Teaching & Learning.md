@@ -102,6 +102,19 @@ Lesson</div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/quality-questions-question-sequences/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="QQQ" src="/images/VIEW ICONS/quality questions .png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Quality Questions &amp; Question Sequences</div><div class="isomer-card-link">View</div></div></a>
 </div>
 <p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/the-place-of-subject-content-knowledge-sck-in-english-language-teaching-learning-and-assessment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCK PK" src="/images/VIEW ICONS/sck pk video.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Place of Subject Content Knowledge (SCK) in English Language Teaching, Learning and Assessment</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="IBL" src="/images/VIEW ICONS/mother goose video.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Support Inquiry-Based Learning in the EL Classroom</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a>
+</div>
 <h3>Videos on Support for Teachers</h3>
 <p>Watch these videos on how to strengthen our pedagogical practices through
 collaborative professional learning, and how ELIS can support the learning
