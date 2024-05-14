@@ -32,18 +32,7 @@ and General Paper.</p>
 <p>Watch the videos individually or as a team to collaboratively inquire
 into how to more effectively meet the learning needs of students in these
 subjects.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/the-place-of-subject-content-knowledge-sck-in-english-language-teaching-learning-and-assessment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCK PK" src="/images/VIEW ICONS/sck pk video.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Place of Subject Content Knowledge (SCK) in English Language Teaching, Learning and Assessment</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IBL" src="/images/VIEW ICONS/mother goose video.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Support Inquiry-Based Learning in the EL Classroom</div>
-<div class="isomer-card-link">View</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DSLN" src="/images/VIEW ICONS/diagnosing students' learning needs may yin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Diagnosing Students’ Learning Needs</div><div class="isomer-card-link">View</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DSLN" src="/images/VIEW ICONS/diagnosing students' learning needs may yin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Diagnosing Students’ Learning Needs</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -111,9 +100,80 @@ Lesson</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Support Inquiry-Based Learning in the EL Classroom</div>
-<div class="isomer-card-link">This is a link for your card</div>
+<div class="isomer-card-link">View</div>
 </div>
 </a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis-masterclass-diagnosing-students-learning-needs/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DSLN" src="/images/VIEW ICONS/diagnosing students' learning needs may yin.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title"> Diagnosing Students’ Learning Needs</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis-masterclass-when-teaching-strategies-talk-with-sck-stories-of-96-hour-plp-alumni/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="teaching strategies" src="/images/VIEW ICONS/teaching strategies talk cedric.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">When Teaching Strategies Talk with SCK</div>
+<div class="isomer-card-link">View</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/cllips-and-acolade/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="C &amp; A" src="/images/VIEW ICONS/cllips and acolade.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">CLLIPS and ACoLADE</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos-on-teaching-learning/text-selection-and-adaption/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="text selection and adaptation" src="/images/VIEW ICONS/text selection and adaptation.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Text Selection and Adaptation</div>
+<div class="isomer-card-link">View</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/differentiated-instruction/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DI" src="/images/VIEW ICONS/differentiated instruction.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Differentiated Instruction</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos-on-teaching-learning/planning-enacting-reviewing/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DI" src="/images/VIEW ICONS/differentiating instruction.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Differentiating Instruction: Planning, Enacting, Reviewing</div>
+<div class="isomer-card-link">View</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/selecting-and-designing-english-language-lessons/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="DI" src="/images/VIEW ICONS/selecting and designing english language lessons.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Selecting and Designing English Language Lessons for Differentiated Instruction</div><div class="isomer-card-link">View</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/differentiated-instruction-in-a-large-english-language-class/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="DI" src="/images/VIEW ICONS/how di works in a big class.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">How does Differentiated Instruction Work in a Large English Language Class?</div>
+<div class="isomer-card-link">View</div>
+</div>
+</a>
+</div>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">This is a title for your card</div>
+<div class="isomer-card-description">This is body text for your card. Describe your card.</div>
+<div class="isomer-card-link">This is a link for your card</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="https://placehold.co/600x400"></div></div><div class="isomer-card-body"><div class="isomer-card-title">This is a title for your card</div><div class="isomer-card-description">This is body text for your card. Describe your card.</div><div class="isomer-card-link">This is a link for your card</div></div></a>
 </div>
 <h3>Videos on Support for Teachers</h3>
 <p>Watch these videos on how to strengthen our pedagogical practices through
