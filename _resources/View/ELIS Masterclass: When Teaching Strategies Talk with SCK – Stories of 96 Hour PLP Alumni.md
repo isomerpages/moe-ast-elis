@@ -13,3 +13,5 @@ third_nav_title: View
 <p></p>
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe title="Cedric's Masterclass Final" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" frameborder="0" src="https://player.vimeo.com/video/452027178?h=48b6911ea1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"></iframe></div>
+
+Watch the video on [Vimeo](https://player.vimeo.com/video/452027178?h=48b6911ea1&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)

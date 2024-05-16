@@ -3,14 +3,16 @@ collections:
     output: true
     order:
       - Resources.md
-      - View/Microlearning Units (MLUs).md
       - View/.keep
+      - View/Microlearning Units (MLUs).md
       - View/Videos on Teaching & Learning.md
+      - View/The Place of Subject Content Knowledge (SCK) in English Language
+        Teaching, Learning and Assessment.md
+      - "View/Supporting Inquiry—Based Learning in the English Language
+        Classroom: What, Why and How.md"
       - "View/ELIS Masterclass: Diagnosing Students’ Learning Needs.md"
       - "View/ELIS Masterclass: When Teaching Strategies Talk with SCK – Stories
         of 96 Hour PLP Alumni.md"
-      - "View/Supporting Inquiry—Based Learning in the English Language
-        Classroom: What, Why and How.md"
       - View/Differentiated Instruction.md
       - "View/Differentiating Instruction: Planning, Enacting, Reviewing.md"
       - View/Selecting and Designing English Language Lessons for Differentiated

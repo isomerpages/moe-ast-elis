@@ -3,13 +3,20 @@ title: Differentiated Instruction
 permalink: /elis/resources/watch/videos/differentiated-instruction/
 description: ""
 third_nav_title: View
+variant: tiptap
 ---
-Differentiated Instruction is a philosophy of education that regards diversity in the classroom as normal and valuable to both learners and learning.
-
-Watch this video to find out:
-
-1. how to differentiate instruction
-
-2. the hallmarks of Differentiated Instruction
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kHP7RP6VUKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<p>Differentiated Instruction is a philosophy of education that regards diversity
+in the classroom as normal and valuable to both learners and learning.</p>
+<h4>Watch this video to find out:</h4>
+<ol>
+<li>
+<p>how to differentiate instruction</p>
+</li>
+<li>
+<p>the hallmarks of Differentiated Instruction</p>
+</li>
+</ol>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kHP7RP6VUKo"></iframe>
+</div>
+<p></p>
