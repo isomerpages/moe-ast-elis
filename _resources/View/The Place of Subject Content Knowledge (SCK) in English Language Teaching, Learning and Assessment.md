@@ -26,6 +26,6 @@ is Pedagogical Content Knowledge (PCK) realised?</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/VIEW ICONS/sck why what how.png">
 </div>
 
-If the embedded player does not work, please watch the video on <a href="https://vimeo.com/451843915/5d134b2444" rel="noopener noreferrer nofollow" target="_blank">Vimeo</a>
+Watch the video on <a href="https://vimeo.com/451843915/5d134b2444" rel="noopener noreferrer nofollow" target="_blank">Vimeo</a>
 <p></p>
 <p></p>
