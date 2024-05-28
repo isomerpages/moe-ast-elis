@@ -8,7 +8,11 @@ third_nav_title: Classroom Inquiry SIG
 <p></p>
 <p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -26,7 +30,11 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,15 +53,19 @@ third_nav_title: Classroom Inquiry SIG
 <p></p>
 <p><strong>Classroom Inquiry in Schools</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/learning-communities/classroom-inquiry-sig/classroom-inquiry-of-temasek-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Temasek Secondary School Teachers" src="/images/SIG/Temasek_Cover_5_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Temasek Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-temasek-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Temasek Secondary School Teachers" src="/images/SIG/Temasek_Cover_5_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Temasek Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/classroom-inquiry-of-teachers-from-school-of-science-and-technology-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Teachers from School of Science and Technology, Singapore" src="/images/SIG/SST_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Teachers from School of Science and Technology, Singapore</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-teachers-from-school-of-science-and-technology-singapore/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Teachers from School of Science and Technology, Singapore" src="/images/SIG/SST_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Teachers from School of Science and Technology, Singapore</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
 </div>
 <p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/classroom-inquiry-of-edgefield-primary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Edgefield Primary School Teachers" src="/images/SIG/Edgefield_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Edgefield Primary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-edgefield-primary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry of Edgefield Primary School Teachers" src="/images/SIG/Edgefield_Cover_4_Resized.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Edgefield Primary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
 </div>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
