@@ -49,11 +49,11 @@ student talk.</p>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fadfc435-d0be-4411-8ba6-7a32a9140810" rel="noopener noreferrer nofollow" target="_blank">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0a3f2b6b-9403-469a-a584-e8860ab1108b" rel="noopener noreferrer nofollow" target="_blank">Planning the School-based EL Instruction Programme - How to Apply CLLIPS?</a>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0a3f2b6b-9403-469a-a584-e8860ab1108b" rel="noopener noreferrer nofollow" target="_blank">How can We Raise Awareness in the EL Classroom?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ff6a561d-6211-452b-b742-abd2999db216" rel="noopener noreferrer nofollow" target="_blank">How can We Raise Awareness in the EL Classroom?</a>
 </p>
 </li>
 <li>
@@ -73,7 +73,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a" rel="noopener noreferrer nofollow" target="_blank">How can We Instruct Explicitly in the EL Classroom?</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/11bc5ba4-227e-4506-a97c-a1e525718b5a" rel="noopener noreferrer nofollow" target="_blank">How can We Instruct Explicitly in the EL Classroom?</a>
 </p>
 </li>
 </ul>
@@ -89,7 +89,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45" rel="noopener noreferrer nofollow" target="_blank">How to Grow Creative Inquirers in the EL classroom? – Enacting</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3b844902-987a-4f47-8739-c9369431df45" rel="noopener noreferrer nofollow" target="_blank">How to Grow Creative Inquirers in the EL classroom? – Enacting</a>
 </p>
 </li>
 </ul>
@@ -129,7 +129,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f6c47bcb-d94c-46d5-9bdd-d4b70b370b3d" rel="noopener noreferrer nofollow" target="_blank">How Do We Select and Design EL Lessons for Differentiated Instruction?</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f6c47bcb-d94c-46d5-9bdd-d4b70b370b3d" rel="noopener noreferrer nofollow" target="_blank">How Do We Select and Design EL Lessons for Differentiated Instruction?</a>
 </p>
 </li>
 </ul>
@@ -185,7 +185,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a>
 </p>
 </li>
 </ul>
@@ -205,7 +205,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12" rel="noopener noreferrer nofollow" target="_blank">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12" rel="noopener noreferrer nofollow" target="_blank">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a>
 </p>
 </li>
 </ul>
@@ -241,7 +241,7 @@ student talk.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/990f945a-cc88-4f93-9531-ed7e66460594" rel="noopener noreferrer nofollow" target="_blank">Why Select and Adapt Texts?</a> 
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/990f945a-cc88-4f93-9531-ed7e66460594" rel="noopener noreferrer nofollow" target="_blank">Why Select and Adapt Texts?</a>
 </p>
 </li>
 </ul>
