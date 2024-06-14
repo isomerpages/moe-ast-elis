@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Team Members (Test).md
       - About Us.md
       - Vision and Mission.md
+      - Team Members (Test).md
