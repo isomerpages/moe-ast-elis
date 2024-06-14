@@ -4,7 +4,6 @@ permalink: /podcast-series/
 variant: markdown
 description: ""
 ---
-## Podcast Episodes
 
 <style>
 	.flex {
