@@ -1,10 +1,9 @@
 ---
-title: Listen
-permalink: /elis/resources/listen/
-description: ""
+title: Podcast Series
+permalink: /podcast-series/
 variant: markdown
+description: ""
 ---
-## Podcast Episodes
 
 <style>
 	.flex {

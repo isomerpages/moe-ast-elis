@@ -2,6 +2,7 @@ collections:
   podcast-series:
     output: true
     order:
+      - Podcast Series.md
       - Effective Communication/.keep
       - Effective Communication/Podcasts on Effective Communication.md
       - Effective Communication/Understanding Subject Literacy.md
