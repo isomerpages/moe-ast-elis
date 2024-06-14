@@ -49,7 +49,7 @@ variant: markdown
 		 <div>
 Listen to our podcast episodes on the teaching and learning of English Language, Literature and General Paper.
 
-Share this page by copying this short URL:&nbsp;[go.gov.sg/elispodcast](http://go.gov.sg/elispodcast)
+Share this page by copying this short URL: http://go.gov.sg/elispodcast
 	</div>
 </div>
 
