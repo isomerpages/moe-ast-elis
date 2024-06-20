@@ -10,6 +10,7 @@ description: ""
 </div>
 <p>Listen to our Teaching, Learning &amp; Assessment podcast episodes on
 Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
+<h3>Inquiry Through Dialogue</h3>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -23,15 +24,16 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ep-21-tla-11-my.png">
 </div>
-<p><strong>Inquiry Through Dialogue in English Language Teaching and Learning</strong>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue in English Language Teaching and Learning</a>
 </p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Building a Culture of Learning Through Talk in the English Language Classroom.jpg">
 </div>
-<p><strong>Inquiry Through Dialogue – Building a Culture of Learning Through Talk in the English Language Classroom</strong>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-william-grosse-talks-about-inquiry-through-dialogue/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue – Building a Culture of Learning Through Talk in the English Language Classroom</a>
 </p>
 </th>
 <th rowspan="1" colspan="1">
@@ -39,7 +41,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Inquiry Through Dialogue – Using Questioning Techniques.jpg">
 </div>
-<p><strong>Inquiry Through Dialogue – Using Questioning Techniques</strong>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-audrey-lee-talks-about-questioning-techniques/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue – Using Questioning Techniques</a>
 </p>
 <p></p>
 </th>
@@ -50,7 +52,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/3b56bb985f6804d2e8930d023ac19d798.jpg">
 </div>
-<p><strong>Inquiry Through Dialogue - Motivating Students to Write</strong>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-rita-pillai-talks-about-motivating-students-to-write/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue - Motivating Students to Write</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -58,7 +60,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/4dd0161613d254859a5821aced6fb0598.jpg">
 </div>
-<p><strong>Inquiry Through Dialogue – Facilitating Productive Interaction in Groups</strong>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/student-groupings-for-productive-interaction/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue – Facilitating Productive Interaction in Groups</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -66,7 +68,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__8_.png">
 </div>
-<p><strong>Inquiry Through Dialogue in Teaching Reading &amp; Viewing</strong>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/inquiry-through-dialogue-in-teaching-reading-and-viewing/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue in Teaching Reading &amp; Viewing</a></strong>
 </p>
 <p></p>
 </td>
@@ -77,7 +79,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__14_.png">
 </div>
-<p><strong>Inquiry Through Dialogue in Teaching Oracy</strong>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Inquiry Through Dialogue in Teaching Oracy</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
