@@ -153,4 +153,72 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 </tr>
 </tbody>
 </table>
+<h3>Multiliteracies</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Multiliteracies in English Language Teaching and Learning.jpg">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/multiliteracies-in-el-teaching-and-learning/" rel="noopener noreferrer nofollow" target="_blank">Multiliteracies in English Language Teaching and Learning</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Multiliteracies in Teaching Oracy.jpg">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-shakila-vasu-talks-about-multiliteracies-in-teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Multiliteracies in Teaching Oracy</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/jeya-artwork.png">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/multiliteracies-in-teaching-reading/" rel="noopener noreferrer nofollow" target="_blank">Multiliteracies in Teaching Reading</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/14.png">
+</div>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/multiliteracies-in-teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Multiliteracies in Teaching Writing and Representing</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Multiliteracies in Teaching Grammar and Vocabulary.png">
+</div>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/multiliteracies-in-teaching-writing-and-vocabulary/" rel="noopener noreferrer nofollow" target="_blank">Multiliteracies in Teaching Grammar and Vocabulary</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
