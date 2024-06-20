@@ -18,11 +18,12 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
         - title: Upcoming Programmes
-          description: SkillsFuture for Educators (SFEd)
+          description: Enacting e–Pedagogy and Blended Learning in English Language
+            Classrooms
           linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/skillsfuture-for-educators-sfed/
+          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/epedagogy/
         - title: New Podcast
-          description: "Understanding Subject Literacy "
+          description: Understanding Subject Literacy
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
