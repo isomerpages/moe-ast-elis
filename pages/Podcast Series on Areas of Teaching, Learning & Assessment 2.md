@@ -3,11 +3,10 @@ title: Podcast Series on Areas of Teaching, Learning & Assessment 2
 permalink: /podcast-series-on-areas-of-teaching-learning-assessment-2/
 variant: tiptap
 description: ""
-third_nav_title: Teaching Learning & Assessment
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/teaching-learning-and-assessment.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/teaching-learning-and-assessment.png">
 </div>
 <p>Listen to our Teaching, Learning &amp; Assessment podcast episodes on
 Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
