@@ -8,7 +8,7 @@ description: ""
 
 Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Through Dialogue, Metacognition and Multiliteracies.
 
-  ### Inquiry Through Dialogue
+ ### Inquiry Through Dialogue
 <table><tbody><tr><td><a href="/elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/">
 <img src="/images/ep-21-tla-11-my.png" style="width:100%">
 </a><p></p><center><a href="/elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/"><b>Inquiry Through Dialogue in English Language Teaching and Learning</b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/"></a>
@@ -32,7 +32,7 @@ Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Th
 <table>
 	<tbody>
 		<tr>
-			<td><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"><img src="/images/Metacognition%20in%20English%20Language%20Teaching%20and%20Learning.jpg" style="width:86%"></a><p></p><center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"><b>Metacognition in English Language Teaching and Learning</b></a></center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"></a></td><td><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"><img src="/images/Metacognition%20in%20Teaching%20Oracy.png" style="width:138%"></a><p></p><center><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"><b>Metacognition in Teaching Oracy</b></a></center><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"></a>
+			<td><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"><img src="/images/Metacognition%20in%20English%20Language%20Teaching%20and%20Learning.jpg" style="width:86%"></a><p></p><center><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"><b>Metacognition in English Language Teaching and Learning</b></a></center><a href="/elis/resources/listen/metacognition-in-el-teaching-and-learning/"></a></td><td><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"><img style="width:100%" src="/images/metacognition_oracy_emelyn.png"></a><p></p><center><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"><b>Metacognition in Teaching Oracy</b></a></center><a href="/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/"></a>
 </td>
 			<td><a href="/elis/resources/listen/master-teacher-jennifer-lui-talks-about-metacognition-in-teaching-grammar/"><img src="/images/Metacognition%20in%20Teaching%20Grammar.jpg" style="width:86%"></a><p></p><center><a href="/elis/resources/listen/master-teacher-jennifer-lui-talks-about-metacognition-in-teaching-grammar/"><b>Metacognition in Teaching Grammar</b></a></center><a href="/elis/resources/listen/master-teacher-jennifer-lui-talks-about-metacognition-in-teaching-grammar/"></a>
 </td></tr>
