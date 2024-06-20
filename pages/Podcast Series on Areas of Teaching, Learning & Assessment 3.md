@@ -37,7 +37,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Inquiry Through Dialogue – Using Questioning Techniques.jpg">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Inquiry Through Dialogue – Using Questioning Techniques.jpg">
 </div>
 <p><strong>Inquiry Through Dialogue – Using Questioning Techniques</strong>
 </p>
@@ -64,7 +64,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__8_.png">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__8_.png">
 </div>
 <p><strong>Inquiry Through Dialogue in Teaching Reading &amp; Viewing</strong>
 </p>
