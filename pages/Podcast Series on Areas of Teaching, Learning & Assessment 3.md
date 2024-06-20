@@ -128,12 +128,27 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/tla-kalpana-balasubramaniam.jpg">
+</div>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/metacognition-in-teaching-reading-and-viewing/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in Teaching Reading and Viewing</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/7-september_tla-and-ci-thumbnails-w-title-only.png">
+</div>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/metacognition-in-teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in Teaching Writing and Representing</a></strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/cover-art-with-titles-and-names-(1).png">
+</div>
+<p><strong><a href="https://elis.moe.edu.sg/elis/resources/listen/the-teaching-and-learning-of-critical-reading/" rel="noopener noreferrer nofollow" target="_blank">The Teaching and Learning of Critical Reading</a></strong>
+</p>
 </td>
 </tr>
 </tbody>
