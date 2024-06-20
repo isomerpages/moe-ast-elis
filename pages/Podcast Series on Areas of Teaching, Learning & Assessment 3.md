@@ -111,7 +111,7 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Metacognition in Teaching Oracy.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/metacognition_oracy_emelyn.png">
 </div>
 <p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in Teaching Oracy</a>
 </p>
