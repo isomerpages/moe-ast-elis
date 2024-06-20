@@ -86,6 +86,53 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<h3></h3>
+</td>
+</tr>
+</tbody>
+</table>
+<h3>Metacognition</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Metacognition in English Language Teaching and Learning.jpg">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/metacognition-in-el-teaching-and-learning/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in English Language Teaching and Learning</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Metacognition in Teaching Oracy.png">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-emelyn-kuan-talks-about-metacognition-in-teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in Teaching Oracy</a>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Metacognition in Teaching Grammar.jpg">
+</div>
+<p><a href="https://elis.moe.edu.sg/elis/resources/listen/master-teacher-jennifer-lui-talks-about-metacognition-in-teaching-grammar/" rel="noopener noreferrer nofollow" target="_blank">Metacognition in Teaching Grammar</a>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
