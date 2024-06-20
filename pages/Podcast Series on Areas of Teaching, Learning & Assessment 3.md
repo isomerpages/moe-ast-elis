@@ -50,21 +50,25 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/3b56bb985f6804d2e8930d023ac19d798.jpg">
 </div>
-<p>xxx</p>
+<p><strong>Inquiry Through Dialogue - Motivating Students to Write</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/4dd0161613d254859a5821aced6fb0598.jpg">
 </div>
-<p>xxx</p>
+<p><strong>Inquiry Through Dialogue – Facilitating Productive Interaction in Groups</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__8_.png">
 </div>
-<p>xxx</p>
+<p><strong>Inquiry Through Dialogue in Teaching Reading &amp; Viewing</strong>
+</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -73,7 +77,8 @@ Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names__14_.png">
 </div>
-<p>xxx</p>
+<p><strong>Inquiry Through Dialogue in Teaching Oracy</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
