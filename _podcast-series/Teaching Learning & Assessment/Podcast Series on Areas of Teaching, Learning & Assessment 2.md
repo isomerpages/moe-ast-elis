@@ -9,8 +9,8 @@ third_nav_title: Teaching Learning & Assessment
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/teaching-learning-and-assessment.png">
 </div>
-<p>Listen to our Teaching, Learning &amp;amp; Assessment podcast episodes
-on Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
+<p>Listen to our Teaching, Learning &amp; Assessment podcast episodes on
+Inquiry Through Dialogue, Metacognition and Multiliteracies.</p>
 <h3>Inquiry Through Dialogue</h3>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/listen/inquiry-through-dialogue-in-english-language-teaching-and-learning/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Inquiry Through Dialogue in English Language Teaching and Learning" src="/images/ep-21-tla-11-my.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Inquiry Through Dialogue in English Language Teaching and Learning</div><div class="isomer-card-link">Learn more</div></div></a>
