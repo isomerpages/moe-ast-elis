@@ -101,7 +101,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="Professional Learning Programme Structure" src="/images/plps_at_school_updated.jpg">  
+<img style="width:100%;" alt="Professional Learning Programme Structure" src="/images/plps_at_school_updated.png">  
   
 <br>
 
