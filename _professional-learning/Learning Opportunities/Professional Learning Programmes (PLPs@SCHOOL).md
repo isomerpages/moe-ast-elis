@@ -1,5 +1,5 @@
 ---
-title: Professional Learning Programme (PLP@SCHOOL)
+title: Professional Learning Programmes (PLPs@SCHOOL)
 permalink: /elis/professional-learning/professional-learning-opportunities/professional-learning-programme/
 description: ""
 third_nav_title: Learning Opportunities
@@ -101,7 +101,7 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:80%;" alt="Professional Learning Programme Structure" src="/images/Professional%20Learning%20Programme%20Structure.jpg">  
+<img style="width:80%;" alt="Professional Learning Programme Structure" src="/images/plps_at_school_updated.png">  
   
 <br>
 
