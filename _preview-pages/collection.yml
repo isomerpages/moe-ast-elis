@@ -2,5 +2,5 @@ collections:
   preview-pages:
     output: true
     order:
-      - Learning Communities@School|Cluster|Zone (Preview).md
+      - Professional Learning Communities@School,Cluster,Zone (Preview).md
       - Learning Communities (Preview).md
