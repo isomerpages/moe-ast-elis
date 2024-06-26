@@ -22,7 +22,8 @@ to connect with one another and collaboratively build knowledge and expertise.</
 <p>Literature Subject Chapter</p>
 </li>
 <li>
-<p>Classroom Inquiry Special Interest Group (SIG)</p>
+<p><a href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry Special Interest Group (SIG)</a>
+</p>
 </li>
 </ul>
 <p></p>
