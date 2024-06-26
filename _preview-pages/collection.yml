@@ -1,0 +1,4 @@
+collections:
+  preview-pages:
+    output: true
+    order: []
