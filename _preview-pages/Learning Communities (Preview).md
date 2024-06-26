@@ -8,9 +8,9 @@ description: ""
 Language teachers and English-medium teachers through Professional Learning
 Communities at the school, cluster and zonal levels, and through the Singapore
 Writing Institute, the Literature Subject Chapter and the Classroom Inquiry
-Special Interest Group.&nbsp; In supporting the professional learning and
-growth of teachers through these communities, ELIS encourages teachers
-to connect with one another and collaboratively build knowledge and expertise.</p>
+Special Interest Group. In supporting the professional learning and growth
+of teachers through these communities, ELIS encourages teachers to connect
+with one another and collaboratively build knowledge and expertise.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://elis.moe.edu.sg/learning-communities-school-cluster-zone-preview/" rel="noopener noreferrer nofollow" target="_blank">Professional Learning Communities@School/Cluster/Zone</a>
@@ -21,7 +21,8 @@ to connect with one another and collaboratively build knowledge and expertise.</
 </p>
 </li>
 <li>
-<p>Literature Subject Chapter</p>
+<p><a href="https://elis.moe.edu.sg/literature-subject-chapter-preview/" rel="noopener noreferrer nofollow" target="_blank">Literature Subject Chapter</a>
+</p>
 </li>
 <li>
 <p><a href="https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry Special Interest Group (SIG)</a>
