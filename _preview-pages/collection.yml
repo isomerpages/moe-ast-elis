@@ -2,5 +2,6 @@ collections:
   preview-pages:
     output: true
     order:
+      - Singapore Writing Institute (SWI) (Preview).md
       - Professional Learning Communities@School,Cluster,Zone (Preview).md
       - Learning Communities (Preview).md
