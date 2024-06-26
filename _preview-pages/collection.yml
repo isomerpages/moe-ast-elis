@@ -1,4 +1,5 @@
 collections:
   preview-pages:
     output: true
-    order: []
+    order:
+      - Learning Communities (Preview).md
