@@ -5,6 +5,9 @@ variant: tiptap
 description: ""
 ---
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lsc_collage.jpg">
+</div>
 <p>The Literature Subject Chapter (LSC) was formed in 2021. The LSC comprises
 eight Teacher Leaders (TLs) of Literature from the four zones. The objectives
 of the LSC are for the TLs to:</p>
