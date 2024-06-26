@@ -16,7 +16,8 @@ to connect with one another and collaboratively build knowledge and expertise.</
 <p>Professional Learning Communities@School/Cluster/Zone</p>
 </li>
 <li>
-<p>Singapore Writing Institute (SWI)</p>
+<p><a href="https://elis.moe.edu.sg/elis/learning-communities/swi-alumni/" rel="noopener noreferrer nofollow" target="_blank">Singapore Writing Institute (SWI)</a>
+</p>
 </li>
 <li>
 <p>Literature Subject Chapter</p>
