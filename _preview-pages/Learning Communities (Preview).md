@@ -13,7 +13,7 @@ growth of teachers through these communities, ELIS encourages teachers
 to connect with one another and collaboratively build knowledge and expertise.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Learning Communities@School/Cluster/Zone</p>
+<p>Professional Learning Communities@School/Cluster/Zone</p>
 </li>
 <li>
 <p>Singapore Writing Institute (SWI)</p>
