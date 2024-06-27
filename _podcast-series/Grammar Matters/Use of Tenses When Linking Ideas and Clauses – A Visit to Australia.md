@@ -7,7 +7,7 @@ third_nav_title: Grammar Matters
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GM18.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/GM18.png">
 </div>
 <p><a href="https://open.spotify.com/episode/0ZotwzQG30CHiCYJ2LqCaD?si=712ebc4ae7da4833" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
