@@ -55,9 +55,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 
 ### What's New
 <center>
-<a href="/elis/resources/listen/understanding-subject-literacy/">
-<img src="/images/EC2.png" style="width:30%">
-<b>Understanding Subject Literacy</b>
+<a href="/elis/resources/listen/reporting-what-others-say-looking-for-a-job/">
+<img src="/images/GM19.png" style="width:30%">
+<b>Reporting What Others Say – Looking for a Job</b>
 </a>
 	</center>
 
