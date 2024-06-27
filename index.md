@@ -51,13 +51,8 @@ sections:
       alt: e-Digest
   - infobar:
       id: infobar
+      description: <center><script src="//www.instagram.com/embed.js" async=""></script><blockquote data-instgrm-version="14" data-instgrm-permalink="https://www.instagram.com/elis.moe/" class="instagram-media" style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100% - 2px)"></blockquote></center><font color="ffffff"></font>
       button: Follow us
-      url: https://www.instagram.com/elis.moe/"><center><script async=""
-        src="//www.instagram.com/embed.js"></script><blockquote
-        style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
-        - 2px)" class="instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
-        data-instgrm-version="14"></blockquote></center><font
-        color="ffffff"></font>
+      url: https://www.instagram.com/elis.moe/
       title: Instagram
 ---
