@@ -62,5 +62,6 @@ Talking At Length</h4></label>
     <div><p><a href="/elis/resources/listen/podcast-series/grammar-matters/coordinating-conjunctions/">Coordinating Conjunctions – Overseas and Overworked</a></p>
 <p><a href="/elis/resources/listen/subordinating-conjunctions/">Subordinating Conjunctions – Going Abroad</a></p>
 <p><a href="/elis/resources/listen/use-of-tenses-when-linking-ideas-and-clauses/">Use of Tenses When Linking Ideas and Clauses – A Visit to Australia</a></p>
+<p><a href="/elis/resources/listen/reporting-what-others-say-looking-for-a-job/">Reporting What Others Say – Looking for a Job</a></p>
     </div>
 	</li> </ul>

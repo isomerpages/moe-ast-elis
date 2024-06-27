@@ -7,7 +7,7 @@ third_nav_title: Grammar Matters
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/GM17.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GM17.png">
 </div>
 <p><a href="https://open.spotify.com/episode/74L4PytBsjVfBeHn46qlsE?si=abb2be4b07144321" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
@@ -18,7 +18,7 @@ of subordinating conjunctions in this episode of Grammar Matters.&nbsp;</p>
 of areas of English language use in Singapore that differ from standard
 English. The series is based on the '<a href="https://www.relc.org.sg/facilities/resources/publications" rel="noopener noreferrer nofollow" target="_blank">Grammar Matters</a>'
 booklets by SEAMEO RELC.</p>
-<p><em>Episode published on 27 March 2024.</em> 
+<p><em>Episode published on 27 March 2024.</em>
 </p>
 <p></p>
 <p></p>

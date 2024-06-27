@@ -23,7 +23,7 @@ sections:
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/epedagogy/
         - title: New Podcast
-          description: Understanding Subject Literacy
+          description: Reporting What Others Say - Looking for a Job
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/resources/listen/
   - infopic:
