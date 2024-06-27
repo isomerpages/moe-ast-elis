@@ -29,6 +29,21 @@ leadership among them.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary>Classroom Inquiry@School</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_06_27_09_03_49.jpg">
+</div>
+<p>Dr Rachel Goh, Senior Specialist/EL, gave a keynote presentation on ‘Rethinking
+Feedback’ on 15 January 2024 to teachers in Canberra Secondary School at
+their school-wide Professional Learning Session. In partnership with Ms
+Angeline Ho, Assistant Director/Lead Specialist/ELLB, Rachel supports the
+EL department, guiding teachers who are inquiring into improving their
+assessment feedback practices.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Zonal Learning Session (ZLS) (Primary)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The annual ZLS offers EL KP and TLs from primary schools an opportunity
