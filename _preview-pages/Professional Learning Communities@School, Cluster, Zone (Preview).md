@@ -32,14 +32,23 @@ leadership among them.&nbsp;</p>
 <summary>Classroom Inquiry@School</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_06_27_09_03_49.jpg">
-</div>
 <p>ELIS supports teachers in school in their inquiry into the teaching, learning
 and assessment of English Language and Literature in English. Key Personnel
 and Teacher Leaders of a school can look forward to support from Specialists/EL
 in leading their teachers in engaging with the following processes in classroom
 inquiry.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stages_of_classroom_inquiry.png">
+</div>
+<p></p>
+<p>To find out more about Classroom Inquiry@School, contact Dr Rachel Goh
+at <a href="mailto:rachel_goh@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rachel_goh@moe.gov.sg</a>.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_06_27_09_03_49.jpg">
+</div>
 <p></p>
 <p>Dr Rachel Goh, Senior Specialist/EL, gave a keynote presentation on ‘Rethinking
 Feedback’ on 15 January 2024 to teachers in Canberra Secondary School at
