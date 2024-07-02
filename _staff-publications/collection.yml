@@ -1,0 +1,7 @@
+collections:
+  staff-publications:
+    output: true
+    order:
+      - Tay May Yin.md
+      - Caroline Ho.md
+      - Rachel Goh.md
