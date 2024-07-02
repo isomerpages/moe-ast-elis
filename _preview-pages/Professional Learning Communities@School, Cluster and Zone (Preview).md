@@ -1,5 +1,5 @@
 ---
-title: Professional Learning Communities@School, Cluster, Zone (Preview)
+title: Professional Learning Communities@School, Cluster and Zone (Preview)
 permalink: /learning-communities-school-cluster-zone-preview/
 variant: tiptap
 description: ""
