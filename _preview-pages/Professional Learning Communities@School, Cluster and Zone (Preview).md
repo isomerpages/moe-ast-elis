@@ -49,18 +49,18 @@ about selected areas of inquiry in EL teaching, learning and assessment.
 In the last few years, the learning focus of the ZNS include e-Pedagogy
 and Blended Learning, and the Pedagogical Emphases of EL Syllabus 2020.</p>
 <p>The ZNS has become the springboard for the formation of Professional Learning
-Communities at the cluster or zonal levels, in which the LTs can further
-their inquiries into their selected areas of learning with the support
-of Master Teachers from ELIS.</p>
+Communities at the zonal levels, in which the LTs can further their inquiries
+into their selected areas of learning with the support of Master Teachers
+from ELIS.</p>
 </div>
 </details>
 <details class="isomer-details">
 <summary>Professional Learning Communities (PLCs)@Zone (Primary &amp; Secondary)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With their participation in the ZNS, EL LTs are invited to form PLCs in
-their clusters or zones, in which they can collaborate with their peers
-to further their inquiries into a selected area of learning. Master Teachers
-from ELIS support the EL LTs in these PLCs@Zone to grow in their pedagogical
+their zones, in which they can collaborate with their peers to further
+their inquiries into a selected area of learning. Master Teachers from
+ELIS support the EL LTs in these PLCs@Zone to grow in their pedagogical
 leadership so that they can lead/co-lead Networked Learning Communities
 (NLCs) more effectively. &nbsp;</p>
 <p>In 2024 and 2025, the PLCs@Zone are deepening their learning about the
@@ -73,8 +73,8 @@ and celebrate what they have learnt.</p>
 <summary>Networked Learning Communities (NLCs)@Cluster (Primary &amp; Secondary)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Master Teachers from ELIS provide support as Knowledgeable Others to EL
-KP, TLs and teachers in Networked Learning Communities (NLCs), to grow
-their knowledge bases in areas of learning of their choice.</p>
+KP, TLs and teachers in NLCs@Cluster in their ground-up initiatives to
+grow their knowledge bases in areas of learning of their choice.</p>
 </div>
 </details>
 </div>
