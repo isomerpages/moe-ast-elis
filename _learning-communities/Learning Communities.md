@@ -21,7 +21,7 @@ and collaboratively build knowledge and expertise.</p>
 </p>
 </li>
 <li>
-<p><strong>Literature Subject Chapter</strong>
+<p><strong><a href="https://elis.moe.edu.sg/literature-subject-chapter/" rel="noopener noreferrer nofollow" target="_blank">Literature Subject Chapter</a></strong>
 </p>
 </li>
 <li>
