@@ -15,7 +15,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/edigest7cover.png">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest7cover.png">
 </div>
 </td>
 <th rowspan="1" colspan="1">
@@ -57,7 +57,7 @@ Paper learning.</p>
 <th rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/e_digest_issue_5_page_0001.jpg">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/e_digest_issue_5_page_0001.jpg">
 </div>
 </th>
 <td rowspan="1" colspan="1">
@@ -100,7 +100,7 @@ answers to their own questions.</p>
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/edigest3_19jul__1__pages_to_jpg_0001.jpg">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest3_19jul__1__pages_to_jpg_0001.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
