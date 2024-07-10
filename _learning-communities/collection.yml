@@ -2,9 +2,9 @@ collections:
   learning-communities:
     output: true
     order:
-      - Literature Subject Chapter.md
+      - Professional Learning Communities.md
       - Professional Learning Communities@School, Cluster and Zone.md
-      - Learning Communities.md
+      - Literature Subject Chapter.md
       - Singapore Writing Institute/.keep
       - Singapore Writing Institute/The Singapore Writing Institute (SWI).md
       - Singapore Writing Institute/SWI Experience.md
