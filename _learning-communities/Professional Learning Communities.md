@@ -13,7 +13,7 @@ these communities, ELIS encourages teachers to connect with one another
 and collaboratively build knowledge and expertise.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://elis.moe.edu.sg/professional-learning-communities-school-cluster-and-zone/" rel="noopener noreferrer nofollow" target="_blank">Learning Communities@School/Cluster/Zone</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/professional-learning-communities-school-cluster-and-zone/" rel="noopener noreferrer nofollow" target="_blank">Professional Learning Communities@School/Cluster/Zone</a></strong>
 </p>
 </li>
 <li>
