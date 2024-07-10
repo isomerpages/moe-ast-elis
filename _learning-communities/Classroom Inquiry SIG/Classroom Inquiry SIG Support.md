@@ -7,16 +7,7 @@ third_nav_title: Classroom Inquiry SIG
 ---
 <p></p>
 <p>Members of the SIG will get our support throughout the inquiry process:</p>
-<table>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Calendar of Support" src="/images/SIG/Calendar_of_Support_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry SIG Calendar of Support" src="/images/Learning Communities/CI_SIG_Support.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
