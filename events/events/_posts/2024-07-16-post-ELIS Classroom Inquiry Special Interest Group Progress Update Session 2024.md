@@ -21,7 +21,7 @@ Ris Secondary School and NUS High School are exploring the use of AI to
 support students’ writing while Tanjong Katong Primary School is exploring
 the use of AI to support students in generating ideas for their stimulus-based
 conversations.</p>
-<p><strong>Celebrating Learning Session </strong>
+<p><strong>Celebrating Learning Session</strong>
 </p>
 <p>The members will meet up with their respective ELIS Specialists to receive
 support as they continue in the inquiry process. The SIG plans to meet
