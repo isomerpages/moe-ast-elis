@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Team Members/cindy woon.png">
 </div>
 <p></p>
-<h3>Ms Cindy Woon</h3>
+<h4><strong>Ms Cindy Woon</strong></h4>
 <p>Prior to joining ELIS, Cindy served as Level Head (English) in a primary
 school. She embraces the philosophy of learning, unlearning and relearning.
 Her growth mindset and insatiable curiosity led her to pursue a Master
