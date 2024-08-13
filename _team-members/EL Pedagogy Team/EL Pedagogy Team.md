@@ -6,10 +6,10 @@ description: ""
 third_nav_title: EL Pedagogy Team
 ---
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2024_03_01_at_10_19_37_AM.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Team Members/ped_team_20240813.png">
+</div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Tay May Yin" src="/images/may yin (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tay May Yin</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About May Yin</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/" class="isomer-card">
 <div class="isomer-card-image">
@@ -22,7 +22,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Principal Master Teacher</div>
 <div class="isomer-card-link">About Cedric</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey" src="/images/audrey (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Audrey Koh</div><div class="isomer-card-description">Deputy Director (Pedagogy) </div><div class="isomer-card-link">About Audrey</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey" src="/images/audrey (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Audrey Koh</div><div class="isomer-card-description">Deputy Director (Pedagogy)</div><div class="isomer-card-link">About Audrey</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-charles-peters/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -95,28 +95,28 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-link">About Shakila</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-solastri-suyot/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Solastri" src="/images/Screenshot_2024_03_01_at_1_47_48_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Solastri Suyot</div><div class="isomer-card-description">Master Teacher</div><div class="isomer-card-link">About Solastri</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-charmaine-tan/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/intansalwah/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Charmaine" src="/images/Screenshot_2024_03_01_at_1_49_26_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Eunice" src="/images/Screenshot_2024_03_01_at_1_55_32_PM.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Charmaine Tan</div>
+<div class="isomer-card-title">Mdm Intan Salwah Badiuzzaman</div>
 <div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div>
-<div class="isomer-card-link">About Charmaine</div>
+<div class="isomer-card-link">About Intan</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/intansalwah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Eunice" src="/images/Screenshot_2024_03_01_at_1_55_32_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mdm Intan Salwah Badiuzzaman</div><div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Intan</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-benson-pang/" class="isomer-card">
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-benson-pang/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Benson" src="/images/Screenshot_2024_03_01_at_1_51_17_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Benson Pang</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Benson</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/ms-cindy-woon/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Benson" src="/images/Screenshot_2024_03_01_at_1_51_17_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="Cindy Woon" src="/images/Team Members/cindy_landing page.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mr Benson Pang</div>
+<div class="isomer-card-title">Ms Cindy Woon</div>
 <div class="isomer-card-description">Academy Officer (Pedagogy)</div>
-<div class="isomer-card-link">About Benson</div>
+<div class="isomer-card-link">About Cindy</div>
 </div>
 </a>
 </div>
