@@ -24,7 +24,5 @@ generating ideas for their stimulus-based conversations.</p>
 <p><strong>Celebrating Learning Session</strong>
 </p>
 <p>The SIG members plan to meet in-person for a Celebrating Learning Session
-in Feb/Mar 2025 to present their inquiry findings and learning from their
-inquiry projects.</p>
-<p>If you are keen to join us for the Celebrating Learning session, contact
-Dr Rachel Goh at <a rel="noopener noreferrer nofollow" target="_blank">rachel_goh@moe.gov.sg</a> &nbsp;</p>
+on either 27 Feb or 6 Mar 2025 to present their inquiry findings and learning
+from their inquiry projects.</p>
