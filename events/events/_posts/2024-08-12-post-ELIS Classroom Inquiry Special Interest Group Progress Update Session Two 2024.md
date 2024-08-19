@@ -15,7 +15,7 @@ ELIS Specialists, Alison, Caroline, Jeanne and Rachel.</p>
 on their project on exploring GenAI in secondary students’ grammar and
 writing.</p>
 <p>Zalena and Hannah from Paya Lebar Methodist Girls’ Secondary School presented
-their project on supporting lower readiness students’ writing through student-generated
+their project on supporting lower-readiness students’ writing through student-generated
 questions to scaffold writing.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Classroom Inquiry Special Interest Group" src="/images/Learning Communities/CI_SIG_Progress_Update_Session_2.png">
