@@ -8,7 +8,7 @@ third_nav_title: 2024 – Wanderlust Chronicles
 <p><strong>at the airport</strong>
 </p>
 <p>By Florence Lee</p>
-<p>&nbsp;</p>
+<p></p>
 <p>no one here will remember her</p>
 <p>it is not true that</p>
 <p>she can belong here</p>
@@ -28,4 +28,3 @@ third_nav_title: 2024 – Wanderlust Chronicles
 <p>&nbsp;</p>
 <p><em>(The poem can be read from bottom to top as well.)</em>
 </p>
-<p></p>
