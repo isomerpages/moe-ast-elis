@@ -5,7 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: 2024 – Wanderlust Chronicles
 ---
-<p><strong>Jewel: a Hive, or a Paradise?<u><br></u></strong>By Tan Jie Ying</p>
+<p><strong>Jewel: a Hive, or a Paradise?<u><br></u></strong><em>By Tan Jie Ying</em>
+</p>
 <p>A bustling glass hive.</p>
 <p>Human bees running errands –</p>
 <p>their busyness clashing with the serenity&nbsp;</p>
