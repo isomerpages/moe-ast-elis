@@ -3,10 +3,17 @@ title: SWI Continuity Activities
 permalink: /elis/learning-communities/swi-alumni/swi-continuity-activities/
 description: ""
 third_nav_title: Singapore Writing Institute
+variant: markdown
 ---
 ### Writing Marathon
 Throughout the year, SWI team members and alumni organise professional continuity activities. These activities, such as the Writing Marathon, aim to engage alumni as teacher writers and leaders.  
 <br>
+
+<p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/">
+<img src="/images/SWI_Writing_Marathon_Thumbnail__1_.png" style="width:50%">
+</a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/"><b>SWI Writing Marathon 2024</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/">
+</a>
+
 <p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2023-murals-and-signage/">
 <img src="/images/swi%20writing%20marathon%202023.png" style="width:50%">
 </a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2023-murals-and-signage/"><b>SWI Writing Marathon 2023</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2023-murals-and-signage/">
