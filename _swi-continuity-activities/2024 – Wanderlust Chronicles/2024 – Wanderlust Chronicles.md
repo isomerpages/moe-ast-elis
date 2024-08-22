@@ -16,4 +16,4 @@ themselves in a sensory feast of sights of bustling travellers and fleeting
 moments that captured the essence of a journey. Responding to the theme
 of “Wanderlust Chronicles”, the alumni penned their thoughts and emotions,
 allowing their imagination to flow.</p>
-<p></p>
+<p>Read on for snippets of their writing.</p>
