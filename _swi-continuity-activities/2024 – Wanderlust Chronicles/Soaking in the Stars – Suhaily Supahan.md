@@ -7,10 +7,9 @@ third_nav_title: 2024 – Wanderlust Chronicles
 ---
 <p><strong>Soaking in the Stars</strong>
 </p>
-<p>By Suhaily Supahan</p>
-<p>
-<br>
+<p><em>By Suhaily Supahan</em>
 </p>
+<p></p>
 <p><strong>Tekapo, New Zealand</strong>. I have never seen so many stars
 in the night sky. I think any Singaporean would say the same thing. There
 were bright sparkly stars, fizzling ones and baby ones that look like powder
