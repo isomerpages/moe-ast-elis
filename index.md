@@ -17,11 +17,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
-        - title: Upcoming Programmes
-          description: Enacting e–Pedagogy and Blended Learning in English Language
-            Classrooms
+        - title: New Microlearning Unit
+          description: "Coherence in Texts: What It Is and Why It Is Important"
           linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/epedagogy/
+          url: https://elis.moe.edu.sg/microlearning-units-mlus/
         - title: New Podcast
           description: Reporting What Others Say - Looking for a Job
           linktext: Learn more
