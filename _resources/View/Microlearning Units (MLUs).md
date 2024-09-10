@@ -29,17 +29,16 @@ Language, Literature and General Paper.</p>
 </table>
 <h3>What's New</h3>
 <div class="isomer-image-wrapper">
-<img style="width:60%" height="auto" width="100%" src="/images/MLU_Pics.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MLU_Coherence__1_.png">
 </div>
-<p>
-<br><strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/2d271e65-8bc8-4ef4-b853-9cacf71e9524" rel="noopener noreferrer nofollow" target="_blank">Encouraging Student Talk in the Classroom</a></strong>
+<p><strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1bd217e-9437-4bed-98e8-5e79d43da208" rel="noopener nofollow" target="_blank">Coherence in Texts: What It Is and Why It Is Important</a></strong>
 </p>
-<p>Classroom interaction is an essential component of learning that comprises
-both teacher talk and student talk. Through talk, teachers guide students
-to respond to questions, express their ideas and engage with each other
-to deepen understanding of subject content. In this microlearning unit,
-we look at 1) why student talk is important and 2) what factors inhibit
-student talk.</p>
+<p>In this Microlearning Unit (MLU), you will learn about:
+<br>- what coherence in texts is;
+<br>- why coherence in texts is important for readers; and
+<br>- how writers can contribute to coherence in texts.</p>
+<p>In this MLU, we will be focusing on linguistic choices that contribute
+to coherence in written texts.</p>
 <h3>Microlearning Units</h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -350,6 +349,10 @@ student talk.</p>
 </li>
 <li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/bf77f4bb-eac7-4b1f-8da7-bf6ca31c719a" rel="noopener noreferrer nofollow" target="_blank">How can We Make Texts Cohesive? – Using Lexical Cohesive Devices</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1bd217e-9437-4bed-98e8-5e79d43da208" rel="noopener nofollow" target="_blank">Coherence in Texts: What It Is and Why It Is Important</a>
 </p>
 </li>
 </ul>
