@@ -21,10 +21,10 @@ sections:
           description: "Coherence in Texts: What It Is and Why It Is Important"
           linktext: Learn more
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: New Podcast
-          description: Reporting What Others Say - Looking for a Job
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/resources/listen/
+        - title: Singapore Writing Institute (SWI)
+          description: Writings from SWI Writing Marathon 2024
+          linktext: Find out more
+          url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/
   - infopic:
       title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
