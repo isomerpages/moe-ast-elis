@@ -13,6 +13,12 @@ Listen to teachers' personal accounts of conducting classroom inquiry in these p
 
 Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodcastseries](http://go.gov.sg/classroominquirypodcastseries)
 
+
+<p><a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
+<img style="width:40%" src="/images/Jeanne_and_Zalena.png">
+</a></p><center><a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/"><b>Classroom Inquiry: Engaging Students in Poetry Discussions using Socratic Circles</b></a></center><a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
+</a>
+
 <p><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1">
 <img style="width:40%" src="/images/28.png">
 </a></p><center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1"><b>Developing Motivation to Write Through Journaling (Part 1)</b></a></center><a href="/elis/resources/listen/developing-motivation-to-write-through-journaling-part-1">
