@@ -54,10 +54,11 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 </div>
 
 ### What's New
+
 <center>
-<a href="/elis/resources/listen/reporting-what-others-say-looking-for-a-job/">
-<img src="/images/GM19.png" style="width:30%">
-<b>Reporting What Others Say – Looking for a Job</b>
+<a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
+<img src="/images/Jeanne_and_Zalena.png" style="width:30%">
+<b>Classroom Inquiry: Engaging Students in Poetry Discussions using Socratic Circles</b>
 </a>
 	</center>
 
