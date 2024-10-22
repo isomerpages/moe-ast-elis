@@ -17,10 +17,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
-        - title: New Microlearning Unit
-          description: "Coherence in Texts: What It Is and Why It Is Important"
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/microlearning-units-mlus/
+        - title: "New Podcast: Classroom Inquiry"
+          description: Engaging Students in Poetry Discussions using Socratic Circles
+          linktext: Listen
+          url: https://elis.moe.edu.sg/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/
         - title: Singapore Writing Institute (SWI)
           description: Writings from SWI Writing Marathon 2024
           linktext: Find out more
