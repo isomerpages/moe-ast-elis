@@ -2,7 +2,6 @@
 title: Dr Jeanne Ho Pau Yuen
 permalink: /elis/about-us/team-members/research-team/dr-jeanne-ho/
 description: ""
-third_nav_title: REC Team
 ---
 <div class="flex">
 	<div class="imgCrop">
