@@ -52,5 +52,10 @@ K. H. K. (Eds.), <em>Unpacking students’ engagement with feedback: Pedagogy an
 feedback?. In Lipnevich, A. A., To, J., &amp; Tan, K. H. K. (Eds.), <em>Unpacking students’ engagement with feedback: Pedagogy and partnership in practice</em> (pp.
 103-124). Routledge.</p>
 </li>
+<li>
+<p>Fang, Y., Goh, R., &amp; Loon, K. K. N. (2024). Teacher induction policies
+and practices in Singapore. In Wang, J. (Ed.), <em>Teacher induction policy in global contexts: Intentions, implementations, and influences</em> (pp.
+61–79). Information Age Publishing.</p>
+</li>
 </ol>
 <p></p>
