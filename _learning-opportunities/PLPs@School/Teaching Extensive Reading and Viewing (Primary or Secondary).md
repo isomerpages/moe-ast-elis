@@ -35,3 +35,5 @@ a target group of students.</p>
 </li>
 </ul>
 <p></p>
+<h3>Target Participants</h3>
+<p>EL Key Personnel, Teacher Leaders and Teachers</p>
