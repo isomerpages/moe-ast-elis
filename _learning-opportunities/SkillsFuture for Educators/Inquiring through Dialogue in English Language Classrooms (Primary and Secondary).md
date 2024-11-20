@@ -65,8 +65,6 @@ teaching, learning and assessment of EL;</p>
 <p>apply the principles of EL teaching and learning (CLLIPS) and teaching
 processes (ACoLADE) to support IBL including ItD; and</p>
 </li>
-</ul>
-<ul data-tight="true" class="tight">
 <li>
 <p>make appropriate choices, including the use of educational technology,
 to support the practice of IBL including ItD, based on knowledge of learners,
