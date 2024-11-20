@@ -90,6 +90,10 @@ learning about English usage.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Target Participants</h3>
+<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
+levels</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code
 from Fri, 22 Dec 2023:&nbsp; <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/405287b8-c57f-4c4d-a533-a646cb961c7d" rel="noopener noreferrer nofollow" target="_blank">EL-000256</a>.
