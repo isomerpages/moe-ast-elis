@@ -31,8 +31,8 @@ on these concepts, teach time, tense and aspect to your students, and explore
 the use of a variety of grammar references; and</p>
 </li>
 <li>
-<p>explain the use of time, tense and aspec to your students accurately and
-effectively.</p>
+<p>explain the use of time, tense and aspect to your students accurately
+and effectively.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
