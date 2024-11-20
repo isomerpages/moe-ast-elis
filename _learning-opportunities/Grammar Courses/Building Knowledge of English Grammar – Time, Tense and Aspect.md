@@ -88,6 +88,10 @@ effectively.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<h3>Target Participants</h3>
+<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
+levels</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code
 from Fri, 22 Dec 2023:&nbsp; <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51" rel="noopener noreferrer nofollow" target="_blank">EL-000094</a>.
