@@ -41,4 +41,4 @@ readers, empathetic communicators and creative inquirers.</p>
 </li>
 </ul>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers</p>
+<p>EL Key Personnel, Teacher Leaders and Teachers at the primary level</p>
