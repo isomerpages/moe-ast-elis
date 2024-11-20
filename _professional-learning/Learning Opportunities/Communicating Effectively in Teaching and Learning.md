@@ -10,7 +10,7 @@ variant: tiptap
 they can develop their students’ communication skills for learning.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/facilitating-academic-discussion/" rel="noopener noreferrer nofollow" target="_blank">Facilitating Productive Academic Discussion</a>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/facilitating-academic-discussion/" rel="noopener noreferrer nofollow" target="_blank">Facilitating Productive Classroom Discussion</a>
 </p>
 </li>
 <li>
