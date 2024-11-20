@@ -102,5 +102,5 @@ from Fri, 22 Dec 2023:&nbsp; <a href="https://www.opal2.moe.edu.sg/app/learner/d
 <br>
 </p>
 <h5>For enquiries, please contact:</h5>
-<p>Mr Benson Pang (Academy Officer/Pedagogy) at <a href="mailto:benson_pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">benson_pang@moe.gov.sg</a>
+<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>
 </p>
