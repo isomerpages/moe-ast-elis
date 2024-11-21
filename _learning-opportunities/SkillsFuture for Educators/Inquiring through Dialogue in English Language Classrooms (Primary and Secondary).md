@@ -16,7 +16,7 @@ and problem-solve in EL Classrooms, you will:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>your enactment of IBL which incorporates the practice of Inquiry through
-Dialogue (ItD) in the teaching, learning and assessment of (EL), or</p>
+Dialogue (ItD) in the teaching, learning and assessment of EL, or</p>
 </li>
 <li>
 <p>your practice of leading others in their learning about IBL and the practice
@@ -43,8 +43,9 @@ Practice below.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>wish to have fundamental understanding of IBL, including ItD, and would
-like to become skilful and independent in your practice of IBL in EL classrooms;</p>
+<p>wish to have fundamental understanding of the practice of IBL, including
+ItD, and would like to become skilful and independent in your practice
+of IBL in EL classrooms;</p>
 </li>
 <li>
 <p>would like to be able to, on an ongoing basis, reflect on your practice
@@ -63,7 +64,7 @@ teaching, learning and assessment of EL;</p>
 </li>
 <li>
 <p>apply the principles of EL teaching and learning (CLLIPS) and teaching
-processes (ACoLADE) to support IBL including ItD; and</p>
+processes (ACoLADE) to support the practice of IBL including ItD; and</p>
 </li>
 <li>
 <p>make appropriate choices, including the use of educational technology,
