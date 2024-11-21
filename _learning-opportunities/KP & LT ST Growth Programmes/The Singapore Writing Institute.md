@@ -11,10 +11,9 @@ variant: tiptap
 in the USA. We are certified to facilitate the Singapore Writing Institute
 (SWI),&nbsp; which is modelled on the Invitational Summer Writing Institute
 of the NWP. SWI is a ten-day professional learning opportunity for you
-to experience yourself as a writer, in order to become a more effective
-teacher of writing and representing. With the support of the Singapore
-Writing Project team, you will undertake an inquiry that spans one and
-a half years.</p>
+to experience yourself as a writer, in order to become a better teacher
+of writing and representing. With the support of the Singapore Writing
+Project team, you will undertake an inquiry that spans one and a half years.</p>
 <h3>Learning Goals</h3>
 <p>By the end of SWI, you will:</p>
 <ul>
