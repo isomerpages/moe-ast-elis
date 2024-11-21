@@ -65,8 +65,7 @@ will be held once a term between Term 4, 2025 and Term 3, 2026. You will
 be given the opportunity to co-construct and present your inquiry into
 the teaching, learning and assessment of writing and representing through
 collaborative professional conversations. You will also consider the implications
-of your inquiry</p>
-<p>on your classroom practice and leadership.</p>
+of your inquiry on your classroom practice and leadership.</p>
 </li>
 </ul>
 <h3>Who may Apply</h3>
