@@ -21,5 +21,5 @@ professional portfolio for accreditation and for the appointment interview.</p>
 <p>Register on&nbsp;OPAL2.0 &nbsp;using this code from Fri, 22 Dec 2023:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f48b5157-f4d0-4267-ae74-7e7290cc4115" rel="noopener noreferrer nofollow" target="_blank">EL-000096</a></strong>.</p>
 <p>Closing date for registration: Thu, 4 Jan</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Ynez Lim (Senior Academy Officer/Pedagogy) at Ms Ynez Lim (Academy
-Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at Ms Ynez Lim (Academy Officer/Pedagogy)
+at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
