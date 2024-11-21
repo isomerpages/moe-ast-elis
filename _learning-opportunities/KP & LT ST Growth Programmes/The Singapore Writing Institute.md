@@ -3,58 +3,109 @@ title: The Singapore Writing Institute
 permalink: /elis/professional-learning/professional-learning-opportunities/the-singapore-writing-institute/
 description: ""
 third_nav_title: KP & LT ST Growth Programmes
-variant: markdown
+variant: tiptap
 ---
-### Overview
-ELIS is an Associated International Site of the National Writing Project (NWP), a well-established professional learning experience for teachers in the USA. We are certified to facilitate the Singapore Writing Institute (SWI),&nbsp; which is modelled on the Invitational Summer Writing Institute of the NWP. SWI is a ten-day professional learning opportunity for you to experience yourself as a writer, in order to become a more effective teacher of writing and representing. With the support of the Singapore Writing Project team, you will undertake an inquiry that spans one and a half years.
-
-### Learning Goals
-
-By the end of SWI, you will:
-
-*   demonstrate awareness of
-
-*   the purposes for writing and representing, and
-
-*   the processes of writing and representing;
-
-*   develop an understanding of current research and theoretical perspectives regarding writing and representing, and how such an understanding can inform the teaching of writing and representing;
-
-*   make informed decisions about your choice of teaching and learner strategies to support learners with diverse needs as they learn to write and represent;
-
-*   consider the use of appropriate formative assessment tools to assess your students’ development in writing and representing;
-
-*   design and undertake an inquiry, and
-
-*   lead others in learning about writing and representing.
-
-### Programme Structure
-
-You can look forward to:
-
-*   a half-day orientation session to prepare you for SWI;
-*   a ten-day programme with a blend of in-person and online synchronous and asynchronous learning sessions; and	 
-*   four post-SWI sessions to support your application of learning.
-
-### Who may Apply
-EL KP, TLs and potential KP/TLs in primary and secondary schools are invited to apply. Applicants should be in a position to influence the teaching and learning in their schools.
-
-Those who participate will:
-
-*   commit to deepening their understanding of writing and representing processes and be willing to explore their pedagogical practices;
-*   be willing to write and talk about their practices of writing and representing;
-*   be reflective, enthusiastic and open to receiving feedback on their writing and representing as well as to giving feedback to others;
-*   commit to applying what they have learnt in their classrooms;
-*   demonstrate teacher leadership by influencing their peers as well as their students to write and represent more effectively; and
-*   contribute to the learning of the SWI alumni by presenting the learning from their inquiry into the teaching of writing and representing.
-
-### How to Apply
-
-   Application details will be available in the ELIS e-Prospectus 2025.
-
-### For enquiries, please contact:
-Ms Elizabeth Lee (Academy Officer/Pedagogy) at  
-<a href="mailto:elizabeth_h_lee@moe.gov.sg">elizabeth_h_lee@moe.gov.sg </a>
-OR  
-Mdm Rita Pillai (MTT/EL) at 
-<a href="mailto:rita_pillai@moe.gov.sg">rita_pillai@moe.gov.sg</a>
+<h3>Overview</h3>
+<p>ELIS is an Associated International Site of the National Writing Project
+(NWP), a well-established professional learning experience for teachers
+in the USA. We are certified to facilitate the Singapore Writing Institute
+(SWI),&nbsp; which is modelled on the Invitational Summer Writing Institute
+of the NWP. SWI is a ten-day professional learning opportunity for you
+to experience yourself as a writer, in order to become a better teacher
+of writing and representing. With the support of the Singapore Writing
+Project team, you will undertake an inquiry that spans one and a half years.</p>
+<h3>Learning Goals</h3>
+<p>By the end of SWI, you will:</p>
+<ul>
+<li>
+<p>demonstrate awareness of</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>the purposes for writing and representing, and</p>
+</li>
+<li>
+<p>the processes of writing and representing;</p>
+</li>
+</ul>
+</li>
+<li>
+<p>develop an understanding of current research and theoretical perspectives
+regarding writing and representing, and how such an understanding can inform
+the teaching of writing and representing;</p>
+</li>
+<li>
+<p>make informed decisions about your choice of teaching and learner strategies
+to support learners with diverse needs as they learn to write and represent;</p>
+</li>
+<li>
+<p>consider the use of appropriate formative assessment tools to assess your
+students’ development in writing and representing;</p>
+</li>
+<li>
+<p>design and undertake an inquiry, and</p>
+</li>
+<li>
+<p>lead others in learning about writing and representing.</p>
+</li>
+</ul>
+<h3>Programme Structure</h3>
+<p>You can look forward to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>a half-day orientation session to prepare you for SWI;</p>
+</li>
+<li>
+<p>a ten-day programme with a blend of in-person and online synchronous and
+asynchronous learning sessions; and</p>
+</li>
+<li>
+<p>four post-SWI sessions to support your application of learning.These sessions
+will be held once a term between Term 4, 2025 and Term 3, 2026. You will
+be given the opportunity to co-construct and present your inquiry into
+the teaching, learning and assessment of writing and representing through
+collaborative professional conversations. You will also consider the implications
+of your inquiry on your classroom practice and leadership.</p>
+</li>
+</ul>
+<h3>Who may Apply</h3>
+<p>EL KP, TLs and potential KP/TLs in primary and secondary schools are invited
+to apply. Applicants should be in a position to influence the teaching
+and learning in their schools.</p>
+<p>Those who participate will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>commit to deepening their understanding of writing and representing processes
+and be willing to explore their pedagogical practices;</p>
+</li>
+<li>
+<p>write and talk about their own practices of writing and representing;</p>
+</li>
+<li>
+<p>be reflective, enthusiastic and open to receiving feedback on their writing
+and representing as well as to giving feedback to others;</p>
+</li>
+<li>
+<p>apply what they have learnt in their own classrooms;</p>
+</li>
+<li>
+<p>demonstrate teacher leadership by influencing their peers as well as their
+students to write and represent more effectively; and</p>
+</li>
+<li>
+<p>contribute to the learning of the SWI alumni by presenting the learning
+from their inquiry into the teaching of writing and representing.</p>
+</li>
+</ul>
+<h3>How to Apply</h3>
+<p>Please note the following:</p>
+<p>• Jan 2025: application for SWI 2025 intake will be sent through school
+principals</p>
+<p>• Feb-Mar 2025: group interviews will be conducted for all applicants.</p>
+<p>Participants must be fully present, excused from duties by their school
+principals for the duration of SWI 2025, and commit to participating in
+post- SWI continuity activities.</p>
+<h3>For enquiries, please contact:</h3>
+<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at
+<br><a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg </a>OR
+<br>Mdm Rita Pillai (MTT/EL) at <a href="mailto:rita_pillai@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">rita_pillai@moe.gov.sg</a>
+</p>

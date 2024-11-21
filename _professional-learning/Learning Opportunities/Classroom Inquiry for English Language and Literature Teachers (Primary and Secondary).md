@@ -1,8 +1,9 @@
 ---
-title: Classroom Inquiry for EL and Literature Teachers
-permalink: /elis/professional-learning/professional-learning-opportunities/classroom-inquiry-for-el-literature/
+title: Classroom Inquiry for English Language and Literature Teachers (Primary
+  and Secondary)
+permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/
 description: ""
-third_nav_title: Classroom Inquiry
+third_nav_title: Learning Opportunities
 variant: tiptap
 ---
 <p><em>How can I turn my interest in my students’ learning into a focused classroom inquiry? How do I design the inquiry to answer the questions I have? What methods can I use to collect and analyse evidence? How can I communicate my findings clearly and convincingly to others?</em>
@@ -11,19 +12,19 @@ variant: tiptap
 <p>This course introduces you to classroom-based, teacher-led inquiry for
 the teaching, learning and assessment of English Language and Literature
 in English.</p>
-<p>In the course, you will:</p>
+<p>In the course, you will</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>learn how to design an inquiry that will help you understand the effects
-of your classroom practices on students’ learning;</p>
+of your classroom practices on students’ learning</p>
 </li>
 <li>
 <p>identify an inquiry focus relevant to your students’ learning and develop
-appropriate questions to guide your inquiry;</p>
+appropriate questions to guide your inquiry</p>
 </li>
 <li>
 <p>learn how to collect evidence of students’ learning as data that will
-help you answer your inquiry questions; and</p>
+help you answer your inquiry questions</p>
 </li>
 <li>
 <p>explore ways to analyse such data, and how to develop and communicate

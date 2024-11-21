@@ -1,5 +1,6 @@
 ---
 title: Enacting e–Pedagogy and Blended Learning in English Language Classrooms
+  (Primary and Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/epedagogy/
 description: ""
 third_nav_title: SkillsFuture for Educators
@@ -23,10 +24,10 @@ tools in these contexts; and</p>
 </li>
 <li>
 <p>apply your learning about e-pedagogy and blended learning to promote active
-student learning in participatory, connected and reflective classrooms</p>
+student learning in participatory, connected and reflective classrooms.</p>
 </li>
 </ul>
-<h3>Levels of Practice and Learning Goals</h3>
+<h3>Level of Practice and Learning Goals</h3>
 <p><strong>Proficient</strong>&nbsp;Level of Practice: Does independently</p>
 <p><em>Select this course at the Proficient Level of Practice if you:</em>
 </p>
@@ -65,7 +66,12 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -107,7 +113,13 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
 <h3>Registration</h3>
-<table>
+<p>Registration for the course is limited to a maximum of three participants
+from each school.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -145,7 +157,6 @@ Dec 2023.</p>
 </tbody>
 </table>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>
-</p>
+<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>.</p>
 <p></p>
 <p></p>
