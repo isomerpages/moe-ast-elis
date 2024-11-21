@@ -27,44 +27,42 @@ EL, Literature, and/or GP classrooms;</p>
 <li>
 <p>critically inquire into the application of e-pedagogy and blended learning
 in the design of professional learning experiences for EL, Literature,
-and/or</p>
-<p>GP teachers in your department/cluster/zone; and</p>
+and/or GP teachers in your department/cluster/zone; and</p>
 </li>
 <li>
-<p>demonstrate understanding of what is involved in designing teacher learning.</p>
+<p>demonstrate understanding of what is involved in designing and facilitating
+teacher learning.</p>
 </li>
 </ul>
 <h3>Attachment Programme Outline</h3>
 <p>You will be involved in the following learning experiences:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reflecting on and identifying your own learning directions and areas</p>
-<p>for growth as a Key Personnel, Teacher Leader or Teacher of</p>
-<p>English Language, Literature, and/or General Paper</p>
+<p>Reflecting on and identifying your own learning directions and areas for
+growth as a Key Personnel, Teacher Leader or Teacher of English Language,
+Literature, and/or General Paper;</p>
 </li>
 <li>
-<p>Observing PMTTs and MTTs in their various areas of work to inquire</p>
-<p>into what designing teacher learning involves</p>
+<p>Observing PMTTs and MTTs in their various areas of work to inquire into
+what designing teacher learning involves;</p>
 </li>
 <li>
-<p>Observing Senior/Academy Officers (S/AOs) in their various areas of</p>
-<p>work, to inquire into their roles in supporting the Mission and Vision</p>
-<p>of ELIS</p>
+<p>Observing Senior/Academy Officers (S/AOs) in their various areas of work,
+to inquire into their roles in supporting the Mission and Vision of ELIS;</p>
 </li>
 <li>
-<p>Inquiring into and applying andragogical principles to co-design, coreview</p>
-<p>and co-facilitate EL, Literature, and/or GP teacher learning</p>
-<p>experiences</p>
+<p>Inquiring into and applying andragogical principles to co-design, co-review
+and co-facilitate EL, Literature, and/or GP teacher learning experiences</p>
 </li>
 <li>
-<p>Identifying both your own and your teachers’ learning needs in</p>
-<p>designing and enacting EL, Literature, and/or GP learning</p>
-<p>experiences to impact student learning</p>
+<p>Identifying both your own and your teachers’ learning needs in designing
+and enacting EL, Literature, and/or GP learning experiences to impact student
+learning</p>
 </li>
 <li>
-<p>Reviewing and refining the professional learning plan for EL,</p>
-<p>Literature, and/or GP teachers in your department/cluster/zone,</p>
-<p>including the use of relevant resources to support teacher learning</p>
+<p>Reviewing and refining the professional learning plan for EL, Literature,
+and/or GP teachers in your department/cluster/zone, including the use of
+relevant resources to support teacher learning</p>
 </li>
 </ul>
 <h3>Programme Structure</h3>
