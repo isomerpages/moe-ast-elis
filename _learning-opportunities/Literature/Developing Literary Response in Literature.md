@@ -34,7 +34,7 @@ enable students to construct sensitive and informed personal responses.</p>
 <h3>Target Participants</h3>
 <p>Literature Key Personnel, Teacher Leaders and Teachers</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/672c3117-bb91-4f10-8012-7b23ff74d150" rel="noopener noreferrer nofollow" target="_blank">Lit-000006</a>.
+<p>Please register on&nbsp;OPAL2.0&nbsp;using this code: LIT-000033. &nbsp;
 <br>Closing date for registration: Fri, 24 May</p>
 <h3>For enquiries, please contact:</h3>
-<p>Mr Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>.</p>
+<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>.</p>
