@@ -82,9 +82,10 @@ level</p>
 <p>Apply via the following link or QR code:</p>
 <p><a href="https://go.gov.sg/twaplus-wa-registration-2024/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration-2024/</a>
 </p>
+<p>Closing date for application: Fri, 19 Jan</p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/twaqrcode.png">
 </div>
 <p>For enquires, please contact:</p>
 <p>Ms Solastri Suyot (MTT/EL) at <a href="mailto:solastri_suyot@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">solastri_suyot@moe.gov.sg</a>.</p>
-<p>Closing date for application: Fri, 19 Jan</p>
+<p></p>
