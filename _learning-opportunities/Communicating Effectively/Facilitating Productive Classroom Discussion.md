@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Communicating Effectively
 variant: tiptap
 ---
-<p><em>What is a productive academic discussion? How can I carry out productive discussions in my classroom?</em>
+<p><em>What is a productive classroom discussion? How can I carry out productive discussions in my classroom?</em>
 </p>
 <h3>Overview</h3>
-<p>Productive academic discussions provide students with opportunities to
+<p>Productive classroom discussions provide students with opportunities to
 clarify their thinking and consolidate their understanding during the lesson.
 Such discussions can enable students to deepen their reasoning, and listen
 to and engage with one another’s reasoning. This course explores how teachers
@@ -20,7 +20,7 @@ online learning.</p>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>understand how a productive academic discussion can support your students’
+<p>understand how a productive classroom discussion can support your students’
 learning;</p>
 </li>
 <li>
