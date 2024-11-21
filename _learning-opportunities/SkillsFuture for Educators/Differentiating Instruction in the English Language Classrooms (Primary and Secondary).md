@@ -32,8 +32,8 @@ connected and reflective classrooms.</p>
 <img style="width:70%" height="auto" width="100%" src="/images/picture.png">
 </div>
 <p>To decide on the most appropriate Level of Practice to meet your learning
-needs, please refer to the informatio for each of the three Levels of Practice
-below.</p>
+needs, please refer to the information for each of the three Levels of
+Practice below.</p>
 <h3>Levels of Practice and Learning Goals</h3>
 <p><strong>Proficient</strong>&nbsp;Level of Practice: Does independently</p>
 <p><em>Select this course at the Proficient Level of Practice if you:</em>
