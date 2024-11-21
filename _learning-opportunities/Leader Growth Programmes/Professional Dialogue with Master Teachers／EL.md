@@ -30,5 +30,5 @@ of TLs; and</p>
 2023:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/1fe55709-435c-4060-912d-79ae42db6e30" rel="noopener noreferrer nofollow" target="_blank">EL-000095</a></strong>.</p>
 <p>Closing date for registration: Tue, 27 Feb</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Ynez Lim (Senior Academy Officer/Pedagogy) at Ms Ynez Lim (Academy
-Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at Ms Ynez Lim (Academy Officer/Pedagogy)
+at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
