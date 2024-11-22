@@ -26,15 +26,6 @@ sections:
           linktext: Find out more
           url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/
   - infopic:
-      title: ELIS e-Digest
-      description: View, read and listen to teachers' experiences in the teaching,
-        learning and assessment of English Language, Literature and General
-        Paper.
-      button: Access the e-Digest here
-      url: /elis/resources/read/elis-e-digest-new/
-      image: /images/READ ICONS/edigest7cover.png
-      alt: e-Digest
-  - infopic:
       title: Professional Learning Opportunities 2024
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
@@ -42,6 +33,14 @@ sections:
       url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/epros24_full_homepage.png
       alt: ELIS learning opportunities
+  - infopic:
+      title: Teacher Work Attachment@ELIS
+      description: Don't miss the opportunity to observe EL Master Teachers facilitate
+        teacher learning
+      button: Find out more
+      url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/teacher-work-attachment-elis/
+      image: /images/3___14_Feb_2025__Register_by_3_Dec_2024__8___18_July_2025__Register_by_8_May_2025_.jpg
+      alt: TWA
   - infopic:
       title: ELIS Masterclass
       button: Start learning here
