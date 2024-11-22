@@ -35,8 +35,6 @@ sections:
       alt: ELIS learning opportunities
   - infopic:
       title: Teacher Work Attachment@ELIS
-      description: Don't miss the opportunity to observe EL Master Teachers facilitate
-        teacher learning
       button: Find out more
       url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/teacher-work-attachment-elis/
       image: /images/3___14_Feb_2025__Register_by_3_Dec_2024__8___18_July_2025__Register_by_8_May_2025_.jpg
