@@ -22,9 +22,11 @@ of Education (NIE).</p>
 you will build foundational understanding of the SCK you need to teach
 EL effectively.</p>
 <h3>Programme Structure</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:100%" height="auto" width="100%" src="/images/96h%20plp%202024%20dates3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/96_hr.jpg">
 </div>
+<p></p>
 <p>You will learn through a blend of in-person and online asynchronous and
 synchronous learning experiences as well as apply your learning in classroom
 practice.</p>
@@ -33,10 +35,7 @@ access:</p>
 <p>▪ An overview of the 96-hr PLP</p>
 <p>▪ Frequently Asked Questions on the 96-hr PLP</p>
 <h3>Registration</h3>
-<p>Experienced EL teachers with at least five years of experience in teaching
-EL and without specialisation in EL at university, who have sought approval
-from their Principals, can register via this <a href="https://go.gov.sg/register96hplp" rel="noopener noreferrer nofollow" target="_blank">link</a>.</p>
-<p>Closing date for registration: Tue, 21 Nov 2023</p>
+<p>The participants for the 2025 run have been confirmed.</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a> OR</p>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg.</a>
