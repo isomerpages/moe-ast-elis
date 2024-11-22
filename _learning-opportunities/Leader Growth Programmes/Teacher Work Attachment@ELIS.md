@@ -7,9 +7,10 @@ variant: tiptap
 ---
 <h3>Overview</h3>
 <p>Would you like to grow professionally with guidance from PMTTs and MTTs
-in ELIS? Our Teacher Work Attachment (TWA) is specially designed with this
-aim in mind. During the two-week attachment, you will observe the PMTTs
-and MTTs facilitate teacher learning and engage in professional conversations
+in ELIS?</p>
+<p>Our Teacher Work Attachment (TWA) is specially designed with this aim
+in mind. During the two-week attachment, you will observe the PMTTs and
+MTTs facilitate teacher learning and engage in professional conversations
 with them. You can look forward to time and space for critical reflection
 and consolidation of your knowledge as a Key Personnel (HOD, SH, LH), Teacher
 Leader or Teacher. To enable you to apply your learning, the PMTTs and
@@ -69,9 +70,15 @@ relevant resources to support teacher learning.</p>
 <p>The TWA@ELIS Programme will be a blend of in-person and online synchronous
 and asynchronous learning sessions over a two-week period.</p>
 <p>Two runs are available in 2025; please select only one.</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/teacher%20work%20attachment%202024.png">
-</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>3 – 14 Feb 2025 (Register by 3 Dec 2024)</p>
+</li>
+<li>
+<p>8 – 18 July 2025 (Register by 8 May 2025)</p>
+</li>
+</ul>
+<p></p>
 <h3>Target Participants</h3>
 <p>EL, Literature, and General Paper KP, TLs and Teachers (with at least
 4 years of teaching experience) at the primary, secondary, or pre-university
@@ -80,7 +87,7 @@ level</p>
 <p>Apply via the following link or QR code:</p>
 <p><a href="https://go.gov.sg/twaplus-wa-registration-2024/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration-2024/</a>
 </p>
-<p>Closing date for application: Fri, 19 Jan</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/twaqrcode.png">
 </div>
