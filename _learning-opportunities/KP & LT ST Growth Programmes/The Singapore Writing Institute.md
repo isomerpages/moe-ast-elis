@@ -99,10 +99,10 @@ from their inquiry into the teaching of writing and representing.</p>
 <h3>How to Apply</h3>
 <p>Please note the following:</p>
 <p>• Jan 2025: application for SWI 2025 intake will be sent through school
-principals</p>
+Principals</p>
 <p>• Feb-Mar 2025: group interviews will be conducted for all applicants.</p>
 <p>Participants must be fully present, excused from duties by their school
-principals for the duration of SWI 2025, and commit to participating in
+Principals for the duration of SWI 2025, and commit to participating in
 post- SWI continuity activities.</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at
