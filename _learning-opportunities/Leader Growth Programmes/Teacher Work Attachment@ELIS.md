@@ -84,9 +84,8 @@ and asynchronous learning sessions over a two-week period.</p>
 4 years of teaching experience) at the primary, secondary, or pre-university
 level</p>
 <h3>How to Apply</h3>
-<p>Apply via this link <a href="https://go.gov.sg/twaplus-wa-registration-2024/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration-2024/  </a>
+<p>Apply via this link <a href="https://go.gov.sg/twaplus-wa-registration-2024/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration-2024/ </a>
 <br>or QR code:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width:50%" height="auto" width="100%" src="/images/twaqrcode.png">
 </div>
