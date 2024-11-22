@@ -21,12 +21,10 @@ online learning.</p>
 <p>be aware of the literacy demands of writing tasks;</p>
 </li>
 <li>
-<p>have learnt strategies for using talk to scaffold students’</p>
-<p>writing; and</p>
+<p>have learnt strategies for using talk to scaffold students’ writing; and</p>
 </li>
 <li>
-<p>apply your learning by planning a lesson to help students write</p>
-<p>more effectively.</p>
+<p>apply your learning by planning a lesson to help students write more effectively.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
