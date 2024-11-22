@@ -38,31 +38,31 @@ teacher learning.</p>
 <p>You will be involved in the following learning experiences:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Reflecting on and identifying your own learning directions and areas for
+<p>reflecting on and identifying your own learning directions and areas for
 growth as a Key Personnel, Teacher Leader or Teacher of English Language,
 Literature, and/or General Paper;</p>
 </li>
 <li>
-<p>Observing PMTTs and MTTs in their various areas of work to inquire into
+<p>observing PMTTs and MTTs in their various areas of work to inquire into
 what designing teacher learning involves;</p>
 </li>
 <li>
-<p>Observing Senior/Academy Officers (S/AOs) in their various areas of work,
+<p>observing Senior/Academy Officers (S/AOs) in their various areas of work,
 to inquire into their roles in supporting the Mission and Vision of ELIS;</p>
 </li>
 <li>
-<p>Inquiring into and applying andragogical principles to co-design, co-review
-and co-facilitate EL, Literature, and/or GP teacher learning experiences</p>
+<p>inquiring into and applying andragogical principles to co-design, co-review
+and co-facilitate EL, Literature, and/or GP teacher learning experiences;</p>
 </li>
 <li>
-<p>Identifying both your own and your teachers’ learning needs in designing
+<p>identifying both your own and your teachers’ learning needs in designing
 and enacting EL, Literature, and/or GP learning experiences to impact student
-learning</p>
+learning; and</p>
 </li>
 <li>
-<p>Reviewing and refining the professional learning plan for EL, Literature,
+<p>reviewing and refining the professional learning plan for EL, Literature,
 and/or GP teachers in your department/cluster/zone, including the use of
-relevant resources to support teacher learning</p>
+relevant resources to support teacher learning.</p>
 </li>
 </ul>
 <h3>Programme Structure</h3>
