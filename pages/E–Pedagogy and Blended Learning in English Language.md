@@ -2,7 +2,6 @@
 title: E–Pedagogy and Blended Learning in English Language
 permalink: /elis/professional-learning/professional-learning-opportunities/e-pedagogy-and-blended-learning/
 description: ""
-third_nav_title: PLPs@School
 variant: markdown
 ---
 ### Enabling Participatory, Connected and Reflective English Language Learning
