@@ -196,7 +196,7 @@ levels</p>
 </div>
 <p>Please register on
 <br>OPAL2.0 using
-<br>these codes from Fri, 22 Dec 2023..</p>
+<br>these codes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/10d7e1b8-f2b0-4556-b70c-f808880f8db6" rel="noopener noreferrer nofollow" target="_blank">EL-000078</a>
