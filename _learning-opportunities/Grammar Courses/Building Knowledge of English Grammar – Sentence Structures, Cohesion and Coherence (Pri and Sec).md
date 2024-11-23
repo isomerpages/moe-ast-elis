@@ -90,11 +90,6 @@ levels</p>
 <p>Closing date for registration: Thu, 24 Jul</p>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;
 <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/6a663c3e-0d43-4723-9b5a-f32ac4c08c9a" rel="noopener noreferrer nofollow" target="_blank">EL-000259</a>.
-<br>l</p>
-<div class="isomer-image-wrapper">
-<img style="width:7%" height="auto" width="100%" src="/images/picture17.png">
-</div>
-<p>
 <br>
 </p>
 <h5>For enquiries, please contact:</h5>
