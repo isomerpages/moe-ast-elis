@@ -59,12 +59,10 @@ understanding and application of assessment principles.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 10 Apr –</p>
-<p>Fri, 25 Apr</p>
+<p>Thu, 10 Apr – Fri, 25 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 2 Jul –</p>
-<p>Thu, 17 Jul</p>
+<p>Wed, 2 Jul – Thu, 17 Jul</p>
 </td>
 </tr>
 <tr>
@@ -75,12 +73,10 @@ understanding and application of assessment principles.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 2 May</p>
-<p>(P.M.)</p>
+<p>Fri, 2 May (P.M.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 23 Jul</p>
-<p>(P.M.)</p>
+<p>Wed, 23 Jul (P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -91,12 +87,10 @@ understanding and application of assessment principles.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 5 May –</p>
-<p>Tue, 20 May</p>
+<p>Mon, 5 May – Tue, 20 May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 24 Jul –</p>
-<p>Thu, 7 Aug</p>
+<p>Thu, 24 Jul – Thu, 7 Aug</p>
 </td>
 </tr>
 <tr>
@@ -107,12 +101,10 @@ understanding and application of assessment principles.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 26 May</p>
-<p>(P.M.)</p>
+<p>Mon, 26 May (P.M.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 15 Aug</p>
-<p>(P.M.)</p>
+<p>Fri, 15 Aug (P.M.)</p>
 </td>
 </tr>
 </tbody>
