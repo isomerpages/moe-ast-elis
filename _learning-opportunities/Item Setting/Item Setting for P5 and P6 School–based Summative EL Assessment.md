@@ -29,9 +29,6 @@ understanding and application of assessment principles.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/item%20setting.png">
-</div>
 <h3>Target Participants</h3>
 <p>EL KP, TLs&nbsp; and P5 and P6 Teachers</p>
 <p>Registration for the course is limited to a maximum of three participants
