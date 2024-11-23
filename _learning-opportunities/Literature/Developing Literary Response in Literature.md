@@ -54,8 +54,7 @@ enable students to construct sensitive and informed personal responses.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 Jul –</p>
-<p>Mon, 28 Jul</p>
+<p>Mon, 14 Jul – Mon, 28 Jul</p>
 </td>
 </tr>
 <tr>
@@ -77,8 +76,7 @@ enable students to construct sensitive and informed personal responses.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 5 Aug –</p>
-<p>Wed, 20 Aug</p>
+<p>Tue, 5 Aug – Wed, 20 Aug</p>
 </td>
 </tr>
 <tr>
