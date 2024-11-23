@@ -22,10 +22,128 @@ of Education (NIE).</p>
 you will build foundational understanding of the SCK you need to teach
 EL effectively.</p>
 <h3>Programme Structure</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Module </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Primary </strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong> Secondary</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol data-tight="true" class="tight">
+<li>
+<p>Teaching Spoken and Written Grammar</p>
+</li>
+</ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/96_hr.jpg">
-</div>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 16 Jan</p>
+<p>Thu, 23 Jan Wed, 5 Feb</p>
+<p>Wed, 19 Feb</p>
+<p>(4 full days)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 6 Feb</p>
+<p>Thu, 20 Feb</p>
+<p>Thu, 6 Mar</p>
+<p>(3 full days)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Teaching Listening and Viewing</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 3 Apr</p>
+<p>Thu, 17 Apr</p>
+<p>(2 full days)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 2 Apr</p>
+<p>Wed, 16 Apr</p>
+<p>(2 full days)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Teaching Speaking and Representing</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 24 Apr</p>
+<p>Thu, 8 May</p>
+<p>(2 full days)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 9 Jul</p>
+<p>Fri, 1 Aug</p>
+<p>(2 full days)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p>Teaching Reading, Viewing and Vocabulary</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 2 Jul</p>
+<p>Mon, 21 Jul</p>
+<p>(2 full days)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 16 Sep</p>
+<p>Mon, 22 Sep</p>
+<p>Mon, 6 Oct</p>
+<p>(3 full days)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ol start="5" data-tight="true" class="tight">
+<li>
+<p>Teaching Writing and Representing</p>
+</li>
+</ol>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 4 Aug</p>
+<p>Wed, 20 Aug</p>
+<p>(2 full days)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 15 Oct</p>
+<p>Thu, 30 Oct</p>
+<p>(2 full days)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p>You will learn through a blend of in-person and online asynchronous and
 synchronous learning experiences as well as apply your learning in classroom
