@@ -220,8 +220,7 @@ levels</p>
 <br>for registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Dec</p>
-<p>2024</p>
+<p>Fri, 27 Dec 2024</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
