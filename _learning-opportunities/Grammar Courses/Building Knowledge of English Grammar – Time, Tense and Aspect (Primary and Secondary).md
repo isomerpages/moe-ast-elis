@@ -37,7 +37,59 @@ and effectively.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<p></p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture9" src="/images/picture9.png">
+</div>
+<p>Asynchronous Online Learning Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 25 Mar-Wed, 16 Apr</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture10" src="/images/picture10.png">
+</div>
+<p>In-Person Learning Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 23 Apr</p>
+<p>(P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Target Participants</h3>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
