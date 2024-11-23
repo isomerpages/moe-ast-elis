@@ -67,8 +67,7 @@ in the English language.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 3 Feb –</p>
-<p>Mon, 24 Feb</p>
+<p>Mon, 3 Feb – Mon, 24 Feb</p>
 </td>
 </tr>
 <tr>
@@ -82,8 +81,7 @@ in the English language.</p>
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 27 Feb</p>
-<p>(P.M.)</p>
+<p>Thu, 27 Feb (P.M.)</p>
 </td>
 </tr>
 </tbody>
