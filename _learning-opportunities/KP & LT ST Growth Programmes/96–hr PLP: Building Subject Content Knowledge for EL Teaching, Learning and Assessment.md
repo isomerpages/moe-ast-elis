@@ -31,15 +31,15 @@ EL effectively.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Module </strong>
+<p><strong>Module</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Primary </strong>
+<p><strong>Primary</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong> Secondary</strong>
+<p><strong>Secondary</strong>
 </p>
 </td>
 </tr>
