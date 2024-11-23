@@ -44,15 +44,13 @@ of TLs; and</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Synchronous Online</p>
-<p>Learning Session</p>
+<p>Synchronous Online Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 3 Feb</p>
-<p>(P.M.)</p>
+<p>Mon, 3 Feb (P.M.)</p>
 </td>
 </tr>
 </tbody>
