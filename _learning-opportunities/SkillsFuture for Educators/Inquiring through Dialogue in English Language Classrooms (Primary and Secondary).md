@@ -164,7 +164,6 @@ school/cluster levels.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/ItD_structure.jpg">
 </div>
@@ -228,8 +227,7 @@ levels</p>
 <br>for registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Dec</p>
-<p>2024</p>
+<p>Fri, 27 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 3 Mar</p>
