@@ -36,8 +36,7 @@ professional portfolio for accreditation and for the appointment interview.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person</p>
-<p>Learning Session</p>
+<p>In-Person Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2 hours</p>
