@@ -66,8 +66,7 @@ enable students to construct sensitive and informed personal responses.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 4 Aug</p>
-<p>(P.M.)</p>
+<p>Mon, 4 Aug (P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -90,8 +89,7 @@ enable students to construct sensitive and informed personal responses.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 26 Aug</p>
-<p>(P.M.)</p>
+<p>Tue, 26 Aug (P.M.)</p>
 </td>
 </tr>
 </tbody>
