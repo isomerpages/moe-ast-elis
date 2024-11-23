@@ -76,8 +76,7 @@ designing a classroom inquiry.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 6 Feb</p>
-<p>(P.M.)</p>
+<p>Thu, 6 Feb (P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -88,8 +87,7 @@ designing a classroom inquiry.</p>
 <p>6 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 7 Feb –</p>
-<p>Wed, 2 Apr</p>
+<p>Fri, 7 Feb – Wed, 2 Apr</p>
 </td>
 </tr>
 <tr>
@@ -100,8 +98,7 @@ designing a classroom inquiry.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 3 May</p>
-<p>(P.M.)</p>
+<p>Thu, 3 May (P.M.)</p>
 </td>
 </tr>
 </tbody>
