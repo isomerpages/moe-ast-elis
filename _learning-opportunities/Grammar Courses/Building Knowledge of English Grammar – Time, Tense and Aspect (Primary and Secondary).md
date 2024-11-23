@@ -37,9 +37,7 @@ and effectively.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Grammar_time_tense.jpg">
-</div>
+<p></p>
 <h3>Target Participants</h3>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
