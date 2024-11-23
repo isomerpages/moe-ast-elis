@@ -215,8 +215,8 @@ levels</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EL-</p>
-<p>000105</p>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/dd50d473-5b07-4324-8d8b-0e35a59f1bd2" rel="noopener nofollow" target="_blank">EL-000105</a>
+</p>
 </td>
 </tr>
 <tr>
