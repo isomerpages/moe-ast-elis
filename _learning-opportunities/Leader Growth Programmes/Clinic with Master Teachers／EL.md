@@ -12,9 +12,7 @@ who have been nominated for TL appointments.</p>
 <p>This Clinic provides you with personalised guidance in preparing your
 professional portfolio for accreditation and for the appointment interview.</p>
 <h3>Programme Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/clinic%20with%20master%20teachers.png">
-</div>
+<p></p>
 <h3>Target Participants</h3>
 <p>EL KP, TLs and Teachers nominated for ST/LT/MTT appointments</p>
 <h3>Registration</h3>
