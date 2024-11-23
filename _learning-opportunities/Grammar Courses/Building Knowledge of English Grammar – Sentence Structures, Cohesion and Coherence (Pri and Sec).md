@@ -92,6 +92,6 @@ levels</p>
 <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/6a663c3e-0d43-4723-9b5a-f32ac4c08c9a" rel="noopener noreferrer nofollow" target="_blank">EL-000259</a>.
 <br>
 </p>
-<h5>For enquiries, please contact:</h5>
+<h3>For enquiries, please contact:</h3>
 <p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>
 </p>
