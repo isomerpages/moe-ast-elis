@@ -67,6 +67,81 @@ collaborative professional conversations. You will also consider the implication
 of your inquiry on your classroom practice and leadership.</p>
 </li>
 </ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Session</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 28 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>½ day (P.M.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 2 Jul – Fri, 4 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 full days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 8 Jul – Fri, 11 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 full days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 14 Jul – Tue, 15 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 full days</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 16 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>1 full day</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Who may Apply</h3>
 <p>EL KP, TLs and potential KP/TLs in primary and secondary schools are invited
 to apply. Applicants should be in a position to influence the teaching
