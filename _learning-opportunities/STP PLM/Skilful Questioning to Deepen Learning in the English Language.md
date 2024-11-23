@@ -61,8 +61,7 @@ outcomes; and</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 7 Apr –</p>
-<p>Tue, 22 Apr</p>
+<p>Mon, 7 Apr – Tue, 22 Apr</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +72,7 @@ outcomes; and</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 28 Apr</p>
-<p>(P.M.)</p>
+<p>Mon, 28 Apr (P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +83,7 @@ outcomes; and</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 29 Apr –</p>
-<p>Fri, 16 May</p>
+<p>Tue, 29 Apr – Fri, 16 May</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +94,7 @@ outcomes; and</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 22 May</p>
-<p>(P.M.)</p>
+<p>Thu, 22 May (P.M.)</p>
 </td>
 </tr>
 </tbody>
