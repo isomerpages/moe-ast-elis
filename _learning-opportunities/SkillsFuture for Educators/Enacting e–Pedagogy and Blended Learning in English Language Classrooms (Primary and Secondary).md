@@ -66,10 +66,48 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/e_ped_structure.jpg">
-</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 30 Jun – Tue, 22 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 29 Jul (P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Target Participants</h3>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
