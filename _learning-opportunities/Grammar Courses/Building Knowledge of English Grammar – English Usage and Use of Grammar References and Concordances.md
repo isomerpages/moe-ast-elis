@@ -71,7 +71,8 @@ learning about English usage.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 10 Jul – Mon, 29 Jul</p>
+<p>Mon, 14 Jul –</p>
+<p>Mon, 4 Augl</p>
 </td>
 </tr>
 <tr>
@@ -85,7 +86,8 @@ learning about English usage.</p>
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 5 Aug (P.M.)</p>
+<p>Tue, 12 Aug</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -95,9 +97,9 @@ learning about English usage.</p>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code
-from Fri, 22 Dec 2023:&nbsp; <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/405287b8-c57f-4c4d-a533-a646cb961c7d" rel="noopener noreferrer nofollow" target="_blank">EL-000256</a>.
-<br>Closing date for registration: Mon, 10 Jun</p>
+<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;
+<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/405287b8-c57f-4c4d-a533-a646cb961c7d" rel="noopener noreferrer nofollow" target="_blank">EL-000256</a>.
+<br>Closing date for registration: Mon, 23 Jun</p>
 <div class="isomer-image-wrapper">
 <img style="width:7%" height="auto" width="100%" src="/images/picture17.png">
 </div>
