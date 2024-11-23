@@ -68,7 +68,7 @@ learning about English usage.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 Jul – Mon, 4 Augl</p>
+<p>Mon, 14 Jul – Mon, 4 Aug</p>
 </td>
 </tr>
 <tr>
@@ -92,12 +92,7 @@ levels</p>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;
 <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/405287b8-c57f-4c4d-a533-a646cb961c7d" rel="noopener noreferrer nofollow" target="_blank">EL-000256</a>.
 <br>Closing date for registration: Mon, 23 Jun</p>
-<div class="isomer-image-wrapper">
-<img style="width:7%" height="auto" width="100%" src="/images/picture17.png">
-</div>
-<p>
-<br>
-</p>
+<p></p>
 <h5>For enquiries, please contact:</h5>
 <p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>
 </p>
