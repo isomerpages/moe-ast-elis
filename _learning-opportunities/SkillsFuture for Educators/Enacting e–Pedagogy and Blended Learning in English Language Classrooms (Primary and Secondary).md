@@ -146,7 +146,7 @@ from each school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture12" src="/images/picture12.png">
 </div>
-<p>Closing dates for registration</p>
+<p>Closing date for registration</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 9 Jun</p>
