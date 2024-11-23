@@ -72,10 +72,10 @@ and asynchronous learning sessions over a two-week period.</p>
 <p>Two runs are available in 2025; please select only one.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 – 14 Feb 2025 (Register by 3 Dec 2024)</p>
+<p>3 – 14 Feb 2025 (Term 1, Weeks 6-7)</p>
 </li>
 <li>
-<p>8 – 18 July 2025 (Register by 8 May 2025)</p>
+<p>8 – 18 July 2025 (Term 3, Weeks 2-3)</p>
 </li>
 </ul>
 <p></p>
@@ -84,11 +84,18 @@ and asynchronous learning sessions over a two-week period.</p>
 4 years of teaching experience) at the primary, secondary, or pre-university
 level</p>
 <h3>How to Apply</h3>
-<p>Apply via this link <a href="https://go.gov.sg/twaplus-wa-registration-2024/" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration-2024/ </a>
-<br>or QR code:</p>
+<p>Apply via the following link or QR code:</p>
+<p><a href="https://form.gov.sg/647fdbf6064bb200126e4904" rel="noopener nofollow" target="_blank">https://form.gov.sg/647fdbf6064bb200126e4904</a>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/twaqrcode.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code.jpg">
 </div>
+<p></p>
+<h3>Closing dates</h3>
+<p>Run 1 application: Tue, 3 Dec 2024</p>
+<p>Run 2 application: Thu, 8 May 2025</p>
+<p></p>
 <p>For enquires, please contact:</p>
 <p>Ms Solastri Suyot (MTT/EL) at <a href="mailto:solastri_suyot@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">solastri_suyot@moe.gov.sg</a>.</p>
 <p></p>
