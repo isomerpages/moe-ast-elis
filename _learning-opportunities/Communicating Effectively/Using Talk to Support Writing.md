@@ -28,16 +28,65 @@ online learning.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/utsw_ec.PNG">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-Person Learning Session 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 3 Jul (P.M.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>8 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 4 Jul –Wed, 20 Aug</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-Person Learning Session 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 21 Aug (P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Target Participants</h3>
 <p>EL Teachers who want to learn how to use classroom talk effectively to
 improve students’ written communication skills</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code
-from Fri, 22 Dec 2023:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d6182fbc-890d-4311-b52e-98114cec018a" rel="noopener noreferrer nofollow" target="_blank">SLI-000016</a></strong>.
-<br>Closing date for registration: Tue, 4 Jun</p>
+<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d6182fbc-890d-4311-b52e-98114cec018a" rel="noopener noreferrer nofollow" target="_blank">SLI-000016</a></strong>.
+<br>Closing date for registration: Thu, 12 Jun</p>
 <h3>For enquiries, please contact:</h3>
 <p>Dr Caroline Ho (Lead Specialist/EL) at <a href="mailto:caroline_ho@moe.gov.sg." rel="noopener noreferrer nofollow" target="_blank">caroline_ho@moe.gov.sg</a>
 </p>
