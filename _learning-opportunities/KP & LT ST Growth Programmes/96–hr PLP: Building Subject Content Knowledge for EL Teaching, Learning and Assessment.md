@@ -54,7 +54,8 @@ EL effectively.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Thu, 16 Jan</p>
-<p>Thu, 23 Jan Wed, 5 Feb</p>
+<p>Thu, 23 Jan</p>
+<p>Wed, 5 Feb</p>
 <p>Wed, 19 Feb</p>
 <p>(4 full days)</p>
 </td>
