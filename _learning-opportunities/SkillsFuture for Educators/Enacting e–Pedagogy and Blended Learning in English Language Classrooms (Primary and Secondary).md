@@ -134,7 +134,7 @@ from each school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture11" src="/images/picture11.png">
 </div>
-<p>Please register on <strong>OPAL2.0</strong> using this code.</p>
+<p>Register on <strong>OPAL2.0</strong> using this code:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0db86f5c-f88a-4113-8b63-b7deb25390a8" rel="noopener noreferrer nofollow" target="_blank">EL-000179</a>
@@ -146,7 +146,7 @@ from each school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture12" src="/images/picture12.png">
 </div>
-<p>Closing date for registration</p>
+<p>Register by this closing date:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 9 Jun</p>
