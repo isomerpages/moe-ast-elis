@@ -28,9 +28,8 @@ to learn, interests and learning profiles;</p>
 </li>
 <li>
 <p>teach students the skills and learner strategies for writing and representing
-creatively and critically, exploring word choice and grammar with an awareness
-of purpose, audience, context and culture using a range of print, non-print
-and digital networked learning resources; and</p>
+creatively and critically, with an awareness of purpose, audience, context
+and culture using a range of learning resources; and</p>
 </li>
 <li>
 <p>use student writing as evidence to ascertain student progress and to inform
