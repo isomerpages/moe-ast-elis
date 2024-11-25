@@ -71,7 +71,7 @@ and asynchronous learning sessions over a two-week period.</p>
 <p>Two runs are available in 2025; please select only one.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 – 14 Feb 2025 (Term 1, Weeks 6-7)</p>
+<p>3 – 14 Feb 2025 (Term 1, Weeks 5-6)</p>
 </li>
 <li>
 <p>8 – 18 July 2025 (Term 3, Weeks 2-3)</p>
@@ -88,7 +88,7 @@ level</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_code.jpg">
 </div>
 <p></p>
 <h3>Closing dates</h3>
