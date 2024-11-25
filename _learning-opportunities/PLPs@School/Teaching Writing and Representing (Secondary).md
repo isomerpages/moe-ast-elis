@@ -23,8 +23,8 @@ classrooms.</p>
 linguistic and social process;</p>
 </li>
 <li>
-<p>scaffold the learning of writing and representing to meet students’ readiness
-to learn, interests and learning profiles;</p>
+<p>scaffold the learning of writing and representing to take into account
+students’ readiness to learn, interests and learning profiles;</p>
 </li>
 <li>
 <p>teach students the skills and learner strategies for writing and representing
