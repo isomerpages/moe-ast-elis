@@ -6,8 +6,8 @@ variant: tiptap
 third_nav_title: Leader Growth Programmes
 ---
 <h3>Overview</h3>
-<p>The Clinic with MTTs/EL is offered to support EL KP, TLs and teachers
-who have been nominated for TL appointments.</p>
+<p>The Clinic with Master Teachers/EL is offered to support EL KP, TLs and
+teachers who have been nominated for TL appointments.</p>
 <h3>Learning Goals</h3>
 <p>This Clinic provides you with personalised guidance in preparing your
 professional portfolio for accreditation and for the appointment interview.</p>
