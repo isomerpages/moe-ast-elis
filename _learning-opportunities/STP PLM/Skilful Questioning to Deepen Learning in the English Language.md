@@ -17,7 +17,7 @@ STP teaching considerations and Teaching Actions in the STP Teaching Areas
 such as planning key questions, using questions to deepen learning as well
 as checking for understanding and providing feedback.</p>
 <h3>Learning Goals</h3>
-<p>By the end of the course, participants will be able to:</p>
+<p>By the end of the course, you will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the purposes of skilful questioning to promote student engagement,
