@@ -98,7 +98,7 @@ the course while designing a classroom inquiry.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 3 May (P.M.)</p>
+<p>Thu, 3 Apr (P.M.)</p>
 </td>
 </tr>
 </tbody>
