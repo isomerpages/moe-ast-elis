@@ -15,7 +15,7 @@ to experience yourself as a writer, in order to become a better teacher
 of writing and representing. With the support of the Singapore Writing
 Project team, you will undertake an inquiry that spans one and a half years.</p>
 <h3>Learning Goals</h3>
-<p>By the end of SWI, you will:</p>
+<p>By the end of SWI, you will be able to:</p>
 <ul>
 <li>
 <p>demonstrate awareness of</p>
@@ -31,7 +31,7 @@ Project team, you will undertake an inquiry that spans one and a half years.</p>
 <li>
 <p>develop an understanding of current research and theoretical perspectives
 regarding writing and representing, and how such an understanding can inform
-the teaching of writing and representing;</p>
+your teaching of writing and representing;</p>
 </li>
 <li>
 <p>make informed decisions about your choice of teaching and learner strategies
