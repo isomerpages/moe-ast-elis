@@ -55,16 +55,16 @@ students’ development in writing and representing;</p>
 <p>a half-day orientation session to prepare you for SWI;</p>
 </li>
 <li>
-<p>a ten-day programme with a blend of in-person and online synchronous and
-asynchronous learning sessions; and</p>
+<p>a ten-day programme with a blend of in-person and online synchronous learning
+sessions and asynchronous learning periods; and</p>
 </li>
 <li>
-<p>four post-SWI sessions to support your application of learning.These sessions
-will be held once a term between Term 4, 2025 and Term 3, 2026. You will
-be given the opportunity to co-construct and present your inquiry into
-the teaching, learning and assessment of writing and representing through
-collaborative professional conversations. You will also consider the implications
-of your inquiry on your classroom practice and leadership.</p>
+<p>four post-SWI sessions to support your application of learning. These
+sessions will be held once a term between Term 4, 2025 and Term 3, 2026.
+You will be given the opportunity to co-construct and present your inquiry
+into the teaching, learning and assessment of writing and representing
+through collaborative professional conversations. You will also consider
+the implications of your inquiry for your classroom practice and leadership.</p>
 </li>
 </ul>
 <table style="minWidth: 75px">
