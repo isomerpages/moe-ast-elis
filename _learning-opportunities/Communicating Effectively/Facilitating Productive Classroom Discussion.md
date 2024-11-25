@@ -11,11 +11,11 @@ variant: tiptap
 <p>Productive classroom discussions provide students with opportunities to
 clarify their thinking and consolidate their understanding during the lesson.
 Such discussions can enable students to deepen their reasoning, and listen
-to and engage with one another’s reasoning. This course explores how teachers
-can facilitate productive discussions in the classroom and overcome common
+to and engage with one another’s reasoning. This course explores how you
+can facilitate productive discussions in your classroom and overcome common
 challenges.</p>
-<p>You will learn through a blend of in-person learning sessions and asynchronous
-online learning.</p>
+<p>You will learn through a blend of in-person learning sessions and an asynchronous
+online learning period.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
