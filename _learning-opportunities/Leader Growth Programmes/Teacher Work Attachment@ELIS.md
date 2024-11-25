@@ -71,10 +71,10 @@ and asynchronous learning sessions over a two-week period.</p>
 <p>Two runs are available in 2025; please select only one.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 – 14 Feb 2025 (Term 1, Weeks 5-6)</p>
+<p>3 – 14 Feb 2025 (Term 1, Weeks 5 – 6)</p>
 </li>
 <li>
-<p>8 – 18 July 2025 (Term 3, Weeks 2-3)</p>
+<p>8 – 18 July 2025 (Term 3, Weeks 2 – 3)</p>
 </li>
 </ul>
 <p></p>
