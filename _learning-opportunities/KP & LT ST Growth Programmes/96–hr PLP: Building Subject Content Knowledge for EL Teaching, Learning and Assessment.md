@@ -147,8 +147,7 @@ EL effectively.</p>
 </table>
 <p></p>
 <p>You will learn through a blend of in-person and online asynchronous and
-synchronous learning experiences as well as apply your learning in classroom
-practice.</p>
+synchronous learning as well as apply your learning in classroom practice.</p>
 <p>Click on this <a href="https://drive.google.com/drive/folders/14BCAkiNmTdlMjB_VuzP1i5JK4kdxRbxX" rel="noopener nofollow" target="_blank">link </a>to
 access:</p>
 <p>▪ An overview of the 96-hr PLP</p>
