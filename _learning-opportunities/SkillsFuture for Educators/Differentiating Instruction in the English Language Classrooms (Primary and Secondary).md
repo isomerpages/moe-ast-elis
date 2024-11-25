@@ -155,94 +155,11 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 </li>
 </ul>
 <h3>Course Structure</h3>
-<table style="minWidth: 125px">
-<colgroup>
-<col>
-<col>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Mode of Learning</p>
-</th>
-<th rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DI_structure.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p>SFEd IBL
-<br>(Proficient)
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>SFEd IBL
-<br>(Accomplished)
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p>SFEd IBL
-<br>(Leading)
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture9" src="/images/picture9.png">
-</div>
-<p>Asynchronous Online Learning Period</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>4 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thu, 18 Jan – Thu, 8 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Wed, 21 Feb – Fri, 8 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mon, 1 Apr – Mon, 22 Apr</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture10" src="/images/picture10.png">
-</div>
-<p>Synchronous Online Learning Session</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>3 hours</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue, 20 Feb (P.M.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Thu, 21 Mar (P.M.)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tue, 30 Apr (P.M.)</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
 <h3>Target Participants</h3>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
@@ -279,7 +196,7 @@ levels</p>
 </div>
 <p>Please register on
 <br>OPAL2.0 using
-<br>these codes from Fri, 22 Dec 2023..</p>
+<br>these codes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/10d7e1b8-f2b0-4556-b70c-f808880f8db6" rel="noopener noreferrer nofollow" target="_blank">EL-000078</a>
@@ -303,13 +220,14 @@ levels</p>
 <br>for registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 4 Jan</p>
+<p>Fri, 27 Dec 2024</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 19 Jan</p>
+<p>Mon, 3 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 1 Mar</p>
+<p>Mon, 31 Mar</p>
 </td>
 </tr>
 </tbody>

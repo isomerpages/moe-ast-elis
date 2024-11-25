@@ -28,13 +28,76 @@ enable students to construct sensitive and informed personal responses.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1__Course_structure_Literaure.PNG">
-</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 14 Jul – Mon, 28 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 4 Aug (P.M.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 5 Aug – Wed, 20 Aug</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 26 Aug (P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <h3>Target Participants</h3>
 <p>Literature Key Personnel, Teacher Leaders and Teachers</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;OPAL2.0&nbsp;using this code: LIT-000033. &nbsp;
-<br>Closing date for registration: Fri, 24 May</p>
+<p>Please register on&nbsp;OPAL2.0&nbsp;using this code: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/eb416d5d-dbbf-4346-8fe0-a41d36e94e9f" rel="noopener nofollow" target="_blank">Lit-000033</a>.
+&nbsp;
+<br>Closing date for registration: Mon, 23 Jun</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>.</p>

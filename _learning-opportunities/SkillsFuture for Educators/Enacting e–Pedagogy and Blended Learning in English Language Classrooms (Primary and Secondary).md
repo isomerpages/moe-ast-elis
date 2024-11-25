@@ -78,10 +78,10 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>Mode of Learning</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Duration</p>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Date</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -92,8 +92,7 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 2 Jul –</p>
-<p>Tue, 23 Jul</p>
+<p>Mon, 30 Jun – Tue, 22 Jul</p>
 </td>
 </tr>
 <tr>
@@ -104,7 +103,7 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 30 Jul (P.M.)</p>
+<p>Tue, 29 Jul (P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -135,8 +134,7 @@ from each school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture11" src="/images/picture11.png">
 </div>
-<p>Please register on <strong>OPAL2.0</strong> using this code from Fri, 22
-Dec 2023.</p>
+<p>Please register on <strong>OPAL2.0</strong> using this code.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0db86f5c-f88a-4113-8b63-b7deb25390a8" rel="noopener noreferrer nofollow" target="_blank">EL-000179</a>
@@ -148,10 +146,10 @@ Dec 2023.</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture12" src="/images/picture12.png">
 </div>
-<p>Closing dates for registration</p>
+<p>Closing date for registration</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 24 May</p>
+<p>Mon, 9 Jun</p>
 </td>
 </tr>
 </tbody>

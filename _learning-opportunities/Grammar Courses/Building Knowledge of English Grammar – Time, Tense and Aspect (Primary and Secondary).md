@@ -61,48 +61,36 @@ and effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture9" src="/images/picture9.png">
-</div>
 <p>Asynchronous Online Learning Period</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 25 Mar – Mon, 15 Apr</p>
+<p>Tue, 25 Mar-Wed, 16 Apr</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:60px" height="auto" width="100%" alt="Picture10" src="/images/picture10.png">
-</div>
-<p>Synchronous Online Learning Session</p>
+<p>In-Person Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 19 Apr (P.M.)</p>
+<p>Wed, 23 Apr(P.M.)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Target Participants</h3>
 <p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
 levels</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code
-from Fri, 22 Dec 2023:&nbsp; <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51" rel="noopener noreferrer nofollow" target="_blank">EL-000094</a>.
-<br>Closing date for registration: Mon, 26 Feb</p>
-<div class="isomer-image-wrapper">
-<img style="width:7%" height="auto" width="100%" src="/images/picture17.png">
-</div>
-<p>
-<br>
-</p>
-<h5>For enquiries, please contact:</h5>
+<p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;
+<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a2847929-8889-476b-9205-72e934cc9f51" rel="noopener noreferrer nofollow" target="_blank">EL-000094</a>.
+<br>Closing date for registration: Tue, 4 Mar</p>
+<p></p>
+<h3>For enquiries, please contact:</h3>
 <p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg.</a>
 </p>
