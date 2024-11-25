@@ -8,14 +8,14 @@ variant: tiptap
 <h3>Overview</h3>
 <p>Would you like to grow professionally with guidance from PMTTs and MTTs
 in ELIS?</p>
-<p>Our Teacher Work Attachment (TWA) is specially designed with this aim
-in mind. During the two-week attachment, you will observe the PMTTs and
-MTTs facilitate teacher learning and engage in professional conversations
-with them. You can look forward to time and space for critical reflection
-and consolidation of your knowledge as a Key Personnel (HOD, SH, LH), Teacher
-Leader or Teacher. To enable you to apply your learning, the PMTTs and
-MTTs will support and guide you in designing EL, Literature, and/or GP
-learning experiences to impact student and teacher learning.</p>
+<p>Our Teacher Work Attachment (TWA) is designed with this aim in mind. During
+the two-week attachment, you will observe the PMTTs and MTTs facilitate
+teacher learning and engage in professional conversations with them. You
+can look forward to time and space for critical reflection and consolidation
+of your knowledge as a Key Personnel (HOD, SH, LH), Teacher Leader or teacher.
+To enable you to apply your learning, the PMTTs and MTTs will support and
+guide you in designing EL, Literature, and/or GP learning experiences to
+impact student and teacher learning.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this TWA, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -40,28 +40,27 @@ teacher learning.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>reflecting on and identifying your own learning directions and areas for
-growth as a Key Personnel, Teacher Leader or Teacher of English Language,
-Literature, and/or General Paper;</p>
+growth as a KP, TL or Teacher of EL, Literatur and/or GP;</p>
 </li>
 <li>
 <p>observing PMTTs and MTTs in their various areas of work to inquire into
 what designing teacher learning involves;</p>
 </li>
 <li>
-<p>observing Senior/Academy Officers (S/AOs) in their various areas of work,
+<p>observing Senior/Academy Officers (S/AOs) in their various areas of work
 to inquire into their roles in supporting the Mission and Vision of ELIS;</p>
 </li>
 <li>
 <p>inquiring into and applying andragogical principles to co-design, co-review
-and co-facilitate EL, Literature, and/or GP teacher learning experiences;</p>
+and co-facilitate EL, Literature and/or GP teacher learning experiences;</p>
 </li>
 <li>
 <p>identifying both your own and your teachers’ learning needs in designing
-and enacting EL, Literature, and/or GP learning experiences to impact student
+and enacting EL, Literature and/or GP learning experiences to impact student
 learning; and</p>
 </li>
 <li>
-<p>reviewing and refining the professional learning plan for EL, Literature,
+<p>reviewing and refining the professional learning plan for EL, Literature
 and/or GP teachers in your department/cluster/zone, including the use of
 relevant resources to support teacher learning.</p>
 </li>
