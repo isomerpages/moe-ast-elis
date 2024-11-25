@@ -30,9 +30,9 @@ help you answer your inquiry questions; and</p>
 your inquiry findings.</p>
 </li>
 </ul>
-<p>The course is a blend of in-person and online asynchronous learning sessions.
-You will have opportunities to apply your learning during the course while
-designing a classroom inquiry.</p>
+<p>The course is a blend of in-person learning sessions and an online asynchronous
+learning period. You will have opportunities to apply your learning during
+the course while designing a classroom inquiry.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
