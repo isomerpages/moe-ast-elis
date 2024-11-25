@@ -6,8 +6,8 @@ variant: tiptap
 third_nav_title: Leader Growth Programmes
 ---
 <h3>Overview</h3>
-<p>The Professional Dialogue with MTTs/EL is offered to support EL KP and
-teachers who aspire to progress along the Teaching Track.</p>
+<p>The Professional Dialogue with Master Teachers/EL is offered to support
+EL KP and teachers who aspire to progress along the Teaching Track.</p>
 <h3>Learning Goals</h3>
 <p>This Professional Dialogue will:</p>
 <ul data-tight="true" class="tight">
