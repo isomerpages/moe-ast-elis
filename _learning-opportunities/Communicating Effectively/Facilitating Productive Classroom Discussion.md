@@ -57,7 +57,7 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning Session</p>
+<p>In-Person Learning Session 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
@@ -79,8 +79,7 @@ skills.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning</p>
-<p>Session</p>
+<p>In-Person Learning Session 2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
