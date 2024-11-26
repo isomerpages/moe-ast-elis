@@ -201,9 +201,9 @@ levels</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture11" src="/images/picture11.png">
 </div>
-<p>Please register on
+<p>Register on
 <br>OPAL2.0 using
-<br>these codes.</p>
+<br>these codes:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/a8e753d0-aaa9-4b53-8acc-99e775e9631e" rel="noopener noreferrer nofollow" target="_blank">EL-000172</a>
@@ -223,8 +223,7 @@ levels</p>
 <div class="isomer-image-wrapper">
 <img style="width:50px" height="auto" width="100%" alt="Picture12" src="/images/picture12.png">
 </div>
-<p>Closing dates
-<br>for registration</p>
+<p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Fri, 27 Dec 2024</p>

@@ -42,7 +42,7 @@ writing and representing for various purposes; and</p>
 </li>
 <li>
 <p>formatively assess students’ use of grammar in order to enable them to
-read with discernment and communicate empathetically and effectively.</p>
+read with discernment, and communicate empathetically and effectively.</p>
 </li>
 </ul>
 <h3>Target Participants</h3>

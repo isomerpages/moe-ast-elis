@@ -12,12 +12,12 @@ variant: tiptap
 Ample research evidence points to the integral role skilful questioning
 plays to inspire learners, to deepen their learning and to stimulate critical
 and inventive thinking. In this Singapore Teaching Practice-Professional
-Learning Module (STP-PLM), participants will have opportunities to learn
-about the STP teaching considerations and Teaching Actions in the STP Teaching
-Areas such as planning key questions, using questions to deepen learning
-as well as checking for understanding and providing feedback.</p>
+Learning Module (STP-PLM), you will have opportunities to learn about the
+STP teaching considerations and Teaching Actions in the STP Teaching Areas
+such as planning key questions, using questions to deepen learning as well
+as checking for understanding and providing feedback.</p>
 <h3>Learning Goals</h3>
-<p>By the end of the course, participants will be able to:</p>
+<p>By the end of the course, you will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the purposes of skilful questioning to promote student engagement,

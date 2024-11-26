@@ -1,15 +1,15 @@
 ---
-title: Professional Learning Programmes (PLPs@SCHOOL)
+title: Professional Learning Programmes at School (PLPs@SCHOOL)
 permalink: /elis/professional-learning/professional-learning-opportunities/professional-learning-programme/
 description: ""
 third_nav_title: Learning Opportunities
 variant: tiptap
 ---
-<p>The Professional Learning Programmes (PLPs) are designed to enable teachers
-to deepen their knowledge, skills and classroom practice in the areas of
-language learning. Teachers can also learn how their application of e-pedagogy
-and blended learning can be guided by sound understanding of the principles
-and processes of English Language teaching and learning.</p>
+<p>PLPs@School are designed to enable teachers to deepen their knowledge,
+skills and classroom practice in the areas of language learning. Teachers
+can also learn how their application of e-pedagogy and blended learning
+can be guided by sound understanding of the principles and processes of
+English Language teaching and learning.</p>
 <ul>
 <li>
 <p>Overview and Programme Structure</p>

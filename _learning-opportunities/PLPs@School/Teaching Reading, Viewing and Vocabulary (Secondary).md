@@ -10,7 +10,7 @@ variant: tiptap
 </p>
 <h3>Overview</h3>
 <p>This learning programme aims to provide you with a deeper understanding
-of the processes in close and critical reading, viewing and vocabulary
+of the processes of close and critical reading, viewing and vocabulary
 development. You will be able to apply your understanding to teach and
 assess reading, viewing and vocabulary development. You will consider ways
 to use educational technology in blended learning contexts to support active
