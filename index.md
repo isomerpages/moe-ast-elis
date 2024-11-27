@@ -31,7 +31,7 @@ sections:
         English Language, Literature and English-medium subject teachers?
       button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
-      image: /images/e_prospectus___1_.png
+      image: /images/E Prospectus/e_prospectus___1_.png
       alt: ELIS learning opportunities
   - infopic:
       title: Teacher Work Attachment@ELIS
