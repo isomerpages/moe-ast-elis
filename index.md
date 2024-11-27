@@ -26,12 +26,12 @@ sections:
           linktext: Find out more
           url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/
   - infopic:
-      title: Professional Learning Opportunities 2024
+      title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
       button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
-      image: /images/epros24_full_homepage.png
+      image: /images/E Prospectus/e_prospectus___1_.png
       alt: ELIS learning opportunities
   - infopic:
       title: Teacher Work Attachment@ELIS

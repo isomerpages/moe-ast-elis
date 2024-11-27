@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning Opportunities
 variant: markdown
 ---
-### Professional Learning Opportunities 2024 
+### Professional Learning Opportunities 2025 
 
 
 
@@ -41,8 +41,7 @@ variant: markdown
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.  
 <div class="center">  
-<a class="btn" href="https://go.gov.sg/elis-e-prospectus-19-january-2024" target="\_blank">Download the ELIS e-Prospectus 2024 here<br>
-	<span style="font-weight: normal;">Updated as of 19 Jan 2024</span></a>  
-&nbsp; &nbsp; &nbsp; &nbsp; </div>
-				
-![](/images/ELIS_cover_final__2_.png)
+<a class="btn" href="https://go.gov.sg/elis-eprospectus" target="\_blank">Download the ELIS e-Prospectus 2025 here<br>
+	<span style="font-weight: normal;"></span></a>  &nbsp; &nbsp; &nbsp; &nbsp; </div>
+	
+![ELIS e-Prospectus 2025](/images/E%20Prospectus/e_Prospectus_2025_Cover_Page_Portrait.png)				
