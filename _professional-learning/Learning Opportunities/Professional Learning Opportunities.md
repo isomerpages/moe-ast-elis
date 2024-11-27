@@ -43,5 +43,5 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
 <div class="center">  
 <a class="btn" href="https://go.gov.sg/elis-eprospectus" target="\_blank">Download the ELIS e-Prospectus 2025 here<br>
 	<span style="font-weight: normal;"></span></a>  &nbsp; &nbsp; &nbsp; &nbsp; </div>
-				
-![](/images/ELIS_cover_final__2_.png)
+	
+![ELIS e-Prospectus 2025](/images/E%20Prospectus/e_Prospectus_2025_Cover_Page_Portrait.png)				
