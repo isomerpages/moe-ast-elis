@@ -226,7 +226,7 @@ levels</p>
 <p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Dec 2024</p>
+<p>Fri, 3 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 3 Mar</p>
