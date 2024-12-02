@@ -6,8 +6,8 @@ third_nav_title: Leader Growth Programmes
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>Would you like to grow professionally with guidance from PMTTs and MTTs
-in ELIS?</p>
+<p>Would you like to grow professionally with guidance from Principal Master
+Teachers (MTTs) and MTTs in ELIS?</p>
 <p>Our Teacher Work Attachment (TWA) is designed with this aim in mind. During
 the two-week attachment, you will observe the PMTTs and MTTs facilitate
 teacher learning and engage in professional conversations with them. You
@@ -23,12 +23,12 @@ impact student and teacher learning.</p>
 <p>strengthen your knowledge bases in subject content, pedagogy including
 assessment, and in the use of educational technology in blended learning
 contexts for active learning in participatory, connected and reflective
-EL, Literature, and/or GP classrooms;</p>
+EL, Literature and/or GP classrooms;</p>
 </li>
 <li>
 <p>critically inquire into the application of e-pedagogy and blended learning
-in the design of professional learning experiences for EL, Literature,
-and/or GP teachers in your department/cluster/zone; and</p>
+in the design of professional learning experiences for EL, Literature and/or
+GP teachers in your department/cluster/zone; and</p>
 </li>
 <li>
 <p>demonstrate understanding of what is involved in designing and facilitating
@@ -36,11 +36,11 @@ teacher learning.</p>
 </li>
 </ul>
 <h3>Attachment Programme Outline</h3>
-<p>You will be involved in the following learning experiences:</p>
+<p>You can look forward to the following learning experiences:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>reflecting on and identifying your own learning directions and areas for
-growth as a KP, TL or Teacher of EL, Literatur and/or GP;</p>
+growth as a KP, TL or Teacher of EL, Literature and/or GP;</p>
 </li>
 <li>
 <p>observing PMTTs and MTTs in their various areas of work to inquire into
@@ -66,20 +66,22 @@ relevant resources to support teacher learning.</p>
 </li>
 </ul>
 <h3>Programme Structure</h3>
-<p>The TWA@ELIS Programme will be a blend of in-person and online synchronous
-and asynchronous learning sessions over a two-week period.</p>
+<p>The TWA@ELIS Programme will be a blend of in-person learning sessions,
+synchronous online sessions and asynchronous online learning periods over
+a two-week period.</p>
 <p>Two runs are available in 2025; please select only one.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>3 – 14 Feb 2025 (Term 1, Weeks 5 – 6)</p>
+<p>Run 1: Mon, 3 Feb – Fri, 14 Feb (Term 1, Weeks 5 – 6)</p>
+<p>OR</p>
 </li>
 <li>
-<p>8 – 18 July 2025 (Term 3, Weeks 2 – 3)</p>
+<p>Run 2: Tue, 8 Jul – Fri, 18 Jul (Term 3, Weeks 2 – 3)</p>
 </li>
 </ul>
 <p></p>
 <h3>Target Participants</h3>
-<p>EL, Literature, and General Paper KP, TLs and Teachers (with at least
+<p>EL, Literature, and General Paper (GP) KP, TLs and Teachers (with at least
 4 years of teaching experience) at the primary, secondary, or pre-university
 level</p>
 <h3>How to Apply</h3>
