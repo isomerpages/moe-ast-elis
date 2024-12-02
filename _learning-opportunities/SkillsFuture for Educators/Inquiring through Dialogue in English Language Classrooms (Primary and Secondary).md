@@ -144,7 +144,7 @@ ItD in EL classrooms.</p>
 the areas of language learning, by demonstrating:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>the application of principles of EL teaching and learning (CLLIPS), the
+<p>the application of principles of EL teaching and learning (CLLIPS), EL
 teaching processes (ACoLADE) and e-pedagogy;</p>
 </li>
 <li>
