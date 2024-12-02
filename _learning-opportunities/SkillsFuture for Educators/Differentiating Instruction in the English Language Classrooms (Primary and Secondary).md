@@ -7,7 +7,7 @@ third_nav_title: SkillsFuture for Educators
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>In the SFEd courses on Differentiated Instruction (DI) in English Language
+<p>In the SFEd courses on Differentiating Instruction (DI) in English Language
 (EL) Classrooms, you will:</p>
 <ul>
 <li>
