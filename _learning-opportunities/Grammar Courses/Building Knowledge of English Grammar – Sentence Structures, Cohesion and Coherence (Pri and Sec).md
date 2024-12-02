@@ -78,7 +78,7 @@ and</p>
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 18 Sep(P.M.)</p>
+<p>Thu, 18 Sep (P.M.)</p>
 </td>
 </tr>
 </tbody>
