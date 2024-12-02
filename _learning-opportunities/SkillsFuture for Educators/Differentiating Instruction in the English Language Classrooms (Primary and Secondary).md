@@ -133,7 +133,7 @@ classrooms.</p>
 <ul>
 <li>
 <p>lead and mentor peers/teachers in the practice of DI in the areas of language
-learning to improve classroom practice by demonstrating:</p>
+learning to improve classroom practice, by demonstrating:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>the application of DI principles and e-pedagogy;</p>
