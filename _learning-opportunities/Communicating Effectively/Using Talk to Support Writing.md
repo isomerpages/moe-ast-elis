@@ -12,8 +12,8 @@ variant: tiptap
 communication skills. The course examines how teacher talk can be used
 to help students understand writing tasks, and scaffold their thinking
 and use of language when they write.</p>
-<p>You will learn through a blend of in-person learning sessions and asynchronous
-online learning.</p>
+<p>You will learn through a blend of in-person learning sessions and an asynchronous
+online learning period.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will:</p>
 <ul data-tight="true" class="tight">
