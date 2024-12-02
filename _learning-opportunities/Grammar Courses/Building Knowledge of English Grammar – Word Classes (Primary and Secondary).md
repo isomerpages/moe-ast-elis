@@ -25,7 +25,7 @@ through analysing and responding to your students’ work.</p>
 </li>
 <li>
 <p>apply your understanding to interpret your students’ questions and answers
-on word classes, teach word classes to your students, and explore the use
+on word classes, teach word classes to your students and explore the use
 of a variety of grammar references; and</p>
 </li>
 <li>
