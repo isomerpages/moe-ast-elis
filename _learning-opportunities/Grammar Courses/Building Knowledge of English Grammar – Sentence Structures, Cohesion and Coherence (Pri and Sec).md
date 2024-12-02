@@ -6,6 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: Grammar Courses
 ---
+<h3><strong>Building Knowledge of English Grammar – Sentence Structures, Cohesion and Coherence (Primary and Secondary)</strong></h3>
 <p><em>What are sentences made up of? How can I explain to my students when a sentence has been correctly or incorrectly constructed? Why is it that my students can use a variety of sentence structures but the meaning is still unclear? What is the relationship between sentence structure, cohesion and coherence? How can I explain this relationship to my students?</em>
 </p>
 <h3>Overview</h3>
