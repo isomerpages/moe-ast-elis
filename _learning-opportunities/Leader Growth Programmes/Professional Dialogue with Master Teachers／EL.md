@@ -58,7 +58,7 @@ of TLs; and</p>
 <h3>Target Participants</h3>
 <p>EL KP and Teachers aspiring to progress along the Teaching Track</p>
 <h3>Registration</h3>
-<p>Please register on&nbsp;OPAL2.0&nbsp;using this code: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ac2f888b-8c21-4a8a-9ff1-9055bea65341" rel="noopener nofollow" target="_blank">EL-300323</a>
+<p>Please register on&nbsp;OPAL2.0&nbsp;using this code: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ac2f888b-8c21-4a8a-9ff1-9055bea65341" rel="noopener nofollow" target="_blank">EL-000323</a>
 </p>
 <p>Closing date for registration: Mon, 13 Jan</p>
 <h3>For enquiries, please contact:</h3>
