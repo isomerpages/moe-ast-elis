@@ -111,7 +111,7 @@ application of learning on student learning outcomes.</p>
 <h3>Programme Structure</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLPS_school_diagram.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="PLPs@School" src="/images/E Prospectus/PLP_School.png">
 </div>
 <h3><br>Mode of Learning</h3>
 <p></p>
