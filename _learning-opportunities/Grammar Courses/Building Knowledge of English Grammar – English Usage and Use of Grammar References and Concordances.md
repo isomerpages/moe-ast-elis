@@ -6,6 +6,7 @@ variant: tiptap
 description: ""
 third_nav_title: Grammar Courses
 ---
+<h2><strong>Building Knowledge of English Grammar – English Usage and Use of Grammar References and Concordances (Primary and Secondary)</strong></h2>
 <p><em>Should it be ‘the committee has met’ or ‘the committee have met’? Do we ‘decide something’ or ‘decide on something’? When do we use ‘at’, ‘on’ and ‘in’ with reference to a place? Can the past tense be used for something taking place in the present? How can I explain to my students when grammatical rules do not seem to apply? What can I do to make sense of the grammar of English?</em>
 </p>
 <h3>Overview</h3>
