@@ -5,7 +5,7 @@ description: ""
 third_nav_title: PLPs@School
 variant: tiptap
 ---
-<h3>Nurturing Creative, Critical, and Purposeful Writers</h3>
+<h3>Nurturing Creative, Critical and Purposeful Writers</h3>
 <p><em>How do I support my students to develop a positive disposition towards writing and representing? How do I enable them to write creatively and critically for a variety of purposes, audiences, contexts and cultures? What do I need to do to plan and teach engaging and effective writing lessons that meet my students’ readiness to learn, interests and learning profiles? How can I teach writing and representing effectively, including in blended learning contexts?</em>
 </p>
 <h3>Overview</h3>
