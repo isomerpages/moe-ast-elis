@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Learning Opportunities
 variant: tiptap
 ---
-<p>The SFEd Differentiated Instruction course enables English Language (EL)
+<p>The SFEd Differentiating Instruction course enables English Language (EL)
 teachers to better respond to variation in students’ learning readiness,
 interests and learning profiles. The SFEd Inquiring Through Dialogue course
 enables teachers to guide students in exploring, co-constructing and inquiring
