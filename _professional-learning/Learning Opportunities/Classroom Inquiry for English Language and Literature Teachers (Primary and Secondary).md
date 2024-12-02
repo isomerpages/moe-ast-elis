@@ -57,9 +57,8 @@ the course while designing a classroom inquiry.</p>
 <h3>Target Participants</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teachers and Teacher Leaders of English Language and Literature in English&nbsp;who
-would like to build their research literacy with a view to engage in classroom-based
-inquiry.</p>
+<p>Teachers and TLs of EL and Literature&nbsp;who would like to build their
+research literacy with a view to engage in classroom-based inquiry.</p>
 </li>
 </ul>
 <h3>Registration</h3>
