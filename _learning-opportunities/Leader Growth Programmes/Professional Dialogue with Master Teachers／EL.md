@@ -62,5 +62,4 @@ of TLs; and</p>
 </p>
 <p>Closing date for registration: Mon, 13 Jan</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Ynez Lim (Academy Officer/Pedagogy) at Ms Ynez Lim (Academy Officer/Pedagogy)
-at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
