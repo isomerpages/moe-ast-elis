@@ -72,13 +72,13 @@ and effectively.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning Session</p>
+<p>Synchronous Online Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 23 Apr(P.M.)</p>
+<p>Wed, 23 Apr (P.M.)</p>
 </td>
 </tr>
 </tbody>

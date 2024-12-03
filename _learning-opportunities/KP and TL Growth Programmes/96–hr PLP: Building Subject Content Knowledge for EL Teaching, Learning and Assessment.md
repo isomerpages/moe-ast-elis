@@ -3,7 +3,7 @@ title: "96–hr PLP: Building Subject Content Knowledge for EL Teaching, Learnin
   and Assessment"
 permalink: /elis/professional-learning/professional-learning-opportunities/building-subject-content-knowledge/
 description: ""
-third_nav_title: KP & LT ST Growth Programmes
+third_nav_title: KP and TL Growth Programmes
 variant: tiptap
 ---
 <h3>Overview</h3>
@@ -17,7 +17,7 @@ mentoring and leading other teachers in the practice of effective EL teaching.
 The programme is co-facilitated by PMTTs and MTTs in ELIS and tutors in
 the English Language and Literature Academic Group of the National Institute
 of Education (NIE).</p>
-<h3>Learning Goals</h3>
+<h3>Learning Goal</h3>
 <p>As EL KP, TLs or experienced teachers without English specialisation,
 you will build foundational understanding of the SCK you need to teach
 EL effectively.</p>
@@ -146,8 +146,9 @@ EL effectively.</p>
 </tbody>
 </table>
 <p></p>
-<p>You will learn through a blend of in-person and online asynchronous and
-synchronous learning as well as apply your learning in classroom practice.</p>
+<p>You will learn through a blend of in-person, and online asynchronous and
+synchronous learning sessions. You will also be able to apply your learning
+in classroom practice.</p>
 <p>Click on this <a href="https://drive.google.com/drive/folders/14BCAkiNmTdlMjB_VuzP1i5JK4kdxRbxX" rel="noopener nofollow" target="_blank">link </a>to
 access:</p>
 <p>▪ An overview of the 96-hr PLP</p>

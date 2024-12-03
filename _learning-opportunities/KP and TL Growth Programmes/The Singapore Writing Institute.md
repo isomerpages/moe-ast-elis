@@ -2,7 +2,7 @@
 title: The Singapore Writing Institute
 permalink: /elis/professional-learning/professional-learning-opportunities/the-singapore-writing-institute/
 description: ""
-third_nav_title: KP & LT ST Growth Programmes
+third_nav_title: KP and TL Growth Programmes
 variant: tiptap
 ---
 <h3>Overview</h3>
@@ -55,8 +55,18 @@ students’ development in writing and representing;</p>
 <p>a half-day orientation session to prepare you for SWI;</p>
 </li>
 <li>
-<p>a ten-day programme with a blend of in-person and online synchronous learning
-sessions and asynchronous learning periods; and</p>
+<p>a ten-day programme with a blend of:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>in-person learning sessions;</p>
+</li>
+<li>
+<p>synchronous online learning sessions;</p>
+</li>
+<li>
+<p>asynchronous online learning periods; and</p>
+</li>
+</ul>
 </li>
 <li>
 <p>four post-SWI sessions to support your application of learning. These
@@ -173,12 +183,11 @@ from their inquiry into the teaching of writing and representing.</p>
 </ul>
 <h3>How to Apply</h3>
 <p>Please note the following:</p>
-<p>• Jan 2025: application for SWI 2025 intake will be sent through school
-Principals</p>
+<p>• Jan 2025: application for SWI 2025 intake will be sent through Principals</p>
 <p>• Feb-Mar 2025: group interviews will be conducted for all applicants.</p>
-<p>Participants must be fully present, excused from duties by their school
-Principals for the duration of SWI 2025, and commit to participating in
-post- SWI continuity activities.</p>
+<p>Participants must be fully present, excused from duties by their Principals
+for the duration of SWI 2025, and commit to participating in post- SWI
+continuity activities.</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at
 <br><a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg </a>OR

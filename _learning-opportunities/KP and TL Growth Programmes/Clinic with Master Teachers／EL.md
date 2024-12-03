@@ -3,7 +3,7 @@ title: Clinic with Master Teachers／EL
 permalink: /elis/professional-learning/professional-learning-opportunities/clinic-with-master-teachers-el/
 description: ""
 variant: tiptap
-third_nav_title: Leader Growth Programmes
+third_nav_title: KP and TL Growth Programmes
 ---
 <h3>Overview</h3>
 <p>The Clinic with Master Teachers/EL is offered to support EL KP, TLs and

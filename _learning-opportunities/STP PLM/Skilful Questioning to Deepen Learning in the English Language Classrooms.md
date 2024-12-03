@@ -1,5 +1,5 @@
 ---
-title: Skilful Questioning to Deepen Learning in the English Language
+title: Skilful Questioning to Deepen Learning in the English Language Classrooms
 permalink: /elis/professional-learning/professional-learning-opportunities/skilful-questioning-deepen-learning/
 description: ""
 third_nav_title: STP PLM

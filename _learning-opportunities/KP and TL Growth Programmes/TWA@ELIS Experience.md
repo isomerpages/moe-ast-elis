@@ -2,7 +2,7 @@
 title: TWA@ELIS Experience
 permalink: /learning-communities/teacher-work-attachment/permalink/
 description: ""
-third_nav_title: Leader Growth Programmes
+third_nav_title: KP and TL Growth Programmes
 variant: markdown
 ---
 TWA@ELIS is a Leader Growth Programme designed to grow English Language Lead Teachers (LTs/EL) and Senior Teachers (STs/EL) professionally with guidance from Principal Master Teachers (PMTTs), & Master Teachers (MTTs) and Senior Specialists (SSs) of English Language in ELIS. 

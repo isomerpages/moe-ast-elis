@@ -133,7 +133,7 @@ classrooms.</p>
 <ul>
 <li>
 <p>lead and mentor peers/teachers in the practice of DI in the areas of language
-learning to improve classroom practice by demonstrating:</p>
+learning to improve classroom practice, by demonstrating:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>the application of DI principles and e-pedagogy;</p>
@@ -219,7 +219,7 @@ levels</p>
 <p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Dec 2024</p>
+<p>Fri, 3 Jan</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">

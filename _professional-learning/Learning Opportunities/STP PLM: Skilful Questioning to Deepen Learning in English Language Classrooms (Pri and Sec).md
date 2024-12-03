@@ -1,11 +1,12 @@
 ---
 title: "STP PLM: Skilful Questioning to Deepen Learning in English Language
-  Classrooms (Pri and Sec))"
+  Classrooms (Pri and Sec)"
 permalink: /elis/professional-learning/professional-learning-opportunities/courses-on-stp-plm/
 description: ""
 third_nav_title: Learning Opportunities
 variant: tiptap
 ---
+<h3><strong>STP PLM: Skilful Questioning to Deepen Learning in English Language Classrooms (Primary and Secondary)</strong></h3>
 <p><em>How can I use questions to deepen my students’ learning in the EL classroom? What should I consider when planning key questions, using questions to deepen learning, checking for understanding and providing feedback to enable my students to attain the intended learning outcomes?</em>
 </p>
 <h3>Overview</h3>

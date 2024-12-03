@@ -31,9 +31,9 @@ help you answer your inquiry questions</p>
 your inquiry findings.</p>
 </li>
 </ul>
-<p>The course is a blend of in-person and online asynchronous learning sessions.
-You will have opportunities to apply your learning during the course while
-designing a classroom inquiry.</p>
+<p>The course is a blend of in-person learning sessions and an online asynchronous
+learning period. You will have opportunities to apply your learning during
+the course while designing a classroom inquiry.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -57,9 +57,8 @@ designing a classroom inquiry.</p>
 <h3>Target Participants</h3>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teachers and Teacher Leaders of English Language and Literature in English&nbsp;who
-would like to build their research literacy with a view to engage in classroom-based
-inquiry.</p>
+<p>Teachers and TLs of EL and Literature&nbsp;who would like to build their
+research literacy with a view to engage in classroom-based inquiry.</p>
 </li>
 </ul>
 <h3>Registration</h3>

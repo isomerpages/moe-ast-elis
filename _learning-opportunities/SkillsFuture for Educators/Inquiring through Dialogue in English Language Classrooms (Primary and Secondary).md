@@ -144,7 +144,7 @@ ItD in EL classrooms.</p>
 the areas of language learning, by demonstrating:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>the application of principles of EL teaching and learning (CLLIPS), the
+<p>the application of principles of EL teaching and learning (CLLIPS), EL
 teaching processes (ACoLADE) and e-pedagogy;</p>
 </li>
 <li>
@@ -226,7 +226,7 @@ levels</p>
 <p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Dec 2024</p>
+<p>Fri, 3 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mon, 3 Mar</p>
