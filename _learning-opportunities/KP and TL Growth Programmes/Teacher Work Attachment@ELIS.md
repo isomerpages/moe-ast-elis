@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3>Overview</h3>
 <p>Would you like to grow professionally with guidance from Principal Master
-Teachers (MTTs) and MTTs in ELIS?</p>
+Teachers (PMTTs) and MTTs in ELIS?</p>
 <p>Our Teacher Work Attachment (TWA) is designed with this aim in mind. During
 the two-week attachment, you will observe the PMTTs and MTTs facilitate
 teacher learning and engage in professional conversations with them. You
