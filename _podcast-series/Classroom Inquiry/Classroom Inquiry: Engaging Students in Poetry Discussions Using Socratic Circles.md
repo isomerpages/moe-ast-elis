@@ -1,5 +1,5 @@
 ---
-title: "Classroom Inquiry: Engaging Students in Poetry Discussions using
+title: "Classroom Inquiry: Engaging Students in Poetry Discussions Using
   Socratic Circles"
 permalink: /elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/
 variant: tiptap

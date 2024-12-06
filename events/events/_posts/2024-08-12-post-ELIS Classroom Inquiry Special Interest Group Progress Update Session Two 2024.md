@@ -23,5 +23,5 @@ questions to scaffold writing.</p>
 <p><strong>Celebrating Learning Session</strong>
 </p>
 <p>The SIG members plan to meet in-person for a Celebrating Learning Session
-on either 27 Feb or 6 Mar 2025 to present their inquiry findings and learning
-from their inquiry projects.</p>
+on 20 Feb 2025 to present their inquiry findings and learning from their
+inquiry projects.</p>
