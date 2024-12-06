@@ -56,7 +56,7 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 <center>
 <a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
 <img src="/images/Jeanne_and_Zalena.png" style="width:30%">
-<b>Classroom Inquiry: Engaging Students in Poetry Discussions using Socratic Circles</b>
+<b>Classroom Inquiry: Engaging Students in Poetry Discussions Using Socratic Circles</b>
 </a>
 	</center>
 
