@@ -32,7 +32,7 @@ variant: tiptap
 </table>
 <p>#ELISlearnstogether</p>
 <p>How might we understand our learners' needs before designing learning
-experiences? How could we apply design thinking processes to frame constraints
+experiences? How could we apply Design Thinking processes to frame constraints
 as opportunities in the generation of new ideas and approaches?</p>
 <p>This year, ELIS benefitted from the expertise of Dr Wong Yew Leong, Lecturer
 with the Policy, Curriculum and Leadership Academic Department in the National
