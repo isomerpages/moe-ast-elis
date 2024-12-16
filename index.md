@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: Zonal Networking Session 2024
+          description: Featuring Lead Teachers of English Language
+          linktext: Find out more
+          url: https://elis.moe.edu.sg/zonal-networking-session-2024/
         - title: Classroom Inquiry Special Interest Group
           description: ""
           linktext: Learn more
