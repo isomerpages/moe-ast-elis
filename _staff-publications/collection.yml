@@ -2,6 +2,7 @@ collections:
   staff-publications:
     output: true
     order:
+      - Lucy Fernandez.md
       - Tay May Yin.md
       - Caroline Ho.md
       - Rachel Goh.md
