@@ -59,8 +59,8 @@ of DI to improve student learning of EL; and</p>
 and assessment of EL;</p>
 </li>
 <li>
-<p>apply the principles of DI to take into account students’ different learning
-readiness, interests and learning profiles; and</p>
+<p>apply the principles of DI to meet students’ different learning readiness,
+interests and learning profiles; and</p>
 </li>
 <li>
 <p>make appropriate choices, including the use of educational technology,
