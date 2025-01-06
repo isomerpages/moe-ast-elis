@@ -29,19 +29,95 @@ understanding and application of assessment principles.</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width:80%" height="auto" width="100%" src="/images/item%20setting.png">
-</div>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Run 1</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Run 2</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 10 Apr – Fri, 25 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 2 Jul – Thu, 17 Jul</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 2 May (P.M.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 23 Jul (P.M.)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 5 May – Tue, 20 May</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 24 Jul – Thu, 7 Aug</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 26 May (P.M.)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 15 Aug (P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders&nbsp; and P5 and P6 Teachers</p>
+<p>EL KP, TLs&nbsp; and P5 and P6 Teachers</p>
 <p>Registration for the course is limited to a maximum of three participants
 from each school.</p>
 <h3>Registration</h3>
-<p>Register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code from Fri,
-22 Dec 2023:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c" rel="noopener noreferrer nofollow" target="_blank">EL-000092</a></strong>.</p>
+<p>Register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c" rel="noopener noreferrer nofollow" target="_blank">EL-000092</a></strong>.</p>
 <p>Closing date for registration:</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%" height="auto" width="100%" src="/images/item%20setting2.png">
-</div>
+<p>Run 1: Thu, 20 Mar</p>
+<p>Run 2: Wed, 11 Jun</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Cindy Woon (Senior Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>.</p>
+<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg.</a>
+</p>
