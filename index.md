@@ -16,7 +16,7 @@ sections:
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more
-          url: https://elis.moe.edu.sg/files/ELIS_e_Digest_PDF__JAN_2025_ISSUE_8_
+          url: https://elis.moe.edu.sg/files/ELIS_e_Digest_PDF__JAN_2025_ISSUE_8_.pdf
         - title: Classroom Inquiry Special Interest Group
           description: ""
           linktext: Learn more
