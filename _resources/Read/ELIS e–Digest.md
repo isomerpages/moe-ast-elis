@@ -15,7 +15,7 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_EDMs_Header_Image__JAN_2025_ISSUE_8_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eDigest_thumbnail_1_4.png">
 </div>
 </td>
 <th rowspan="1" colspan="1">
