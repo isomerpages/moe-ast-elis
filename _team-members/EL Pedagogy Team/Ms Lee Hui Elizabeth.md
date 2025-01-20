@@ -3,6 +3,7 @@ title: Ms Lee Hui Elizabeth
 permalink: /elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/
 description: ""
 third_nav_title: EL Pedagogy Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
@@ -36,4 +37,4 @@ third_nav_title: EL Pedagogy Team
 </style>
 
 
-Before joining ELIS, Elizabeth&nbsp;was Subject Head of English in a secondary school where she taught English Language and Literature at upper secondary levels.&nbsp;Elizabeth believes that a key aspect in learning is engagement and that students should be allowed to experience and explore independently to gain skills that are necessary for both assessment and use in today’s VUCA world. She is interested in exploring the use alternative assessments and harnessing the power of multiliteracy skills and technology to enrich both teaching and learning.&nbsp;She enjoys cardio sessions at the gym, rock climbing and travelling.
+Before joining ELIS, Elizabeth&nbsp;was Subject Head of English in a secondary school where she taught English Language and Literature at upper secondary levels.&nbsp;Elizabeth believes that a key aspect in learning is engagement and that students should be allowed to experience and explore independently to gain skills that are necessary for both assessment and use in today’s VUCA world. She is interested in exploring the use of alternative assessments and harnessing the power of multiliteracy skills and technology to enrich both teaching and learning.&nbsp;She enjoys cardio sessions at the gym, rock climbing and travelling.
