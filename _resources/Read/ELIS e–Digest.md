@@ -13,9 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/eDigest_thumbnail_1_4.png">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
 </div>
 </td>
 <th rowspan="1" colspan="1">
