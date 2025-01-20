@@ -177,5 +177,5 @@ to participate in exploratory talk.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="https://elis.moe.edu.sg/images/elis-e-digest-social-media-posters.png">
 </div>
-<p>Your feedback is valuable to us. Please click <a href="https://go.gov.sg/elisedigestfeedback" rel="noopener noreferrer nofollow" target="_blank">here</a> to provide your feedback
-on the ELIS e-Digest.</p>
+<p>Your feedback is valuable to us. Please click <a href="https://go.gov.sg/elis-edigest-feedback" rel="noopener noreferrer nofollow" target="_blank">here</a> to provide your
+feedback on the ELIS e-Digest.</p>
