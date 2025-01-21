@@ -4,7 +4,7 @@ permalink: /elis/about-us/
 description: ""
 variant: markdown
 ---
-![](/images/ELIS_Collage_2024__4_.png)
+![](/images/ELIS_Collage.png)
 
 The English Language Institute of Singapore (ELIS) was launched on 6 September 2011 by the first Prime Minister of Singapore, Mr Lee Kuan Yew.
 
