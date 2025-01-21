@@ -8,7 +8,7 @@ third_nav_title: Classroom Inquiry
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Cover_Art_with_titles_and_names.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/david_and_alison.png">
 </div>
 <p><a href="https://open.spotify.com/episode/4JDF5jlQM6aen0wHmpk1EV?si=UAa9JYaYTk-FqDXdntZbpQ" rel="noopener nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
