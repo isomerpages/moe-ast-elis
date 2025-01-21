@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: EL Pedagogy Team
 ---
-<p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ped_Team.png">
 </div>
@@ -31,6 +29,7 @@ third_nav_title: EL Pedagogy Team
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Lester Ian Lim</div>
+<div class="isomer-card-description">Assistant Director (Pedagogy)</div>
 <div class="isomer-card-link">About Lester</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-charles-peters/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Charles" src="/images/Screenshot_2024_03_01_at_10_28_55_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Charles Peters</div><div class="isomer-card-description">Master Teacher</div><div class="isomer-card-link">About Charles</div></div></a>
@@ -105,7 +104,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Master Teacher</div>
 <div class="isomer-card-link">About Solastri</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mdm-nithiyah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nithiyah" src="/images/34_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mdm Nithiyah</div><div class="isomer-card-link">About Nithiyah</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mdm-nithiyah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nithiyah" src="/images/34_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mdm Nithiyah</div><div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Nithiyah</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/ms-cindy-woon/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -119,7 +118,7 @@ third_nav_title: EL Pedagogy Team
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-denise-marie-fernandez/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Denise" src="/images/35_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Denise Marie Fernandez</div><div class="isomer-card-link">About Denise</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-denise-marie-fernandez/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Denise" src="/images/35_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Denise Marie Fernandez</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Denise</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mr-kenneth-yee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -128,6 +127,7 @@ third_nav_title: EL Pedagogy Team
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mr Kenneth Yee</div>
+<div class="isomer-card-description">Academy Officer (Pedagogy)</div>
 <div class="isomer-card-link">About Kenneth</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elizabeth" src="/images/Screenshot_2024_03_01_at_1_59_59_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lee Hui, Elizabeth</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Elizabeth</div></div></a>
