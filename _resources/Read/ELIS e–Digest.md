@@ -13,9 +13,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_EDMs_Header_Image__JAN_2025_ISSUE_8_.png">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
 </div>
 </td>
 <th rowspan="1" colspan="1">
@@ -26,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_PDF__JAN_2025_ISSUE_8_" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_PDF__JAN_2025_ISSUE_8_.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
