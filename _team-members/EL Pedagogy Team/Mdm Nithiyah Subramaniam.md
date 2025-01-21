@@ -9,7 +9,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nithiyah_Portrait.png">
 </div>
-<h4><strong>Mdm Nithiyah Subramaniam</strong></h4>
+<h4><strong>Mdm Nithiyah </strong></h4>
 <p><strong>Senior Academy Officer, Pedagogy</strong>
 </p>
 <p>Nithiyah<strong> </strong>was a Head of English Department in a primary
