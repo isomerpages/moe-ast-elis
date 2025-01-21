@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: "New Podcast: Classroom Inquiry"
+          description: Supporting Students with Mixed-case Letter Identification Difficulty​
+          linktext: Listen
+          url: https://elis.moe.edu.sg/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more
@@ -21,10 +25,6 @@ sections:
           description: ""
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
-        - title: "New Podcast: Classroom Inquiry"
-          description: Engaging Students in Poetry Discussions using Socratic Circles
-          linktext: Listen
-          url: https://elis.moe.edu.sg/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/
         - title: Singapore Writing Institute (SWI)
           description: Writings from SWI Writing Marathon 2024
           linktext: Find out more
