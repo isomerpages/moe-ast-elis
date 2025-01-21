@@ -56,9 +56,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 ### What's New
 
 <center>
-<a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
-<img src="/images/Jeanne_and_Zalena.png" style="width:30%">
-<b>Classroom Inquiry: Engaging Students in Poetry Discussions using Socratic Circles</b>
+<a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
+<img src="/images/david_and_alison.png" style="width:30%">
+<b>Classroom Inquiry: Supporting Students with Mixed-case Letter Identification Difficulty</b>
 </a>
 	</center>
 
