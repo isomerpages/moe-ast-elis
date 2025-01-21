@@ -13,6 +13,10 @@ Listen to teachers' personal accounts of conducting classroom inquiry in these p
 
 Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodcastseries](http://go.gov.sg/classroominquirypodcastseries)
 
+<p><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
+<img style="width:40%" src="/images/david_and_alison.png">
+</a></p><center><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/"><b>Classroom Inquiry: Supporting Students with Mixed-case Letter Identification Difficulty</b></a></center><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
+</a>
 
 <p><a href="/elis/resources/listen/engaging-students-in-poetry-discussions-using-socratic-circles/">
 <img style="width:40%" src="/images/Jeanne_and_Zalena.png">
