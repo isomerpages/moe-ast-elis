@@ -5,8 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: EL Pedagogy Team
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ped_Team.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ped_Team_2025_high_def.png">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Tay May Yin" src="/images/may yin (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tay May Yin</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About May Yin</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/" class="isomer-card">
