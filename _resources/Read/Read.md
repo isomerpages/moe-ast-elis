@@ -32,7 +32,7 @@ on pedagogy, research, and classroom inquiry.</p>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/eDigest_thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="ELIS e-Digest" src="/images/Screenshot_2025_01_24_at_10_51_21_AM.png">
 </div>
 </div>
 <div class="isomer-card-body">
