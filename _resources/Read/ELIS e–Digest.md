@@ -25,7 +25,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_EDMs__Jan_2025____updated_22_Jan.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_EDMs__Jan_2025____updated_22_Jan__final_.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
