@@ -46,6 +46,7 @@ sections:
       button: Nominate your English teacher today!
       url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
       image: /images/ITEA_2025.png
+      alt: ITEA 2025
   - infopic:
       title: Teacher Work Attachment@ELIS
       button: Find out more
