@@ -38,6 +38,15 @@ sections:
       image: /images/E Prospectus/e_prospectus___1_.png
       alt: ELIS learning opportunities
   - infopic:
+      title: Inspiring Teacher of English Award 2025
+      id: infopic
+      description: The Inspiring Teacher of English Award recognises teachers who have
+        been key in igniting a passion for English and are effective in teaching
+        good communication.
+      button: Nominate your English teacher today!
+      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
+      image: /images/ITEA_2025.png
+  - infopic:
       title: Teacher Work Attachment@ELIS
       button: Find out more
       url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/teacher-work-attachment-elis/
@@ -49,15 +58,6 @@ sections:
       url: https://elis.moe.edu.sg/elis/resources/view/
       image: /images/Publicity_for_PMTTs__Masterclass.png
       alt: Image alt text
-  - infopic:
-      title: Inspiring Teacher of English Award 2025
-      id: infopic
-      description: The Inspiring Teacher of English Award recognises teachers who have
-        been key in igniting a passion for English and are effective in teaching
-        good communication.
-      button: Nominate your English teacher today!
-      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2025.png
   - infobar:
       id: infobar
       description: <center><script src="//www.instagram.com/embed.js"
