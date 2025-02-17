@@ -86,7 +86,7 @@ online learning period.</p>
 improve students’ written communication skills</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/d6182fbc-890d-4311-b52e-98114cec018a" rel="noopener noreferrer nofollow" target="_blank">SLI-000016</a></strong>.
-<br>Closing date for registration: Thu, 12 Jun</p>
+<br>Closing date for registration: Thu, 19 Jun</p>
 <h3>For enquiries, please contact:</h3>
 <p>Dr Caroline Ho (Lead Specialist/EL) at <a href="mailto:caroline_ho@moe.gov.sg." rel="noopener noreferrer nofollow" target="_blank">caroline_ho@moe.gov.sg</a>
 </p>
