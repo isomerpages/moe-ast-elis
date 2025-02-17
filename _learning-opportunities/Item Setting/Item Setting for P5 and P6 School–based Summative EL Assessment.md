@@ -116,8 +116,8 @@ from each school.</p>
 <h3>Registration</h3>
 <p>Register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/b1256ed1-950c-40cf-ba4f-4b1cd882813c" rel="noopener noreferrer nofollow" target="_blank">EL-000092</a></strong>.</p>
 <p>Closing date for registration:</p>
-<p>Run 1: Thu, 20 Mar</p>
-<p>Run 2: Wed, 11 Jun</p>
+<p>Run 1: Thu, 27 Mar</p>
+<p>Run 2: Wed, 18 Jun</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg.</a>
 </p>
