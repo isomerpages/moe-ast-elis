@@ -149,7 +149,7 @@ from each school.</p>
 <p>Register by this closing date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 9 Jun</p>
+<p>Mon, 16 Jun</p>
 </td>
 </tr>
 </tbody>
