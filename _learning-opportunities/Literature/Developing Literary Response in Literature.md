@@ -98,6 +98,6 @@ enable students to construct sensitive and informed personal responses.</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/eb416d5d-dbbf-4346-8fe0-a41d36e94e9f" rel="noopener nofollow" target="_blank">Lit-000033</a>.
 &nbsp;
-<br>Closing date for registration: Mon, 23 Jun</p>
+<br>Closing date for registration: Mon, 30 Jun</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg</a>.</p>
