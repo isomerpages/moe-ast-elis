@@ -13,14 +13,14 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
-        - title: "New Podcast: Classroom Inquiry"
-          description: Supporting Students with Mixed-case Letter Identification Difficulty​
+        - title: "New Podcast: Teaching, Learning & Assessment"
+          description: Inquiry Through Dialogue in Teaching Grammar
           linktext: Listen
-          url: https://elis.moe.edu.sg/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/
+          url: http://elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more
-          url: https://elis.moe.edu.sg/files/ELIS_e_Digest_PDF__JAN_2025_ISSUE_8_.pdf
+          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: Classroom Inquiry Special Interest Group
           description: ""
           linktext: Learn more

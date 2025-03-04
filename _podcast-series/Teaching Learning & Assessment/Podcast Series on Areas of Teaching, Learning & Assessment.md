@@ -51,6 +51,18 @@ Listen to our Teaching, Learning &amp; Assessment podcast episodes on Inquiry Th
 </b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-oracy/">
 </a>
 
+<p><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-writing-and-representing/">
+<img src="/images/Cover_Art_with_titles_and_names__9_.png" style="width:40%">
+</a></p><center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-writing-and-representing/"><b>Inquiry Through Dialogue in Teaching Writing and Representing
+</b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-writing-and-representing/">
+</a>
+
+<p><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/">
+<img src="/images/Cover_Art_with_titles_and_names__16_.png" style="width:40%">
+</a></p><center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar//"><b>Inquiry Through Dialogue in Teaching Grammar
+</b></a></center><a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/">
+</a>
+
 
 
 ### Metacognition

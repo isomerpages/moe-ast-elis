@@ -56,9 +56,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 ### What's New
 
 <center>
-<a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
-<img src="/images/david_and_alison.png" style="width:30%">
-<b>Classroom Inquiry: Supporting Students with Mixed-case Letter Identification Difficulty</b>
+<a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/">
+<img src="/images/Cover_Art_with_titles_and_names__16_.png" style="width:30%">
+<b>Inquiry Through Dialogue in Teaching Grammar</b>
 </a>
 	</center>
 
