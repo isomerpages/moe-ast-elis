@@ -8,7 +8,7 @@ third_nav_title: Classroom Inquiry
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CI 11 Part 2" src="/images/PODCAST/CI_11_Part_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="CI 11 Part 2" src="/images/PODCAST/CI_11_Part_2.png">
 </div>
 <p><a href="https://open.spotify.com/episode/3s0En8zpgoIQ0MYbrOLvZJ?si=95a6707f55b44995" rel="noopener noreferrer nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
