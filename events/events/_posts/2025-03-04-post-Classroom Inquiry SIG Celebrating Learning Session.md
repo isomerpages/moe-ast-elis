@@ -15,6 +15,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CI_SIG_photo.png">
 </div>
+<div class="iframe-wrapper">
+<iframe style="border:none;overflow:hidden" height="314" width="560" allowfullscreen="true" frameborder="0" src="https://www.facebook.com/plugins/video.php?height=314&amp;href=https%3A%2F%2Fbusiness.facebook.com%2Felis.singapore.page%2Fvideos%2F1363302461761085%2F&amp;show_text=false&amp;width=560&amp;t=0"></iframe>
+</div>
 <p>Members of the ELIS Classroom Inquiry Special Interest Group (SIG) gathered
 in-person on Thursday 20 Feb 2025 to celebrate the completion of their
 inquiry projects and their learning from engaging in classroom inquiry.
