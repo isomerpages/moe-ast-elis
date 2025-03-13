@@ -16,7 +16,7 @@ sections:
         - title: New Podcast
           description: Learning from Classroom Inquiry at School of Science and Technology
           linktext: Listen
-          url: https://elis/resources/listen/classroom-inquiry-podcasts/
+          url: https://elis.moe.edu.sg/elis/resources/listen/
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more
