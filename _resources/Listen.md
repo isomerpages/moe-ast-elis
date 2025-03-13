@@ -56,9 +56,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 ### What's New
 
 <center>
-<a href="/elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/">
-<img src="/images/Cover_Art_with_titles_and_names__16_.png" style="width:30%">
-<b>Inquiry Through Dialogue in Teaching Grammar</b>
+<a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology/">
+<img src="/images/PODCAST/CI_11_Part_2.png" style="width:30%">
+<b>Part 2: Learning from Classroom Inquiry at School of Science and Technology</b>
 </a>
 	</center>
 
