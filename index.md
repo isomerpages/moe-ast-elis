@@ -13,10 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
-        - title: "New Podcast: Teaching, Learning & Assessment"
-          description: Inquiry Through Dialogue in Teaching Grammar
+        - title: New Podcast
+          description: Learning from Classroom Inquiry at School of Science and Technology
           linktext: Listen
-          url: http://elis/resources/listen/inquiry-through-dialogue-in-teaching-grammar/
+          url: https://elis.moe.edu.sg/elis/resources/listen/
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more

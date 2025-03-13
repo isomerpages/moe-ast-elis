@@ -13,6 +13,16 @@ Listen to teachers' personal accounts of conducting classroom inquiry in these p
 
 Share this page by copying this short URL:&nbsp;[go.gov.sg/classroominquirypodcastseries](http://go.gov.sg/classroominquirypodcastseries)
 
+<p><a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology/">
+<img style="width:40%" src="/images/PODCAST/CI_11_Part_2.png">
+</a></p><center><a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology"><b>Part 2: Learning from Classroom Inquiry at School of Science and Technology</b></a></center><a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology">
+</a>
+
+<p><a href="/elis/resources/listen/part-1-using-reader-roles-to-develop-students-as-critical-readers/">
+<img style="width:40%" src="/images/PODCAST/CI_11_Part_1.png">
+</a></p><center><a href="/elis/resources/listen/part-1-using-reader-roles-to-develop-students-as-critical-readers/"><b>Part 1: Using Reader Roles to Develop Students as Critical Readers</b></a></center><a href="/elis/resources/listen/part-1-using-reader-roles-to-develop-students-as-critical-readers/">
+</a>
+
 <p><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
 <img style="width:40%" src="/images/david_and_alison.png">
 </a></p><center><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/"><b>Classroom Inquiry: Supporting Students with Mixed-case Letter Identification Difficulty</b></a></center><a href="/elis/resources/listen/supporting-students-with-mixed-case-letter-identification-difficulty/">
