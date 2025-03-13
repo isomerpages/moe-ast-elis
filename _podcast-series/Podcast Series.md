@@ -55,7 +55,7 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 
 <center>
 <a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology/">
-<img src="/images/CI_11_Part_2.png" style="width:30%">
+<img src="/%2FPODCAST/CI_11_Part_2.png" style="width:30%">
 <b>Part 2: Learning from Classroom Inquiry at School of Science and Technology</b>
 </a>
 	</center>
