@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ELISWebsiteBanner2024latest1_ezgif_com_optimize.gif
+      background: /images/ELIS_Website_Banner_March_2025.gif
   - textcards:
       title: Happenings at ELIS
       subtitle: NEWS & HIGHLIGHTS
