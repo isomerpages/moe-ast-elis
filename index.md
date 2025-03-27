@@ -7,16 +7,17 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/ELISWebsiteBanner2024latest_ezgif_com_optimize__1_.gif
+      background: /images/ELISWebsiteBanner2024latest1_ezgif_com_optimize.gif
   - textcards:
       title: Happenings at ELIS
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
         - title: New Podcast
-          description: Learning from Classroom Inquiry at School of Science and Technology
+          description: Metacognition and Its Place in Our English Language Classrooms
+            (Episode 3)
           linktext: Listen
-          url: https://elis.moe.edu.sg/elis/resources/listen/
+          url: https://elis.moe.edu.sg//elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/
         - title: ELIS e-Digest Issue 8
           description: ""
           linktext: Find out more
