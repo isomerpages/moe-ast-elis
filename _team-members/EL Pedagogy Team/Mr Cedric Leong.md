@@ -3,13 +3,14 @@ title: Mr Cedric Leong
 permalink: /elis/about-us/team-members/el-pedagogy/mr-cedric-leong/
 description: ""
 third_nav_title: EL Pedagogy Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Cedric_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Mr Cedric Leong</strong></h3>
-		<strong>Principal Master Teacher</strong>
+		<strong>Principal Master Teacher/EL</strong>
 	</div>
 	</div>
 
