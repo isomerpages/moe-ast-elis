@@ -3,13 +3,14 @@ title: Dr Tay May Yin
 permalink: /elis/about-us/team-members/management-team/dr-tay-may-yin/
 description: ""
 third_nav_title: Management Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/May%20Yin_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Tay May Yin</strong></h3>
-		<strong>Principal Master Teacher (English Language)</strong>
+		<strong>Principal Master Teacher/English Language</strong>
 	</div>
 	</div>
 
@@ -35,6 +36,6 @@ third_nav_title: Management Team
 	}
 </style>
 
-May Yin is a Principal Master Teacher (English Language) of the English Language Institute of Singapore. Her experience includes teaching English Language, Literature and the General Paper at the secondary and pre-university levels, and being a Senior Curriculum Specialist in Curriculum Planning and Development Division (CPDD), MOE. She has been Assistant Director/ English Language and Literature, and Assistant Director/ Curriculum Policy and Pedagogy in CPDD. She has also been a Senior Lecturer with the English Language and Literature Academic Group, National Institute of Education, Singapore. She has authored, co-authored and co-edited 14 publications, two of which have been published internationally. Her research interests include language pedagogy; school-based curriculum design, development, implementation and evaluation; and the practice of teacher professionalism.
+May Yin is a Principal Master Teacher/English Language of the English Language Institute of Singapore. Her experience includes teaching English Language, Literature and the General Paper at the secondary and pre-university levels, and being a Senior Curriculum Specialist in Curriculum Planning and Development Division (CPDD), MOE. She has been Assistant Director/ English Language and Literature, and Assistant Director/ Curriculum Policy and Pedagogy in CPDD. She has also been a Senior Lecturer with the English Language and Literature Academic Group, National Institute of Education, Singapore. She has authored, co-authored and co-edited 14 publications, two of which have been published internationally. Her research interests include language pedagogy; school-based curriculum design, development, implementation and evaluation; and the practice of teacher professionalism.
 
 Click&nbsp;[here](/elis/about-us/team-members/staff-publications/tay-may-yin/)&nbsp;to view publications authored by May Yin.
