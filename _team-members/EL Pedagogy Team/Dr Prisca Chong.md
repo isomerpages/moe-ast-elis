@@ -3,6 +3,7 @@ title: Dr Prisca Chong
 permalink: /elis/about-us/team-members/el-pedagogy/mrs-prisca-lee/
 description: ""
 third_nav_title: EL Pedagogy Team
+variant: markdown
 ---
 <div class="flex">
 	<div class="imgCrop">
@@ -35,4 +36,4 @@ third_nav_title: EL Pedagogy Team
 	}
 </style>
 		 
-Presently a Master Teacher, Prisca was actively involved in the professional development of teachers while she was in school. She conducted workshops on developing language skills and presented at local and overseas conferences on Lesson Study. She also published a phonics package for lower primary students in 2008. Prisca’s areas of interest include reading and motivating reluctant learners.
+Presently a Master Teacher/EL, Prisca was actively involved in the professional development of teachers while she was in school. She conducted workshops on developing language skills and presented at local and overseas conferences on Lesson Study. She also published a phonics package for lower primary students in 2008. Prisca’s areas of interest include reading and motivating reluctant learners.
