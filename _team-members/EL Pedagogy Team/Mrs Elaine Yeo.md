@@ -19,7 +19,7 @@ Developer and Vice-Principal at various schools. She also spent 7 years
 at the Curriculum Planning and Development Division (CPDD) of the Ministry
 of Education where she was a member of the team that pioneered the STELLAR
 programme in Singapore primary schools. Prior to becoming a Master Teacher,
-Elaine was Deputy Director / Pedagogy at ELIS. Being involved in the work
+Elaine was Deputy Director/Pedagogy at ELIS. Being involved in the work
 of ELIS made her decide to return to her first love – teaching.</p>
 <p>&nbsp;</p>
 <p>A teacher at heart, Elaine’s passion is to see students be empowered to
