@@ -10,7 +10,7 @@ variant: markdown
 		<img src="/images/Team%20Members/Florence_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Florence Lee</strong></h3>
-		<strong>Master Teacher/EL</strong>
+		<strong>Master Teacher/English Language</strong>
 	</div>
 	</div>
 
