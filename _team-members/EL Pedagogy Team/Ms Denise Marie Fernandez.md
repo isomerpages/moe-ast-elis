@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Denise_Portrait.png">
 </div>
 <h4><strong>Ms Denise Marie Fernandez</strong></h4>
-<p><strong>Academy Officer, Pedagogy</strong>
+<p><strong>Academy Officer/Pedagogy</strong>
 </p>
 <p>Before joining ELIS, Denise served in a secondary school for a joyful
 decade as both teacher and Subject Head/Literature.</p>
