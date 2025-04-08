@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Lester_Portrait.png">
 </div>
 <h4><strong>Mr Lester Ian Lim</strong></h4>
-<p><strong>Assistant Director (Pedagogy)</strong>
+<p><strong>Assistant Director/Pedagogy</strong>
 </p>
 <p>Prior to joining ELIS, Lester was the Head of English Language (Junior
 College) and subsequently, Head of Curriculum Development at an Integrated
