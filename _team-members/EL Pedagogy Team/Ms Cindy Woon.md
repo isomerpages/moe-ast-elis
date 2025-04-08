@@ -11,7 +11,7 @@ third_nav_title: EL Pedagogy Team
 </div>
 <p></p>
 <h4><strong>Ms Cindy Woon</strong></h4>
-<p><strong>Academy Officer, Pedagogy</strong>
+<p><strong>Academy Officer/Pedagogy</strong>
 </p>
 <p>Prior to joining ELIS, Cindy served as Level Head (English) in a primary
 school. She embraces the philosophy of learning, unlearning and relearning.
