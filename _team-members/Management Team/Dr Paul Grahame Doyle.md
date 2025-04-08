@@ -10,7 +10,7 @@ variant: markdown
 		<img src="/images/elis_photoshoot_paul.png" class="m-0"></div>
 		<div class="flex-col">
 		<h3 class="m-0"><strong>Dr Paul Grahame Doyle</strong></h3>
-		<strong>Deputy Director (Research)</strong>
+		<strong>Deputy Director/Research</strong>
 	</div>
 	</div>
 
