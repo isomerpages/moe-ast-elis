@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Kenneth_Portrait.png">
 </div>
 <h4><strong>Mr Kenneth Yee</strong></h4>
-<p><strong>Academy Officer, Pedagogy</strong>
+<p><strong>Academy Officer/Pedagogy</strong>
 </p>
 <p>Kenneth is an Academy Officer at ELIS and has taught English Language
 and English Literature at the secondary level for seven years. He is a
