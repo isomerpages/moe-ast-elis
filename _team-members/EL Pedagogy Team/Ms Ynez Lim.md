@@ -11,7 +11,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Team Members/ynez lim.png">
 </div>
 <h3><strong>Ms Ynez Lim</strong></h3>
-<p><strong>Academy Officer, Pedagogy</strong>
+<p><strong>Academy Officer/Pedagogy</strong>
 </p>
 <p></p>
 <p>Prior to joining ELIS, Ynez taught English Language and Literature in
