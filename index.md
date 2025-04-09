@@ -26,10 +26,6 @@ sections:
           description: ""
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
-        - title: Singapore Writing Institute (SWI)
-          description: Writings from SWI Writing Marathon 2024
-          linktext: Find out more
-          url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
@@ -39,27 +35,20 @@ sections:
       image: /images/E Prospectus/e_prospectus___1_.png
       alt: ELIS learning opportunities
   - infopic:
-      title: Inspiring Teacher of English Award 2025
-      id: infopic
-      description: The Inspiring Teacher of English Award recognises teachers who have
-        been key in igniting a passion for English and are effective in teaching
-        good communication.
-      button: Nominate your English teacher today!
-      url: http://goodenglish.org.sg/inspiring-teacher-of-english-award/nomination-information
-      image: /images/ITEA_2025.png
-      alt: ITEA 2025
-  - infopic:
       title: Teacher Work Attachment@ELIS
       button: Find out more
       url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/teacher-work-attachment-elis/
       image: /images/3___14_Feb_2025__Register_by_3_Dec_2024__8___18_July_2025__Register_by_8_May_2025_.jpg
       alt: TWA
   - infopic:
-      title: ELIS Masterclass
+      title: ELIS RESOURCES
       button: Start learning here
-      url: https://elis.moe.edu.sg/elis/resources/view/
-      image: /images/Publicity_for_PMTTs__Masterclass.png
+      url: https://elis.moe.edu.sg/elis/resources/
+      image: /images/Resources_poster_for_ELIS_website__1_.png
       alt: Image alt text
+      description: Access our on-the-go learning resources to cultivate your
+        pedagogical expertise in the teaching, learning and use of the English
+        language.
   - infobar:
       id: infobar
       description: <center><script src="//www.instagram.com/embed.js"
