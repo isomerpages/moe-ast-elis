@@ -43,7 +43,7 @@ sections:
   - infopic:
       title: ELIS RESOURCES
       button: Start le learning here
-      url: https://elis.moe.edu.sg/elis/resources/view/
+      url: https://elis.moe.edu.sg/elis/resources/
       image: /images/Resources_poster_for_ELIS_website__1_.png
       alt: Image alt text
       description: Access our on-the-go learning resources to cultivate your
