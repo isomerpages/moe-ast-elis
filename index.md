@@ -42,7 +42,7 @@ sections:
       alt: TWA
   - infopic:
       title: ELIS RESOURCES
-      button: Start le learning here
+      button: Start learning here
       url: https://elis.moe.edu.sg/elis/resources/
       image: /images/Resources_poster_for_ELIS_website__1_.png
       alt: Image alt text
