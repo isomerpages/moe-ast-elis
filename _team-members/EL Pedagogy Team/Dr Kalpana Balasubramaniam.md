@@ -9,7 +9,7 @@ variant: markdown
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Kalpana_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
-		<h3 class="m-0 font-bold">Dr Kalpana Balashubramaniam</h3>
+		<h3 class="m-0 font-bold">Dr Kalpana Balasubramaniam</h3>
 		<strong>Master Teacher</strong>
 	</div>
 	</div>
