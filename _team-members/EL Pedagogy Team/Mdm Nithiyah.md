@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Nithiyah_Portrait.png">
 </div>
 <h4><strong>Mdm Nithiyah d/o Subramaniam</strong></h4>
-<p><strong>Senior Academy Officer, Pedagogy</strong>
+<p><strong>Senior Academy Office/Pedagogy</strong>
 </p>
 <p>Nithiyah<strong> </strong>was a Head of English Department in a primary
 school before joining ELIS.</p>
