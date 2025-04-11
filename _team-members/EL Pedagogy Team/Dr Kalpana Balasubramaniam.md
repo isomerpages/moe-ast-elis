@@ -1,6 +1,6 @@
 ---
-title: Mrs Kalpana Balasubramaniam
-permalink: /elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/
+title: Dr Kalpana Balasubramaniam
+permalink: /elis/about-us/team-members/el-pedagogy/dr-kalpana-balasubramaniam/
 description: ""
 third_nav_title: EL Pedagogy Team
 variant: markdown
@@ -9,8 +9,8 @@ variant: markdown
 	<div class="imgCrop">
 		<img src="/images/Team%20Members/Kalpana_Use%20for%20website.jpg" class="m-0"></div>
 		<div class="flex-col">
-		<h3 class="m-0 font-bold">Mrs Kalpana Balashubramaniam</h3>
-		<strong>Master Teacher/English Language</strong>
+		<h3 class="m-0 font-bold">Dr Kalpana Balashubramaniam</h3>
+		<strong>Master Teacher</strong>
 	</div>
 	</div>
 
