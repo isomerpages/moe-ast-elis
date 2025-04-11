@@ -10,7 +10,7 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 35%;" height="auto" width="100%" alt="" src="/images/5__smaller_file_size_.png">
 </div>
 <h3><strong>Mrs Elaine Yeo</strong></h3>
-<p><strong>Master Teacher/English Language</strong>
+<p><strong>Master Teacher</strong>
 </p>
 <p></p>
 <p>Elaine started as a primary school teacher in 1992 and through the years
