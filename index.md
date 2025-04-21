@@ -13,15 +13,15 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: ELIS e-Digest Issue 9
+          description: ""
+          linktext: Find out more.
+          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New Podcast
           description: Metacognition and Its Place in Our English Language Classrooms
             (Episode 3)
           linktext: Listen
           url: https://elis.moe.edu.sg//elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/
-        - title: ELIS e-Digest Issue 8
-          description: ""
-          linktext: Find out more
-          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: Classroom Inquiry Special Interest Group
           description: ""
           linktext: Learn more
