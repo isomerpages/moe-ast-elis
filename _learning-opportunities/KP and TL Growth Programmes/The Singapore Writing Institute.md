@@ -7,13 +7,12 @@ variant: tiptap
 ---
 <h3>Overview</h3>
 <p>ELIS is an Associated International Site of the National Writing Project
-(NWP), a well-established professional learning experience for teachers
-in the USA. We are certified to facilitate the Singapore Writing Institute
-(SWI),&nbsp; which is modelled on the Invitational Summer Writing Institute
-of the NWP. SWI is a ten-day professional learning opportunity for you
-to experience yourself as a writer, in order to become a better teacher
-of writing and representing. With the support of the Singapore Writing
-Project team, you will undertake an inquiry that spans one and a half years.</p>
+(NWP), a well-established learning experience for teachers in the USA.
+​SWI follows the model of NWP’s Invitational Summer Writing Institute.
+SWI is a ten-day professional learning opportunity for you to experience
+yourself as a writer, in order to become a better teacher of writing and
+representing. With the support of the Singapore Writing Project team, you
+will undertake an inquiry that spans one and a half years.</p>
 <h3>Learning Goals</h3>
 <p>By the end of SWI, you will be able to:</p>
 <ul>
