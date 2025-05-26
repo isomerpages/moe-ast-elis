@@ -58,7 +58,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-link">About Florence</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mrs-jennifer-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Jennifer" src="/images/Screenshot_2024_03_01_at_10_40_14_AM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Jennifer Lim</div><div class="isomer-card-description">Master Teacher</div><div class="isomer-card-link">About Jennifer</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mrs-kalpana-balasubramaniam/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/dr-kalpana-balasubramaniam/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Kalpana" src="/images/Screenshot_2024_03_01_at_10_42_05_AM.png">
