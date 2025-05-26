@@ -65,7 +65,7 @@ third_nav_title: EL Pedagogy Team
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Mrs Kalpana Balasubramaniam</div>
+<div class="isomer-card-title">Dr Kalpana Balasubramaniam</div>
 <div class="isomer-card-description">Master Teacher</div>
 <div class="isomer-card-link">About Kalpana</div>
 </div>
