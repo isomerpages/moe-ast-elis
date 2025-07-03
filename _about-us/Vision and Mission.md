@@ -16,7 +16,7 @@ To lead educators in the teaching, learning and assessment of English Language i
 
 Our strategic thrusts support the achievement of ELIS’s vision and mission. They are:
 
-*      Cultivate teacher leadership and pedagogical expertise in the teaching, learning and assessment&nbsp;of English Language for developing effective language use
+*      Cultivate teacher leadership and pedagogical expertise in the teaching, learning and assessment of English Language for developing effective language use
 *      Develop expertise in inquiry into the teaching, learning and assessment of English Language
 *      Grow teacher leadership to strengthen the teaching, learning and assessment of English Language
 
