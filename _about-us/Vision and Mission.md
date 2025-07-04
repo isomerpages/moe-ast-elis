@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### Our Vision
 
-A vibrant learning community of inspiring English language educators
+A vibrant learning community of inspiring English Language educators
 
 ### Our Mission
 
