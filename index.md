@@ -49,15 +49,4 @@ sections:
       description: Access our on-the-go learning resources to cultivate your
         pedagogical expertise in the teaching, learning and use of the English
         language.
-  - infobar:
-      id: infobar
-      description: <center><script src="//www.instagram.com/embed.js"
-        async=""></script><blockquote data-instgrm-version="14"
-        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
-        class="instagram-media" style="width:80.0%; width:-webkit-calc (100% -
-        2px); width:calc (100% - 2px)"></blockquote></center><font
-        color="ffffff"></font>
-      button: Follow us
-      url: https://www.instagram.com/elis.moe/
-      title: Instagram
 ---
