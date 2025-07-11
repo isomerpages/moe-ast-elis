@@ -6,7 +6,7 @@ description: ""
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/lsc_collage.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Networked_Learning_Session__for_Teachers_of__Literature_in_English.png">
 </div>
 <p>The Literature Subject Chapter (LSC) was formed in 2021. The LSC comprises
 eight Teacher Leaders (TLs) of Literature from the four zones. The objectives
@@ -31,3 +31,4 @@ in NLCs in the teaching, learning and assessment of Literature.</p>
 from ELIS and two Knowledgeable Others – a Senior Specialist from the Ministry
 of Education’s Curriculum Planning and Development Division and an Associate
 Professor from the National Institute of Education.</p>
+<p></p>
