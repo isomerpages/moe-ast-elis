@@ -15,7 +15,7 @@ sections:
       cards:
         - title: ELIS e-Digest Issue 9
           description: ""
-          linktext: Find out more.
+          linktext: Find out more
           url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New Podcast
           description: Metacognition and Its Place in Our English Language Classrooms
