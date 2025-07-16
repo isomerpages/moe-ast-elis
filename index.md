@@ -44,15 +44,14 @@ sections:
         pedagogical expertise in the teaching, learning and use of the English
         language.
   - infobar:
-      title: INSTAGRAM
-      subtitle: ELIS's
       id: infobar
-      button: Click here
-      url: <center><script async=""
-        src="//www.instagram.com/embed.js"></script><blockquote
-        style="width:80.0%; width:-webkit-calc (100% -         2px); width:calc
-        (100% - 2px)" class="instagram-media"
+      description: <center><script src="//www.instagram.com/embed.js"
+        async=""></script><blockquote data-instgrm-version="14"
         data-instgrm-permalink="https://www.instagram.com/elis.moe/"
-        data-instgrm-version="14"></blockquote></center><font
+        class="instagram-media" style="width:80.0%; width:-webkit-calc (100% -
+        2px); width:calc (100% - 2px)"></blockquote></center><font
         color="ffffff"></font>
+      button: Follow us
+      url: https://www.instagram.com/elis.moe/
+      title: Instagram
 ---
