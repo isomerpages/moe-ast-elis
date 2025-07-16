@@ -48,5 +48,11 @@ sections:
       subtitle: ELIS's
       id: infobar
       button: Click here
-      url: https://www.instagram.com/elis.moe/
+      url: <center><script async=""
+        src="//www.instagram.com/embed.js"></script><blockquote
+        style="width:80.0%; width:-webkit-calc (100% -         2px); width:calc
+        (100% - 2px)" class="instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/elis.moe/"
+        data-instgrm-version="14"></blockquote></center><font
+        color="ffffff"></font>
 ---
