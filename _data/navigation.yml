@@ -1,0 +1,40 @@
+logo: /images/ELIS.png
+links:
+  - title: About Us
+    url: /elis/about-us/
+    sublinks:
+      - title: Vision and Mission
+        url: /elis/about-us/vision-mission/
+      - title: Team Members
+        url: /elis/about-us/team-members/management-team/
+  - title: Professional Learning
+    url: /elis/professional-learning/
+    sublinks:
+      - title: Learning Opportunities
+        url: /elis/professional-learning/professional-learning-opportunities/
+  - title: Learning Communities
+    url: /elis/learning-communities/
+    sublinks:
+      - title: PLCs@School/Cluster/Zone
+        url: https://elis.moe.edu.sg/professional-learning-communities-school-cluster-and-zone/
+      - title: Literature Subject Chapter
+        url: https://elis.moe.edu.sg/literature-subject-chapter/
+      - title: Singapore Writing Institute
+        url: /elis/learning-communities/swi-alumni/
+      - title: Classroom Inquiry SIG
+        url: /elis/learning-communities/special-interest-group/
+  - title: Resources
+    url: /elis/resources/
+    sublinks:
+      - title: View
+        url: /elis/resources/view/
+      - title: Listen
+        url: /elis/resources/listen/
+      - title: Read
+        url: /elis/resources/read/
+      - title: Teach
+        url: /elis/resources/teach/
+      - title: Play
+        url: /elis/resources/play/
+  - title: Events
+    url: /events/

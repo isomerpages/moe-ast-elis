@@ -1,0 +1,42 @@
+collections:
+  team-members:
+    output: true
+    order:
+      - Management Team/.keep
+      - Management Team/Management Team.md
+      - Management Team/Ms Phyllis Chua.md
+      - Management Team/Dr Tay May Yin.md
+      - Management Team/Mr Cedric Leong.md
+      - Management Team/Dr Audrey Koh.md
+      - Management Team/Dr Paul Grahame Doyle.md
+      - EL Pedagogy Team/.keep
+      - EL Pedagogy Team/EL Pedagogy Team.md
+      - EL Pedagogy Team/Dr Tay May Yin.md
+      - EL Pedagogy Team/Mr Cedric Leong.md
+      - EL Pedagogy Team/Dr Audrey Koh.md
+      - EL Pedagogy Team/Mr Lester Ian Lim.md
+      - EL Pedagogy Team/Mr Charles Peters.md
+      - EL Pedagogy Team/Mrs Elaine Yeo.md
+      - EL Pedagogy Team/Mrs Emelyn Kuan.md
+      - EL Pedagogy Team/Dr Florence Lee.md
+      - EL Pedagogy Team/Ms Jennifer Lim.md
+      - EL Pedagogy Team/Dr Kalpana Balasubramaniam.md
+      - EL Pedagogy Team/Dr Lucy Fernandez.md
+      - EL Pedagogy Team/Dr Prisca Chong.md
+      - EL Pedagogy Team/Ms Rita Pillai.md
+      - EL Pedagogy Team/Ms Serene Lai.md
+      - EL Pedagogy Team/Ms Shakila Vasu.md
+      - EL Pedagogy Team/Ms Solastri Suyot.md
+      - EL Pedagogy Team/Mdm Nithiyah.md
+      - EL Pedagogy Team/Ms Denise Marie Fernandez.md
+      - EL Pedagogy Team/Mr Kenneth Yee.md
+      - EL Pedagogy Team/Ms Lee Hui Elizabeth.md
+      - EL Pedagogy Team/Ms Madeleine Tan.md
+      - EL Pedagogy Team/Ms Ynez Lim.md
+      - EL Pedagogy Team/Ms Cindy Woon.md
+      - REC Team/.keep
+      - REC Team/Research and Effective Communication Team.md
+      - REC Team/Dr Paul Grahame Doyle.md
+      - REC Team/Dr Caroline Ho.md
+      - REC Team/Dr Alison Tan.md
+      - REC Team/Dr Rachel Goh.md

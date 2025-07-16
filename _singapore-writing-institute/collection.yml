@@ -1,0 +1,13 @@
+collections:
+  singapore-writing-institute:
+    output: true
+    order:
+      - SWI Alumni/SWI 2023.md
+      - SWI Alumni/.keep
+      - SWI Alumni/SWI 2021.md
+      - SWI Alumni/SWI 2019.md
+      - SWI Alumni/SWI 2018.md
+      - SWI Alumni/SWI 2017.md
+      - SWI Alumni/SWI 2016.md
+      - SWI Alumni/SWI 2015.md
+      - SWI Alumni/SWI 2014.md

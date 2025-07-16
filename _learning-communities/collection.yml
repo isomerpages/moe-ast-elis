@@ -1,0 +1,24 @@
+collections:
+  learning-communities:
+    output: true
+    order:
+      - Professional Learning Communities.md
+      - Professional Learning Communities@School, Cluster and Zone.md
+      - Literature Subject Chapter.md
+      - Singapore Writing Institute/.keep
+      - Singapore Writing Institute/The Singapore Writing Institute (SWI).md
+      - Singapore Writing Institute/SWI Experience.md
+      - Singapore Writing Institute/SWI Alumni.md
+      - Singapore Writing Institute/SWI Continuity Activities.md
+      - Singapore Writing Institute/SWI History.md
+      - Singapore Writing Institute/SWI Affiliation.md
+      - Classroom Inquiry SIG/.keep
+      - Classroom Inquiry SIG/Classroom Inquiry Special Interest Group.md
+      - Classroom Inquiry SIG/Classroom Inquiry SIG Support.md
+      - Classroom Inquiry SIG/Classroom Inquiry in Practice.md
+      - Classroom Inquiry SIG/Classroom Inquiry of Temasek Secondary School
+        Teachers.md
+      - Classroom Inquiry SIG/Classroom Inquiry of Teachers from School of
+        Science and Technology, Singapore.md
+      - Classroom Inquiry SIG/Classroom Inquiry of Edgefield Primary School
+        Teachers.md
