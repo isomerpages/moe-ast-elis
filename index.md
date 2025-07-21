@@ -26,6 +26,10 @@ sections:
           description: ""
           linktext: Learn more
           url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
+        - title: New MLUs
+          description: Supporting the ABCs of Your Students’ Engagement with Feedback
+          linktext: View
+          url: https://elis.moe.edu.sg/microlearning-units-mlus/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
