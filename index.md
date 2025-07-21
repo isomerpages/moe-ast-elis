@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: New MLUs
+          description: Supporting the ABCs of Your Students’ Engagement with Feedback
+          linktext: View
+          url: https://elis.moe.edu.sg/microlearning-units-mlus/
         - title: ELIS e-Digest Issue 9
           description: ""
           linktext: Find out more
@@ -22,14 +26,6 @@ sections:
             (Episode 3)
           linktext: Listen
           url: https://elis.moe.edu.sg/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/
-        - title: Classroom Inquiry Special Interest Group
-          description: ""
-          linktext: Learn more
-          url: https://elis.moe.edu.sg/elis/learning-communities/special-interest-group/
-        - title: New MLUs
-          description: Supporting the ABCs of Your Students’ Engagement with Feedback
-          linktext: View
-          url: https://elis.moe.edu.sg/microlearning-units-mlus/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
