@@ -28,8 +28,9 @@ Language, Literature and General Paper.</p>
 </tbody>
 </table>
 <h3>What's New</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image026.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MLU_Cover.jpg">
 </div>
 <p><strong><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/afe4ab00-3c45-4f19-ad47-4793f4e4c001/fromlmm" rel="noopener noreferrer nofollow" target="_blank">Supporting the ABCs of Your Students’ Engagement with Feedback</a></strong>
 </p>
