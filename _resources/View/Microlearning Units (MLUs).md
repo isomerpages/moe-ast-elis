@@ -185,6 +185,22 @@ perspectives to support their language learning.&nbsp;&nbsp;</p>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/afe4ab00-3c45-4f19-ad47-4793f4e4c001/fromlmm" rel="noopener noreferrer nofollow" target="_blank">Learning Path: Supporting the ABCs of Your Students’ Engagement with Feedback</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/549d9f10-0933-4342-8c45-b20d42d76f6e" rel="noopener noreferrer nofollow" target="_blank">Affective Engagement with Feedback: Build Students’ Confidence in Using Language</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/93a51ec2-2877-429d-9394-c4be43a3324a" rel="noopener noreferrer nofollow" target="_blank">Behavioural Engagement with Feedback: Encourage Students’ Active Learning</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fc8cb17f-d527-4551-bfe2-25e7997e5b03" rel="noopener noreferrer nofollow" target="_blank">Cognitive Engagement with Feedback: Deepening Students’ Understanding of Language</a>
+</p>
+</li>
 </ul>
 </div>
 </details>
