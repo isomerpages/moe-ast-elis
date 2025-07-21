@@ -28,17 +28,16 @@ Language, Literature and General Paper.</p>
 </tbody>
 </table>
 <h3>What's New</h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/MLU_Coherence__1_.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/MLU_Cover.jpg">
 </div>
-<p><strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c1bd217e-9437-4bed-98e8-5e79d43da208" rel="noopener nofollow" target="_blank">Coherence in Texts: What It Is and Why It Is Important</a></strong>
+<p><strong><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/afe4ab00-3c45-4f19-ad47-4793f4e4c001/fromlmm" rel="noopener noreferrer nofollow" target="_blank">Supporting the ABCs of Your Students’ Engagement with Feedback</a></strong>
 </p>
-<p>In this Microlearning Unit (MLU), you will learn about:
-<br>- what coherence in texts is;
-<br>- why coherence in texts is important for readers; and
-<br>- how writers can contribute to coherence in texts.</p>
-<p>In this MLU, we will be focusing on linguistic choices that contribute
-to coherence in written texts.</p>
+<p>Learn how to support the ABCs of your students’ engagement with feedback.
+This series of three microlearning units on affective, behavioural and
+cognitive engagement offers ways of looking at feedback from the students’
+perspectives to support their language learning.&nbsp;&nbsp;</p>
 <h3>Microlearning Units</h3>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
@@ -185,6 +184,22 @@ to coherence in written texts.</p>
 </li>
 <li>
 <p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c941d7bf-7869-4960-926f-a9f4c81c8151" rel="noopener noreferrer nofollow" target="_blank">Feeding Forward: Help Students to Apply Feedback</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/my-learning/learning-path/afe4ab00-3c45-4f19-ad47-4793f4e4c001/fromlmm" rel="noopener noreferrer nofollow" target="_blank">Learning Path: Supporting the ABCs of Your Students’ Engagement with Feedback</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/549d9f10-0933-4342-8c45-b20d42d76f6e" rel="noopener noreferrer nofollow" target="_blank">Affective Engagement with Feedback: Build Students’ Confidence in Using Language</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/93a51ec2-2877-429d-9394-c4be43a3324a" rel="noopener noreferrer nofollow" target="_blank">Behavioural Engagement with Feedback: Encourage Students’ Active Learning</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/fc8cb17f-d527-4551-bfe2-25e7997e5b03" rel="noopener noreferrer nofollow" target="_blank">Cognitive Engagement with Feedback: Deepening Students’ Understanding of Language</a>
 </p>
 </li>
 </ul>
