@@ -13,14 +13,14 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: ELIS e-Digest Issue 10
+          description: ""
+          linktext: Read
+          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New MLUs
           description: Supporting the ABCs of Your Students’ Engagement with Feedback
           linktext: View
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: ELIS e-Digest Issue 9
-          description: ""
-          linktext: Find out more
-          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New Podcast
           description: Metacognition and Its Place in Our English Language Classrooms
             (Episode 3)
