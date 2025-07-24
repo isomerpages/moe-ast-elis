@@ -14,12 +14,12 @@ sections:
       id: textcards
       cards:
         - title: ELIS e-Digest Issue 10
-          description: ""
-          linktext: Read
+          description: Explore insights and perspectives about Inquiry through Dialogue.
+          linktext: Check it out
           url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New MLUs
           description: Supporting the ABCs of Your Students’ Engagement with Feedback
-          linktext: View
+          linktext: View now
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
         - title: SWI Writing Marathon
           description: Be inspired by the writings from our Teacher Writers!
