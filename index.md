@@ -21,11 +21,10 @@ sections:
           description: Supporting the ABCs of Your Students’ Engagement with Feedback
           linktext: View
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: New Podcast
-          description: Metacognition and Its Place in Our English Language Classrooms
-            (Episode 3)
-          linktext: Listen
-          url: https://elis.moe.edu.sg/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/
+        - title: SWI Writing Maratho
+          description: ""
+          linktext: Read
+          url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
