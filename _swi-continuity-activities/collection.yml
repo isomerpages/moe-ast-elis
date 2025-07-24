@@ -2,6 +2,7 @@ collections:
   swi-continuity-activities:
     output: true
     order:
+      - 2025   Locomotion/2025 – Locomotion.md
       - 2025 – Locomotion/.keep
       - 2024 – Wanderlust Chronicles/.keep
       - 2024 – Wanderlust Chronicles/2024 – Wanderlust Chronicles.md
