@@ -22,8 +22,8 @@ sections:
           linktext: View
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
         - title: SWI Writing Marathon
-          description: ""
-          linktext: Read
+          description: Be inspired by the writings from our Teacher Writers!
+          linktext: Read here
           url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/
   - infopic:
       title: Professional Learning Opportunities 2025
