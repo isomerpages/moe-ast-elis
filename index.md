@@ -21,7 +21,7 @@ sections:
           description: Supporting the ABCs of Your Students’ Engagement with Feedback
           linktext: View
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: SWI Writing Maratho
+        - title: SWI Writing Marathon
           description: ""
           linktext: Read
           url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/
