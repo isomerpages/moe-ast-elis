@@ -9,6 +9,11 @@ variant: markdown
 Throughout the year, SWI team members and alumni organise professional continuity activities. These activities, such as the Writing Marathon, aim to engage alumni as teacher writers and leaders.  
 <br>
 
+<p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/">
+<img src="/images/swi_WM_2025.png" style="width:50%">
+</a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/"><b>SWI Writing Marathon 2025</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/">
+</a>
+
 <p><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/">
 <img src="/images/SWI_Writing_Marathon_Thumbnail__1_.png" style="width:50%">
 </a></p><center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/"><b>SWI Writing Marathon 2024</b></a></center><a href="/elis/learning-communities/swi-continuity-activities/writing-marathon-2024-wanderlust-chronicles/">
