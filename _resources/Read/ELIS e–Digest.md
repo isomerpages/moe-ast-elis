@@ -105,7 +105,7 @@ of a text. Explore SLS resources for ideas to teach reading and viewing.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://go.gov.sg/elis-e-digest-6" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
+<p><strong><a href="ELIS_e_Digest_6_240725_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
