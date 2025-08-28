@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="April_e_Digest_18_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 9</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/April_e_Digest_18_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 9</a></strong>
 </p>
 </td>
 </tr>
