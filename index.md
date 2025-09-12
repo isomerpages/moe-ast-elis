@@ -17,8 +17,8 @@ sections:
           description: Explore insights and perspectives about Inquiry through Dialogue.
           linktext: Check it out
           url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
-        - title: New MLUs
-          description: Supporting the ABCs of Your Students’ Engagement with Feedback
+        - title: New MLU
+          description: "Learning Path: Facilitating Productive Classroom Discussion"
           linktext: View now
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
         - title: SWI Writing Marathon
