@@ -3,7 +3,7 @@ title: Videos on Teaching & Learning
 permalink: /elis/resources/view/
 description: ""
 third_nav_title: View
-variant: markdown
+variant: tiptap
 ---
 <hr>
 <table style="minWidth: 50px">
@@ -32,6 +32,9 @@ and General Paper.</p>
 <p>Watch the videos individually or as a team to collaboratively inquire
 into how to more effectively meet the learning needs of students in these
 subjects.</p>
+<p></p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Metacognition in EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
+</div>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/the-place-of-subject-content-knowledge-sck-in-english-language-teaching-learning-and-assessment/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="SCK PK" src="/images/VIEW ICONS/sck pk video.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">The Place of Subject Content Knowledge (SCK) in English Language Teaching, Learning and Assessment</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/" class="isomer-card">
