@@ -25,6 +25,6 @@ and</p>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cLUlBhcZ5eo?si=bGwgHcwkrHdmdDTV"></iframe>
 </div>
-<p></p>
-<p></p>
+<p>Watch the video on <a href="https://www.youtube.com/watch?v=cLUlBhcZ5eo" rel="noopener nofollow" target="_blank">YouTube</a>
+</p>
 <p></p>
