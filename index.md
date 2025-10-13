@@ -21,10 +21,10 @@ sections:
           description: "Learning Path: Facilitating Productive Classroom Discussion"
           linktext: View now
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: SWI Writing Marathon
-          description: Be inspired by the writings from our Teacher Writers!
-          linktext: Read here
-          url: https://elis.moe.edu.sg/elis/learning-communities/swi-continuity-activities/writing-marathon-2025-locomotion/
+        - title: New Animation Video
+          description: Metacognition in the EL Classroom
+          linktext: View now
+          url: https://elis.moe.edu.sg/metacognition-in-el-classrooms/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to

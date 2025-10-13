@@ -219,7 +219,7 @@ engagement.</p>
 </p>
 </li>
 <li>
-<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/c38620fc-ad41-489c-8a2c-afc808dabf12" rel="noopener noreferrer nofollow" target="_blank">How can EL Departments Build a Culture that Supports Differentiated Instruction?</a>
+<p><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/3ef51479-30d3-4522-865f-eed1936362e6" rel="noopener noreferrer nofollow" target="_blank">How can Teachers Use ICT Tools Purposefully to Teach Receptive-Productive Skills in English Language?</a>
 </p>
 </li>
 </ul>
