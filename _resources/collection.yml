@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Resources.md
+      - View/Metacognition in EL Classrooms.md
       - View/.keep
       - View/Microlearning Units (MLUs).md
       - View/Videos on Teaching & Learning.md
