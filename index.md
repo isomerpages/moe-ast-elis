@@ -24,7 +24,7 @@ sections:
         - title: New Animation Video
           description: Metacognition in the EL Classroom
           linktext: View now
-          url: https://elis.moe.edu.sg/metacognition-in-el-classrooms/
+          url: https://elis.moe.edu.sg/metacognition-in-the-el-classroom/
   - infopic:
       title: Professional Learning Opportunities 2025
       description: Interested in professional learning opportunities offered to
