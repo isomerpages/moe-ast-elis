@@ -1,6 +1,6 @@
 ---
-title: Metacognition in EL Classrooms
-permalink: /metacognition-in-el-classrooms/
+title: Metacognition in the EL Classroom
+permalink: /metacognition-in-the-el-classroom/
 variant: tiptap
 description: ""
 third_nav_title: View
