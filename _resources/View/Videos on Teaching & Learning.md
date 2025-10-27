@@ -40,7 +40,7 @@ subjects.</p>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/resources/watch/videos/supporting-inquiry-based-learning-in-the-el-classroom-what-why-and-how/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="IBL" src="/images/VIEW ICONS/mother goose video.png">
+<img style="width: 100%" height="auto" width="100%" alt="IBL" src="/images/VIEW ICONS/mothergoose2.png">
 </div>
 </div>
 <div class="isomer-card-body">
