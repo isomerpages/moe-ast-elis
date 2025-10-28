@@ -8,7 +8,7 @@ third_nav_title: Windows on Expertise
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/WinEx_3__2_.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WinEx_3__2_.png">
 </div>
 <div class="iframe-wrapper">
 <iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CW8nNdH4akQ?si=NSw0kGk9uQrRBSFD"></iframe>
