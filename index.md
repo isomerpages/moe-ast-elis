@@ -13,10 +13,11 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
-        - title: ELIS e-Digest Issue 10
-          description: Explore insights and perspectives about Inquiry through Dialogue.
-          linktext: Check it out
-          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
+        - title: New Video Podcast
+          description: Metacognition – Beyond Reflection at the End of English Language
+            Lessons
+          linktext: View Now
+          url: https://elis.moe.edu.sg/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/
         - title: New MLU
           description: "Learning Path: Facilitating Productive Classroom Discussion"
           linktext: View now
