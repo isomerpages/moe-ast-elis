@@ -15,12 +15,12 @@ third_nav_title: Windows on Expertise
 </div>
 <p><a href="https://open.spotify.com/episode/68kE939WlxLLDMy7FXACFy?si=0db5708c4fa94784" rel="noopener nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
-<p>In this episode, we feature Christine Goh, NTU President's Chair Professor
+<p>In this episode, we feature Dr Christine Goh, NTU President's Chair Professor
 in Education, English Language and Literature Department, National Institute
-of Education, NTU; Margaret Teo, Senior Teacher of English Language at
-Pei Hwa Presbyterian Primary School; and Colin Sim, Head of Department
+of Education, NTU; Miss Margaret Teo, Senior Teacher of English Language
+at Pei Hwa Presbyterian Primary School; and Mr Colin Sim, Head of Department
 for English Language and Literature at Yusof Ishak Secondary School. Christine,
-Margaret and Colin explore with Cedric Leong, Principal Master Teacher,
+Margaret and Colin explore with Mr Cedric Leong, Principal Master Teacher,
 the question: “Is metacognition more than reflection?”. They discuss how
 metacognitive processing can be encouraged and made audible and visible
 in the pre-, while-, and post-phases of lessons in the English Language
