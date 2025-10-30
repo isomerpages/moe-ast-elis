@@ -80,7 +80,7 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 <div>
 <p><a href="/elis/resources/listen/research-summaries-podcasts/">
 <img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:50%">
-</a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
+</a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
 </a>
 	</div>
 
