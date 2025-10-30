@@ -17,17 +17,17 @@ as well as language teaching, learning and assessment. They offer perspectives t
 <p></p>
 <p><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
 <img src="/images/Winex_1.png" style="width:40%">
-</a></p><center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/"><b>Building Multiliteracies in EL Classrooms (Episode 1)</b></a></center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
+</a></p><center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/"><b>(Episode 1) Building Multiliteracies in EL Classrooms </b></a></center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/">
 </a>
 <p><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/">
 <img src="/images/WinEx2.png" style="width:40%">
-</a></p><center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/"><b>Building Multiliteracies in EL Classrooms (Episode 2)</b></a></center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/">
+</a></p><center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/"><b>(Episode 2) Building Multiliteracies in EL Classrooms</b></a></center><a href="/elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-2/">
 </a>
 <p><a href="/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/">
 <img src="/images/WinEx_3.png" style="width:40%">
-</a></p><center><a href="/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/"><b>Metacognition and Its Place in Our English Language Classrooms (Episode 3)</b></a></center><a href="/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/">
+</a></p><center><a href="/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/"><b>(Episode 3) Metacognition and Its Place in Our English Language Classrooms </b></a></center><a href="/elis/resources/listen/metacognition-and-its-place-in-our-english-language-classrooms-episode-3/">
 </a>
 <p><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
 <img src="/images/WinEx_3__2_.png" style="width:40%">
-</a></p><center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/"><b>Metacognition – Beyond Reflection at the End of English Language Lessons (Episode 4)</b></a></center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
+</a></p><center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/"><b>(Episode 4) Metacognition – Beyond Reflection at the End of English Language Lessons</b></a></center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
 </a>
