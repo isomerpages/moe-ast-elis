@@ -1,5 +1,5 @@
 ---
-title: Podcasts on Windows on Expertise
+title: Windows on Expertise
 permalink: /elis/resources/listen/podcasts-on-windows-on-expertise/
 variant: markdown
 description: ""

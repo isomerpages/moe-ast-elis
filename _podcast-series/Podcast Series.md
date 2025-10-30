@@ -54,9 +54,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 ### What's New
 
 <center>
-<a href="/elis/resources/listen/part-2-learning-from-classroom-inquiry-at-school-of-science-and-technology/">
-<img src="/images/PODCAST/CI_11_Part_2.png" style="width:30%">
-<b>Part 2: Learning from Classroom Inquiry at School of Science and Technology</b>
+<a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
+<img src="/images/WinEx_3__2_.png" style="width:30%">
+<b>(Episode 4) Metacognition – Beyond Reflection at the End of English Language Lessons</b>
 </a>
 	</center>
 
@@ -80,7 +80,7 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 <div>
 <p><a href="/elis/resources/listen/research-summaries-podcasts/">
 <img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:50%">
-</a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Podcast Series on Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
+</a></p><center><a href="/elis/resources/listen/research-summaries-podcasts/"><b>Research Summaries</b></a></center><a href="/elis/resources/listen/research-summaries-podcasts/">
 </a>
 	</div>
 

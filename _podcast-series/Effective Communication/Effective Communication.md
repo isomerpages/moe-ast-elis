@@ -1,5 +1,5 @@
 ---
-title: Podcasts on Effective Communication
+title: Effective Communication
 permalink: /elis/resources/listen/podcasts-on-effective-communication/
 variant: markdown
 description: ""

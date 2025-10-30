@@ -1,8 +1,9 @@
 ---
-title: Podcast Series on The Singapore Writing Institute
+title: The Singapore Writing Institute
 permalink: /elis/resources/listen/podcast-series-on-the-singapore-writing-institute/
 description: ""
 third_nav_title: Singapore Writing Institute
+variant: tiptap
 ---
 <img src="/images/final-elis-series-podcast-artwork-2021.png" style="width:50%">
 		 

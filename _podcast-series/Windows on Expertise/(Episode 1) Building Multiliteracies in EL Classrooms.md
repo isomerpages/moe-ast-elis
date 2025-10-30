@@ -1,5 +1,5 @@
 ---
-title: Building Multiliteracies in EL Classrooms (Episode 1)
+title: (Episode 1) Building Multiliteracies in EL Classrooms
 permalink: /elis/resources/listen/building-multiliteracies-in-el-classrooms-episode-1/
 variant: tiptap
 description: ""

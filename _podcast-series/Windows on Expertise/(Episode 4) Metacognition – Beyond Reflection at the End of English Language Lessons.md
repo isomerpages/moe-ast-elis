@@ -1,6 +1,6 @@
 ---
-title: Metacognition – Beyond Reflection at the End of English Language Lessons
-  (Episode 4)
+title: (Episode 4) Metacognition – Beyond Reflection at the End of English
+  Language Lessons
 permalink: /elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/
 variant: tiptap
 description: ""
@@ -28,8 +28,7 @@ classroom. They also explore practical approaches and strategies for building
 the metacognitive ability of students as they perform language tasks in
 the various areas of language learning, and how these can be supported
 and enhanced through the use EdTech and AI.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -38,12 +37,10 @@ and enhanced through the use EdTech and AI.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Topic</strong>
-</p>
+<p>Topic</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Further Readings</strong>
-</p>
+<p>Further Readings</p>
 </td>
 </tr>
 <tr>
@@ -57,9 +54,28 @@ Elbaum Associates.</p>
 </td>
 </tr>
 <tr>
-<td rowspan="2" colspan="1">
+<td rowspan="6" colspan="1">
 <p>Metacognition in Language Learning and Teaching</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Goh, C. C. M. (2014). Reconceptualising second language oracy instruction:
+Metacognitive engagement and direct teaching in listening and speaking. <em>The Asian Journal of English Language and Pedagogy,</em> 2,
+1-31.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh, C. C. M. &amp; Burns, A. (2012). <em>Teaching Speaking: A Holistic Approach</em>.
+Cambridge University Press (Chapters 6 and 11).</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Goh, C. C. M. &amp; Vandergrift, L. (2022). <em>Teaching and Learning Second Language Listening: Metacognition in Action</em> (2nd
+Edition). Routledge (Chapters 5, 6 and 7).</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Teng, M. F. (2025). <em>Metacognition in language teaching.</em> Cambridge
 University Press.</p>
@@ -74,20 +90,17 @@ overview. In A. Haukas, C. Bjorke, &amp; M. Dypedahl (Eds.), <em>Metacognition i
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tay, L. Y., Chong, S. K., Ho, C. F., &amp; Begum, A. T. (2020). <em>A Review of metacognition: Implications for teaching and learning.</em> NIE
+Working Paper Series No. 17, Office of Educational Research, NIE, NTU.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Curiosity</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Peterson, E. G. (2020). Supporting curiosity in schools and classrooms.
 In <em>Current Opinion in Behavioural Sciences, 35</em>:7-13.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Implications for Teaching and Learning</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay, L. Y., Chong, S. K., Ho, C. F., &amp; Begum, A. T. (2020). <em>A Review of metacognition: Implications for teaching and learning.</em> NIE
-Working Paper Series No. 17, Office of Educational Research, NIE, NTU.</p>
 </td>
 </tr>
 <tr>

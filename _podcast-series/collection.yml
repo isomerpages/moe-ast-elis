@@ -4,22 +4,21 @@ collections:
     order:
       - Podcast Series.md
       - Effective Communication/.keep
-      - Effective Communication/Podcasts on Effective Communication.md
+      - Effective Communication/Effective Communication.md
       - Effective Communication/Understanding Subject Literacy.md
       - Effective Communication/Effective Communication for Learning.md
       - Windows on Expertise/.keep
-      - Windows on Expertise/Podcasts on Windows on Expertise.md
-      - Windows on Expertise/Building Multiliteracies in EL Classrooms (Episode
-        1).md
-      - Windows on Expertise/Building Multiliteracies in EL Classrooms (Episode
-        2).md
-      - Windows on Expertise/Metacognition and Its Place in Our English Language
-        Classrooms (Episode 3).md
-      - Windows on Expertise/Metacognition – Beyond Reflection at the End of
-        English Language Lessons (Episode 4).md
+      - Windows on Expertise/Windows on Expertise.md
+      - Windows on Expertise/(Episode 1) Building Multiliteracies in EL
+        Classrooms.md
+      - Windows on Expertise/(Episode 2) Building Multiliteracies in EL
+        Classrooms.md
+      - Windows on Expertise/(Episode 3) Metacognition and Its Place in Our
+        English Language Classrooms.md
+      - Windows on Expertise/(Episode 4) Metacognition – Beyond Reflection at
+        the End of English Language Lessons.md
       - Teaching Learning & Assessment/.keep
-      - Teaching Learning & Assessment/Podcast Series on Areas of Teaching,
-        Learning & Assessment.md
+      - Teaching Learning & Assessment/Teaching, Learning & Assessment.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue in Teaching
         Grammar.md
       - Teaching Learning & Assessment/Inquiry Through Dialogue in Teaching
@@ -58,7 +57,7 @@ collections:
       - Teaching Learning & Assessment/Multiliteracies in Teaching Grammar and
         Vocabulary.md
       - Classroom Inquiry/.keep
-      - Classroom Inquiry/Podcast Series on Classroom Inquiry.md
+      - Classroom Inquiry/Classroom Inquiry.md
       - "Classroom Inquiry/Part 2: Learning from Classroom Inquiry at School of
         Science and Technology.md"
       - "Classroom Inquiry/Part 1: Using Reader Roles to Develop Students as
@@ -92,7 +91,7 @@ collections:
       - Classroom Inquiry/Using Drama Techniques to Improve Student Writing.md
       - Classroom Inquiry/Helping Primary Two Students to Write Better Stories.md
       - Research Summaries/.keep
-      - Research Summaries/Podcast Series on Research Summaries.md
+      - Research Summaries/Research Summaries.md
       - Research Summaries/Research Summary ― Children’s Talk and the
         Development of Reasoning in the Classroom.md
       - "Research Summaries/Academic Conversations: Classroom Talk that Fosters
@@ -104,8 +103,7 @@ collections:
       - Research Summaries/Research Summary ― The Role of Vocabulary in Reading
         Comprehension.md
       - Singapore Writing Institute/.keep
-      - Singapore Writing Institute/Podcast Series on The Singapore Writing
-        Institute.md
+      - Singapore Writing Institute/The Singapore Writing Institute.md
       - "Singapore Writing Institute/Teacher as Writer: Why Writing with your
         Students is Important.md"
       - "Singapore Writing Institute/Teacher as Inquirer: Nurturing Voice in
@@ -115,7 +113,7 @@ collections:
       - "Singapore Writing Institute/Teacher as Leader: Leading from the
         Classroom.md"
       - Grammar Matters/.keep
-      - Grammar Matters/Podcasts on Grammar Matters.md
+      - Grammar Matters/Grammar Matters.md
       - "Grammar Matters/Singular and Plural: Countable and Uncountable Nouns –
         At the Supermarket.md"
       - Grammar Matters/Definite and Indefinite Articles – A Letter of
@@ -141,8 +139,8 @@ collections:
         to Australia.md
       - Grammar Matters/Reporting What Others Say – Looking for a Job.md
       - English Language Teaching/.keep
-      - English Language Teaching/Podcasts on Developments in English Language
-        Teaching and Learning in Singapore.md
+      - English Language Teaching/Developments in English Language Teaching and
+        Learning in Singapore.md
       - English Language Teaching/Developments in English Language Teaching and
         Learning in Singapore (Episode 1).md
       - English Language Teaching/Developments in English Language Teaching and

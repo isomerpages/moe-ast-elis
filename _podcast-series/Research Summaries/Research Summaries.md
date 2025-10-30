@@ -1,8 +1,9 @@
 ---
-title: Podcast Series on Research Summaries
+title: Research Summaries
 permalink: /elis/resources/listen/research-summaries-podcasts/
 description: ""
 third_nav_title: Research Summaries
+variant: tiptap
 ---
 <img src="/images/photo_2021-06-22_15-09-40.jpg" style="width:50%">
 		 

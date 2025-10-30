@@ -1,8 +1,9 @@
 ---
-title: Podcasts on Developments in English Language Teaching and Learning in Singapore
+title: Developments in English Language Teaching and Learning in Singapore
 permalink: /elis/resources/listen/podcast-series-on-developments-in-english-language/
 description: ""
 third_nav_title: English Language Teaching
+variant: tiptap
 ---
 <img src="/images/final-elis-series-podcast-artwork-2021--2.png" style="width:50%">
 		 
