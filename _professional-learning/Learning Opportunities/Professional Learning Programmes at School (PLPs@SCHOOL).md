@@ -127,19 +127,10 @@ application of learning on student learning outcomes.</p>
 <p>To apply for the 2026 run of PLPs@School, please write to Ms Cindy Woon</p>
 <p>(Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a> by Fri, 17
 Oct 2025.</p>
-</li>
-</ul>
 <p></p>
-<ul>
-<li>
-<p>Primary/Secondary</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-extensive-reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Extensive Reading and Viewing</a>
-</p>
 </li>
 <li>
 <p>Primary</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-grammar/" rel="noopener noreferrer nofollow" target="_blank">Teaching Grammar (Primary)</a>
-</p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Primary)</a>
 </p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing-vocabulary/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading, Viewing and Vocabulary (Primary)</a>
@@ -149,8 +140,6 @@ Oct 2025.</p>
 </li>
 <li>
 <p>Secondary</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-grammar/" rel="noopener noreferrer nofollow" target="_blank">Teaching Grammar (Secondary)</a>
-</p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Secondary)</a>
 </p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading, Viewing and Vocabulary (Secondary)</a>
