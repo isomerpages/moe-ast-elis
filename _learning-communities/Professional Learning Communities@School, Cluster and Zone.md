@@ -96,6 +96,16 @@ of their EL department colleagues and other learning communities.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Registration</strong>
+</p>
+<p>Details will be sent in an email invite to target participants before
+the Learning Session.</p>
+<p></p>
+<p><strong>For enquiries, please contact:</strong>
+</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
@@ -166,6 +176,15 @@ their learning in NLCs and reflect on the impact of their learning on:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p><strong>Registration</strong>
+</p>
+<p>Details will be sent in an email invite to target participants before
+the Learning Session.</p>
+<p></p>
+<p><strong>For enquiries, please contact:</strong>
+</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">
