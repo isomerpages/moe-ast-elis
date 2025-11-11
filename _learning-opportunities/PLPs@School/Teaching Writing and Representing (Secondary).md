@@ -10,11 +10,12 @@ variant: tiptap
 </p>
 <h3>Overview</h3>
 <p>This learning programme aims to provide you with a deeper understanding
-of the processes of writing and representing. You will have opportunities
-to explore, practise and reflect on how to teach writing and representing.
-You will consider ways to use educational technology in blended learning
-contexts to support active learning in participatory, connected and reflective
-classrooms.</p>
+of the processes of writing and representing to address the diverse needs
+of learners in your EL classrooms. You will have opportunities&nbsp;to&nbsp;explore,&nbsp;practise
+and reflect on how to teach and assess writing and representing more effectively
+in integration with the other areas of language learning. You will consider
+ways to use EdTech, including AI,&nbsp;in blended learning contexts to
+support active learning in participatory, connected and reflective classrooms.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this learning programme, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -38,4 +39,4 @@ decisions about teaching, learning and assessment.</p>
 </li>
 </ul>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the secondary level</p>
+<p>EL KP, TLs and Teachers</p>
