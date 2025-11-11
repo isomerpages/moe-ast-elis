@@ -10,13 +10,15 @@ variant: tiptap
 </p>
 <h3>Overview</h3>
 <p>This learning programme aims to provide you with a deeper understanding
-of the processes of listening and viewing, and speaking and representing.
-You will be able to apply the knowledge of spoken grammar and vocabulary
-to teach pronunciation, prosodic features and oral interaction skills more
-effectively. You will consider ways to use educational technology in blended
-learning contexts to support active learning in participatory, connected
-and reflective classrooms. You will also learn how to use multimodal texts
-to teach oral communication skills.</p>
+of the processes of listening and viewing, and speaking and representing
+to address the diverse needs of learners in your EL classrooms. You will
+be able to apply the knowledge of spoken grammar and vocabulary to teach
+and assess&nbsp;pronunciation, prosodic features and oral interaction skills
+more effectively in integration with the other areas of language learning.
+You will consider ways to use EdTech, including AI,&nbsp;in blended learning
+contexts to support active learning in participatory, connected and reflective
+classrooms. You will also learn how to use multimodal texts to teach oral
+communication skills.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this learning programme, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -33,8 +35,9 @@ prosodic features for effective communication;</p>
 speaking and representing, and oral interaction; and</p>
 </li>
 <li>
-<p>assess listening and viewing, speaking and representing, and oral interaction.</p>
+<p>design formative assessment tasks to monitor and support students’ progress
+in listening and viewing, speaking and representing, and oral interaction.</p>
 </li>
 </ul>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the primary level</p>
+<p>EL KP, TLs and Teachers</p>
