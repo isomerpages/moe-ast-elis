@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Classroom Inquiry
 variant: tiptap
 ---
-<p><em>How can I turn my interest in my students’ learning into a focused classroom inquiry? How do I design the inquiry to answer the questions I have? What methods can I use to collect and analyse evidence? How can I communicate my findings clearly and convincingly to others?</em>
+<p><em>How can I turn my interest in my students’ learning into a focused classroom inquiry?</em>
+</p>
+<p><em>How do I design the inquiry to answer the questions I have?</em>
+</p>
+<p><em>What methods can I use to collect and analyse evidence?</em>
+</p>
+<p><em>How can I communicate my findings clearly and convincingly to others?</em>
 </p>
 <h3>Overview</h3>
 <p>This course introduces you to classroom-based, teacher-led inquiry for
@@ -30,9 +36,9 @@ help you answer your inquiry questions; and</p>
 your inquiry findings.</p>
 </li>
 </ul>
-<p>The course is a blend of in-person learning sessions and an online asynchronous
-learning period. You will have opportunities to apply your learning during
-the course while designing a classroom inquiry.</p>
+<p>The course is a blend of&nbsp;in-person learning sessions and an asynchronous
+online learning period.&nbsp;You will have opportunities to apply your
+learning during the course while designing a classroom inquiry.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -73,10 +79,11 @@ the course while designing a classroom inquiry.</p>
 <p>In-Person Learning Session 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 hours</p>
+<p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 6 Feb (P.M.)</p>
+<p>Thu, 5&nbsp;Mar</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -84,10 +91,10 @@ the course while designing a classroom inquiry.</p>
 <p>Asynchronous Online Learning Period</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>6 hours</p>
+<p>&nbsp;6 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 7 Feb – Wed, 2 Apr</p>
+<p>Fri, 6&nbsp;Mar – Wed, 8&nbsp;Apr</p>
 </td>
 </tr>
 <tr>
@@ -95,25 +102,21 @@ the course while designing a classroom inquiry.</p>
 <p>In-Person Learning Session 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 hours</p>
+<p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 3 Apr (P.M.)</p>
+<p>Thu, 9 Apr</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Target Participants</h3>
-<ul data-tight="true" class="tight">
-<li>
-<p>Teachers and Teacher Leaders of English Language and Literature in English&nbsp;who
-would like to build their research literacy with a view to engage in classroom-based
-inquiry.</p>
-</li>
-</ul>
+<p>TLs and teachers of EL and Literature who would like to build their research
+literacy with a view to engage in classroom-based inquiry,</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8fc87560-84bd-42c4-b9c3-f8d1c6769821" rel="noopener noreferrer nofollow" target="_blank">CI-000024</a></strong>.
-<br>Closing date for registration: Thu, 16 Jan</p>
+<br>Closing date for registration: Thu, 19 Feb</p>
 <h3>For enquiries, please contact:</h3>
 <p>Dr Caroline Ho (Lead Specialist/EL) at <a href="mailto:caroline_ho@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_ho@moe.gov.sg</a>
 </p>
