@@ -7,20 +7,15 @@ third_nav_title: SkillsFuture for Educators
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>In the SFEd course on e-Pedagogy and Blended Learning, you will:</p>
-<ul>
-<li>
-<p>actively inquire into:</p>
+<p>In the SFEd course on E-Pedagogy and Blended Learning, you will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>your practice of harnessing educational technology effectively to foster
-active student learning in a blend of in-person and online learning contexts;</p>
-</li>
-<li>
-<p>your design of lessons, and the selection and use of educational technology
-tools in these contexts; and</p>
-</li>
-</ul>
+<p>actively inquire into:
+<br>− your practice of harnessing EdTech, including Artificial Intelligence
+(AI),&nbsp;effectively to foster active student learning in a blend of
+in-person and online learning contexts;
+<br>− your design of lessons, and the selection and use of EdTech tools in
+these contexts; and</p>
 </li>
 <li>
 <p>apply your learning about e-pedagogy and blended learning to promote active
@@ -34,7 +29,7 @@ student learning in participatory, connected and reflective classrooms.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>wish to have fundamental understanding of and become independent in your
-practice of harnessing educational technology to foster active student
+practice of harnessing EdTech, including AI,&nbsp;to foster active student
 learning in a blend of in-person and online learning contexts;</p>
 </li>
 <li>
@@ -51,18 +46,17 @@ participate in the course.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>demonstrate understanding of the principles of e-pedagogy and blended
-learning;</p>
+learning;&nbsp;</p>
 </li>
 <li>
-<p>apply your understanding to harness educational technology to design learning
-and formative assessment experiences that enable students to experience
-participatory, connected and reflective learning in blended learning contexts;
-and</p>
+<p>apply your understanding to harness EdTech to design learning and formative
+assessment experiences that enable students to experience participatory,
+connected and reflective learning in blended learning contexts; and</p>
 </li>
 <li>
-<p>explain your lesson design decisions based on the principles of e-pedagogy
+<p>explain your lesson design decisions based on the principles of&nbsp;e-pedagogy
 and blended learning, the principles of EL teaching and learning (CLLIPS)
-and&nbsp; EL teaching processes (ACoLADE).</p>
+and EL teaching processes (ACoLADE).</p>
 </li>
 </ul>
 <h3>Course Structure</h3>
@@ -78,39 +72,45 @@ and&nbsp; EL teaching processes (ACoLADE).</p>
 <p>Mode of Learning</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Time Period</p>
 </th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asynchronous Online Learning Period</p>
+<p>Asynchronous Online Learning</p>
+<p>Period</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 30 Jun – Tue, 22 Jul</p>
+<p>Tue, 28 Jul –&nbsp;</p>
+<p>Wed, 19 Aug</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Synchronous Online Learning Session</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 29 Jul (P.M.)</p>
+<p>Tue, 25 Aug</p>
+<p>(P.M.)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
-levels</p>
+<p>EL KP, TLs and Teachers</p>
+<p>Registration for the course is limited to a maximum of three participants
+from each school.</p>
 <h3>Registration</h3>
 <p>Registration for the course is limited to a maximum of three participants
 from each school.</p>
@@ -149,12 +149,13 @@ from each school.</p>
 <p>Register by this closing date:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 16 Jun</p>
+<p>Tue, 14 Jul</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>.</p>
+<p>Mdm&nbsp;Nithiyah Subramaniam (Senior Academy Officer/Pedagogy) at &nbsp;
+<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>.</p>
 <p></p>
 <p></p>
