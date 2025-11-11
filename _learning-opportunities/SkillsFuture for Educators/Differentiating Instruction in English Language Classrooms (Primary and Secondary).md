@@ -149,8 +149,8 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
+<p><strong>Duration</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>SFEd DI&nbsp;</strong>
