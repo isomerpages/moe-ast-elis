@@ -6,22 +6,21 @@ third_nav_title: KP and TL Growth Programmes
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>Would you like to grow professionally with guidance from Principal Master
-Teachers (PMTTs) and MTTs in ELIS?</p>
-<p>Our Teacher Work Attachment (TWA) is designed with this aim in mind. During
-the two-week attachment, you will observe the PMTTs and MTTs facilitate
+<p>Our Teacher Work Attachment (TWA) is designed to enable you to grow professionally
+with guidance from Principal Master Teachers (PMTTs) and MTTs in ELIS.
+During the two-week attachment, you will observe the PMTTs and MTTs facilitate
 teacher learning and engage in professional conversations with them. You
 can look forward to time and space for critical reflection and consolidation
-of your knowledge as a Key Personnel (HOD, SH, LH), Teacher Leader or teacher.
-To enable you to apply your learning, the PMTTs and MTTs will support and
-guide you in designing EL, Literature, and/or GP learning experiences to
-impact student and teacher learning.</p>
+of your knowledge as KP, TLs and teachers. To enable you to apply your
+learning, the PMTTs and MTTs will support and guide you in designing EL,
+Literature and/or GP&nbsp;learning experiences to impact student and teacher
+learning.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this TWA, you will be able to:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>strengthen your knowledge bases in subject content, pedagogy including
-assessment, and in the use of educational technology in blended learning
+assessment, and in the use of EdTech, including AI, in blended learning
 contexts for active learning in participatory, connected and reflective
 EL, Literature and/or GP classrooms;</p>
 </li>
@@ -40,7 +39,7 @@ teacher learning.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>reflecting on and identifying your own learning directions and areas for
-growth as a KP, TL or Teacher of EL, Literature and/or GP;</p>
+growth as a KP, TL or teacher of EL, Literature and/or GP;</p>
 </li>
 <li>
 <p>observing PMTTs and MTTs in their various areas of work to inquire into
@@ -69,14 +68,14 @@ relevant resources to support teacher learning.</p>
 <p>The TWA@ELIS Programme will be a blend of in-person learning sessions,
 synchronous online sessions and asynchronous online learning periods over
 a two-week period.</p>
-<p>Two runs are available in 2025; please select only one.</p>
+<p>Two runs are available in 2026; please select only one.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Run 1: Mon, 3 Feb – Fri, 14 Feb (Term 1, Weeks 5 – 6)</p>
+<p>Run 1:&nbsp; Mon, 23 Feb – Fri, 6 Mar (Term 1, Weeks 8 – 9)</p>
 <p>OR</p>
 </li>
 <li>
-<p>Run 2: Tue, 8 Jul – Fri, 18 Jul (Term 3, Weeks 2 – 3)</p>
+<p>Run 2:&nbsp; Tue, 7 Jul – Fri, 17 Jul (Term 3, Weeks 2 – 3)</p>
 </li>
 </ul>
 <p></p>
@@ -85,18 +84,11 @@ a two-week period.</p>
 4 years of teaching experience) at the primary, secondary, or pre-university
 level</p>
 <h3>How to Apply</h3>
-<p>Apply via the following link or QR code:</p>
-<p><a href="https://form.gov.sg/647fdbf6064bb200126e4904" rel="noopener nofollow" target="_blank">https://form.gov.sg/647fdbf6064bb200126e4904</a>
+<p>Apply via the following link:</p>
+<p><a href="https://go.gov.sg/twaplus-wa-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration</a>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/QR_code.jpg">
-</div>
-<p></p>
-<h3>Closing dates</h3>
-<p>Run 1 application: Tue, 3 Dec 2024</p>
-<p>Run 2 application: Thu, 8 May 2025</p>
-<p></p>
-<p>For enquires, please contact:</p>
+<p><strong>For enquires, please contact:</strong>
+</p>
 <p>Ms Solastri Suyot (MTT/EL) at <a href="mailto:solastri_suyot@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">solastri_suyot@moe.gov.sg</a>.</p>
 <p></p>
