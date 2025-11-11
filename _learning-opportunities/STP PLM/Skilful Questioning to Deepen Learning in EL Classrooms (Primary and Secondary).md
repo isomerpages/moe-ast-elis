@@ -58,10 +58,11 @@ outcomes; and</p>
 <p>Asynchronous Online Learning Period 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 hours</p>
+<p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 7 Apr – Tue, 22 Apr</p>
+<p>Tue, 24 Mar –</p>
+<p>Wed, 8 Apr</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +70,11 @@ outcomes; and</p>
 <p>Synchronous Online Learning Session 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 hours</p>
+<p>&nbsp;2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 28 Apr (P.M.)</p>
+<p>Tue, 14 Apr</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -80,10 +82,11 @@ outcomes; and</p>
 <p>Asynchronous Online Learning Period 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>3 hours</p>
+<p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 29 Apr – Fri, 16 May</p>
+<p>Wed, 15 Apr –</p>
+<p>Wed, 29 Apr</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +94,11 @@ outcomes; and</p>
 <p>Synchronous Online Learning Session 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 hours</p>
+<p>&nbsp;2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 22 May (P.M.)</p>
+<p>Wed, 6 May</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -103,7 +107,7 @@ outcomes; and</p>
 <p>EL KP, TLs and Teachers who teach at the primary and secondary levels</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741" rel="noopener nofollow" target="_blank">EL-000144.</a> 
-<br>Closing date for registration: Mon, 24 Mar</p>
+<br>Closing date for registration: Tue, 10 Mar</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:benson_pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg.</a>
-</p>
+<p>Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy) at
+<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>(Primary)</p>
