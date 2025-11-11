@@ -145,8 +145,6 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
 <p><strong>Mode of Learning</strong>
 </p>
 </td>
@@ -155,21 +153,18 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>SFEd DI&nbsp;</strong>
 </p>
 <p><strong>(Proficient)&nbsp;</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>SFEd DI&nbsp;</strong>
 </p>
 <p><strong>(Accomplished)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
 <p><strong>SFEd DI&nbsp;</strong>
 </p>
 <p><strong>(Leading)</strong>
