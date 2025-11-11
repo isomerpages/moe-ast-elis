@@ -50,7 +50,8 @@ of TLs; and</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 3 Feb (P.M.)</p>
+<p>Thu, 12 Feb</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -60,6 +61,6 @@ of TLs; and</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code: <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/ac2f888b-8c21-4a8a-9ff1-9055bea65341" rel="noopener nofollow" target="_blank">EL-000323</a>
 </p>
-<p>Closing date for registration: Mon, 13 Jan</p>
+<p>Closing date for registration: Thu, 29 Jan</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p>Mr Kenneth Yee (Academy Officer/Pedagogy) at&nbsp; <a href="mailto:kenneth_yee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_yee@moe.gov.sg</a>.</p>
