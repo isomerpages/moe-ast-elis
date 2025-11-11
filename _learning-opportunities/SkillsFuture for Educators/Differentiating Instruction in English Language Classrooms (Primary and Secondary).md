@@ -215,6 +215,8 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 </tr>
 </tbody>
 </table>
+<h3>Target Participants</h3>
+<p>EL KP, TLs and Teachers</p>
 <h3>Registration&nbsp;</h3>
 <table style="minWidth: 100px">
 <colgroup>
