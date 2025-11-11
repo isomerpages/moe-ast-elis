@@ -7,27 +7,21 @@ third_nav_title: SkillsFuture for Educators
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>In the SFEd courses on Differentiating Instruction (DI) in English Language
-(EL) Classrooms, you will:</p>
-<ul>
-<li>
-<p>actively inquire into:</p>
+<p>In the SFEd courses on Differentiated Instruction (DI) in EL Classrooms,
+you will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>your practice of DI in the teaching, learning and assessment of EL, or</p>
-</li>
-<li>
-<p>your practice of leading others in their learning about DI; and</p>
-</li>
-</ul>
+<p>actively inquire into:
+<br>−your practice of DI in the teaching, learning and assessment of EL, or
+<br>−your practice of leading others in their learning about DI; and</p>
 </li>
 <li>
 <p>apply your learning and reflect on your practice, which includes the use
-of educational technology to promote active student learning in participatory,
-connected and reflective classrooms.</p>
+of Educational Technology (EdTech), to promote active student learning
+in participatory, connected and reflective classrooms.</p>
 </li>
 </ul>
-<p>There are courses at three Levels of Practice that you can choose from:</p>
+<p>You can take this course at an appropriate Level of Practice:</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/picture.png">
 </div>
@@ -48,7 +42,7 @@ become skilful and independent in your practice of DI in EL classrooms;</p>
 of DI to improve student learning of EL; and</p>
 </li>
 <li>
-<p>plan to apply your learning as you participate in the course.</p>
+<p>plan to apply your learning as you participate in the course</p>
 </li>
 </ul>
 <h4>Learning Goals</h4>
@@ -63,9 +57,9 @@ and assessment of EL;</p>
 interests and learning profiles; and</p>
 </li>
 <li>
-<p>make appropriate choices, including the use of educational technology,
-to support the practice of DI in EL classrooms, based on knowledge of learners,
-the EL Syllabus 2020 and the EL curriculum.</p>
+<p>make appropriate choices, including the use of EdTech, to support the
+practice of DI in EL classrooms, based on knowledge of learners, the EL
+Syllabus 2020 and the EL curriculum.</p>
 </li>
 </ul>
 <hr>
@@ -90,18 +84,11 @@ practice of DI in EL classrooms.</p>
 <p>By the end of this course, you will be able to:</p>
 <ul>
 <li>
-<p>adapt EL lessons, incorporating the use of educational technology, based
-on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>principles of DI, and</p>
-</li>
-<li>
-<p>knowledge of learners, acquired through the sound use of assessment information
-on students’ learning readiness, interests and learning profiles, collected
-before, during and after instruction; and</p>
-</li>
-</ul>
+<p>adapt EL lessons, incorporating the use of EdTech, based on:</p>
+<p>− principles of DI;</p>
+<p>− knowledge of learners, acquired through the sound use of assessment
+information on students’ learning readiness, interests and learning profiles,
+collected before, during and after instruction; and</p>
 </li>
 <li>
 <p>demonstrate adaptiveness in differentiating content, process, product
@@ -134,18 +121,10 @@ classrooms.</p>
 <li>
 <p>lead and mentor peers/teachers in the practice of DI in the areas of language
 learning to improve classroom practice, by demonstrating:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>the application of DI principles and e-pedagogy;</p>
-</li>
-<li>
-<p>ongoing review of and critical inquiry into the practice of DI;</p>
-</li>
-<li>
-<p>adaptiveness in the practice of DI to customise learning for students;
+<p>− the application of DI principles and e-pedagogy,</p>
+<p>− ongoing review of and critical inquiry into the practice of DI, and</p>
+<p>− adaptiveness in the practice of DI to customise learning for students;
 and</p>
-</li>
-</ul>
 </li>
 <li>
 <p>plan with the aim of facilitating professional learning about DI in EL
@@ -155,14 +134,87 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 </li>
 </ul>
 <h3>Course Structure</h3>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/DI_structure.jpg">
-</div>
 <p></p>
-<h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
-levels</p>
+<p><strong>Mode of Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>SFEd DI&nbsp;</strong>
+</p>
+<p><strong>(Proficient)&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>SFEd DI&nbsp;</strong>
+</p>
+<p><strong>(Accomplished)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<p><strong>SFEd DI&nbsp;</strong>
+</p>
+<p><strong>(Leading)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 22 Jan –&nbsp; Thu, 12 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 27 Feb –&nbsp; Fri, 13 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 8 Apr –Wed, 29 Apr&nbsp;&nbsp; &nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 23 Feb (P.M.)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 25 Mar (P.M.)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 8 May (P.M.)</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Registration&nbsp;</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -219,14 +271,13 @@ levels</p>
 <p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 3 Jan</p>
-<p></p>
+<p>Thu, 8 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10 Mar</p>
+<p>Fri, 13 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 7 Apr</p>
+<p>Wed, 25 Mar</p>
 </td>
 </tr>
 </tbody>
@@ -238,5 +289,5 @@ levels</p>
 <br>
 </p>
 <h5>For enquiries, please contact:</h5>
-<p>Ms Madeleine Tan (Academy Officer/Pedagogy) at <a href="mailto:madeleine_tan@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">madeleine_tan@moe.gov.sg</a>
-</p>
+<p>Ms Denise Marie Fernandez (Academy Officer/Pedagogy) at <a href="mailto:denise_marie_fernandez@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_marie_fernandez@moe.gov.sg</a>.</p>
+<p></p>
