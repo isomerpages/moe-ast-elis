@@ -285,9 +285,6 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 <div class="isomer-image-wrapper">
 <img style="width:7%" height="auto" width="100%" src="/images/picture13.png">
 </div>
-<p>
-<br>
-</p>
 <h5>For enquiries, please contact:</h5>
 <p>Ms Denise Marie Fernandez (Academy Officer/Pedagogy) at <a href="mailto:denise_marie_fernandez@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_marie_fernandez@moe.gov.sg</a>.</p>
 <p></p>
