@@ -21,6 +21,17 @@ of Education (NIE).</p>
 <p>As EL KP, TLs or experienced teachers without English specialisation,
 you will build foundational understanding of the SCK you need to teach
 EL effectively.</p>
+<h3>Target Participants</h3>
+<ul data-tight="true" class="tight">
+<li>
+<p>EL KP and TLs who are invited through their Principals</p>
+</li>
+<li>
+<p>Experienced EL teachers with at least five years of experience in teaching
+EL and without specialisation in EL at university, who will seek approval
+from their Principals</p>
+</li>
+</ul>
 <h3>Programme Structure</h3>
 <table style="minWidth: 75px">
 <colgroup>
@@ -53,16 +64,20 @@ EL effectively.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 16 Jan</p>
-<p>Thu, 23 Jan</p>
-<p>Wed, 5 Feb</p>
-<p>Wed, 19 Feb</p>
+<p>Tue, 20 Jan</p>
+<p>Thu, 29 Jan</p>
+<p>Thu, 5 Feb</p>
+<p>Tue, 24 Feb</p>
+<p></p>
 <p>(4 full days)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 6 Feb</p>
-<p>Thu, 20 Feb</p>
-<p>Thu, 6 Mar</p>
+<p>Tue, 27 Jan</p>
+<p>Tue, 3 Feb</p>
+<p>Tue, 24 Feb</p>
+<p></p>
+<p></p>
 <p>(3 full days)</p>
 </td>
 </tr>
@@ -73,16 +88,21 @@ EL effectively.</p>
 <p>Teaching Listening and Viewing</p>
 </li>
 </ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 3 Apr</p>
-<p>Thu, 17 Apr</p>
+<p>Thu, 2 Apr</p>
+<p>Thu, 16 Apr</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 2 Apr</p>
-<p>Wed, 16 Apr</p>
+<p>Wed, 1 Apr</p>
+<p>Thu, 16 Apr</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -92,16 +112,21 @@ EL effectively.</p>
 <p>Teaching Speaking and Representing</p>
 </li>
 </ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 24 Apr</p>
-<p>Thu, 8 May</p>
+<p>Thu, 30&nbsp;Apr</p>
+<p>Thu, 14 May</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 9 Jul</p>
-<p>Fri, 1 Aug</p>
+<p>Wed, 29 Apr</p>
+<p>Wed, 13 May</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -111,17 +136,23 @@ EL effectively.</p>
 <p>Teaching Reading, Viewing and Vocabulary</p>
 </li>
 </ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 2 Jul</p>
-<p>Mon, 21 Jul</p>
+<p>Wed, 8&nbsp;Jul</p>
+<p>Thu, 23 Jul</p>
+<p></p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 16 Sep</p>
-<p>Mon, 22 Sep</p>
-<p>Mon, 6 Oct</p>
+<p>Tue, 7 Jul</p>
+<p>Mon, 13 Jul</p>
+<p>Wed, 29 Jul</p>
+<p></p>
 <p>(3 full days)</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -131,16 +162,21 @@ EL effectively.</p>
 <p>Teaching Writing and Representing</p>
 </li>
 </ol>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 4 Aug</p>
-<p>Wed, 20 Aug</p>
+<p>Wed, 5 Aug</p>
+<p>Tue, 18 Aug</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 15 Oct</p>
-<p>Thu, 30 Oct</p>
+<p>Wed, 12 Aug</p>
+<p>Wed, 26 Aug</p>
+<p></p>
 <p>(2 full days)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
@@ -153,9 +189,8 @@ in classroom practice.</p>
 access:</p>
 <p>▪ An overview of the 96-hr PLP</p>
 <p>▪ Frequently Asked Questions on the 96-hr PLP</p>
-<h3>Registration</h3>
-<p>The participants for the 2025 run have been confirmed.</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a> OR</p>
-<p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:elizabeth_h_lee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg.</a>
-</p>
+<p>Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy) at
+<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>(Primary)</p>
+<p>OR</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a> (Secondary).</p>
