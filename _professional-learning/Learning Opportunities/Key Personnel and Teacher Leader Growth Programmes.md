@@ -26,7 +26,7 @@ one another, with support from Master Teachers/EL.</p>
 </p>
 </li>
 <li>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/building-subject-content-knowledge/" rel="noopener noreferrer nofollow" target="_blank">96–hr PLP: Building Subject Content Knowledge for EL Teaching, Learning and Assessment</a>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/building-subject-content-knowledge/" rel="noopener noreferrer nofollow" target="_blank">96–hr PLP: Building Subject Content Knowledge for EL Teaching</a>
 </p>
 </li>
 </ul>
