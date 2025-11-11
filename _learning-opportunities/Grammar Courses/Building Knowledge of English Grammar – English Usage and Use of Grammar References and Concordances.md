@@ -16,11 +16,11 @@ with many exceptions. You will apply your understanding of how and why
 to use particular grammatical structures to enable your students to use
 them accurately, appropriately and effectively. You will learn to use grammar
 references and concordances to support your own and your students’ learning
-about English usage. You will also consider ways to use educational technology
-in blended learning contexts to support active learning in participatory,
-connected and reflective classrooms. For your learning to be meaningful
-and relevant, you will have the opportunity to apply your understanding
-through analysing and responding to your students’ work.</p>
+about English usage. You will also consider ways to use EdTech, including
+AI,&nbsp;to support active learning in participatory, connected and reflective
+classrooms. For your learning to be meaningful and relevant, you will have
+the opportunity to apply your understanding through analysing and responding
+to your students’ work.</p>
 <h3>Learning Goals</h3>
 <p>By the end of this course, you will be able to:</p>
 <ul data-tight="true" class="tight">
@@ -63,37 +63,39 @@ learning about English usage.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asynchronous Online Learning Period</p>
+<p>Asynchronous Online Learning Period&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 14 Jul – Mon, 4 Aug</p>
+<p>Tue, 7 Jul –&nbsp;</p>
+<p>Tue, 28 Jul</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning Session</p>
+<p>In-Person Learning Session&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>2.5 hours</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 12 Aug (P.M.)</p>
+<p>Mon, 3 Aug</p>
+<p>(P.M.)</p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
-levels</p>
+<p>EL KP, TLs and Teachers</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;<strong>OPAL2.0</strong>&nbsp;using this code:&nbsp;
 <a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/405287b8-c57f-4c4d-a533-a646cb961c7d" rel="noopener noreferrer nofollow" target="_blank">EL-000256</a>.
-<br>Closing date for registration: Mon, 30 Jun</p>
-<p></p>
+<br>Closing date for registration: Tue, 23 Jun</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Cindy Woon (Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>
-</p>
+<p>Ms Denise Marie Fernandez (Academy Officer/Pedagogy) at <a href="mailto:denise_marie_fernandez@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">denise_marie_fernandez@moe.gov.sg</a>.</p>
