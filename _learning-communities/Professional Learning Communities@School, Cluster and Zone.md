@@ -90,8 +90,8 @@ of their EL department colleagues and other learning communities.</p>
 <p>2.5 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 26 Feb</p>
-<p>(P.M.)</p>
+<p>Thu, 26 Feb
+<br>(P.M.)</p>
 </td>
 </tr>
 </tbody>
