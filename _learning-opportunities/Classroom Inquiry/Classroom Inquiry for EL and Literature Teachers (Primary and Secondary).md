@@ -6,12 +6,9 @@ third_nav_title: Classroom Inquiry
 variant: tiptap
 ---
 <p><em>How can I turn my interest in my students’ learning into a focused classroom inquiry?</em>
-</p>
-<p><em>How do I design the inquiry to answer the questions I have?</em>
-</p>
-<p><em>What methods can I use to collect and analyse evidence?</em>
-</p>
-<p><em>How can I communicate my findings clearly and convincingly to others?</em>
+<br><em>How do I design the inquiry to answer the questions I have?</em>
+<br><em>What methods can I use to collect and analyse evidence?</em>
+<br><em>How can I communicate my findings clearly and convincingly to others?</em>
 </p>
 <h3>Overview</h3>
 <p>This course introduces you to classroom-based, teacher-led inquiry for
@@ -82,8 +79,8 @@ learning during the course while designing a classroom inquiry.</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 5&nbsp;Mar</p>
-<p>(P.M.)</p>
+<p>Thu, 5&nbsp;Mar
+<br>(P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -105,8 +102,8 @@ learning during the course while designing a classroom inquiry.</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 9 Apr</p>
-<p>(P.M.)</p>
+<p>Thu, 9 Apr
+<br>(P.M.)</p>
 </td>
 </tr>
 </tbody>
