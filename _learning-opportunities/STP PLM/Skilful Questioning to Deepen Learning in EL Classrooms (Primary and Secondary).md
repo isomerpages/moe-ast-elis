@@ -110,4 +110,5 @@ outcomes; and</p>
 <br>Closing date for registration: Tue, 10 Mar</p>
 <h3>For enquiries, please contact:</h3>
 <p>Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy) at
-<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>(Primary)</p>
+<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>
+</p>
