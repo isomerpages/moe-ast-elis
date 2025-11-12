@@ -50,8 +50,8 @@ of TLs; and</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 12 Feb</p>
-<p>(P.M.)</p>
+<p>Thu, 12 Feb
+<br>(P.M.)</p>
 </td>
 </tr>
 </tbody>
