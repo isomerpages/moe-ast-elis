@@ -12,8 +12,9 @@ you will:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>actively inquire into:
-<br>−your practice of DI in the teaching, learning and assessment of EL, or
-<br>−your practice of leading others in their learning about DI; and</p>
+<br>− your practice of DI in the teaching, learning and assessment of EL,
+or
+<br>− your practice of leading others in their learning about DI; and</p>
 </li>
 <li>
 <p>apply your learning and reflect on your practice, which includes the use
@@ -84,9 +85,9 @@ practice of DI in EL classrooms.</p>
 <p>By the end of this course, you will be able to:</p>
 <ul>
 <li>
-<p>adapt EL lessons, incorporating the use of EdTech, based on:</p>
-<p>− principles of DI;</p>
-<p>− knowledge of learners, acquired through the sound use of assessment
+<p>adapt EL lessons, incorporating the use of EdTech, based on:
+<br>− principles of DI;
+<br>− knowledge of learners, acquired through the sound use of assessment
 information on students’ learning readiness, interests and learning profiles,
 collected before, during and after instruction; and</p>
 </li>
@@ -120,10 +121,10 @@ classrooms.</p>
 <ul>
 <li>
 <p>lead and mentor peers/teachers in the practice of DI in the areas of language
-learning to improve classroom practice, by demonstrating:</p>
-<p>− the application of DI principles and e-pedagogy,</p>
-<p>− ongoing review of and critical inquiry into the practice of DI, and</p>
-<p>− adaptiveness in the practice of DI to customise learning for students;
+learning to improve classroom practice, by demonstrating:
+<br>− the application of DI principles and e-pedagogy,
+<br>− ongoing review of and critical inquiry into the practice of DI, and
+<br>− adaptiveness in the practice of DI to customise learning for students;
 and</p>
 </li>
 <li>
