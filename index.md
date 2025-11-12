@@ -27,12 +27,12 @@ sections:
           linktext: View now
           url: https://elis.moe.edu.sg/metacognition-in-the-el-classroom/
   - infopic:
-      title: Professional Learning Opportunities 2025
+      title: Professional Learning Opportunities 2026
       description: Interested in professional learning opportunities offered to
         English Language, Literature and English-medium subject teachers?
       button: Find out more
       url: /elis/professional-learning/professional-learning-opportunities/
-      image: /images/E Prospectus/e_prospectus___1_.png
+      image: /images/EP_Cover_2026.png
       alt: ELIS learning opportunities
   - infopic:
       title: ELIS RESOURCES
