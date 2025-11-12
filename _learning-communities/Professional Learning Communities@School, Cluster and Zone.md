@@ -188,8 +188,7 @@ the Learning Session.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>General Paper LT-ST Networking Session</strong>
-</summary>
+<summary>General Paper LT-ST Networking Session</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p><strong>Overview</strong>
 </p>
