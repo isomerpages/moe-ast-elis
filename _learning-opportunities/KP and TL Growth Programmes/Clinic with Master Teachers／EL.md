@@ -42,8 +42,8 @@ professional portfolio for accreditation and for the appointment interview.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 25 Feb</p>
-<p>(P.M.)</p>
+<p>Wed, 25 Feb
+<br>(P.M.)</p>
 </td>
 </tr>
 </tbody>
