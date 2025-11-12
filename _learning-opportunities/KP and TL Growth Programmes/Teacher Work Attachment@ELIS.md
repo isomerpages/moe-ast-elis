@@ -80,9 +80,8 @@ a two-week period.</p>
 </ul>
 <p></p>
 <h3>Target Participants</h3>
-<p>EL, Literature, and General Paper (GP) KP, TLs and Teachers (with at least
-4 years of teaching experience) at the primary, secondary, or pre-university
-level</p>
+<p>EL, Literature, and GP KP, TLs and Teachers (with at least 4 years of
+teaching experience) at the primary, secondary, or pre-university level</p>
 <h3>How to Apply</h3>
 <p>Apply via the following link:</p>
 <p><a href="https://go.gov.sg/twaplus-wa-registration" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/twaplus-wa-registration</a>
