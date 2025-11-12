@@ -188,6 +188,84 @@ the Learning Session.</p>
 </div>
 </details>
 <details class="isomer-details">
+<summary><strong>General Paper LT-ST Networking Session</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>Overview</strong>
+</p>
+<p>The General Paper LT-ST Networking Session offers TLs of GP a community
+for co-inquiry into their practice of andragogy and pedagogical leadership
+to impact student learning.</p>
+<p></p>
+<p><strong>Learning Goals</strong>
+</p>
+<p>Through participating in the learning community, GP Teacher Leaders will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>inquire into areas of GP teachers' professional learning that they lead
+in; and</p>
+</li>
+<li>
+<p>collaborate to support one another in leading GP teachers' professional
+learning to improve student outcomes.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Target Participants</strong>
+</p>
+<p>GP LTs and STs</p>
+<p></p>
+<p><strong>Programme Structure</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-Person Learning Session</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Wed, 20 May
+<br>(P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Registration</strong>
+</p>
+<p>Details will be sent in an email invite to target participants before
+the Learning Session.</p>
+<p></p>
+<p><strong>For enquiries, please contact:</strong>
+</p>
+<p>Mr Lester Lim (Assistant Director/Pedagogy) at <a href="mailto:lester_ian_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lester_ian_lim@moe.gov.sg</a>.</p>
+</div>
+</details>
+<details class="isomer-details">
 <summary>Professional Learning Communities (PLCs)@Zone (Primary &amp; Secondary)</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>With their participation in the ZNS, EL LTs are invited to form PLCs in
