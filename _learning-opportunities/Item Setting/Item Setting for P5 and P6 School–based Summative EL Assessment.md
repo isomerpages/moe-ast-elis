@@ -59,12 +59,13 @@ and application of assessment principles.</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 24 Mar – Wed, 8 Apr</p>
+<p>Tue, 24 Mar –
+<br>Wed, 8 Apr</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 9 Jul –&nbsp;</p>
-<p>Thu, 23 Jul</p>
+<p>Thu, 9 Jul –&nbsp;
+<br>Thu, 23 Jul</p>
 </td>
 </tr>
 <tr>
@@ -92,11 +93,12 @@ and application of assessment principles.</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 14 Apr –</p>
-<p>Tue, 28 Apr</p>
+<p>Tue, 14 Apr –
+<br>Tue, 28 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 30 Jul –Fri, 14 Aug</p>
+<p>Thu, 30 Jul -
+<br>Fri, 14 Aug</p>
 <p></p>
 </td>
 </tr>
@@ -108,12 +110,12 @@ and application of assessment principles.</p>
 <p>&nbsp;2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 5 May</p>
-<p>(P.M.)</p>
+<p>Tue, 5 May
+<br>(P.M.)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 20 Aug</p>
-<p>(P.M.)</p>
+<p>Thu, 20 Aug
+<br>(P.M.)</p>
 <p></p>
 </td>
 </tr>
