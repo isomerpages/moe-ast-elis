@@ -43,7 +43,7 @@ become skilful and independent in your practice of DI in EL classrooms;</p>
 of DI to improve student learning of EL; and</p>
 </li>
 <li>
-<p>plan to apply your learning as you participate in the course</p>
+<p>plan to apply your learning as you participate in the course.</p>
 </li>
 </ul>
 <h4>Learning Goals</h4>

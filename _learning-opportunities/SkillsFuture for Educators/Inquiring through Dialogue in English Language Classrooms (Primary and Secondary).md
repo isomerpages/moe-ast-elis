@@ -96,7 +96,7 @@ practice of IBL including ItD based on:
 (ACoLADE), and
 <br>− knowledge of learners, acquired through sound use of assessment information
 on students’ learning readiness, interests and learning profiles, collected
-before, during and after instruction.</p>
+before, during and after instruction; and</p>
 </li>
 <li>
 <p>demonstrate adaptiveness in enacting IBL including ItD through prompting,

@@ -104,7 +104,7 @@ outcomes; and</p>
 <p>EL KP, TLs and Teachers who teach at the primary and secondary levels</p>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;<a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/0568640e-6db4-42c5-ab71-dd5039e74741" rel="noopener nofollow" target="_blank">EL-000144.</a> 
-<br>Closing date for registration: Mon, 17 Mar</p>
+<br>Closing date for registration: Tue, 10 Mar</p>
 <h3>For enquiries, please contact:</h3>
 <p>Ms Elizabeth Lee (Academy Officer/Pedagogy) at <a href="mailto:benson_pang@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">elizabeth_h_lee@moe.gov.sg.</a>
 </p>
