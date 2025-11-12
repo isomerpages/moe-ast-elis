@@ -80,8 +80,7 @@ and EL teaching processes (ACoLADE).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asynchronous Online Learning</p>
-<p>Period</p>
+<p>Asynchronous Online Learning Period</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 hours</p>
@@ -100,8 +99,8 @@ and EL teaching processes (ACoLADE).</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 25 Aug</p>
-<p>(P.M.)</p>
+<p>Tue, 25 Aug
+<br>(P.M.)</p>
 <p></p>
 </td>
 </tr>
