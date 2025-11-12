@@ -7,30 +7,24 @@ third_nav_title: SkillsFuture for Educators
 variant: tiptap
 ---
 <h3>Overview</h3>
-<p>In the SFEd courses on Inquiry-Based Learning (IBL) to enable students
-to become inquirers who explore, discover, make real-world connections
-and problem-solve in EL Classrooms, you will:</p>
-<ul>
-<li>
-<p>actively inquire into:</p>
+<p>Inquiry-based Learning (IBL) enables students to become inquirers who
+explore, discover, make real-world connections, and problem-solve in EL
+classrooms. In the SFEd courses on IBL, you will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>your enactment of IBL which incorporates the practice of Inquiry through
+<p>actively inquire into:</p>
+<p>− your enactment of IBL which incorporates the practice of Inquiry through
 Dialogue (ItD) in the teaching, learning and assessment of EL, or</p>
-</li>
-<li>
-<p>your practice of leading others in their learning about IBL and the practice
+<p>−your practice of leading others in their learning about IBL and the practice
 of ItD; and</p>
-</li>
-</ul>
 </li>
 <li>
 <p>apply your learning and reflect on your practice, which includes the use
-of educational technology to promote active student learning in participatory,
-connected and reflective classrooms.</p>
+of EdTech, to promote active student learning in participatory, connected
+and reflective classrooms.</p>
 </li>
 </ul>
-<p>There are courses at three Levels of Practice that you can choose from:</p>
+<p>You can take this course at an appropriate Level of Practice:</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/picture.png">
 </div>
@@ -43,7 +37,7 @@ Practice below.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>wish to have fundamental understanding of the practice of IBL, including
+<p>wish to have fundamental understanding of the practice of IBL including
 ItD, and would like to become skilful and independent in your practice
 of IBL in EL classrooms;</p>
 </li>
@@ -63,13 +57,13 @@ of IBL including ItD to improve student learning of EL; and</p>
 teaching, learning and assessment of EL;</p>
 </li>
 <li>
-<p>apply the principles of EL teaching and learning (CLLIPS) and teaching
+<p>apply the principles of EL teaching and learning (CLLIPS) and EL teaching
 processes (ACoLADE) to support the practice of IBL including ItD; and</p>
 </li>
 <li>
-<p>make appropriate choices, including the use of educational technology,
-to support the practice of IBL including ItD, based on knowledge of learners,
-the EL Syllabus 2020 and the EL curriculum.</p>
+<p>make appropriate choices, including the use of EdTech, to support the
+practice of IBL including ItD, based on knowledge of learners, the EL Syllabus
+2020 and the EL curriculum.&nbsp;</p>
 </li>
 </ul>
 <hr>
@@ -78,8 +72,8 @@ the EL Syllabus 2020 and the EL curriculum.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>are skilful and independent in your practice of IBL including ItD, in
-the teaching, learning and assessment of EL;</p>
+<p>are skilful and independent in your practice of IBL including ItD in the
+teaching, learning and assessment of EL;</p>
 </li>
 <li>
 <p>would like to become adaptive in your practice of IBL including ItD, by
@@ -96,19 +90,13 @@ practice of IBL including ItD in EL classrooms.</p>
 <p>By the end of this course, you will be able to:</p>
 <ul>
 <li>
-<p>customise EL lessons, incorporating the use of educational technology,
-that support the practice of IBL including ItD based on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>principles of EL teaching and learning (CLLIPS) and teaching processes
-(ACoLADE); and</p>
-</li>
-<li>
-<p>knowledge of learners, acquired through sound use of assessment information
+<p>customise EL lessons, incorporating the use of EdTech, that support the
+practice of IBL including ItD based on:</p>
+<p>− principles of EL teaching and learning (CLLIPS) and teaching processes
+(ACoLADE), and</p>
+<p>− knowledge of learners, acquired through sound use of assessment information
 on students’ learning readiness, interests and learning profiles, collected
 before, during and after instruction.</p>
-</li>
-</ul>
 </li>
 <li>
 <p>demonstrate adaptiveness in enacting IBL including ItD through prompting,
@@ -142,20 +130,12 @@ ItD in EL classrooms.</p>
 <li>
 <p>lead and mentor peers/teachers in the practice of IBL including ItD in
 the areas of language learning, by demonstrating:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>the application of principles of EL teaching and learning (CLLIPS), EL
-teaching processes (ACoLADE) and e-pedagogy;</p>
-</li>
-<li>
-<p>ongoing review of and critical inquiry into the practice of IBL including
-ItD; and</p>
-</li>
-<li>
-<p>adaptiveness in the practice of IBL including ItD to customise learning
-for students in EL classroom.</p>
-</li>
-</ul>
+<p>− the application of principles of EL teaching and learning (CLLIPS),
+EL teaching processes (ACoLADE) and e-pedagogy,</p>
+<p>− ongoing review of and critical inquiry into the practice of IBL including
+ItD, and</p>
+<p>− adaptiveness in the practice of IBL including ItD to customise learning
+for students in the EL classroom; and</p>
 </li>
 <li>
 <p>plan with the aim of facilitating professional learning about IBL including
@@ -163,13 +143,85 @@ ItD in EL classrooms in the following contexts: a PLT, PLC and/or NLC at
 school/cluster levels.</p>
 </li>
 </ul>
-<h3>Course Structure</h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ItD_structure.jpg">
-</div>
+<table style="minWidth: 125px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Learning</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SFEd IBL (Proficient)&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SFEd IBL (Accomplished)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>SFEd IBL (Leading)&nbsp;</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online</p>
+<p>Learning Period</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>4 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 20 Jan –</p>
+<p>Tue, 10 Feb</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 24 Mar –&nbsp;</p>
+<p>Wed, 8 Apr</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tue, 14 Apr –</p>
+<p>Mon, 4 May</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>3 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Fri, 20 Feb</p>
+<p>(P.M.)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mon, 13 Apr</p>
+<p>(P.M.)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 7 May</p>
+<p>(P.M.)</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>Target Participants</h3>
-<p>EL Key Personnel, Teacher Leaders and Teachers at the primary and secondary
-levels</p>
+<p>EL KP, TLs and Teachers</p>
 <h3>Registration</h3>
 <table style="minWidth: 100px">
 <colgroup>
@@ -226,13 +278,13 @@ levels</p>
 <p>Register by these closing dates:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 3 Jan</p>
+<p>Tue, 6 Jan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 10 Mar</p>
+<p>Tue, 10 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 7 Apr</p>
+<p>Tue, 31 Mar</p>
 </td>
 </tr>
 </tbody>

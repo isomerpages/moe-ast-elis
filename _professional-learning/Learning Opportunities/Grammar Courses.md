@@ -14,19 +14,7 @@ for the course on Word Classes before participating in the other grammar
 courses.</p>
 <ul>
 <li>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/word-classes/" rel="noopener noreferrer nofollow" target="_blank">Building Knowledge of English Grammar – Word Classes</a>
-</p>
-</li>
-<li>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/time-tense-and-aspect/" rel="noopener noreferrer nofollow" target="_blank">Building Knowledge of English Grammar – Time, Tense and Aspect</a>
-</p>
-</li>
-<li>
 <p><a href="/learning-opportunities/grammar-courses/englishusage/" rel="noopener noreferrer nofollow" target="_blank">Building Knowledge of English Grammar – English Usage and Use of Grammar References and Concordances</a>
-</p>
-</li>
-<li>
-<p><a href="/learning-opportunities/grammar-courses/sentence/" rel="noopener noreferrer nofollow" target="_blank">Building Knowledge of English Grammar – Sentence Structures, Cohesion and Coherence</a>
 </p>
 </li>
 </ul>

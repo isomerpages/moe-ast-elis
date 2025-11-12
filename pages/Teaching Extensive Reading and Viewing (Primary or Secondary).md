@@ -2,7 +2,6 @@
 title: Teaching Extensive Reading and Viewing (Primary or Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/teaching-extensive-reading-viewing/
 description: ""
-third_nav_title: PLPs@School
 variant: tiptap
 ---
 <h3>Getting Students Hooked on Reading</h3>

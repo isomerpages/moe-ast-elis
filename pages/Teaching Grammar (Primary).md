@@ -2,7 +2,6 @@
 title: Teaching Grammar (Primary)
 permalink: /elis/professional-learning/professional-learning-opportunities/teaching-grammar/
 description: ""
-third_nav_title: PLPs@School
 variant: tiptap
 ---
 <h3>Right from the Start</h3>

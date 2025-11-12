@@ -2,7 +2,6 @@
 title: Developing Literary Response in Literature
 permalink: /elis/professional-learning/professional-learning-opportunities/developing-literary-responses/
 description: ""
-third_nav_title: Literature
 variant: tiptap
 ---
 <p><em>What is ‘quality’ in a literary response? How can I support my students to construct sensitive and informed personal responses, including in blended learning contexts?</em>

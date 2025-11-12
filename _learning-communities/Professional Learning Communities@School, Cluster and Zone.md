@@ -29,29 +29,162 @@ leadership among them.&nbsp;</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Zonal Learning Session (ZLS) (Primary)</summary>
+<summary>EL KP-TL Learning Session</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The annual ZLS offers EL KP and TLs from primary schools an opportunity
-to strengthen and deepen their understanding of teaching, learning and
-assessment of English Language. They can look forward to learning together
-in a focus area, with support from Master Teachers in ELIS. In 2023 and
-2024, the learning focus has been on Metacognition in EL classrooms, one
-of the three Pedagogical Emphases of EL Syllabus 2020.</p>
+<p></p>
+<p><strong>Overview</strong>
+</p>
+<p>The EL KP-TL Learning Session is for KP and TLs of EL at the primary and
+secondary levels to learn together in order to collaborate and co-lead
+their EL departments and other learning communities in EL teaching, learning
+and assessment.</p>
+<p></p>
+<p><strong>Learning Goals</strong>
+</p>
+<p>EL KP and TLs will:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>build the knowledge bases to address the diverse learning needs in EL
+classrooms; and</p>
+</li>
+<li>
+<p>co-construct ways to co-lead and co-facilitate the professional learning
+of their EL department colleagues and other learning communities.</p>
+</li>
+</ul>
+<p></p>
+<p><strong>Target Participants</strong>
+</p>
+<p>EL KP and TLs</p>
+<p></p>
+<p><strong>Programme Structure</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online Learning Session</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 26 Feb</p>
+<p>(P.M.)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Registration</strong>
+</p>
+<p>Details will be sent in an email invite to target participants before
+the Learning Session.</p>
+<p></p>
+<p><strong>For enquiries, please contact:</strong>
+</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p></p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>Zonal Networking Session (ZNS) (Primary &amp; Secondary)</summary>
+<summary>EL LT-ST Networking Session</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>The ZNS is an annual opportunity for EL Lead Teachers (LTs) from primary
-and secondary schools to network with one another and with Master Teachers
-from ELIS. Together, they co-construct and clarify their understanding
-about selected areas of inquiry in EL teaching, learning and assessment.
-In the last few years, the learning focus of the ZNS include e-Pedagogy
-and Blended Learning, and the Pedagogical Emphases of EL Syllabus 2020.</p>
-<p>The ZNS has become the springboard for the formation of Professional Learning
-Communities at the zonal levels, in which the LTs can further their inquiries
-into their selected areas of learning with the support of Master Teachers
-from ELIS.</p>
+<p></p>
+<p><strong>Overview</strong>
+</p>
+<p>The EL LT-ST Networking Session is for LTs and STs of EL (Primary and
+Secondary) to collaborate with their peers to grow in their pedagogical
+leadership and to lead/ co-lead Networked Learning Communities (NLCs) more
+effectively.</p>
+<p></p>
+<p><strong>Learning Goals</strong>
+</p>
+<p>At this session, EL LTs and STs will, with the support of MTTs, review
+their learning in NLCs and reflect on the impact of their learning on:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>their professional growth as TLs; and</p>
+</li>
+<li>
+<p>their students’ learning outcomes and progression.</p>
+</li>
+</ul>
+<p></p>
+<p>This session will focus on addressing the diverse needs of learners.</p>
+<p></p>
+<p><strong>Target Participants</strong>
+</p>
+<p>EL LTs and STs</p>
+<p></p>
+<p><strong>Programme Structure</strong>
+</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Mode of Learning</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:50px" height="auto" width="100%" alt="Picture7" src="/images/picture7.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width:60px" height="auto" width="100%" alt="Picture8" src="/images/picture8.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>In-Person Learning Session</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2.5 hours</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Thu, 12 Nov</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><strong>Registration</strong>
+</p>
+<p>Details will be sent in an email invite to target participants before
+the Learning Session.</p>
+<p></p>
+<p><strong>For enquiries, please contact:</strong>
+</p>
+<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
 </div>
 </details>
 <details class="isomer-details">

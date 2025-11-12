@@ -3,7 +3,6 @@ title: Building Knowledge of English Grammar – Time, Tense and Aspect (Primary
   and Secondary)
 permalink: /elis/professional-learning/professional-learning-opportunities/time-tense-and-aspect/
 description: ""
-third_nav_title: Grammar Courses
 variant: tiptap
 ---
 <p><em>What are time, tense and aspect in the English language? How can I explain when to use the present tense and when to use the present perfect? How do I know if one is more appropriate than the other, and how do I explain exceptions to the rule? Why do all these questions matter to my students and me?</em>

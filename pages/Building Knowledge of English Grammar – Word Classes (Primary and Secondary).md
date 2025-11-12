@@ -1,8 +1,7 @@
 ---
 title: Building Knowledge of English Grammar – Word Classes (Primary and Secondary)
-permalink: /elis/professional-learning/professional-learning-opportunities/word-classes/
+permalink: /word-classes/
 description: ""
-third_nav_title: Grammar Courses
 variant: tiptap
 ---
 <p><em>What are word classes in the English language? How do I know if a word is a verb, a noun, an adjective, an adverb, or something else? How can I explain why a word is sometimes a verb and sometimes an adjective? Why should I know about the form, function and meaning of words? Why do all these questions matter to my students and me?</em>

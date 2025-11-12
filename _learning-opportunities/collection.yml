@@ -3,31 +3,21 @@ collections:
     output: true
     order:
       - SkillsFuture for Educators/.keep
-      - SkillsFuture for Educators/Differentiating Instruction in the English
+      - SkillsFuture for Educators/Differentiating Instruction in English
         Language Classrooms (Primary and Secondary).md
       - SkillsFuture for Educators/Inquiring through Dialogue in English
         Language Classrooms (Primary and Secondary).md
       - SkillsFuture for Educators/Enacting e–Pedagogy and Blended Learning in
         English Language Classrooms (Primary and Secondary).md
       - Grammar Courses/.keep
-      - Grammar Courses/Building Knowledge of English Grammar – Word Classes
-        (Primary and Secondary).md
-      - Grammar Courses/Building Knowledge of English Grammar – Time, Tense and
-        Aspect (Primary and Secondary).md
-      - Grammar Courses/Building Knowledge of English Grammar – Sentence
-        Structures, Cohesion and Coherence (Pri and Sec).md
       - Grammar Courses/Building Knowledge of English Grammar – English Usage
         and Use of Grammar References and Concordances.md
       - PLPs@School/.keep
-      - PLPs@School/Teaching Extensive Reading and Viewing (Primary or
-        Secondary).md
-      - PLPs@School/Teaching Grammar (Primary).md
       - PLPs@School/Teaching Oracy (Primary).md
-      - PLPs@School/Teaching Reading, Viewing and Vocabulary (Primary).md
+      - PLPs@School/Teaching Reading and Viewing (Primary).md
       - PLPs@School/Teaching Writing and Representing (Primary).md
-      - PLPs@School/Teaching Grammar (Secondary).md
       - PLPs@School/Teaching Oracy (Secondary).md
-      - PLPs@School/Teaching Reading, Viewing and Vocabulary (Secondary).md
+      - PLPs@School/Teaching Reading and Viewing (Secondary).md
       - PLPs@School/Teaching Writing and Representing (Secondary).md
       - KP and TL Growth Programmes/.keep
       - KP and TL Growth Programmes/Professional Dialogue with Master
@@ -37,17 +27,19 @@ collections:
       - KP and TL Growth Programmes/TWA@ELIS Experience.md
       - KP and TL Growth Programmes/The Singapore Writing Institute.md
       - "KP and TL Growth Programmes/96–hr PLP: Building Subject Content
-        Knowledge for EL Teaching, Learning and Assessment.md"
+        Knowledge for EL Teaching.md"
+      - KP and TL Growth Programmes/Professional Learning Programme on
+        Strengthening Literacy Foundation in EL Classrooms (Primary).md
       - Item Setting/.keep
       - Item Setting/Item Setting for P5 and P6 School–based Summative EL
         Assessment.md
       - Literature/.keep
-      - Literature/Developing Literary Response in Literature.md
       - STP PLM/.keep
-      - STP PLM/Skilful Questioning to Deepen Learning in the English Language
-        Classrooms.md
+      - STP PLM/Skilful Questioning to Deepen Learning in EL Classrooms (Primary
+        and Secondary).md
       - Classroom Inquiry/.keep
-      - Classroom Inquiry/Classroom Inquiry for EL and Literature Teachers.md
+      - Classroom Inquiry/Classroom Inquiry for EL and Literature Teachers
+        (Primary and Secondary).md
       - Communicating Effectively/.keep
       - Communicating Effectively/Facilitating Productive Classroom Discussion.md
       - Communicating Effectively/Using Talk to Support Writing.md

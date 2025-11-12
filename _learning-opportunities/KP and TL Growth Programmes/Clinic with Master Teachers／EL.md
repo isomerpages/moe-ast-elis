@@ -42,7 +42,8 @@ professional portfolio for accreditation and for the appointment interview.</p>
 <p>2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 20 Feb (P.M.)</p>
+<p>Wed, 25 Feb</p>
+<p>(P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -51,7 +52,6 @@ professional portfolio for accreditation and for the appointment interview.</p>
 <p>EL KP, TLs and Teachers nominated for ST/LT/MTT appointments</p>
 <h3>Registration</h3>
 <p>Register on&nbsp;OPAL2.0 using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/f48b5157-f4d0-4267-ae74-7e7290cc4115" rel="noopener noreferrer nofollow" target="_blank">EL-000096</a></strong>.</p>
-<p>Closing date for registration: Thu, 30 Jan</p>
+<p>Closing date for registration: Wed, 11 Feb</p>
 <h3>For enquiries, please contact:</h3>
-<p>Ms Ynez Lim (Academy Officer/Pedagogy) at Ms Ynez Lim (Academy Officer/Pedagogy)
-at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a>.</p>
+<p>Mr Kenneth Yee (Academy Officer/Pedagogy) at <a href="mailto:kenneth_yee@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kenneth_yee@moe.gov.sg</a>.</p>
