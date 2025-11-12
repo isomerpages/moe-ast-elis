@@ -61,8 +61,8 @@ outcomes; and</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 24 Mar –</p>
-<p>Wed, 8 Apr</p>
+<p>Tue, 24 Mar –
+<br>Wed, 8 Apr</p>
 </td>
 </tr>
 <tr>
@@ -73,8 +73,8 @@ outcomes; and</p>
 <p>&nbsp;2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 14 Apr</p>
-<p>(P.M.)</p>
+<p>Tue, 14 Apr
+<br>(P.M.)</p>
 </td>
 </tr>
 <tr>
@@ -85,8 +85,8 @@ outcomes; and</p>
 <p>&nbsp;3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 15 Apr –</p>
-<p>Wed, 29 Apr</p>
+<p>Wed, 15 Apr –
+<br>Wed, 29 Apr</p>
 </td>
 </tr>
 <tr>
@@ -97,8 +97,8 @@ outcomes; and</p>
 <p>&nbsp;2 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wed, 6 May</p>
-<p>(P.M.)</p>
+<p>Wed, 6 May
+<br>(P.M.)</p>
 </td>
 </tr>
 </tbody>
@@ -110,4 +110,5 @@ outcomes; and</p>
 <br>Closing date for registration: Tue, 10 Mar</p>
 <h3>For enquiries, please contact:</h3>
 <p>Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy) at
-<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>(Primary)</p>
+<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>
+</p>

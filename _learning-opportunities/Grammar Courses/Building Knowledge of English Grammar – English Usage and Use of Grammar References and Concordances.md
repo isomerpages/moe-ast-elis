@@ -71,8 +71,8 @@ learning about English usage.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 7 Jul –&nbsp;</p>
-<p>Tue, 28 Jul</p>
+<p>Tue, 7 Jul –&nbsp;
+<br>Tue, 28 Jul</p>
 </td>
 </tr>
 <tr>
@@ -84,8 +84,8 @@ learning about English usage.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 3 Aug</p>
-<p>(P.M.)</p>
+<p>Mon, 3 Aug
+<br>(P.M.)</p>
 <p></p>
 </td>
 </tr>
