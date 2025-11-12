@@ -189,7 +189,15 @@ access:</p>
 <p>▪ An overview of the 96-hr PLP</p>
 <p>▪ Frequently Asked Questions on the 96-hr PLP</p>
 <h3>For enquiries, please contact:</h3>
-<p>Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy) at
-<a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>(Primary)</p>
-<p>OR</p>
-<p>Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a> (Secondary).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Primary: Mdm&nbsp;Nithiyah&nbsp;Subramaniam (Senior Academy Officer/Pedagogy)
+at <a href="mailto:nithiyah_subramaniam@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nithiyah_subramaniam@moe.gov.sg</a>
+</p>
+</li>
+<li>
+<p>Secondary: Ms Ynez Lim (Academy Officer/Pedagogy) at <a href="mailto:ynez_lim@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ynez_lim@moe.gov.sg</a> 
+</p>
+</li>
+</ul>
+<p></p>
