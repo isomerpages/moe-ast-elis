@@ -183,16 +183,15 @@ school/cluster levels.</p>
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 20 Jan –</p>
-<p>Tue, 10 Feb</p>
+<p>Tue, 20 Jan –
+<br>Tue, 10 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 24 Mar –&nbsp;</p>
-<p>Wed, 8 Apr</p>
+<p>Tue, 24 Mar -
+<br>Wed, 8 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 14 Apr –</p>
-<p>Mon, 4 May</p>
+<p>Tue, 14 Apr –Mon, 4 May</p>
 </td>
 </tr>
 <tr>
@@ -203,18 +202,18 @@ school/cluster levels.</p>
 <p>3 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 20 Feb</p>
-<p>(P.M.)</p>
+<p>Fri, 20 Feb
+<br>(P.M.)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 13 Apr</p>
-<p>(P.M.)</p>
+<p>Mon, 13 Apr
+<br>(P.M.)</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 7 May</p>
-<p>(P.M.)</p>
+<p>Thu, 7 May
+<br>(P.M.)</p>
 <p></p>
 </td>
 </tr>
