@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: ELIS e-Prospectus 2026
+          description: Professional Learning Opportunities for 2026
+          linktext: View now
+          url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/
         - title: New Video Podcast
           description: Metacognition – Beyond Reflection at the End of English Language
             Lessons
