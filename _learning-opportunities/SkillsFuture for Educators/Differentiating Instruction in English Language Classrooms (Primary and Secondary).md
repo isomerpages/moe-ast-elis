@@ -180,10 +180,11 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 <p>4 hours</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Thu, 22 Jan –&nbsp; Thu, 12 Feb</p>
+<p>Thu, 22 Jan –&nbsp;Thu, 12 Feb</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fri, 27 Feb –&nbsp; Fri, 13 Mar</p>
+<p>Fri, 27 Feb –&nbsp;
+<br>Fri, 13 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wed, 8 Apr –Wed, 29 Apr&nbsp;&nbsp; &nbsp;</p>
@@ -227,7 +228,8 @@ Professional Learning Community (PLC) and/or Networked Learning Community
 <p></p>
 </th>
 <th rowspan="1" colspan="1">
-<p><strong>SFEd DI (Proficient)</strong>
+<p><strong>SFEd DI</strong>
+<br><strong>(Proficient)</strong>
 </p>
 </th>
 <th rowspan="1" colspan="1">
