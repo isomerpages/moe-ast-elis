@@ -93,7 +93,6 @@ and EL teaching processes (ACoLADE).</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Synchronous Online Learning Session</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>3 hours</p>
@@ -111,8 +110,6 @@ and EL teaching processes (ACoLADE).</p>
 <p>Registration for the course is limited to a maximum of three participants
 from each school.</p>
 <h3>Registration</h3>
-<p>Registration for the course is limited to a maximum of three participants
-from each school.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
