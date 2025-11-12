@@ -93,33 +93,58 @@ application of learning on student learning outcomes</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <h3>Programme Structure</h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="PLPs@School" src="/images/E Prospectus/PLP_School.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/FOR_WEBSITE_PART_1b__ELIS_e_Prospectus_2026_10Nov25_6_58pm.jpg">
 </div>
-<h3><br>Mode of Learning</h3>
+<h3>Mode of Learning</h3>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Mode of Learning</strong>
+</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PLPs_School_mode_of_learning.jpg">
-</div>
+</td>
+<th rowspan="1" colspan="1">
+<p>Schedule</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Asynchronous Online Learning Period</p>
 <p></p>
+</td>
+<td rowspan="2" colspan="1">
+<p></p>
+<p>The KP, TLs and MTT/EL will co-plan the schedule for the learning sessions
+by the end of January 2026.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Synchronous Online/
+<br>In-Person Learning Session</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <h3>How to Apply</h3>
-<p>The schools for the 2025 run have been confirmed.</p>
+<p>To apply for the 2027 run of PLPs@School, please write to Ms Cindy Woon
+(Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a>.</p>
 <p></p>
 <ul>
-<li>
-<p>To apply for the 2026 run of PLPs@School, please write to Ms Cindy Woon</p>
-<p>(Academy Officer/Pedagogy) at <a href="mailto:cindy_woon@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cindy_woon@moe.gov.sg</a> by Fri, 17
-Oct 2025.</p>
-<p></p>
-</li>
 <li>
 <p>Primary</p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Primary)</a>
 </p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing-vocabulary/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading, Viewing and Vocabulary (Primary)</a>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading<u> </u>and Viewing (Primary)</a>
 </p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Primary)</a>
 </p>
@@ -128,7 +153,7 @@ Oct 2025.</p>
 <p>Secondary</p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Secondary)</a>
 </p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing-vocabulary/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading, Viewing and Vocabulary (Secondary)</a>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Readin<u>g an</u>d Viewing (Secondary)</a>
 </p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/sec/teach-writing-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Secondary)</a>
 </p>
