@@ -24,10 +24,12 @@ MTT/EL:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1</p>
+<p><strong>1.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guidance in the selection of the learning focus for your department</p>
+<p><strong>Guidance in the selection of the learning focus for your department</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -62,19 +64,16 @@ learning listed above.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
+<p><strong>2.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Support in forming and guiding PLTs in your department to deepen your
-teachers’ knowledge, skills and classroom practice in the area of learning
-your department decides on</p>
+<p><strong>Support in forming and guiding PLTs in your department to deepen your teachers’ knowledge, skills and classroom practice in the area of learning your department decides on</strong>
+</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -83,12 +82,12 @@ your department decides on</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
+<p><strong>3.</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guidance in the growth of teacher leadership. You will learn to lead and
-guide your colleagues in planning and inquiring into the impact of their
-application of learning on student learning outcomes</p>
+<p><strong>Guidance in the growth of teacher leadership. You will learn to lead and guide your colleagues in planning and inquiring into the impact of their application of learning on student learning outcomes</strong>
+</p>
 </td>
 </tr>
 </tbody>
@@ -123,7 +122,6 @@ application of learning on student learning outcomes</p>
 <p></p>
 </td>
 <td rowspan="2" colspan="1">
-<p></p>
 <p>The KP, TLs and MTT/EL will co-plan the schedule for the learning sessions
 by the end of January 2026.</p>
 </td>
@@ -149,6 +147,7 @@ by the end of January 2026.</p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading<u> </u>and Viewing (Primary)</a>
 </p>
 <p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Primary)</a>
+<br>
 </p>
 </li>
 <li>
