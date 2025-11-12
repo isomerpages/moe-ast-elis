@@ -12,10 +12,10 @@ explore, discover, make real-world connections, and problem-solve in EL
 classrooms. In the SFEd courses on IBL, you will:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>actively inquire into:</p>
-<p>− your enactment of IBL which incorporates the practice of Inquiry through
-Dialogue (ItD) in the teaching, learning and assessment of EL, or</p>
-<p>−your practice of leading others in their learning about IBL and the practice
+<p>actively inquire into:
+<br>− your enactment of IBL which incorporates the practice of Inquiry through
+Dialogue (ItD) in the teaching, learning and assessment of EL, or
+<br>−your practice of leading others in their learning about IBL and the practice
 of ItD; and</p>
 </li>
 <li>
@@ -91,10 +91,10 @@ practice of IBL including ItD in EL classrooms.</p>
 <ul>
 <li>
 <p>customise EL lessons, incorporating the use of EdTech, that support the
-practice of IBL including ItD based on:</p>
-<p>− principles of EL teaching and learning (CLLIPS) and teaching processes
-(ACoLADE), and</p>
-<p>− knowledge of learners, acquired through sound use of assessment information
+practice of IBL including ItD based on:
+<br>− principles of EL teaching and learning (CLLIPS) and teaching processes
+(ACoLADE), and
+<br>− knowledge of learners, acquired through sound use of assessment information
 on students’ learning readiness, interests and learning profiles, collected
 before, during and after instruction.</p>
 </li>
@@ -129,12 +129,12 @@ ItD in EL classrooms.</p>
 <ul>
 <li>
 <p>lead and mentor peers/teachers in the practice of IBL including ItD in
-the areas of language learning, by demonstrating:</p>
-<p>− the application of principles of EL teaching and learning (CLLIPS),
-EL teaching processes (ACoLADE) and e-pedagogy,</p>
-<p>− ongoing review of and critical inquiry into the practice of IBL including
-ItD, and</p>
-<p>− adaptiveness in the practice of IBL including ItD to customise learning
+the areas of language learning, by demonstrating:
+<br>− the application of principles of EL teaching and learning (CLLIPS),
+EL teaching processes (ACoLADE) and e-pedagogy
+<br>− ongoing review of and critical inquiry into the practice of IBL including
+ItD, and
+<br>− adaptiveness in the practice of IBL including ItD to customise learning
 for students in the EL classroom; and</p>
 </li>
 <li>
@@ -176,8 +176,8 @@ school/cluster levels.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Asynchronous Online</p>
-<p>Learning Period</p>
+<p>Asynchronous Online
+<br>Learning Period</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>4 hours</p>
