@@ -36,7 +36,7 @@ MTT/EL:</p>
 </table>
 <p>Your EL department will choose&nbsp;<strong><u>one</u></strong>&nbsp;of
 the following areas of language learning,</p>
-<ol>
+<ul data-tight="true" class="tight">
 <li>
 <p>Teaching Oracy (Primary/Secondary)</p>
 </li>
@@ -46,7 +46,7 @@ the following areas of language learning,</p>
 <li>
 <p>Teaching Writing and Representing (Primary/Secondary) &nbsp;</p>
 </li>
-</ol>
+</ul>
 <p>For any area of language learning that you select, your EL department
 members will deepen their knowledge bases to address the diverse needs
 of learners in EL classrooms. They will also consider ways of using EdTech,
