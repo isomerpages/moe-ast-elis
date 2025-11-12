@@ -44,4 +44,4 @@ Check out our ELIS e-Prospectus for the professional learning opportunities offe
 <a class="btn" href="https://elis.moe.edu.sg/files/ELIS_e_Prospectus_2026.pdf" target="\_blank">Download the ELIS e-Prospectus here.<br>
 	<span style="font-weight: normal;"></span></a>  &nbsp; &nbsp; &nbsp; &nbsp; </div>
 	
-![ELIS e-Prospectus 2025](/images/E%20Prospectus/e_Prospectus_2025_Cover_Page_Portrait.png)
+![ELIS e-Prospectus 2025](/images/EP_Cover_2026.png)
