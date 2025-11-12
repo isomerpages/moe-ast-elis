@@ -141,22 +141,18 @@ by the end of January 2026.</p>
 <p></p>
 <ul>
 <li>
-<p>Primary</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Primary)</a>
-</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading<u> </u>and Viewing (Primary)</a>
-</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Primary)</a>
+<p>Primary
+<br><a href="/elis/professional-learning/professional-learning-opportunities/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Primary)</a>
+<br><a href="/elis/professional-learning/professional-learning-opportunities/teaching-reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Reading<u> </u>and Viewing (Primary)</a>
+<br><a href="/elis/professional-learning/professional-learning-opportunities/teaching-writing-and-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Primary)</a>
 <br>
 </p>
 </li>
 <li>
-<p>Secondary</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Secondary)</a>
-</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Readin<u>g an</u>d Viewing (Secondary)</a>
-</p>
-<p><a href="/elis/professional-learning/professional-learning-opportunities/sec/teach-writing-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Secondary)</a>
+<p>Secondary
+<br><a href="/elis/professional-learning/professional-learning-opportunities/secondary/teaching-oracy/" rel="noopener noreferrer nofollow" target="_blank">Teaching Oracy (Secondary)</a>
+<br><a href="/elis/professional-learning/professional-learning-opportunities/secondary/reading-viewing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Readin<u>g an</u>d Viewing (Secondary)</a>
+<br><a href="/elis/professional-learning/professional-learning-opportunities/sec/teach-writing-representing/" rel="noopener noreferrer nofollow" target="_blank">Teaching Writing and Representing (Secondary)</a>
 </p>
 </li>
 </ul>
