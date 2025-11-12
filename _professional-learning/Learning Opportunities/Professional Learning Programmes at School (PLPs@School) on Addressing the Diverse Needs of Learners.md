@@ -1,5 +1,5 @@
 ---
-title: Professional Learning Programmes at School (PLPs@SCHOOL) on Addressing
+title: Professional Learning Programmes at School (PLPs@School) on Addressing
   the Diverse Needs of Learners
 permalink: /elis/professional-learning/professional-learning-opportunities/professional-learning-programme/
 description: ""
