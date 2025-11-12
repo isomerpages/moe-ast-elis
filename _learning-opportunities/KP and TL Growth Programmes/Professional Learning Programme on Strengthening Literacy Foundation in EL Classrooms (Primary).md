@@ -33,9 +33,9 @@ the following in the teaching, learning &amp; assessment of EL:</p>
 <p>Knowledge of Learners’ Needs</p>
 </li>
 <li>
-<p>Knowledge of:</p>
-<p>− Subject Content and &nbsp;</p>
-<p>− Pedagogy including knowledge of&nbsp;effective practices to strengthen
+<p>Knowledge of:
+<br>− Subject Content and &nbsp;
+<br>− Pedagogy including knowledge of&nbsp;effective practices to strengthen
 literacy foundation for the realisation of Pedagogical Content Knowledge</p>
 </li>
 <li>
