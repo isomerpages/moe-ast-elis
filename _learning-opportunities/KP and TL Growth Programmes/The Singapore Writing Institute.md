@@ -37,6 +37,8 @@ students’ development in writing and representing;</p>
 </li>
 <li>
 <p>design and undertake an inquiry; and</p>
+</li>
+<li>
 <p>lead others in learning about writing and representing</p>
 </li>
 </ul>
@@ -47,9 +49,9 @@ students’ development in writing and representing;</p>
 <p>a half-day orientation session to prepare you for SWI;</p>
 </li>
 <li>
-<p>a ten-day programme with a blend of:</p>
-<p>− in-person learning sessions;</p>
-<p>− synchronous online learning sessions; and</p>
+<p>a ten-day programme with a blend of:
+<br>− in-person learning sessions;
+<br>− synchronous online learning sessions; and</p>
 </li>
 <li>
 <p>four post-SWI sessions to support your application of learning from SWI.</p>
