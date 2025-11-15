@@ -75,10 +75,11 @@ a two-week period.</p>
 <p>OR</p>
 </li>
 <li>
-<p>Run 2:&nbsp; Tue, 7 Jul – Fri, 17 Jul (Term 3, Weeks 2 – 3)</p>
+<p>Run 2:&nbsp; Tue, 7 Jul – Fri, 17 Jul (Term 3, Weeks 2 – 3)*</p>
 </li>
 </ul>
-<p></p>
+<p>* Dates for Run 2 may overlap with the national examination schedule.
+Registrants will be informed of any change to the dates.</p>
 <h3>Target Participants</h3>
 <p>EL, Literature, and GP KP, TLs and Teachers (with at least 4 years of
 teaching experience) at the primary, secondary, or pre-university level</p>
