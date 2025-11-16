@@ -146,9 +146,7 @@ from their Principals</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tue, 7 Jul</p>
-<p>Mon, 13 Jul</p>
-<p>Wed, 29 Jul</p>
+<p>TBC</p>
 <p></p>
 <p>(3 full days)</p>
 <p></p>
