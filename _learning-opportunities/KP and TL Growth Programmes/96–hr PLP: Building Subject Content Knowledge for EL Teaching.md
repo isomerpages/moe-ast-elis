@@ -146,10 +146,11 @@ from their Principals</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>TBC</p>
+<p>Wed, 8&nbsp;Jul</p>
+<p>Mon, 13 Jul</p>
+<p>Wed, 29 Jul</p>
 <p></p>
 <p>(3 full days)</p>
-<p></p>
 </td>
 </tr>
 <tr>
