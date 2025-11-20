@@ -2,7 +2,6 @@
 title: Using Talk to Support Writing
 permalink: /elis/professional-learning/professional-learning-opportunities/using-talk-to-support-writing/
 description: ""
-third_nav_title: Communicating Effectively
 variant: tiptap
 ---
 <p><em>How can I use my talk to help students improve their writing in my subject? How do I use my talk to enable students to understand their writing tasks and guide their thinking during writing?</em>

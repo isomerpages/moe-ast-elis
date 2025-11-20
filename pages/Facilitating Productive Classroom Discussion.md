@@ -2,7 +2,6 @@
 title: Facilitating Productive Classroom Discussion
 permalink: /elis/professional-learning/professional-learning-opportunities/facilitating-academic-discussion/
 description: ""
-third_nav_title: Communicating Effectively
 variant: tiptap
 ---
 <p><em>What is a productive classroom discussion? How can I carry out productive discussions in my classroom?</em>
