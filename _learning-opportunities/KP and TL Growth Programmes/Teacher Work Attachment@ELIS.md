@@ -75,7 +75,7 @@ a two-week period.</p>
 <p>OR</p>
 </li>
 <li>
-<p>Run 2:&nbsp; Tue, 7 Jul – Fri, 17 Jul (Term 3, Weeks 2 – 3)*</p>
+<p>Run 2:&nbsp; Mon 20 Jul – Fri, 31 Jul (Term 3, Weeks 4 – 5)<strong>​</strong>*</p>
 </li>
 </ul>
 <p>* Dates for Run 2 may overlap with the national examination schedule.
