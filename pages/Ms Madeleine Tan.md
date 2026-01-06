@@ -2,7 +2,6 @@
 title: Ms Madeleine Tan
 permalink: /elis/about-us/team-members/el-pedagogy/ms-madeleine-tan/
 description: ""
-third_nav_title: EL Pedagogy Team
 variant: tiptap
 ---
 <p></p>
