@@ -14,26 +14,34 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest11v2.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Issue9_Thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
 </div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/July_e_Digest___Issue_10__23_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 10</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 11</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/April_e_Digest_18_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 9</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/July_e_Digest___Issue_10__23_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 10</a></strong>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p>In this issue, you will learn how teachers can strengthen their knowledge
+and teaching of English grammar. Listen to the Grammar Matters podcast
+series, which raises awareness of areas of English language use in Singapore
+that differ from standard English. View Microlearning Units (MLUs) on adverbials,
+subject-verb agreement and grammatical cohesion, and explore SLS resources
+that support lesson design on conjunctions and verb tenses.</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>In this issue, you will hear teachers discuss how they enact Inquiry through
 Dialogue (ItD) in the teaching of grammar, as well as writing, and representing.
@@ -42,6 +50,30 @@ enact ItD to develop students as creative inquirers. Read a research synthesis
 on how different types of teacher and student talk support oracy, dialogue
 and inquiry in the English Language classroom.</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 78%;" height="auto" width="100%" alt="" src="/images/Issue9_Thumbnail.png">
+</div>
+</td>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/April_e_Digest_18_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 9</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_Issue_8__Jan_2025____updated_25_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, you will learn how teachers develop empathetic communicators,
 discerning readers, and creative inquirers in EL classrooms. Find out how
@@ -51,30 +83,6 @@ View an animated lesson enactment illustrating how the EL teaching processes,
 ACoLADE, guide a teacher to support students in the co-construction of
 perspectives and knowledge.</p>
 </td>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest7cover.png">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_Issue_8__Jan_2025____updated_25_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_7.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 7</a></strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>In this Issue, &nbsp;you will listen to experts discuss the importance
 of multiliteracies for student learning, the relationship between multiliteracies
@@ -82,6 +90,30 @@ and digital literacy, and how teachers can enact the practice of multiliteracies
 in their classrooms. You can also access the ELIS e-Prospectus to explore
 more professional learning opportunities.</p>
 </td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest7cover.png">
+</div>
+</th>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_6_040123_page_0001.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_7.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 7</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_6_240725_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue,&nbsp;‘Nurturing Discerning Readers and Viewers’, you will
 read about and listen to how teachers explored various ways to help students
@@ -90,30 +122,6 @@ read and view different types of text. Learn how to engage students in
 dialogic talk as they discuss and analyse with peers their understanding
 of a text. Explore SLS resources for ideas to teach reading and viewing.</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_6_040123_page_0001.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/e_digest_issue_5_page_0001.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_6_240725_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e-digest-issue-5.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 5</a></strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, ‘Active Learning with Educational Technology’, you will
 listen to and read about teachers who use educational technology to enhance
@@ -122,6 +130,30 @@ and leverage technology to promote active student learning. Explore SLS
 resources that support English Language, Literature in English and General
 Paper learning.</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/e_digest_issue_5_page_0001.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest4_19jul__1__page_0001.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/e-digest-issue-5.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 5</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/edigest4-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 4</a></strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, ‘Teacher as Inquirer: Impacting Student Learning’, you
 will listen to and read about teachers who undertake classroom inquiry.
@@ -132,30 +164,6 @@ classroom inquiry is of value to teachers and students, and how to design
 and carry out classroom inquiry.</p>
 <p></p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest4_19jul__1__page_0001.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest3_19jul__1__pages_to_jpg_0001.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest4-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 4</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest3-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 3</a></strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>The focus of this issue, 'Learning by Inquiring', is on how teachers can
 promote active student learning by engaging students in Inquiry-Based Learning
@@ -163,6 +171,30 @@ promote active student learning by engaging students in Inquiry-Based Learning
 engage in dialogic talk, apply metacognitive learner strategies and find
 answers to their own questions.</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 84%;" height="auto" width="100%" alt="" src="/images/edigest3_19jul__1__pages_to_jpg_0001.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest2_19jul__1__page_0001.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/edigest3-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 3</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/edigest2-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 2</a></strong>
+</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, ‘Making Writing and Representing Meaningful', you can learn
 about creating meaningful writing and representing experiences for students
@@ -170,30 +202,6 @@ and how to engage them as writers.&nbsp; Explore the classroom practices
 and resources featured in this issue, which aim at helping students develop
 learner strategies for writing and representing.</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest2_19jul__1__page_0001.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/edigest1_19jul__1__page_0001.jpg">
-</div>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest2-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 2</a></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest1-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Inaugural Issue</a></strong>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, ‘Learning about our Learners’, you will learn about what
 it means to place learners at the heart of the teaching, learning and assessment
@@ -202,12 +210,36 @@ this issue to enable you to respond to variations in your students’ readiness,
 interests and learning profiles.</p>
 <p></p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 89%;" height="auto" width="100%" alt="" src="/images/edigest1_19jul__1__page_0001.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/edigest1-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Inaugural Issue</a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, ‘Let’s Talk about Talk’, you will learn about the what,
 why and how of classroom talk.&nbsp;&nbsp; You can listen to the views
 of Mr Wong Siew Hoong, Director-General of Education, on the value of talk.
 You can also find out about the classroom practices which encourage students
 to participate in exploratory talk.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
