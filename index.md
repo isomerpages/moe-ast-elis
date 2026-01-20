@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: ELIS e-Digest January 2026
+          description: "Issue 11: Grammar in Focus"
+          linktext: View now
+          url: https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf
         - title: ELIS e-Prospectus 2026
           description: Professional Learning Opportunities for 2026
           linktext: View now
@@ -26,10 +30,6 @@ sections:
           description: "Learning Path: Facilitating Productive Classroom Discussion"
           linktext: View now
           url: https://elis.moe.edu.sg/microlearning-units-mlus/
-        - title: New Animation Video
-          description: Metacognition in the EL Classroom
-          linktext: View now
-          url: https://elis.moe.edu.sg/metacognition-in-the-el-classroom/
   - infopic:
       title: Professional Learning Opportunities 2026
       description: Interested in professional learning opportunities offered to
