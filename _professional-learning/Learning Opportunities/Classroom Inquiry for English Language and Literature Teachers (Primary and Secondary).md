@@ -114,7 +114,7 @@ inquiry.</p>
 </ul>
 <h3>Registration</h3>
 <p>Please register on&nbsp;OPAL2.0&nbsp;using this code:&nbsp;<strong><a href="https://www.opal2.moe.edu.sg/app/learner/detail/course/8fc87560-84bd-42c4-b9c3-f8d1c6769821" rel="noopener noreferrer nofollow" target="_blank">CI-000024</a></strong>.
-<br>Closing date for registration: Thu, 16 Jan</p>
+<br>Closing date for registration: Thu, 19 Feb</p>
 <h3>For enquiries, please contact:</h3>
 <p>Dr Caroline Ho (Lead Specialist/EL) at <a href="mailto:caroline_ho@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">caroline_ho@moe.gov.sg</a>
 </p>
