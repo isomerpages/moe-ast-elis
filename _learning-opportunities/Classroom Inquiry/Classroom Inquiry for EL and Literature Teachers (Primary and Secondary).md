@@ -73,7 +73,7 @@ learning during the course while designing a classroom inquiry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning Session 1</p>
+<p>Synchronous Online Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;3 hours</p>
@@ -96,7 +96,7 @@ learning during the course while designing a classroom inquiry.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>In-Person Learning Session 2</p>
+<p>In-Person Learning Session</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;3 hours</p>
