@@ -63,10 +63,10 @@ the course while designing a classroom inquiry.</p>
 <p>Mode of Learning</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Duration</p>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<p>Day/Date</p>
 </th>
 </tr>
 <tr>
