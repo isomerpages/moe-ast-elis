@@ -39,6 +39,16 @@ sections:
       image: /images/Cover_Design_EP2026___widescreen.png
       alt: ELIS learning opportunities
   - infopic:
+      title: Inspiring Teacher of English Award (ITEA) 2026
+      id: infopic
+      description: The ITEA recognises teachers who have been instrumental in igniting
+        a passion for English and are effective in teaching their students to
+        communicate well.
+      button: Nominate your English teacher!
+      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
+      image: /images/MOTD_Slide_2026_for_ELIS_Website.jpg
+      alt: Image alt text
+  - infopic:
       title: ELIS RESOURCES
       button: Start learning here
       url: https://elis.moe.edu.sg/elis/resources/
