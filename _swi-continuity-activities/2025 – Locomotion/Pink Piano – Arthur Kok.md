@@ -1,12 +1,12 @@
 ---
-title: Pink Piano – Authur Kok
-permalink: /elis/learning-communities/swi-continuity-activities/locomotion/authur-kok/
+title: Pink Piano – Arthur Kok
+permalink: /elis/learning-communities/swi-continuity-activities/locomotion/arthur-kok/
 variant: tiptap
 description: ""
 third_nav_title: 2025 – Locomotion
 ---
 <p><strong><u>Pink Piano</u></strong>
-<br><em>By Authur Kok</em>
+<br><em>By Arthur Kok</em>
 </p>
 <p>At Woodleigh CC, on the second floor, you will spot a pink piano. There
 is no cordon around it, so it stands, I suspect, as an open invitation.
