@@ -99,7 +99,7 @@ literacy foundation for the realisation of Pedagogical Content Knowledge</p>
 </ol>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mon, 26 Oct</p>
+<p>Tue, 20 Oct</p>
 </td>
 </tr>
 <tr>
