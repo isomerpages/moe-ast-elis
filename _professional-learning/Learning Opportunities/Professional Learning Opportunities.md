@@ -41,7 +41,7 @@ variant: markdown
 
 Check out our ELIS e-Prospectus for the professional learning opportunities offered to English Language, Literature and English-medium subject teachers.  
 <div class="center">  
-<a class="btn" href="https://elis.moe.edu.sg/files/ELIS_e_Prospectus_2026__20_Nov_.pdf" target="\_blank">Download the ELIS e-Prospectus here.<br>
+<a class="btn" href="https://elis.moe.edu.sg/files/ELIS_e_Prospectus_2026__updated_27_Jan_.pdf" target="\_blank">Download the ELIS e-Prospectus here.<br>
 	<span style="font-weight: normal;"></span></a>  &nbsp; &nbsp; &nbsp; &nbsp; </div>
 	
 ![ELIS e-Prospectus 2025](/images/EP_Cover_2026.png)
