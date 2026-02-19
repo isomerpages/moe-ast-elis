@@ -8,7 +8,7 @@ third_nav_title: View
 ---
 <p></p>
 <p></p>
-<p>What is place of Subject Content Knowledge (SCK) in the teaching, learning
+<p>What is the place of Subject Content Knowledge (SCK) in the teaching, learning
 and assessment of English Language?</p>
 <p></p>
 <p>In this video, we invite you to inquire into the following questions:</p>
