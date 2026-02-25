@@ -2,6 +2,7 @@
 title: Resources
 permalink: /elis/resources/
 description: ""
+variant: markdown
 ---
 <div class="row flex-wrap">
 <div class="col is-6 is-12-touch">
@@ -9,7 +10,7 @@ description: ""
 		<h3 class="text-center font-bold">View</h3>
 		<div class="flex gap-5">
 		<img class="aspect-square w-33" alt="view" src="/images/watch_icon.png">
-			<p class="m-0">Explore our library of videos and microlearning units on classroom teaching and learning, support for teachers and ELIS e-Conference presentations.</p>
+			<p class="m-0">Explore our library of videos and microlearning units on classroom teaching and learning, support for teacher professional learning and ELIS e-Conference presentations.</p>
 		</div>
 	</a>
 </div>
@@ -35,7 +36,7 @@ description: ""
 		<h3 class="text-center font-bold">Teach</h3>
 		<div class="flex gap-5">
 		<img class="aspect-square w-33" alt="teach" src="/images/teach_icon.png">
-			<p class="m-0">Use our Home-Based Learning resources on the Student Learning Space for your lessons.</p>
+			<p class="m-0">Use our resources on the Student Learning Space (SLS) to teach your students learner strategies they need for learning and using the English language effectively.</p>
 		</div>
 	</a></div>
 <div class="col is-6 is-12-touch">	<a class="border" href="/elis/resources/play/">
