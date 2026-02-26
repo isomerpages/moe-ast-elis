@@ -31,3 +31,8 @@ as well as language teaching, learning and assessment. They offer perspectives t
 <img src="/images/WinEx_3__2_.png" style="width:40%">
 </a></p><center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/"><b>(Episode 4) Metacognition – Beyond Reflection at the End of English Language Lessons</b></a></center><a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
 </a>
+
+<p><a href="/elis/resources/listen/special-episode-future-of-english-in-singapore/">
+<img src="/images/WinEx_Future_of_English_in_Singapore.png" style="width:40%">
+</a></p><center><a href="/elis/resources/listen/special-episode-future-of-english-in-singapore/"><b>(Special Episode) Future of English in Singapore</b></a></center><a href="/elis/resources/listen/special-episode-future-of-english-in-singapore/">
+</a>
