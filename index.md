@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: New Video Podcast
+          description: Future of English in Singapore
+          linktext: View Now
+          url: https://elis.moe.edu.sg/elis/resources/listen/special-episode-future-of-english-in-singapore/
         - title: ELIS e-Digest January 2026
           description: "Issue 11: Grammar in Focus"
           linktext: View now
@@ -21,11 +25,6 @@ sections:
           description: Professional Learning Opportunities for 2026
           linktext: View now
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/
-        - title: New Video Podcast
-          description: Metacognition – Beyond Reflection at the End of English Language
-            Lessons
-          linktext: View Now
-          url: https://elis.moe.edu.sg/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/
         - title: New MLU
           description: "Learning Path: Facilitating Productive Classroom Discussion"
           linktext: View now
