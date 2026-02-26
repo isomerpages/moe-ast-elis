@@ -10,8 +10,9 @@ third_nav_title: Windows on Expertise
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WinEx_3__2_.png">
 </div>
+<p></p>
 <div class="iframe-wrapper">
-<iframe allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CW8nNdH4akQ?si=NSw0kGk9uQrRBSFD"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/CW8nNdH4akQ?si=NSw0kGk9uQrRBSFD"></iframe>
 </div>
 <p><a href="https://open.spotify.com/episode/68kE939WlxLLDMy7FXACFy?si=0db5708c4fa94784" rel="noopener nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
