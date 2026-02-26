@@ -23,3 +23,5 @@ diplomats, educators and effective communicators, they offer their views
 on the future of English in Singapore; what it means for our students and
 Singaporeans to be effective communicators in a technology-driven world;
 and what it takes to grow effective communicators.</p>
+<p></p>
+<p>Published 26 February 2026.</p>
