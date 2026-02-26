@@ -54,9 +54,9 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 ### What's New
 
 <center>
-<a href="/elis/resources/listen/metacognition-beyond-reflection-at-the-end-of-english-language-lessons/">
-<img src="/images/WinEx_3__2_.png" style="width:30%">
-<b>(Episode 4) Metacognition – Beyond Reflection at the End of English Language Lessons</b>
+<a href="/elis/resources/listen/special-episode-future-of-english-in-singapore/">
+<img src="/images/WinEx_Future_of_English_in_Singapore.png" style="width:30%">
+<b>(Special Episode) Future of English in Singapore</b>
 </a>
 	</center>
 
