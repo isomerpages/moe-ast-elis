@@ -14,7 +14,7 @@ third_nav_title: Windows on Expertise
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/5pLNDR4cd5Y?si=RvDZQbNgygrevEm1"></iframe>
 </div>
-<p><a href="https://open.spotify.com/episode/68kE939WlxLLDMy7FXACFy?si=0db5708c4fa94784" rel="noopener nofollow" target="_blank">Click here to listen to the podcast</a>
+<p><a href="https://open.spotify.com/episode/4MtVFWA0BWYIHARx76EapV?si=29xe6_Y2RFK-H7Ik-AqJHw" rel="noopener nofollow" target="_blank">Click here to listen to the podcast</a>
 </p>
 <p>In this special episode, Professor Tommy Koh and Professor Kishore Mahbubani
 are in conversation with Dr Tay May Yin, Principal Master Teacher, on the
