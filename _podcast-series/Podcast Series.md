@@ -56,7 +56,7 @@ Share this page by copying this short URL: http://go.gov.sg/elispodcast
 <center>
 <a href="/elis/resources/listen/special-episode-future-of-english-in-singapore/">
 <img src="/images/WinEx_Future_of_English_in_Singapore.png" style="width:30%">
-<b>(Special Episode) Future of English in Singapore</b>
+<b>(Episode 5) Future of English in Singapore</b>
 </a>
 	</center>
 
