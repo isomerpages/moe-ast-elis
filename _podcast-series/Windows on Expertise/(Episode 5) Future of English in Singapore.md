@@ -8,7 +8,7 @@ third_nav_title: Windows on Expertise
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/PODCAST/WinEx_Future_of_English_in_Singapore.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WinEx_Future_of_English_in_Singapore.png">
 </div>
 <p></p>
 <div class="iframe-wrapper">
