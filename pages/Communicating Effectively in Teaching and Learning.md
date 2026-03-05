@@ -1,0 +1,20 @@
+---
+title: Communicating Effectively in Teaching and Learning
+permalink: /elis/professional-learning/professional-learning-opportunities/communicating-effectively/
+description: ""
+variant: tiptap
+---
+<h3>Primary/Secondary</h3>
+<p>These courses are meant for EL teachers who would like to explore how
+they can develop their students’ communication skills for learning.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/facilitating-academic-discussion/" rel="noopener noreferrer nofollow" target="_blank">Facilitating Productive Classroom Discussion</a>
+</p>
+</li>
+<li>
+<p><a href="/elis/professional-learning/professional-learning-opportunities/using-talk-to-support-writing/" rel="noopener noreferrer nofollow" target="_blank">Using Talk to Support Writing</a>
+</p>
+</li>
+</ul>
+<p></p>

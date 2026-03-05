@@ -1,0 +1,7 @@
+collections:
+  preview-pages:
+    output: true
+    order:
+      - Learning Communities (Preview).md
+      - Professional Learning Communities@School, Cluster and Zone (Preview).md
+      - Literature Subject Chapter (Preview).md

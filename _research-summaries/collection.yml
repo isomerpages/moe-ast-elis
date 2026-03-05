@@ -1,0 +1,686 @@
+collections:
+  research-summaries:
+    output: true
+    order:
+      - Assessment/.keep
+      - Assessment/Assessing student writing on tablets.md
+      - Assessment/Classroom monitoring in English Language Learning.md
+      - Assessment/Communicative competence in oral language assessment.md
+      - Assessment/Creating a context for growth focussed assessment.md
+      - Assessment/Developing pupils’ success criteria in reading.md
+      - Assessment/Developing school practice in preparing students for high
+        stake examinations.md
+      - Assessment/Developing writing pedagogy in a teacher professional
+        learning community.md
+      - Assessment/Feedback to writing, assessment for teaching and learning and
+        student progress.md
+      - Assessment/Improving the effectiveness of peer feedback for learning.md
+      - Assessment/Innovating the Singapore English language curriculum through
+        lesson study.md
+      - Assessment/Instructional rubrics.md
+      - Assessment/Peer and teacher feedback on student writing.md
+      - Assessment/Praise and criticism in written feedback.md
+      - Assessment/Putting rubrics to the test.md
+      - Assessment/Reflexive writers.md
+      - Assessment/Standardized achievement tests and English language
+        learners.md
+      - Assessment/Students’ and teachers’ perceptions of students’ self
+        assessment ability.md
+      - "Assessment/Talking the talk : Oracy demands in first year university
+        assessment tasks.md"
+      - Assessment/Teacher expectations and academic outcomes.md
+      - Assessment/Teacher feedback and student revisions.md
+      - Assessment/Teachers’ expectations and classroom interactions.md
+      - "Assessment/Washback effect from examinations: What can the teacher
+        do?.md"
+      - Assessment/Writing with peer response using different types of genre
+        knowledge.md
+      - Grammar/.keep
+      - Grammar/Gendered Differences in Language.md
+      - Grammar/Academic Conversations.md
+      - Grammar/Beliefs, Knowledge & Practices of Grammar Pedagogy.md
+      - Grammar/Benefits & Concerns of Lesson Study.md
+      - Grammar/Building Literacy Communities of practice across Subject
+        Disciplines.md
+      - Grammar/Disciplinary Literacies & Functional Language Analysis.md
+      - Grammar/English language teachers’ beliefs about the teaching of
+        grammar.md
+      - Grammar/Critical Language Awareness among Business English Students.md
+      - Grammar/Learning from a Learning Study.md
+      - Grammar/Learning study as an approach to teacher development.md
+      - Grammar/Perspectives on spoken grammar.md
+      - Grammar/School Discourse.md
+      - Grammar/Teaching grammar and testing grammar in the English primary
+        school.md
+      - Grammar/The impact of embedded grammar teaching on students’ writing &
+        metalinguistic understanding.md
+      - Grammar/The role of dialogic pedagogy in teaching grammar.md
+      - Grammar/Short & long term effect of explicit grammar instruction on
+        fifth graders writing.md
+      - Grammar/The syntactic influences of Chinese and Malay on the learning of
+        English in Singapore.md
+      - Grammar/The use of contextual clues in cloze procedures by Primary Six
+        pupils in Singapore.md
+      - Grammar/Corpus based material as a teaching resource.md
+      - ICT/.keep
+      - ICT/A case study of designing technology enhanced learning in an
+        elementary school in Singapore.md
+      - ICT/A regression analysis of elementary students ICT usage vis à vis
+        access to technology in Singapore.md
+      - ICT/Assessing student writing on tablets.md
+      - "ICT/Charting a Pathway: Embedding ICT and New Literacies into the
+        Curriculum.md"
+      - ICT/Creative tensions in teaching new texts and new literacies.md
+      - ICT/Studying the Impact of implementing Multimodal Literacy.md
+      - ICT/Digital Storytelling as a power technological tool for teacher &
+        student engagement.md
+      - ICT/Integrating Out of School Literacy and School Literacy Practices.md
+      - ICT/Growing in digital technology.md
+      - ICT/ICT integration into primary school English and Mathematics.md
+      - ICT/Impact of ICT enriched learning environment on students language
+        learning.md
+      - ICT/Information literacy skills of secondary school students in
+        Singapore.md
+      - ICT/CD Roms in English Language Teaching.md
+      - ICT/Moblogging in Science Classrooms.md
+      - ICT/New literacies in two Singapore classrooms.md
+      - ICT/Multimodal Construction.md
+      - ICT/Students' multimodal construction of the work energy concept.md
+      - ICT/Talking about visual texts with students.md
+      - ICT/Teaching visual texts with multimodal analysis software.md
+      - ICT/ICT in Learning Task Design & Implementation ICT.md
+      - ICT/The role of Exploratory Talk in Classroom Search Engine Tasks.md
+      - ICT/The use of blogs for writing of online journals.md
+      - ICT/Using digital texts in classrooms.md
+      - ICT/Multimedia & Author Motivation in Storytelling.md
+      - ICT/When reading meets blogging.md
+      - ICT/Young children’s engagement with digital texts and literacies in the
+        home.md
+      - Listening and Viewing/.keep
+      - Listening and Viewing/Listening Processes of Second Language Learners.md
+      - Listening and Viewing/Toward a more dialogic discussion in the English
+        Language Classroom.md
+      - Listening and Viewing/Cooperative Learning & Listening Comprehension.md
+      - Listening and Viewing/Community Inquiry and Understanding Maths.md
+      - Listening and Viewing/Discovery listening—Improving perceptual
+        processing.md
+      - Listening and Viewing/From oracy to literacy.md
+      - Listening and Viewing/Identifying 'quality' in classroom talk.md
+      - Listening and Viewing/Insights into young learners' metacognitive
+        awareness about listening.md
+      - Listening and Viewing/Investigating Language Learner Strategies.md
+      - Listening and Viewing/Investigating Predictors of Listening
+        Comprehension.md
+      - Listening and Viewing/Learners' perceptions of listening comprehension
+        problems and language.md
+      - Listening and Viewing/Literacy for the future.md
+      - Listening and Viewing/Metacognitive instruction in listening.md
+      - Listening and Viewing/Motivation requires a meaningful task.md
+      - "Listening and Viewing/Oracy: Social facets of language learning.md"
+      - Listening and Viewing/The Impact of Classroom practices on students'
+        learning of English.md
+      - Listening and Viewing/Reading like a historian.md
+      - Listening and Viewing/Singaporean students’ awareness of listening and
+        speaking strategies.md
+      - Listening and Viewing/The Pedagogical practices of a 'Document Based
+        Lesson'.md
+      - Listening and Viewing/Student motivation and learning in Singapore.md
+      - Listening and Viewing/Using Argument as tool for Science.md
+      - Reading and Viewing/.keep
+      - Reading and Viewing/Disciplinary Literacy and Struggling Learners.md
+      - Reading and Viewing/Reading Strategies of High & Low Proficiency
+        Learners of English.md
+      - Reading and Viewing/A project for teaching critical reading and
+        writing.md
+      - Reading and Viewing/Professional Development of Teachers.md
+      - Reading and Viewing/Literacy in Content Areas.md
+      - Reading and Viewing/An Evaluation of the Kidsread Programme in
+        Singapore.md
+      - Reading and Viewing/Building a reading culture in Singapore School.md
+      - Reading and Viewing/Challenges faced by teachers of English language
+        learners and limited English proficiency students.md
+      - Reading and Viewing/Effective Feedback for Student Revision.md
+      - Reading and Viewing/Impact of Poverty on Literacy Opportunities.md
+      - "Reading and Viewing/Current Practice of Extensive Reading in Asia:
+        Teachers' Perceptions.md"
+      - Reading and Viewing/Developing and sustaining a reading habit among
+        teenagers.md
+      - Reading and Viewing/Developing pupils’ success criteria in reading.md
+      - Reading and Viewing/Digital storytelling as a powerful technological
+        tool for teacher and student engagement.md
+      - Reading and Viewing/Supporting secondary reading through functional
+        language analysis.md
+      - Reading and Viewing/Disciplinary Literacy in Elementary School.md
+      - "Reading and Viewing/Disciplinary literacy: Redefining deep
+        understanding and leadership for 21st century demands.md"
+      - Reading and Viewing/All About Disciplinary Literacy.md
+      - Reading and Viewing/Early Literacy Programme for Struggling Readers.md
+      - Reading and Viewing/Effective Reading Instruction in the Early Years of
+        School.md
+      - Reading and Viewing/Effects of a school wide reading culture on student
+        engagement.md
+      - Reading and Viewing/Effects of morphological instruction on vocabulary
+        acquisition.md
+      - Reading and Viewing/Effects of Running Records Assessment on Early
+        Literacy Achievement.md
+      - Reading and Viewing/Evaluation of the Buddy Reading programme.md
+      - Reading and Viewing/Examining booktalks on authentic classroom
+        discussion.md
+      - Reading and Viewing/Effective Reading Role Models.md
+      - Reading and Viewing/Explicit reading comprehension instruction in
+        elementary classrooms.md
+      - Reading and Viewing/Explicit teaching of argumentative writing in upper
+        primary social studies lessons.md
+      - Reading and Viewing/Factors that affect emergent literacy development
+        when engaging with electronic books.md
+      - Reading and Viewing/Disciplines in Secondary Literacy Teaching.md
+      - Reading and Viewing/Adults moving from Oracy to Literacy.md
+      - Reading and Viewing/Gendered differences and school literacy.md
+      - Reading and Viewing/Home biliteracy practices and biliteracy
+        acquisition.md
+      - Reading and Viewing/Vocabulary Acquisition among Second Language
+        Learners.md
+      - Reading and Viewing/Improving English language teaching through lesson
+        study.md
+      - Reading and Viewing/Improving reading comprehension through the use of
+        annotation.md
+      - Reading and Viewing/Increasing text comprehension of elementary students
+        with learning disabilities.md
+      - Reading and Viewing/Influencing children’s self efficacy and self
+        regulation of reading and writing.md
+      - Reading and Viewing/Information literacy skills of secondary school
+        students in Singapore.md
+      - Reading and Viewing/Innovating the Singapore English language curriculum
+        through lesson study.md
+      - Reading and Viewing/Intrinsic and extrinsic reading motivation among
+        good and poor readers.md
+      - Reading and Viewing/Investigating language learner strategies.md
+      - Reading and Viewing/Joint book reading strategies with young children
+        and caregivers.md
+      - Reading and Viewing/Learning Study as an Approach to Teacher
+        Development.md
+      - "Reading and Viewing/Lesson study: Teacher led professional development
+        in literacy instruction.md"
+      - Reading and Viewing/Levelling the Reading Gap.md
+      - Reading and Viewing/Literacy and Language in Subject Areas.md
+      - Reading and Viewing/Literacy for the Future.md
+      - Reading and Viewing/Love of Reading.md
+      - Reading and Viewing/Making Extensive Reading Even More Student Centred.md
+      - Reading and Viewing/A classroom study of literary text talks.md
+      - Reading and Viewing/Metacognitive scaffolding and monitoring on reading
+        comprehension.md
+      - Reading and Viewing/Motivating Struggling Readers and Writers.md
+      - Reading and Viewing/New Literacies in Two Singapore Classrooms.md
+      - Reading and Viewing/Critiquing newspaper commentary articles.md
+      - Reading and Viewing/Oracy and Language Learning.md
+      - Reading and Viewing/Pragmatic Awareness of Implicatures.md
+      - Reading and Viewing/Predicting Early Reading Comprehension Skills.md
+      - Reading and Viewing/The impact of classroom practices on student's
+        learning of English.md
+      - Reading and Viewing/Predictors of reading ability for bilingual
+        children.md
+      - Reading and Viewing/Literacy learning of young Chinese Children.md
+      - Reading and Viewing/Teachers' Beliefs about Reading Instruction.md
+      - Reading and Viewing/Reading and reading instruction for children.md
+      - Reading and Viewing/Reading for pleasure.md
+      - Reading and Viewing/Reading like a Historian.md
+      - Reading and Viewing/Reading Motivation.md
+      - Reading and Viewing/Reading in the Disciplines.md
+      - Reading and Viewing/Recontextualising reading, rethinking teaching.md
+      - Reading and Viewing/Nurturing Adolescent Literacy.md
+      - Reading and Viewing/Science, Language and Young Learners.md
+      - Reading and Viewing/Standardized Achievement Tests and English Language
+        Learners.md
+      - Reading and Viewing/Strategies in Reading Comprehension.md
+      - Reading and Viewing/Multimodal Construction.md
+      - Reading and Viewing/Students’ perception of reading comprehension
+        questions.md
+      - Reading and Viewing/Classroom Talk in Secondary Social Studies.md
+      - Reading and Viewing/Teacher Expectations and Academic Outcomes.md
+      - "Reading and Viewing/Teacher modelling: Its impact on an extensive
+        reading programme.md"
+      - Reading and Viewing/Teachers' Use of Questioning and Modelling
+        Comprehension Skills in Primary Classrooms.md
+      - Reading and Viewing/Teachers’ Expectations and Classroom Interactions.md
+      - Reading and Viewing/Teaching and learning argumentative reading and
+        writing.md
+      - Reading and Viewing/Reading Multiple Historical Texts.md
+      - Reading and Viewing/Teaching Narrative Comprehension Strategies to First
+        Graders.md
+      - Reading and Viewing/Teaching Visual Texts with Multimodal Analysis
+        Software.md
+      - Reading and Viewing/Text Processing Differences.md
+      - Reading and Viewing/The Pedagogical Practices of a 'Document Based
+        Lesson'.md
+      - Reading and Viewing/The Effect of Font Size on Reading Comprehension.md
+      - Reading and Viewing/The Effects of Incentives on Students’ Reading
+        Motivation.md
+      - Reading and Viewing/The Enactment of Literacy Policy in Singapore.md
+      - Reading and Viewing/ICT in Learning Task Design and Implementation.md
+      - Reading and Viewing/The Impact of Teacher's Pedagogies on English
+        Language Learners' Engagement in the Classroom.md
+      - Reading and Viewing/The Possible Cultural Consequences for Children as
+        They Learn to Read in English.md
+      - Reading and Viewing/The Relationships among Reported Strategy Use,
+        Metacognitive Awareness, and Reading Achievement.md
+      - Reading and Viewing/The Role of Out—of—School Factors in the Literacy
+        Problem.md
+      - Reading and Viewing/Student Motivation and Learning in Singapore.md
+      - Reading and Viewing/The role of vocabulary in reading comprehension.md
+      - Reading and Viewing/Using Contextual Clues Effectively in CLOZE
+        Procedures.md
+      - Reading and Viewing/Evaluating the efficacy of Matrix Ideational
+        Frameworks.md
+      - Reading and Viewing/Understanding Text Genre Preferences.md
+      - Reading and Viewing/Understanding the reading habits of children in
+        Singapore.md
+      - Reading and Viewing/Using Argument as Tool for Science Literacy.md
+      - Reading and Viewing/Corpus—based Material as a Teaching Resource.md
+      - Reading and Viewing/Using Digital Think—alouds to Develop Reading
+        Comprehension of Online Informational Texts.md
+      - Reading and Viewing/Using Question Answer Relationships (QAR) in Lower
+        Primary Grades.md
+      - Reading and Viewing/Why Disciplinary Literacy.md
+      - Reading and Viewing/When Reading Meets Blogging.md
+      - Reading and Viewing/Word Knowledge in a Theory of Reading
+        Comprehension.md
+      - Reading and Viewing/Learning Academic Vocabulary.md
+      - Reading and Viewing/Young children’s engagement with digital texts and
+        literacies in the home.md
+      - Speaking and Representing/.keep
+      - Speaking and Representing/Using drama in English Language classrooms.md
+      - Speaking and Representing/IRF exchanges in NT and SPE classes.md
+      - Speaking and Representing/Academic conversations.md
+      - Speaking and Representing/Acquiring English fluency for pupils taking
+        English as an additional language.md
+      - Speaking and Representing/Teacher and Student questioning in Maths.md
+      - Speaking and Representing/Building literacy communities of practice
+        across subject disciplines in secondary schools.md
+      - Speaking and Representing/Children's talk and reasoning.md
+      - Speaking and Representing/Classroom dialogue.md
+      - Speaking and Representing/Classroom interaction in Science.md
+      - Speaking and Representing/Toward a more Dialogic Discussion in the
+        English Language Classroom.md
+      - Speaking and Representing/Assessing Communicative Competence.md
+      - Speaking and Representing/Conflicting language ideologies &
+        contradictory language practices in Singapore.md
+      - Speaking and Representing/Creative tensions in teaching new texts and
+        new literacies.md
+      - Speaking and Representing/Community Inquiry and Understanding Maths.md
+      - Speaking and Representing/Development and validation of learner
+        attitudes and motivations for pronunciation.md
+      - Speaking and Representing/Dialogic space interactions.md
+      - Speaking and Representing/Disciplinary Literacy in Elementary School.md
+      - Speaking and Representing/Effects of Metacognitive Strategy Instruction
+        on Oral Language Task Performance and Strategy Use.md
+      - Speaking and Representing/Classroom Talk.md
+      - Speaking and Representing/Adults moving from Oracy to Literacy.md
+      - Speaking and Representing/Identifying quality in classroom talk.md
+      - Speaking and Representing/Implementing dialogic teaching in a Singapore
+        English language classroom.md
+      - Speaking and Representing/Role of teacher questioning in promoting
+        student engagement.md
+      - Speaking and Representing/Code Switching in Singaporeans.md
+      - Speaking and Representing/Lesson transitions to group work in primary
+        English classrooms.md
+      - Speaking and Representing/Literacy for the future.md
+      - Speaking and Representing/Incorporating reasoning and communications
+        into Mathematics.md
+      - Speaking and Representing/Motivation for learning standard spoken
+        English.md
+      - Speaking and Representing/Motivation requires a meaningful task.md
+      - Speaking and Representing/Oracy and literacy practices in a Japanese
+        kindergarten.md
+      - Speaking and Representing/Oracy in Mathematics.md
+      - Speaking and Representing/Oracy and Language Learning.md
+      - Speaking and Representing/Oral presentations in Maths.md
+      - Speaking and Representing/Spoken skills as empowerment.md
+      - Speaking and Representing/Perspectives on spoken grammar.md
+      - Speaking and Representing/Impact of classroom practices on student's
+        learning of English.md
+      - Speaking and Representing/Literacy learning of young Chinese children.md
+      - Speaking and Representing/Questioning and oracy.md
+      - Speaking and Representing/Reading like a historian.md
+      - Speaking and Representing/Relation between exposure to sophisticated and
+        complex language and learners’ vocabulary.md
+      - Speaking and Representing/Relations between teacher questioning and
+        student talk in one elementary ELL classroom.md
+      - "Speaking and Representing/Research into practice: Scaffolding learning
+        processes to improve speaking performance.md"
+      - Speaking and Representing/Science, language and young learners.md
+      - Speaking and Representing/Singaporean students’ awareness of listening
+        and speaking strategies.md
+      - Speaking and Representing/Advancing reasoning and communication in
+        Mathematics.md
+      - Speaking and Representing/Storytelling for children in primary schools.md
+      - Speaking and Representing/Multimodal construction.md
+      - Speaking and Representing/Classroom talks in Secondary Social Studies.md
+      - Speaking and Representing/Supporting middle school students with content
+        area academic language.md
+      - Speaking and Representing/Taking the initiative in teacher fronted
+        classroom interaction.md
+      - Speaking and Representing/Talk for promoting enjoyment and developing
+        understanding in Science.md
+      - Speaking and Representing/Oracy in University assessment task.md
+      - Speaking and Representing/Teacher Questioning in Science Classrooms.md
+      - Speaking and Representing/Teachers' use of questioning and modelling
+        comprehension skills in primary classrooms.md
+      - Speaking and Representing/The pedagogical practices of a 'Document based
+        Lesson'.md
+      - Speaking and Representing/The analysis and reconciliation of students’
+        rebuttals in argumentation activities.md
+      - Speaking and Representing/Drama and Oracy.md
+      - Speaking and Representing/The enactment of literacy policy in
+        Singapore.md
+      - Speaking and Representing/Mathematics and Language.md
+      - Speaking and Representing/The role of code switching in a communications
+        skills classroom.md
+      - Speaking and Representing/The role of exploratory talk in classroom
+        search engine tasks.md
+      - Speaking and Representing/Student Motivation and Learning in Singapore.md
+      - Speaking and Representing/The study of talk between teachers and
+        students.md
+      - Speaking and Representing/Dialogic and Authoritative discourse in
+        Science teaching.md
+      - Speaking and Representing/The use of classroom talk and multiple
+        representations in teaching Science.md
+      - Speaking and Representing/The use of the 3,2,1 technique to foster
+        students’ speaking fluency.md
+      - Speaking and Representing/The challenge of changing classroom discourse
+        patterns.md
+      - Speaking and Representing/Talk in Mathematics classes in Singapore.md
+      - Speaking and Representing/Using argument as tool for science literacy.md
+      - Speaking and Representing/Using alternative assessment strategies in
+        Mathematics instruction.md
+      - Speaking and Representing/Multimedia and author motivation in
+        storytelling.md
+      - Speaking and Representing/Why talk is important.md
+      - Speaking and Representing/Writing voiced arguments about science
+        topics.md
+      - Subject Literacy/.keep
+      - Subject Literacy/Disciplinary Literacy and Struggling Learners.md
+      - Subject Literacy/A case study of designing technology enhanced learning
+        in an elementary school in Singapore.md
+      - Subject Literacy/A project for teaching critical reading and writing.md
+      - Subject Literacy/Literacy in content areas.md
+      - Subject Literacy/Academic conversations.md
+      - Subject Literacy/Teacher and student questioning in Maths.md
+      - Subject Literacy/Writing in Archaeology.md
+      - Subject Literacy/Building literacy communities of practice across
+        subject disciplines in secondary schools.md
+      - Subject Literacy/Challenges faced by teachers of English language
+        learners and limited English proficiency students.md
+      - Subject Literacy/Literacy and Multimodal Texts.md
+      - Subject Literacy/Children's talk and reasoning.md
+      - Subject Literacy/Classroom dialogue.md
+      - Subject Literacy/Classroom interaction in science.md
+      - Subject Literacy/Assessing communicative competence.md
+      - Subject Literacy/Competencies for teachers of English learners.md
+      - Subject Literacy/Creative tensions in teaching new texts and new
+        literacies.md
+      - Subject Literacy/Community inquiry and understanding Maths.md
+      - Subject Literacy/Dialogic Interactions and Feedback.md
+      - Subject Literacy/Dialogic space interactions.md
+      - Subject Literacy/Dialogic teaching in the primary Science classroom.md
+      - Subject Literacy/Disciplinary literacies and Functional language
+        analysis.md
+      - Subject Literacy/Disciplinary Literacy in Elementary School.md
+      - Subject Literacy/Disciplinary literacy and 21st century demands.md
+      - Subject Literacy/All about disciplinary literacy.md
+      - Subject Literacy/Educating the next generation of literacy teachers.md
+      - Subject Literacy/Disciplines in Secondary literacy teaching.md
+      - Subject Literacy/Implementation of Differentiated Instruction.md
+      - Subject Literacy/Improving Teacher Questioning in Science.md
+      - Subject Literacy/Role of teacher questioning in promoting student
+        engagement.md
+      - Subject Literacy/Investigating a disciplinary approach to literacy
+        learning in a secondary school.md
+      - Subject Literacy/Investigating language learner strategies.md
+      - Subject Literacy/The role of language in learning history.md
+      - Subject Literacy/Literacy pedagogical content knowledge.md
+      - Subject Literacy/Integrating writing into Macroeconomics.md
+      - Subject Literacy/Mapping subject specific literacies.md
+      - Subject Literacy/Incorporating reasoning and communication into
+        Mathematics.md
+      - Subject Literacy/Multiliteracies, pedagogy and identities.md
+      - Subject Literacy/Oracy in Mathematics.md
+      - Subject Literacy/Oral presentation in mathematics.md
+      - Subject Literacy/Using student's Out of Classroom experiences for
+        learning.md
+      - Subject Literacy/Reading like a Historian.md
+      - Subject Literacy/Reading in the disciplines.md
+      - Subject Literacy/Recontextualising reading, rethinking teaching.md
+      - Subject Literacy/Scaffolding 4th Grade Students’ Scientific Explanation
+        Writing.md
+      - Subject Literacy/School Discourse.md
+      - Subject Literacy/Science, language and young learners.md
+      - Subject Literacy/Advanced reasoning and communication in Maths.md
+      - Subject Literacy/Multimodal construction.md
+      - Subject Literacy/Students’ and teachers’ perceptions of students’ self
+        assessment ability.md
+      - Subject Literacy/Subject specific Literacy and School Learning.md
+      - Subject Literacy/Classroom talk in secondary social studies.md
+      - Subject Literacy/Supporting middle school students with content area
+        academic language.md
+      - Subject Literacy/Talk for promoting enjoyment and developing
+        understanding in Science.md
+      - Subject Literacy/Teacher Questioning in Science Classrooms.md
+      - Subject Literacy/Teachers' use of questioning and modelling
+        comprehension skills in primary classrooms.md
+      - Subject Literacy/Teachers’ concerns about vocabulary in content literacy
+        methodology textbooks.md
+      - Subject Literacy/Reading multiple historical texts.md
+      - Subject Literacy/The pedagogical practices of a 'Document based
+        lesson'.md
+      - Subject Literacy/The analysis and reconciliation of students’ rebuttals
+        in argumentation activities.md
+      - Subject Literacy/ICT in learning task design and implementation.md
+      - Subject Literacy/Mathematics and Language.md
+      - Subject Literacy/The language of different types of explanations in
+        junior high school Science texts.md
+      - Subject Literacy/Construction of Scientific knowledge through writing.md
+      - Subject Literacy/Using Questioning to Guide Student Thinking.md
+      - Subject Literacy/The role of exploratory talk in classroom search engine
+        tasks.md
+      - Subject Literacy/The use of classroom talk and multiple representations
+        in teaching Science.md
+      - Subject Literacy/Dialogic and authoritative discourse in Science
+        teaching.md
+      - Subject Literacy/Changing classroom discourse patterns through the
+        scaffolding approach.md
+      - Subject Literacy/Talk in Mathematics classes in Singapore.md
+      - Subject Literacy/Disciplinary literacy in Engineering.md
+      - Subject Literacy/Why disciplinary literacy.md
+      - Subject Literacy/Learning academy Vocabulary.md
+      - Subject Literacy/Writing with 'Voiced' in Science.md
+      - Vocabulary/.keep
+      - Vocabulary/Using drama in English language classrooms.md
+      - Vocabulary/Gendered differences in language.md
+      - Vocabulary/Academic conversations.md
+      - Vocabulary/Effects of morphological instruction on vocabulary
+        acquisition.md
+      - Vocabulary/Vocabulary acquisition among second language leaners.md
+      - Vocabulary/Learners' use of strategies for effective vocabulary
+        learning.md
+      - Vocabulary/Predictors of reading ability for bilingual children.md
+      - Vocabulary/Relation between exposure to sophisticated and complex
+        language and learners’ vocabulary.md
+      - Vocabulary/School Discourse.md
+      - Vocabulary/Reading comprehension strategies.md
+      - Vocabulary/The Role of Vocabulary in Reading.md
+      - Vocabulary/The role of Vocabulary in reading comprehension.md
+      - Vocabulary/Using contextual clues effectively in cloze procedures.md
+      - Vocabulary/Vocabulary learning.md
+      - Vocabulary/Learning academic vocabulary.md
+      - Writing and Representing/.keep
+      - Writing and Representing/Disciplinary literacy and struggling learners.md
+      - Writing and Representing/Using drama in English language classrooms.md
+      - Writing and Representing/A functional approach to the teaching of
+        coherence in argumentative writing.md
+      - Writing and Representing/Improve writing skills in an integrated English
+        language and Literature curriculum.md
+      - Writing and Representing/A project for teaching critical reading and
+        writing.md
+      - Writing and Representing/Literacy in content areas.md
+      - Writing and Representing/Gendered differences in language.md
+      - Writing and Representing/Argumentation as core curriculum.md
+      - Writing and Representing/Argumentation in students’ online forum
+        discussion.md
+      - Writing and Representing/Writing in archaeology.md
+      - Writing and Representing/Assessing student writing on tablets.md
+      - Writing and Representing/Evaluation of explicit teaching of text
+        structure, and planning and revision strategies.md
+      - Writing and Representing/Building literacy communities of practice
+        across subject disciplines.md
+      - Writing and Representing/Effective feedback for student revision.md
+      - Writing and Representing/Impact of poverty on literacy opportunities.md
+      - Writing and Representing/Studying the impact of implementing multimodal
+        literacy.md
+      - Writing and Representing/Developing motivation to write.md
+      - Writing and Representing/Developing writing pedagogy in a teacher
+        professional learning community.md
+      - Writing and Representing/Dialogic Interactions and Feedback.md
+      - Writing and Representing/Digital storytelling as a powerful
+        technological tool for teacher and student engagement.md
+      - Writing and Representing/All about disciplinary literacy.md
+      - Writing and Representing/Effect of explicit instruction in expository
+        paragraph writing.md
+      - Writing and Representing/Efficacy of explicating teaching of writing.md
+      - Writing and Representing/Evaluative expressions in analytical
+        arguments.md
+      - Writing and Representing/Argumentative writing across the curriculum.md
+      - Writing and Representing/Feedback to writing, assessment for teaching
+        and learning and student progress.md
+      - Writing and Representing/Growth of Metacognitive Awareness in
+        Kindergarten Children through Writing.md
+      - Writing and Representing/Biliteracy differences between Singapore and
+        immigrant Chinese families.md
+      - Writing and Representing/Implementing self regulated strategy
+        development.md
+      - Writing and Representing/Improving English language teaching through
+        lesson study.md
+      - Writing and Representing/Improving the effectiveness of peer feedback
+        for learning.md
+      - Writing and Representing/Improving the writing and knowledge of emergent
+        writers.md
+      - Writing and Representing/Influencing children’s self efficacy and self
+        regulation of reading and writing.md
+      - Writing and Representing/Innovating the Singapore English language
+        curriculum through lesson study.md
+      - Writing and Representing/Instructional rubrics.md
+      - Writing and Representing/Investigating a Disciplinary Approach to
+        Literacy Learning in a Secondary School.md
+      - Writing and Representing/Investigating language learner strategies.md
+      - Writing and Representing/Critical language awareness among business
+        English students.md
+      - Writing and Representing/Learning study as an approach to teacher
+        development.md
+      - Writing and Representing/The role of language in learning history.md
+      - Writing and Representing/Literacy for the future.md
+      - Writing and Representing/Integrating writing into Macroeconomics.md
+      - Writing and Representing/Moblogging in Science Classrooms.md
+      - Writing and Representing/Motivating struggling readers and writers.md
+      - Writing and Representing/Critiquing newspaper commentary articles.md
+      - Writing and Representing/Oracy in a Japanese Kindergarten.md
+      - Writing and Representing/Oracy and Language learning.md
+      - Writing and Representing/Spoken skills as empowerment.md
+      - Writing and Representing/Peer and teacher feedback on student writing.md
+      - Writing and Representing/Picture Books as Mentor Texts for 10th Grade
+        Struggling Writers.md
+      - Writing and Representing/Praise and criticism in written feedback.md
+      - Writing and Representing/The impact of classroom practices on student's
+        learning of English.md
+      - Writing and Representing/Putting rubrics to the test.md
+      - Writing and Representing/Reflexive writers.md
+      - Writing and Representing/School Discourse.md
+      - Writing and Representing/Science, language and young learners.md
+      - Writing and Representing/Using online discussion stance support
+        strategies for writing compositions.md
+      - Writing and Representing/Self efficacy beliefs, motivation, and
+        achievement.md
+      - Writing and Representing/Strategy based writing instruction.md
+      - Writing and Representing/Students' perceptions of integrating Wiki
+        technology and peer feedback into English writing.md
+      - Writing and Representing/Classroom talk in Secondary Social Studies.md
+      - Writing and Representing/Supporting middle school students with content
+        area academic language.md
+      - Writing and Representing/Teacher feedback and student revisions.md
+      - Writing and Representing/Teaching and learning argumentative reading and
+        writing.md
+      - Writing and Representing/Teaching argumentative writing at the primary
+        level.md
+      - Writing and Representing/The pedagogical practices of a 'Document based
+        lesson'.md
+      - Writing and Representing/The development of young writer in an English
+        classroom.md
+      - Writing and Representing/Construction of scientific knowledge through
+        writing.md
+      - Writing and Representing/The relationship between use of writing
+        strategies and English proficiency.md
+      - Writing and Representing/Student motivation and learning in Singapore.md
+      - Writing and Representing/The short and long term effect of explicit
+        grammar instruction on fifth grades' writing.md
+      - Writing and Representing/The use of blogs for writing of online
+        journals.md
+      - Writing and Representing/Evaluating the efficacy of matrix ideational
+        frameworks.md
+      - Writing and Representing/Use of scoring rubrics for formative assessment
+        purposes.md
+      - Writing and Representing/Using argument as tool for Science literacy.md
+      - Writing and Representing/Corpus based material as a teaching resource.md
+      - Writing and Representing/Disciplinary literacy in Engineering.md
+      - Writing and Representing/Using alternative assessment strategies in
+        Mathematics instruction.md
+      - Writing and Representing/Writer’s workshop vs writing prompts.md
+      - Writing and Representing/Writing as literacy development for low
+        achievers.md
+      - Writing and Representing/Writing Strategies, Skills, and Knowledge.md
+      - Writing and Representing/Writing with 'Voiced' in Science.md
+      - Writing and Representing/Writing with peer response using different
+        types of genre knowledge.md
+      - Others/.keep
+      - Others/A comparison of lexical patterns in classroom discourse.md
+      - Others/Secondary students' language anxiety.md
+      - Others/An integrated approach to teaching literature in an EFL
+        classroom.md
+      - Others/Benefits and concerns of lesson study.md
+      - Others/Building teachers' creative capabilities in Singapore's English
+        classrooms.md
+      - Others/Challenges confronting teachers of English language learners.md
+      - Others/Conflicting language ideologies & contradictory practices in
+        Singaporean multilingual families.md
+      - Others/Creative tensions in teaching new texts and new literacies.md
+      - Others/Early childhood teachers' beliefs about literacy development.md
+      - Others/Educating the next generation of literacy teachers.md
+      - Others/English language teachers’ beliefs about the teaching of
+        grammar.md
+      - Others/Factors that affect emergent literacy development when engaging
+        with electronic books.md
+      - Others/Implementation of Differentiated Instruction.md
+      - Others/Implementing dialogic teaching in a Singapore English language
+        classroom.md
+      - Others/Improving English language teaching through lesson study.md
+      - Others/Improving the effectiveness of peer feedback for learning.md
+      - Others/Innovating the Singapore English Language curriculum through
+        lesson study.md
+      - Others/Learners' use of strategies for effective vocabulary learning.md
+      - Others/Learning from a Learning Study.md
+      - Others/Lesson study for teacher development in Singapore.md
+      - "Others/Lesson study: Teacher led professional development in literacy
+        instruction.md"
+      - Others/Lesson transitions to group work in primary English classrooms.md
+      - Others/Multiliteracies, pedagogy and identities.md
+      - Others/Practitioner research.md
+      - Others/Regulative discourse in Singapore primary English classrooms.md
+      - Others/Relations between teacher questioning and student talk in one
+        elementary ELL classroom.md
+      - Others/Standardized achievement tests and English language learners.md
+      - Others/Sustainability of Impact of Action Research.md
+      - Others/Teachers' use of questioning and modelling comprehension skills
+        in primary classrooms.md
+      - Others/Teachers’ work in culturally and linguistically diverse schools.md
+      - Others/The impact of embedded grammar teaching on students writing &
+        students’ metalinguistic understanding.md
+      - Others/The syntactic influences of Chinese and Malay on the learning of
+        English in Singapore.md
+      - Others/Word Knowledge in a Theory of Reading Comprehension.md
