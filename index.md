@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: New Video
+          description: Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms
+          linktext: View now
+          url: https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/
         - title: New Video Podcast
           description: Future of English in Singapore
           linktext: View Now
@@ -25,10 +29,6 @@ sections:
           description: Professional Learning Opportunities for 2026
           linktext: View now
           url: https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/
-        - title: New MLU
-          description: "Learning Path: Facilitating Productive Classroom Discussion"
-          linktext: View now
-          url: https://elis.moe.edu.sg/microlearning-units-mlus/
   - infopic:
       title: Professional Learning Opportunities 2026
       description: Interested in professional learning opportunities offered to
