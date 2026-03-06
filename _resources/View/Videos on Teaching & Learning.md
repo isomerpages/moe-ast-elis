@@ -15,49 +15,8 @@ variant: tiptap
 <tr>
 <th rowspan="1" colspan="1">
 <p>View these videos to understand and apply the principles, teaching processes
-and pedagogical</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms" src="/images/enactingmetacog.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Metacognition in the EL Classroom</div>
-<div class="isomer-card-link">View</div>
-</div>
-</a>
-</div>
-<p>appro</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms" src="/images/enactingmetacog.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Metacognition in the EL Classroom</div>
-<div class="isomer-card-link">View</div>
-</div>
-</a>
-</div>
-<p>aches</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms" src="/images/enactingmetacog.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Metacognition in the EL Classroom</div>
-<div class="isomer-card-link">View</div>
-</div>
-</a>
-</div>
-<p>to the teaching of English Language, Literature and General Paper.</p>
+and pedagogical approaches to the teaching of English Language, Literature
+and General Paper.</p>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
@@ -71,27 +30,14 @@ and pedagogical</p>
 <p></p>
 <h3>Videos on Teaching and Learning</h3>
 <p>Watch the videos individually or as a team to collaboratively inquire
-into how to more effectively meet the</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms" src="/images/enactingmetacog.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Metacognition in the EL Classroom</div>
-<div class="isomer-card-link">View</div>
-</div>
-</a>
-</div>
-<p>learning needs of students in these subjects.</p>
+into how to more effectively meet the learning needs of students in these
+subjects.</p>
 <p></p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/enacting-metacognition-as-a-pedagogical-emphasis-in-our-el-classrooms/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms" src="/images/enactingmetacog.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms</div><div class="isomer-card-link">View</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/metacog3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
 </div>
 </div>
 <div class="isomer-card-body">
