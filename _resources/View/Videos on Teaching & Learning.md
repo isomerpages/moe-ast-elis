@@ -37,7 +37,7 @@ subjects.</p>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/metacognition-in-the-el-classroom/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/metacog3.png">
+<img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Metacognition_Animation_Thumbnail.png">
 </div>
 </div>
 <div class="isomer-card-body">
