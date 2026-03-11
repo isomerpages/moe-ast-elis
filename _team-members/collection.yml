@@ -2,12 +2,12 @@ collections:
   team-members:
     output: true
     order:
-      - Management Team/Ms Anna Mathew.md
       - Management Team/.keep
       - Management Team/Management Team.md
       - Management Team/Ms Phyllis Chua.md
       - Management Team/Dr Tay May Yin.md
       - Management Team/Mr Cedric Leong.md
+      - Management Team/Ms Anna Mathew.md
       - EL Pedagogy Team/.keep
       - EL Pedagogy Team/EL Pedagogy Team.md
       - EL Pedagogy Team/Dr Tay May Yin.md
