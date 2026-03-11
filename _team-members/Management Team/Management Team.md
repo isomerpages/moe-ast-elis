@@ -7,7 +7,7 @@ third_nav_title: Management Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ELIS Management Team" src="/images/Team Members/ELIS_Management_Collage_High_Resolution.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/exco_2026.png">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/ms-phyllis-chua/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Phyllis Chua" src="/images/Screenshot_2024_03_01_at_3_12_34_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Phyllis Chua</div><div class="isomer-card-description">Academy Principal, ELIS</div><div class="isomer-card-link">About Phyllis</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/dr-tay-may-yin/" class="isomer-card">
@@ -21,6 +21,20 @@ third_nav_title: Management Team
 <div class="isomer-card-description">Principal Master Teacher</div>
 <div class="isomer-card-link">About May Yin</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/mr-cedric-leong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Mr Cedric Leong" src="/images/cedric (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Cedric Leong</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About Cedric</div></div></a>
+</a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/mr-cedric-leong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cedric" src="/images/Cedric_ELIS_Website_Formal_Portraits.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Cedric Leong</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About Cedric</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/ms-anna-mathew/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="anna" src="/images/Team Members/Anna_For_website_small.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Anna Mathew</div>
+<div class="isomer-card-description">Deputy Director (Pedagogy)</div>
+<div class="isomer-card-link">About Anna</div>
+</div>
+</a>
 </div>
 <p></p>
