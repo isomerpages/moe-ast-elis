@@ -10,7 +10,8 @@ third_nav_title: EL Pedagogy Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sabina.png">
 </div>
 <h4>Ms Sabina Binte Jumari</h4>
-<p>Academy Officer (Pedagogy)</p>
+<p><strong>Academy Officer/ Pedagogy</strong>
+</p>
 <p>Prior to joining AST, Sabina has been with a secondary school for about
 6 years, where she taught English and Social Studies, and coordinated the
 upper secondary curriculum.</p>
