@@ -24,10 +24,10 @@ third_nav_title: Management Team
 </a>
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/mr-cedric-leong/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="cedric" src="/images/Cedric_ELIS_Website_Formal_Portraits.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mr Cedric Leong</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About Cedric</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/management-team/ms-anna-mathew/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="anna" src="/images/44.png">
+<img style="width: 100%" height="auto" width="100%" alt="anna" src="/images/Team Members/Anna_For_website_small.png">
 </div>
 </div>
 <div class="isomer-card-body">
