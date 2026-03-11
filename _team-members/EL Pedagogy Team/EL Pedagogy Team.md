@@ -7,7 +7,7 @@ third_nav_title: EL Pedagogy Team
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Ped_Team_2025_high_def.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ped_2026.png">
 </div>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/dr-tay-may-yin/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Dr Tay May Yin" src="/images/may yin (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Tay May Yin</div><div class="isomer-card-description">Principal Master Teacher</div><div class="isomer-card-link">About May Yin</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/mr-cedric-leong/" class="isomer-card">
@@ -21,7 +21,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Principal Master Teacher</div>
 <div class="isomer-card-link">About Cedric</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/dr-audrey-koh/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Audrey" src="/images/audrey (new).png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Dr Audrey Koh</div><div class="isomer-card-description">Deputy Director (Pedagogy)</div><div class="isomer-card-link">About Audrey</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-anna-mathew/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Anna" src="/images/Team Members/Anna_For_website_small.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Anna Mathew</div><div class="isomer-card-description">Deputy Director (Pedagogy)</div><div class="isomer-card-link">About Anna</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mr-lester-ian-lim/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -106,20 +106,32 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-link">About Solastri</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mdm-nithiyah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nithiyah" src="/images/34_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mdm Nithiyah</div><div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Nithiyah</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/ms-cindy-woon/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/ms-pearlyn_lim/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Cindy Woon" src="/images/Team Members/cindy_landing page.png">
+<img style="width: 100%" height="auto" width="100%" alt="Pearlyn" src="/images/Team Members/Pearlyn_for_website.png">
 </div>
 </div>
 <div class="isomer-card-body">
-<div class="isomer-card-title">Ms Cindy Woon</div>
-<div class="isomer-card-description">Academy Officer (Pedagogy)</div>
-<div class="isomer-card-link">About Cindy</div>
+<div class="isomer-card-title">Ms Pearlyn Lim</div>
+<div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div>
+<div class="isomer-card-link">About Pearlyn</div>
 </div>
 </a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-denise-marie-fernandez/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Denise" src="/images/35_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Denise Marie Fernandez</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Denise</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-cindy-woon/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Cindy" src="/images/Team Members/cindy_landing page.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Cindy Woon</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Cindy</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-denise-marie-fernandez/" class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Denise" src="/images/35_1.png">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">Ms Denise Marie Fernandez</div>
+<div class="isomer-card-description">Academy Officer (Pedagogy)</div>
+<div class="isomer-card-link">About Denise</div>
+</div>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-ynez-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ynez" src="/images/Screenshot_2024_03_01_at_2_07_33_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Ynez Lim</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Ynez</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mr-kenneth-yee/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -131,18 +143,6 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Academy Officer (Pedagogy)</div>
 <div class="isomer-card-link">About Kenneth</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-lee-hui-elizabeth/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Elizabeth" src="/images/Screenshot_2024_03_01_at_1_59_59_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Lee Hui, Elizabeth</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Elizabeth</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-madeleine-tan/" class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Madeleine" src="/images/Screenshot_2024_03_01_at_2_01_59_PM.png">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Ms Madeleine Tan</div>
-<div class="isomer-card-description">Academy Officer (Pedagogy)</div>
-<div class="isomer-card-link">About Madeleine</div>
-</div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-ynez-lim/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Ynez" src="/images/Screenshot_2024_03_01_at_2_07_33_PM.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Ynez Lim</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Ynez</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-sabina_binte_jumari/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sabina" src="/images/Team Members/Sabina_for_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Sabina Binte Jumari </div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Sabina</div></div></a>
 </div>
 <p></p>
