@@ -11,7 +11,8 @@ third_nav_title: EL Pedagogy Team
 </div>
 <p></p>
 <h4>Ms Pearlyn Lim Puay Leng</h4>
-<p>Senior Academy Officer (Pedagogy)</p>
+<p><strong>Senior Academy Officer/ Pedagogy</strong>
+</p>
 <p>Before joining AST, Pearlyn Lim gained substantial experience across media
 and education. Her professional background includes serving for 11 years
 as a Head of Department, following her valuable tenure as a Curriculum
