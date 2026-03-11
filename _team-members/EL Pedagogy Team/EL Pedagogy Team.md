@@ -143,6 +143,6 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-description">Academy Officer (Pedagogy)</div>
 <div class="isomer-card-link">About Kenneth</div>
 </div>
-</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/elis/about-us/team-members/el-pedagogy/ms-sabina_binte_jumari/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sabina" src="/images/Team Members/Sabina_for_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Sabina Binte Jumari </div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Sabina</div></div></a>
+</a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-sabina-binte-jumari/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Sabina" src="/images/Team Members/Sabina_for_website.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Ms Sabina Binte Jumari</div><div class="isomer-card-description">Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Sabina</div></div></a>
 </div>
 <p></p>
