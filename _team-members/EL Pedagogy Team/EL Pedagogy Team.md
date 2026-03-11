@@ -106,7 +106,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-card-link">About Solastri</div>
 </div>
 </a><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/mdm-nithiyah/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Nithiyah" src="/images/34_1.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Mdm Nithiyah</div><div class="isomer-card-description">Senior Academy Officer (Pedagogy)</div><div class="isomer-card-link">About Nithiyah</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/ms-pearlyn_lim/" class="isomer-card">
+<a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/team-members/el-pedagogy-team/ms-pearlyn-lim/" class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="Pearlyn" src="/images/Team Members/Pearlyn_for_website.png">
