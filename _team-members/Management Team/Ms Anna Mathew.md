@@ -10,7 +10,8 @@ third_nav_title: Management Team
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Team Members/Anna_For_website.png">
 </div>
 <h4>Ms Anna Mathew</h4>
-<p>Deputy Director (Pedagogy)</p>
+<p><strong>Deputy Director/ Pedagogy</strong>
+</p>
 <p>Anna brings over 15 years of educational experience to her role at AST.
 Prior to joining ELIS, she served as the Vice-Principal of a primary school
 for five years. Before that, she headed the English department at a secondary
