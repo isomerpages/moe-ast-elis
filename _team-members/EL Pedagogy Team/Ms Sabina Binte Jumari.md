@@ -9,7 +9,7 @@ third_nav_title: EL Pedagogy Team
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Sabina.png">
 </div>
-<h4>Ms Sabina Binte Jumari</h4>
+<h4>Ms Khairiyah Sabina</h4>
 <p><strong>Academy Officer/ Pedagogy</strong>
 </p>
 <p>Prior to joining AST, Sabina has been with a secondary school for about
