@@ -1,6 +1,6 @@
 ---
 title: Ms Khairiyah Sabina
-permalink: /team-members/el-pedagogy-team/ms-sabina-binte-jumari/
+permalink: /team-members/el-pedagogy-team/ms-khairiyah-sabina/
 variant: tiptap
 description: ""
 third_nav_title: EL Pedagogy Team
