@@ -60,8 +60,7 @@ Teachers (AST) on 25 February 2025.</p>
 Ms Joann David and Ms Nur Fatin Nordin, with advice from Ms Diyanah Binte
 Mohamad Yunos (LH/EL), focused on co-constructing success criteria and
 peer feedback to help students develop content for situational writing.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>The inquiry focus</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -106,18 +105,9 @@ feedback, enabling them to make more purposeful revisions to their writing.</p>
 </table>
 <p><strong>Ready to lead your own inquiry? Take the next steps:</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Enrol:</strong>&nbsp;Join our <em><a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers</a></em>
-<a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a>course.</p>
-</li>
-<li>
-<p><strong>Collaborate:</strong>&nbsp;Partner with ELIS Specialists to carry
-out your inquiry plan.</p>
-</li>
-<li>
-<p><strong>Contribute:</strong>&nbsp;Engage with like-minded teachers in
-our Classroom Inquiry Special Interest Group.</p>
-</li>
-</ol>
+<p><strong>1. Enrol:&nbsp;</strong>Join our <a href="https://elis.moe.edu.sg/elis/professional-learning/professional-learning-opportunities/courses-on-classroom-inquiry/" rel="noopener nofollow" target="_blank">Classroom Inquiry for English Language and Literature Teachers </a>course.</p>
+<p><strong>2. Collaborate:</strong>&nbsp;Partner with ELIS Specialists to
+carry out your inquiry plan.</p>
+<p><strong>3. Contribute:</strong>&nbsp;Engage with like-minded teachers
+in our Classroom Inquiry Special Interest Group.</p>
 <p></p>
