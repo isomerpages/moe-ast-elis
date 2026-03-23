@@ -8,7 +8,7 @@ variant: tiptap
 <p>TWA@ELIS is a Leader Growth Programme designed to grow English Language
 Lead Teachers (LTs/EL) and Senior Teachers (STs/EL) professionally with
 guidance from Principal Master Teachers (PMTTs), &amp; Master Teachers
-(MTTs) and Senior Specialists (SSs) of English Language in ELIS</p>
+(MTTs) and Senior Specialists (SSs) of English Language in ELIS.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -60,6 +60,12 @@ in their EL department/cluster/zone.</p>
 <p>Participants can also look forward to time and space for consolidating
 their knowledge and reflecting critically on their practice as EL teachers
 and Teacher Leaders.</p>
+<p>Read the participant's reflections on her learning from the 2026 TWA@ELIS
+programme.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/TWA_2026_Reflections_Shanti.png">
+</div>
+<p></p>
 <p>Read the participants’ reflections on their learning from the 2025 TWA@ELIS
 programme.</p>
 <div class="isomer-image-wrapper">
