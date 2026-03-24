@@ -6,7 +6,53 @@ description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
 <p></p>
-<p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG', 15 November 2023</strong>
+<p><strong>Highlights from the Classroom Inquiry SIG Celebrating Learning Session, 20 February 2025.</strong>
+</p>
+<p>You can find out more about the session <a href="https://elis.moe.edu.sg/classroom-inquiry-sig-celebrating-learning-session/" rel="noopener nofollow" target="_blank">here</a>.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Wellington.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Paya_Lebar_MGS.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Manjusri.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NUS_High.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Classroom Inquiry in Schools</strong>
+</p>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-pasir-ris-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pasir_Ris_Sec_Cover_Page.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Pasir Ris Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+</div>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-canberra-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Canberra_Cover.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Canberra Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+</div>
+<p></p>
+<p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG, 15 November 2023</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
