@@ -23,7 +23,7 @@ a metacognitive approach to writing development.</p>
 </p>
 <p>With teacher guidance, students moved away from passively accepting GenAI
 suggestions and began critically evaluating the feedback to make informed
-decisions for their writing. Over time, they learnt to engage Gen AI more
+decisions for their writing. Over time, they learnt to engage GenAI more
 strategically. They also learnt to critique GenAI feedback thus resulting
 in stronger student voice and agency.</p>
 <p><strong>Contributing to the fraternity</strong>
