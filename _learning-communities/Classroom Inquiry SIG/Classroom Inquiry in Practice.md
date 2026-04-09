@@ -40,7 +40,7 @@ third_nav_title: Classroom Inquiry SIG
 </tr>
 </tbody>
 </table>
-<p>You can find out more about the session here.</p>
+<p>You can find out more about the session <a href="https://elis.moe.edu.sg/elis-celebrating-classroom-inquiry/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Highlights from the Classroom Inquiry SIG Celebrating Learning Session, 20 February 2025.</strong>
 </p>
