@@ -5,6 +5,42 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
+<p><strong>Highlights from Celebrating Classroom Inquiry, 2 April 2026</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Celebrating_Learning__1_.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrating_Learning__2_.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrating_Learning.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>You can find out more about the session here.</p>
 <p></p>
 <p><strong>Highlights from the Classroom Inquiry SIG Celebrating Learning Session, 20 February 2025.</strong>
 </p>
