@@ -5,6 +5,42 @@ variant: tiptap
 description: ""
 third_nav_title: Classroom Inquiry SIG
 ---
+<p><strong>Highlights from Celebrating Classroom Inquiry, 2 April 2026</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Celebrating_Learning__1_.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrating_Learning__2_.png">
+</div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Celebrating_Learning.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>You can find out more about the session <a href="https://elis.moe.edu.sg/elis-celebrating-classroom-inquiry/" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p><strong>Highlights from the Classroom Inquiry SIG Celebrating Learning Session, 20 February 2025.</strong>
 </p>
@@ -47,9 +83,9 @@ third_nav_title: Classroom Inquiry SIG
 </table>
 <p><strong>Classroom Inquiry in Schools</strong>
 </p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-pasir-ris-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Pasir_Ris_Sec_Cover_Page.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Pasir Ris Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-pasir-ris-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Celebrating_Learning_Pasir_Ris_Sec__1_.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Pasir Ris Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
 </div>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-canberra-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Canberra_Cover.png"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Canberra Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://elis.moe.edu.sg/classroom-inquiry-of-canberra-secondary-school-teachers/" class="isomer-card"><div class="isomer-card-image"><div class="isomer-image-wrapper"><img style="width: 100%" height="auto" width="100%" alt="Placeholder image" src="/images/Celebrating_Learning.jpg"></div></div><div class="isomer-card-body"><div class="isomer-card-title">Classroom Inquiry of Canberra Secondary School Teachers</div><div class="isomer-card-link">Learn about their inquiry</div></div></a>
 </div>
 <p></p>
 <p><strong>Highlights from 'Celebrating Learning with the Classroom Inquiry SIG, 15 November 2023</strong>
