@@ -13,27 +13,30 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigestissue12thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest11v2.png">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
-</div>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 11</a></strong>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/July_e_Digest___Issue_10__23_June_.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 10</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 11</u></a></strong>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 <td rowspan="1" colspan="1">
 <p>In this issue, you will learn how teachers can strengthen their knowledge
 and teaching of English grammar. Listen to the Grammar Matters podcast
@@ -42,6 +45,27 @@ that differ from standard English. View Microlearning Units (MLUs) on adverbials
 subject-verb agreement and grammatical cohesion, and explore SLS resources
 that support lesson design on conjunctions and verb tenses.</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><a href="https://elis.moe.edu.sg/files/July_e_Digest___Issue_10__23_June_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 10</u></a></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>In this issue, you will hear teachers discuss how they enact Inquiry through
 Dialogue (ItD) in the teaching of grammar, as well as writing, and representing.
@@ -49,6 +73,9 @@ View microlearning units (MLUs) that illustrate how teachers can plan and
 enact ItD to develop students as creative inquirers. Read a research synthesis
 on how different types of teacher and student talk support oracy, dialogue
 and inquiry in the English Language classroom.</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
