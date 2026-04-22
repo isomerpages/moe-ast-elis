@@ -13,6 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
+        - title: ELIS e-Digest April 2026
+          description: "Issue 12: Building Metacognitive Ability in the EL Classroom"
+          linktext: View now
+          url: https://elis.moe.edu.sg/files/April_2026_e_Digest___Issue_12.pdf
         - title: New Video
           description: Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms
           linktext: View now
@@ -21,10 +25,6 @@ sections:
           description: Future of English in Singapore
           linktext: View Now
           url: https://elis.moe.edu.sg/elis/resources/listen/special-episode-future-of-english-in-singapore/
-        - title: ELIS e-Digest January 2026
-          description: "Issue 11: Grammar in Focus"
-          linktext: View now
-          url: https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf
         - title: ELIS e-Prospectus 2026
           description: Professional Learning Opportunities for 2026
           linktext: View now
@@ -37,16 +37,6 @@ sections:
       url: /elis/professional-learning/professional-learning-opportunities/
       image: /images/Cover_Design_EP2026___widescreen.png
       alt: ELIS learning opportunities
-  - infopic:
-      title: Inspiring Teacher of English Award (ITEA) 2026
-      id: infopic
-      description: The ITEA recognises teachers who have been instrumental in igniting
-        a passion for English and are effective in teaching their students to
-        communicate well.
-      button: Nominate your English teacher!
-      url: https://www.languagecouncils.sg/goodenglish/inspiring-teacher-of-english-award/nomination-information
-      image: /images/MOTD_Slide_2026_for_ELIS_Website.jpg
-      alt: Image alt text
   - infopic:
       title: ELIS RESOURCES
       button: Start learning here
