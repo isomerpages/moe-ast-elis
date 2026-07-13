@@ -29,7 +29,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/April_2026_e_Digest___Issue_12.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 12</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_12___Apr_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 12</u></a></strong>
 </p>
 </td>
 </tr>
@@ -66,11 +66,11 @@ out featured books from Read@Academy.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/updated_16_Jan___Jan_2026_e_Digest_Issue_11.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 11</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_11___Jan_2026.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 11</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/July_e_Digest___Issue_10__23_June_.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 10</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_10___Jul_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 10</u></a></strong>
 </p>
 </td>
 </tr>
@@ -106,11 +106,11 @@ and inquiry in the English Language classroom.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/April_e_Digest_18_Aug.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 9</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_9___Apr_2025.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 9</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_Issue_8__Jan_2025____updated_25_Sep.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/eELIS_e_Digest_Issue_8___Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
 </p>
 </td>
 </tr>
@@ -146,11 +146,11 @@ more professional learning opportunities.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e_Digest_7.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 7</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_7___Jul_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 7</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_6_240725_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_6___Jan_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 6</a></strong>
 </p>
 </td>
 </tr>
@@ -186,11 +186,11 @@ Paper learning.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/e-digest-issue-5.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 5</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_5___Jul_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 5</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest4-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 4</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_4___Jan_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 4</a></strong>
 </p>
 </td>
 </tr>
@@ -226,11 +226,11 @@ answers to their own questions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest3-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 3</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_3___Jul_2022.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 3</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest2-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 2</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_2___Jan_2022.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Issue 2</u></a></strong>
 </p>
 </td>
 </tr>
@@ -263,7 +263,7 @@ interests and learning profiles.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/edigest1-19jul.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Inaugural Issue</u></a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_1___Jul_2021.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>ELIS e-Digest Inaugural Issue</u></a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
