@@ -16,7 +16,7 @@ sections:
         - title: ELIS e-Digest July 2026
           description: Check out our latest podcast episode and MLUs!
           linktext: View now
-          url: https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_13___Jul_2026.pdf
+          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New Video
           description: Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms
           linktext: View now
