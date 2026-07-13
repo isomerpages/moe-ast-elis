@@ -13,10 +13,10 @@ sections:
       subtitle: NEWS & HIGHLIGHTS
       id: textcards
       cards:
-        - title: ELIS e-Digest April 2026
-          description: "Issue 12: Building Metacognitive Ability in the EL Classroom"
+        - title: ELIS e-Digest July 2026
+          description: Check out our latest podcast episode and MLUs!
           linktext: View now
-          url: https://elis.moe.edu.sg/files/April_2026_e_Digest___Issue_12.pdf
+          url: https://elis.moe.edu.sg/elis/resources/read/elis-e-digest-new/
         - title: New Video
           description: Enacting Metacognition as a Pedagogical Emphasis in Our EL Classrooms
           linktext: View now
