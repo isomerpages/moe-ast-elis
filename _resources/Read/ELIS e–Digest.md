@@ -14,7 +14,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/issue 13 thumbnail.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/issue 13 thumbnail.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -125,7 +125,7 @@ ACoLADE, guide a teacher to support students in the co-construction of
 perspectives and knowledge.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>In this Issue, &nbsp;you will listen to experts discuss the importance
+<p>In this issue, &nbsp;you will listen to experts discuss the importance
 of multiliteracies for student learning, the relationship between multiliteracies
 and digital literacy, and how teachers can enact the practice of multiliteracies
 in their classrooms. You can also access the ELIS e-Prospectus to explore
