@@ -60,7 +60,7 @@ out featured books from Read@Academy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/issue_10_thumbnail.png">
 </div>
 </td>
 </tr>
@@ -100,7 +100,7 @@ and inquiry in the English Language classroom.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 97%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_20_at_5_34_25_PM.png">
 </div>
 </td>
 </tr>
@@ -110,7 +110,7 @@ and inquiry in the English Language classroom.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong><a href="https://elis.moe.edu.sg/files/eELIS_e_Digest_Issue_8___Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
+<p><strong><a href="https://elis.moe.edu.sg/files/ELIS_e_Digest_Issue_8___Jan_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">ELIS e-Digest Issue 8</a></strong>
 </p>
 </td>
 </tr>
@@ -140,7 +140,7 @@ more professional learning opportunities.</p>
 </td>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_6_040123_page_0001.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/ELIS_e_Digest_6_040123_page_0001.jpg">
 </div>
 </th>
 </tr>
@@ -180,7 +180,7 @@ Paper learning.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest4_19jul__1__page_0001.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/edigest4_19jul__1__page_0001.jpg">
 </div>
 </td>
 </tr>
@@ -220,7 +220,7 @@ answers to their own questions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/edigest2_19jul__1__page_0001.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/edigest2_19jul__1__page_0001.jpg">
 </div>
 </td>
 </tr>
